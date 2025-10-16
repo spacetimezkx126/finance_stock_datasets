@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 5,
+        "Importance": 6,
+        "Impact": 5,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 4,
+        "Specificity": 7,
+        "Sector_Spread": 6,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "@pbmech if you get a chance I'd like to know what you think of CNCE. Has partnerships with AVNR, JAZZ, and CELG. MC only 286M.",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 4,
+            "Specificity": 7,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 2
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 4,
+        "Importance": 6,
+        "Impact": 5,
+        "Duration": 3,
+        "Virality": 2,
+        "Source_Score": 5,
+        "Specificity": 8,
+        "Sector_Spread": 4,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @LucioQuincioC: Jackelin Farias deberias explicar donde estan los U_S_D 14 millardos que le dieron para la limpieza del rio Guaire #cecaf",
+            "Correlation": 3,
+            "Sentiment": 2,
+            "Importance": 4,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 2,
+            "Source_Score": 5,
+            "Specificity": 7,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Dentro del país somos cortoplacistas / pesimistas y compramos U_S_D. Desde afuera, son optimistas a  largo plazo y compran títulos y acciones.",
+            "Correlation": 5,
+            "Sentiment": 4,
+            "Importance": 5,
+            "Impact": 3,
+            "Duration": 4,
+            "Virality": 2,
+            "Source_Score": 6,
+            "Specificity": 5,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "ExxonMobil gana juicio aPdvsa en el CIADI,tienen que pagar U_S_D 1,200 millones mas intereses a tasa 5% libo",
+            "Correlation": 9,
+            "Sentiment": 3,
+            "Importance": 8,
+            "Impact": 7,
+            "Duration": 5,
+            "Virality": 3,
+            "Source_Score": 7,
+            "Specificity": 9,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "RT @LucioQuincioC: Cae precio del crudo venezolano a U_S_D/bbl a 85",
+            "Correlation": 8,
+            "Sentiment": 2,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 6,
+            "Specificity": 8,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT @LucioQuincioC: Vuelve a caer los precios del crudo.....Octubre rojo y salao.... WTI U_S_D 91,01 bbl Brent U_S_D 93,76 bbl  y el de Pdvsa pa…",
+            "Correlation": 8,
+            "Sentiment": 3,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 2,
+            "Virality": 2,
+            "Source_Score": 6,
+            "Specificity": 8,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT @LucioQuincioC: Comenzo Octubre Rojo, Bs/_S_ 100,78 y crudo de Pdvsa a U_S_D 85, bb_l  Precio del oro a 1,214.80♫♫ palo abajo en rodada...♫",
+            "Correlation": 7,
+            "Sentiment": 3,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 2,
+            "Virality": 2,
+            "Source_Score": 6,
+            "Specificity": 7,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT @LucioQuincioC: Octubre Rojo y salao, hoy el CIADI sentencia a Pdvsa pagar U_S_D 1,200 millones + interes al 5% tasa libor a ExxonMobil..p…",
+            "Correlation": 9,
+            "Sentiment": 3,
+            "Importance": 8,
+            "Impact": 7,
+            "Duration": 5,
+            "Virality": 3,
+            "Source_Score": 7,
+            "Specificity": 9,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 2
+        }
+    ]
+}

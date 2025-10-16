@@ -1,0 +1,120 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 6,
+        "Importance": 7,
+        "Impact": 7,
+        "Duration": 5,
+        "Virality": 6,
+        "Source_Score": 8,
+        "Specificity": 7,
+        "Sector_Spread": 4,
+        "Tech_Mentions": 3
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @megtirrell: $MRK in talks to acquire $CBST for ~$102/shr cash, equity value $8B+, deal could come Monday: sources -- STORY:",
+            "Correlation": 10,
+            "Sentiment": 7,
+            "Importance": 9,
+            "Impact": 8,
+            "Duration": 6,
+            "Virality": 7,
+            "Source_Score": 9,
+            "Specificity": 9,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "#Stock Market Reports you need on  $MRK $MCRS $VLY $BWP Try this",
+            "Correlation": 4,
+            "Sentiment": 5,
+            "Importance": 3,
+            "Impact": 3,
+            "Duration": 4,
+            "Virality": 5,
+            "Source_Score": 6,
+            "Specificity": 3,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT @megtirrell: (2/2) $MRK $8B+ deal for $CBST not finalized, talks could still break up -- @CNBC story TK",
+            "Correlation": 9,
+            "Sentiment": 5,
+            "Importance": 8,
+            "Impact": 7,
+            "Duration": 5,
+            "Virality": 6,
+            "Source_Score": 8,
+            "Specificity": 8,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "RT @PhilKobi: Hey $MRK or whoever buys $CBST, when you're making the deal, just pay-off the $TSRX CVRs then so bookeeping is cleaner for ev...",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 5,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "Many puzzled by $CBST m&a talks w/ $MRK - Infectious Disease landscape changing, price hikes are looming which means more revenue",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 4,
+            "Source_Score": 6,
+            "Specificity": 7,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT @megtirrell: BREAKING UPDATE: $MRK in talks to buy $CBST for ~$102/share cash, more than $8B equity value. Deal could come as soon as Mo...",
+            "Correlation": 10,
+            "Sentiment": 7,
+            "Importance": 9,
+            "Impact": 8,
+            "Duration": 6,
+            "Virality": 8,
+            "Source_Score": 9,
+            "Specificity": 9,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "RT @AndyBiotech: $MRK Anti-PD1 Pembrolizumab in Hodgkin Lymphoma: 66% ORR; 21% CR",
+            "Correlation": 7,
+            "Sentiment": 8,
+            "Importance": 6,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 5,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 9
+        },
+        {
+            "News_content": "Couple of Stocks you should Watch $MRK $HE $PETM $NUAN Visit",
+            "Correlation": 3,
+            "Sentiment": 5,
+            "Importance": 3,
+            "Impact": 3,
+            "Duration": 3,
+            "Virality": 4,
+            "Source_Score": 5,
+            "Specificity": 2,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 1
+        }
+    ]
+}

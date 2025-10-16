@@ -1,0 +1,68 @@
+{
+    "Overall_score": {
+        "Correlation": 5,
+        "Sentiment": 6,
+        "Importance": 7,
+        "Impact": 6,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 6,
+        "Specificity": 5,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "Index and ETF trading course",
+            "Correlation": 3,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 1,
+            "Source_Score": 5,
+            "Specificity": 3,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "@KymLang agree. still too many eager beavers. look @ how quickly that dip is bought.",
+            "Correlation": 4,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 4,
+            "Specificity": 4,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Buffett spills Exxon stake: big hedge funds less bullish on U.S.",
+            "Correlation": 9,
+            "Sentiment": 3,
+            "Importance": 9,
+            "Impact": 8,
+            "Duration": 7,
+            "Virality": 6,
+            "Source_Score": 9,
+            "Specificity": 8,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "Eyeing for tomorrow",
+            "Correlation": 2,
+            "Sentiment": 5,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 1,
+            "Source_Score": 3,
+            "Specificity": 2,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 1
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 6,
+        "Importance": 7,
+        "Impact": 5,
+        "Duration": 6,
+        "Virality": 3,
+        "Source_Score": 9,
+        "Specificity": 8,
+        "Sector_Spread": 4,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "BHP Wall Street Transcript Interview with Wayne Heili, President and CEO of Ur-Energy (URG)",
+            "Correlation": 10,
+            "Sentiment": 7,
+            "Importance": 8,
+            "Impact": 6,
+            "Duration": 7,
+            "Virality": 3,
+            "Source_Score": 9,
+            "Specificity": 9,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "BHP The Tortoise Series: Part 19 - Potash Corp. Fertilizer Or Just A Load Of Manure?",
+            "Correlation": 6,
+            "Sentiment": 5,
+            "Importance": 6,
+            "Impact": 4,
+            "Duration": 5,
+            "Virality": 3,
+            "Source_Score": 9,
+            "Specificity": 7,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 3
+        }
+    ]
+}

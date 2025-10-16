@@ -1,0 +1,94 @@
+{
+    "Overall_score": {
+        "Correlation": 6,
+        "Sentiment": 5,
+        "Importance": 7,
+        "Impact": 4,
+        "Duration": 8,
+        "Virality": 3,
+        "Source_Score": 7,
+        "Specificity": 6,
+        "Sector_Spread": 5,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "MRK Merck & Co., Inc. Market Cap",
+            "Correlation": 9,
+            "Sentiment": 5,
+            "Importance": 6,
+            "Impact": 3,
+            "Duration": 7,
+            "Virality": 2,
+            "Source_Score": 8,
+            "Specificity": 10,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "XIV Materials Select Sector SPDR Day High",
+            "Correlation": 8,
+            "Sentiment": 4,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 6,
+            "Virality": 3,
+            "Source_Score": 7,
+            "Specificity": 9,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "CVE Cenovus Energy Inc. Day High",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 6,
+            "Impact": 4,
+            "Duration": 7,
+            "Virality": 2,
+            "Source_Score": 7,
+            "Specificity": 9,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "BAC Bank Of America Corp. EOD Data",
+            "Correlation": 9,
+            "Sentiment": 5,
+            "Importance": 7,
+            "Impact": 3,
+            "Duration": 8,
+            "Virality": 2,
+            "Source_Score": 8,
+            "Specificity": 10,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "JPM Kinder Morgan Inc. E.P.S.",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 7,
+            "Impact": 4,
+            "Duration": 8,
+            "Virality": 3,
+            "Source_Score": 8,
+            "Specificity": 9,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "GE spins up a new $1 billion business to promote energy efficiency",
+            "Correlation": 7,
+            "Sentiment": 8,
+            "Importance": 9,
+            "Impact": 6,
+            "Duration": 9,
+            "Virality": 5,
+            "Source_Score": 7,
+            "Specificity": 7,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 3
+        }
+    ]
+}

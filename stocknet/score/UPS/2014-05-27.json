@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 9,
+        "Importance": 7,
+        "Impact": 6,
+        "Duration": 5,
+        "Virality": 4,
+        "Source_Score": 10,
+        "Specificity": 7,
+        "Sector_Spread": 3,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "UPS - Bull market not to be trifled with: Cramer #stock #stocks #stockaction",
+            "Correlation": 8,
+            "Sentiment": 9,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 4,
+            "Source_Score": 10,
+            "Specificity": 7,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "UPS Cramer: Meager advance appears mighty bullish",
+            "Correlation": 8,
+            "Sentiment": 9,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 4,
+            "Source_Score": 10,
+            "Specificity": 7,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 2
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 6,
+        "Importance": 5,
+        "Impact": 6,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 5,
+        "Specificity": 6,
+        "Sector_Spread": 7,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "Right now MO is number 225 for the largest percentage gain out of 250 stocks. $MO MO is up +3.77% in the last",
+            "Correlation": 9,
+            "Sentiment": 8,
+            "Importance": 4,
+            "Impact": 7,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 5,
+            "Specificity": 8,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "UNH Unitedhealth Group, Inc. Financials $UNH $MO $EA $LVS #UNH #nasdaq #financeUSO United States Oil Fund, LP…",
+            "Correlation": 6,
+            "Sentiment": 5,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 5,
+            "Virality": 4,
+            "Source_Score": 5,
+            "Specificity": 5,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 3
+        }
+    ]
+}

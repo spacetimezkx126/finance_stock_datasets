@@ -1,0 +1,120 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 4,
+        "Importance": 6,
+        "Impact": 5,
+        "Duration": 3,
+        "Virality": 5,
+        "Source_Score": 6,
+        "Specificity": 7,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 3
+    },
+    "Each_item": [
+        {
+            "News_content": "$PCLN only down 45 points. Only 45",
+            "Correlation": 9,
+            "Sentiment": 2,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 4,
+            "Source_Score": 5,
+            "Specificity": 8,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Priceline (PCLN): 3 Reasons Why The Crowd Is Wrong About Priceline $AAPL $NFLX $PCLN",
+            "Correlation": 8,
+            "Sentiment": 7,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 6,
+            "Source_Score": 7,
+            "Specificity": 9,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "RT @SeekingAlpha: A Bubble Burst? Momentum Names Are Falling Hard $BIIB $CRM $FB $GILD $GMCR $GOOG $IBB $NFLX $PCLN",
+            "Correlation": 7,
+            "Sentiment": 3,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 7,
+            "Source_Score": 8,
+            "Specificity": 6,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT @OptionsHawk: See if these Internet names can bounce - late day size buyers in $YELP May 90 calls and $PCLN July $1,500 calls, both been",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 5,
+            "Source_Score": 6,
+            "Specificity": 8,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 7
+        },
+        {
+            "News_content": "$PCLN - Stock Market Dispenses Another Warning Shot - #stock #stocks #stockaction",
+            "Correlation": 8,
+            "Sentiment": 3,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 4,
+            "Source_Score": 5,
+            "Specificity": 7,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "Grabbed a $PCLN $1200 weekly put",
+            "Correlation": 9,
+            "Sentiment": 6,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 3,
+            "Source_Score": 4,
+            "Specificity": 9,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 5
+        },
+        {
+            "News_content": "Stops hit today: $GOOG (10/18/13): +$56/share $ISRG (2/12) -1R $NFLX (1/23) Flat $PCLN (2/21) -1R $REGN (2/11) Flat",
+            "Correlation": 7,
+            "Sentiment": 4,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 4,
+            "Source_Score": 6,
+            "Specificity": 8,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "RT @chessNwine: NEW POST: Stock #Market Recap 03/24/14 {Video} $BIS $EEM $FB $GOOG $IBB $LNKD $NFLX $PCLN $QQQ $SBU",
+            "Correlation": 6,
+            "Sentiment": 5,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 6,
+            "Source_Score": 7,
+            "Specificity": 5,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        }
+    ]
+}

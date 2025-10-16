@@ -1,0 +1,81 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 6,
+        "Importance": 5,
+        "Impact": 4,
+        "Duration": 3,
+        "Virality": 2,
+        "Source_Score": 8,
+        "Specificity": 6,
+        "Sector_Spread": 5,
+        "Tech_Mentions": 3
+    },
+    "Each_item": [
+        {
+            "News_content": "SMN: Analysts at Morgan Stanley upgraded SMN citing strong earnings potential and market expansion.",
+            "Correlation": 10,
+            "Sentiment": 9,
+            "Importance": 8,
+            "Impact": 7,
+            "Duration": 6,
+            "Virality": 4,
+            "Source_Score": 9,
+            "Specificity": 10,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "CSCO: Cisco reported better-than-expected Q3 results, driving shares up in after-hours trading.",
+            "Correlation": 9,
+            "Sentiment": 8,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 6,
+            "Source_Score": 8,
+            "Specificity": 9,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 5
+        },
+        {
+            "News_content": "XLV: The healthcare ETF saw inflows as investors bet on post-pandemic recovery trends.",
+            "Correlation": 8,
+            "Sentiment": 7,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 7,
+            "Specificity": 7,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RGR: Sturm, Ruger & Co. announced a new rifle model, expected to boost sales in the hunting segment.",
+            "Correlation": 7,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 6,
+            "Specificity": 8,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "CAT: Caterpillar Inc. warned of supply chain disruptions affecting production timelines.",
+            "Correlation": 9,
+            "Sentiment": 4,
+            "Importance": 7,
+            "Impact": 5,
+            "Duration": 6,
+            "Virality": 5,
+            "Source_Score": 8,
+            "Specificity": 8,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 3
+        }
+    ]
+}

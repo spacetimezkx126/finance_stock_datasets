@@ -1,0 +1,107 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 6,
+        "Importance": 6,
+        "Impact": 5,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 7,
+        "Specificity": 6,
+        "Sector_Spread": 5,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "6 Solid Reasons You Should Invest in U.S. Stocks Now",
+            "Correlation": 9,
+            "Sentiment": 8,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 4,
+            "Source_Score": 8,
+            "Specificity": 7,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "XLI Industrials Select Sector SPDR Day Low",
+            "Correlation": 8,
+            "Sentiment": 3,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 2,
+            "Virality": 2,
+            "Source_Score": 7,
+            "Specificity": 9,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 8
+        },
+        {
+            "News_content": "GE General Electric Co. Ex-Div Date",
+            "Correlation": 10,
+            "Sentiment": 5,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 3,
+            "Virality": 1,
+            "Source_Score": 9,
+            "Specificity": 10,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Iran Plans ‘Any Cost’ Oil Output Rise to Defend Market Share",
+            "Correlation": 6,
+            "Sentiment": 4,
+            "Importance": 8,
+            "Impact": 7,
+            "Duration": 6,
+            "Virality": 5,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "AAPL Apple, Inc. Investor Opinions",
+            "Correlation": 9,
+            "Sentiment": 6,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 8,
+            "Specificity": 8,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "NEW POST: Here’s Why Energy Will Outperform Going Forward",
+            "Correlation": 7,
+            "Sentiment": 7,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 6,
+            "Virality": 4,
+            "Source_Score": 6,
+            "Specificity": 6,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "Pipeline worry sparks Alaska plea for Obama to open oil spigots",
+            "Correlation": 6,
+            "Sentiment": 5,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 3,
+            "Source_Score": 7,
+            "Specificity": 7,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        }
+    ]
+}

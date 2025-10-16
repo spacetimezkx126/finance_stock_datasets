@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 3,
+        "Importance": 5,
+        "Impact": 6,
+        "Duration": 2,
+        "Virality": 1,
+        "Source_Score": 7,
+        "Specificity": 9,
+        "Sector_Spread": 3,
+        "Tech_Mentions": 4
+    },
+    "Each_item": [
+        {
+            "News_content": "NVS JAN 87.5 PUT, Activity on Offer, Price @ 1.20, Quantity 1K BLOCK",
+            "Correlation": 8,
+            "Sentiment": 3,
+            "Importance": 5,
+            "Impact": 6,
+            "Duration": 2,
+            "Virality": 1,
+            "Source_Score": 7,
+            "Specificity": 9,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 4
+        }
+    ]
+}

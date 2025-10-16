@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 7,
+        "Importance": 6,
+        "Impact": 5,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 5,
+        "Specificity": 7,
+        "Sector_Spread": 4,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "Is anyone excited about DIS and Q going into earnings? I am! Bought a DIS AUG option 87.5 to go along with my shares. Have Q options.",
+            "Correlation": 8,
+            "Sentiment": 7,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 5,
+            "Specificity": 7,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 2
+        }
+    ]
+}

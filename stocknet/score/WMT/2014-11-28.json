@@ -1,0 +1,81 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 6,
+        "Importance": 5,
+        "Impact": 6,
+        "Duration": 4,
+        "Virality": 5,
+        "Source_Score": 6,
+        "Specificity": 6,
+        "Sector_Spread": 3,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "Apparently Black Friday is going well at Walmart? $WMT",
+            "Correlation": 8,
+            "Sentiment": 7,
+            "Importance": 4,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 6,
+            "Source_Score": 5,
+            "Specificity": 6,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Investing News 11/28 $CVX $WMT $AMZN $DAL $LUV $JBLU #CVX #WMT #AMZN #DAL #LUV #JBLU",
+            "Correlation": 5,
+            "Sentiment": 5,
+            "Importance": 3,
+            "Impact": 4,
+            "Duration": 2,
+            "Virality": 4,
+            "Source_Score": 6,
+            "Specificity": 4,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Insider Selling: Wal-Mart Stores EVP Sells 7,000 Shares of Stock $WMT",
+            "Correlation": 9,
+            "Sentiment": 3,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 5,
+            "Source_Score": 7,
+            "Specificity": 9,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "$WMT is up by more that 3%. Thanks to Black Friday. Now can we ask for Pink Monday, Yellow Tuesday, Blue Wednesday, and Red Thursday?",
+            "Correlation": 8,
+            "Sentiment": 7,
+            "Importance": 5,
+            "Impact": 6,
+            "Duration": 3,
+            "Virality": 6,
+            "Source_Score": 5,
+            "Specificity": 7,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "Walmart feels like a flea market this year, tons of new merchandising tactics #BlackFriday $WMT",
+            "Correlation": 7,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 5,
+            "Source_Score": 6,
+            "Specificity": 6,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        }
+    ]
+}

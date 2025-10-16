@@ -1,0 +1,55 @@
+{
+    "Overall_score": {
+        "Correlation": 9,
+        "Sentiment": 8,
+        "Importance": 7,
+        "Impact": 6,
+        "Duration": 5,
+        "Virality": 3,
+        "Source_Score": 8,
+        "Specificity": 9,
+        "Sector_Spread": 4,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "AMGN 137.88 | PT boost to 150 (from 135) -RBC Capital",
+            "Correlation": 10,
+            "Sentiment": 8,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 2,
+            "Source_Score": 9,
+            "Specificity": 10,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "FB Company Info Also See: SOL T AMGN SWKS",
+            "Correlation": 3,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 1,
+            "Source_Score": 6,
+            "Specificity": 4,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "Amgen upgraded by Zacks to outperform. 165.00 PT. AMGN",
+            "Correlation": 9,
+            "Sentiment": 9,
+            "Importance": 8,
+            "Impact": 7,
+            "Duration": 5,
+            "Virality": 3,
+            "Source_Score": 8,
+            "Specificity": 9,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 2
+        }
+    ]
+}

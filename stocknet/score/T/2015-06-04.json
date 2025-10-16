@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 2,
+        "Sentiment": 6,
+        "Importance": 3,
+        "Impact": 4,
+        "Duration": 5,
+        "Virality": 7,
+        "Source_Score": 5,
+        "Specificity": 3,
+        "Sector_Spread": 1,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @INSOMNIACMILLZ: LIVING FAST on the way for everyone who has been asking me for a project",
+            "Correlation": 2,
+            "Sentiment": 6,
+            "Importance": 3,
+            "Impact": 4,
+            "Duration": 5,
+            "Virality": 7,
+            "Source_Score": 5,
+            "Specificity": 3,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 3,
+        "Duration": 2,
+        "Virality": 6,
+        "Source_Score": 8,
+        "Specificity": 5,
+        "Sector_Spread": 9,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "JNJ Johnson & Johnson Company Info $JNJ $MYL $APC $XLK #JNJ #investing #stock",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 6,
+            "Source_Score": 8,
+            "Specificity": 6,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "JNJ Johnson & Johnson Bid $JNJ $JBLU $DSLV $AMAT #JNJ #stockmarket #pennystocks",
+            "Correlation": 6,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 6,
+            "Source_Score": 8,
+            "Specificity": 4,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 1
+        }
+    ]
+}

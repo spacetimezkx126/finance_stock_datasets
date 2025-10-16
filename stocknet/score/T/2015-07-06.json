@@ -1,0 +1,68 @@
+{
+    "Overall_score": {
+        "Correlation": 2,
+        "Sentiment": 3,
+        "Importance": 1,
+        "Impact": 1,
+        "Duration": 1,
+        "Virality": 4,
+        "Source_Score": 2,
+        "Specificity": 2,
+        "Sector_Spread": 1,
+        "Tech_Mentions": 0
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @Filth800: @40ozBREAKFAST BIG BODY BREAKFA$T",
+            "Correlation": 2,
+            "Sentiment": 5,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 3,
+            "Source_Score": 2,
+            "Specificity": 2,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "54 Degrees T",
+            "Correlation": 1,
+            "Sentiment": 1,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 2,
+            "Source_Score": 1,
+            "Specificity": 1,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "@ElGuero661 EA$T $IDE GÜERO,  All you have to do is follow some quick and simple steps to get 1.000.000 VC NBA2k, check link on my bio",
+            "Correlation": 2,
+            "Sentiment": 3,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 5,
+            "Source_Score": 2,
+            "Specificity": 3,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "$T$F M WTH  L",
+            "Correlation": 2,
+            "Sentiment": 2,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 3,
+            "Source_Score": 2,
+            "Specificity": 2,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        }
+    ]
+}

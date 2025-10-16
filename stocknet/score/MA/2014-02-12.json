@@ -1,0 +1,81 @@
+{
+    "Overall_score": {
+        "Correlation": 4,
+        "Sentiment": 5,
+        "Importance": 3,
+        "Impact": 3,
+        "Duration": 2,
+        "Virality": 6,
+        "Source_Score": 4,
+        "Specificity": 5,
+        "Sector_Spread": 3,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @WillardPollica: Trades produce 100% same day Free trial sign up now",
+            "Correlation": 7,
+            "Sentiment": 8,
+            "Importance": 2,
+            "Impact": 3,
+            "Duration": 1,
+            "Virality": 7,
+            "Source_Score": 4,
+            "Specificity": 6,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "$MA Twins enter credit card swipe fee dispute after opting out of class-action deal",
+            "Correlation": 9,
+            "Sentiment": 4,
+            "Importance": 8,
+            "Impact": 7,
+            "Duration": 5,
+            "Virality": 3,
+            "Source_Score": 6,
+            "Specificity": 9,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT @TomSuccop: Account doubling system Sign up for Free 1 week Alerts",
+            "Correlation": 6,
+            "Sentiment": 7,
+            "Importance": 2,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 6,
+            "Source_Score": 3,
+            "Specificity": 5,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Account doubling system Try FREE for 1 week",
+            "Correlation": 5,
+            "Sentiment": 6,
+            "Importance": 1,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 5,
+            "Source_Score": 3,
+            "Specificity": 4,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "@J_Mollz next week all of us are chillin let's get #2$MA$HED back",
+            "Correlation": 3,
+            "Sentiment": 5,
+            "Importance": 2,
+            "Impact": 2,
+            "Duration": 2,
+            "Virality": 4,
+            "Source_Score": 2,
+            "Specificity": 3,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        }
+    ]
+}

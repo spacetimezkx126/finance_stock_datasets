@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 6,
+        "Impact": 4,
+        "Duration": 3,
+        "Virality": 2,
+        "Source_Score": 8,
+        "Specificity": 7,
+        "Sector_Spread": 5,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "National Grid Transco, PLC (NYSE:NGG) announces a new initiative to integrate renewable energy sources into its grid infrastructure. This move is expected to enhance the company's long-term sustainability and operational efficiency.",
+            "Correlation": 7,
+            "Sentiment": 5,
+            "Importance": 6,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 8,
+            "Specificity": 7,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 1
+        }
+    ]
+}

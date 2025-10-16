@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 5,
+        "Importance": 6,
+        "Impact": 7,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 5,
+        "Specificity": 7,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "BIND BIND Therapeutics Inc. News http://t.co/SdIOYi0w8K $BIND $TUR $REGN $MA #BIND #stockmarket #tradeideas",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 6,
+            "Impact": 7,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 5,
+            "Specificity": 7,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 2
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 8,
+        "Importance": 6,
+        "Impact": 9,
+        "Duration": 5,
+        "Virality": 4,
+        "Source_Score": 5,
+        "Specificity": 8,
+        "Sector_Spread": 3,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @China_Stocks: Monthly Return of Equity Issuer on Movements in Securities (12/2015)",
+            "Correlation": 7,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 8,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 5,
+            "Specificity": 7,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "$AQXP +1819%. SEE TRACK RECORD & SUBSCRIBE",
+            "Correlation": 8,
+            "Sentiment": 10,
+            "Importance": 7,
+            "Impact": 10,
+            "Duration": 6,
+            "Virality": 5,
+            "Source_Score": 5,
+            "Specificity": 9,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 3
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 6,
+        "Importance": 4,
+        "Impact": 5,
+        "Duration": 3,
+        "Virality": 2,
+        "Source_Score": 7,
+        "Specificity": 9,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "Stephanie_Link: RichtofenV so many better industrials to own: UTX, IR, SWK, LEA, HDS on any pullback.",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 4,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 7,
+            "Specificity": 9,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        }
+    ]
+}

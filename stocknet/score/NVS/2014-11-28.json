@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 7,
+        "Importance": 6,
+        "Impact": 5,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 7,
+        "Specificity": 9,
+        "Sector_Spread": 5,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "http://t.co/N9tGkCzulX dDT : $NVS Novartis says LCZ696 granted accelerated assessment in E http://t.co/il1oOEihLX",
+            "Correlation": 9,
+            "Sentiment": 8,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 4,
+            "Source_Score": 7,
+            "Specificity": 10,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "$NVS NVS up +1.32% percent Today $NVS Stock High is at 96.87 and the Low 96.43 with current volume of 160,337.",
+            "Correlation": 7,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 3
+        }
+    ]
+}

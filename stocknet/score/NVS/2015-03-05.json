@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 9,
+        "Sentiment": 7,
+        "Importance": 8,
+        "Impact": 8,
+        "Duration": 6,
+        "Virality": 5,
+        "Source_Score": 7,
+        "Specificity": 9,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 3
+    },
+    "Each_item": [
+        {
+            "News_content": "AbbVie Buys Pharmacyclics: The Story Is Likely Far From Over $JNJ $NVS $RHHBY $ABBV $PCYC",
+            "Correlation": 9,
+            "Sentiment": 7,
+            "Importance": 8,
+            "Impact": 8,
+            "Duration": 6,
+            "Virality": 5,
+            "Source_Score": 7,
+            "Specificity": 9,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 3
+        }
+    ]
+}

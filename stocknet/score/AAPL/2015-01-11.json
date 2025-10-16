@@ -1,0 +1,55 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 3,
+        "Duration": 2,
+        "Virality": 6,
+        "Source_Score": 5,
+        "Specificity": 8,
+        "Sector_Spread": 9,
+        "Tech_Mentions": 3
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @philstockworld: How to Make $100,000 In 12 Months Trading #Stocks, #Options and #Futures -- $F $AAPL $INTC",
+            "Correlation": 8,
+            "Sentiment": 7,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 7,
+            "Source_Score": 6,
+            "Specificity": 7,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 4
+        },
+        {
+            "News_content": "my VIDEO Stock Mkt Analysis Wk Ending 1/9/15 $SPY $QQQ $IWM $BABA $AAPL $NFLX $TSLA $TLT $XLF $IBB",
+            "Correlation": 7,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 6,
+            "Source_Score": 4,
+            "Specificity": 9,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "leahanne: $AAPL Apple Inc (AAPL) 112.01 +0.12 (+0.11%)",
+            "Correlation": 9,
+            "Sentiment": 3,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 5,
+            "Source_Score": 5,
+            "Specificity": 10,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 1
+        }
+    ]
+}

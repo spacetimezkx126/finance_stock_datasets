@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 8,
+        "Importance": 5,
+        "Impact": 4,
+        "Duration": 3,
+        "Virality": 2,
+        "Source_Score": 6,
+        "Specificity": 5,
+        "Sector_Spread": 2,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "Interesting how GE writes through Seeking Alpha for IR to cover pertinent topics for holders. I like it!",
+            "Correlation": 7,
+            "Sentiment": 8,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 6,
+            "Specificity": 5,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        }
+    ]
+}

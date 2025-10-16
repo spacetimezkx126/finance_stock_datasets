@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 3,
+        "Duration": 2,
+        "Virality": 6,
+        "Source_Score": 5,
+        "Specificity": 4,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "Having 10 different news tabs open for AAPL DB BP? We give you 1",
+            "Correlation": 7,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 6,
+            "Source_Score": 5,
+            "Specificity": 4,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "kthirum1 : PortfolioBuzz : Having 10 different news tabs open for AAPL DB BP? We give y",
+            "Correlation": 6,
+            "Sentiment": 4,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 5,
+            "Source_Score": 4,
+            "Specificity": 3,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        }
+    ]
+}

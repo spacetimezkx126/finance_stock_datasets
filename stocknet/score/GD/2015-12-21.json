@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 9,
+        "Sentiment": 7,
+        "Importance": 6,
+        "Impact": 5,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 8,
+        "Specificity": 9,
+        "Sector_Spread": 2,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "Drexel Hamilton upgrades General Dynamics Corporation GD to Buy from Hold",
+            "Correlation": 9,
+            "Sentiment": 7,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 8,
+            "Specificity": 9,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        }
+    ]
+}

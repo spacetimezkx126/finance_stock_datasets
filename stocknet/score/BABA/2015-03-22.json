@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 3,
+        "Sentiment": 7,
+        "Importance": 4,
+        "Impact": 5,
+        "Duration": 3,
+        "Virality": 2,
+        "Source_Score": 5,
+        "Specificity": 6,
+        "Sector_Spread": 2,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "You may want to get your hands on $BABA shares",
+            "Correlation": 3,
+            "Sentiment": 7,
+            "Importance": 4,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 5,
+            "Specificity": 6,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        }
+    ]
+}

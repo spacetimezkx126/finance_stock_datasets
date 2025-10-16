@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 3,
+        "Sentiment": 4,
+        "Importance": 2,
+        "Impact": 3,
+        "Duration": 1,
+        "Virality": 5,
+        "Source_Score": 2,
+        "Specificity": 3,
+        "Sector_Spread": 1,
+        "Tech_Mentions": 0
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @wijzijnajax020: WERELDGOAL beslist Ajax-P$V #ajax #afca #vak410 #wzawzdb #cbs #ajapsv @AjaxFanzoneNL #cruijff #kampioen #wijzijnajax",
+            "Correlation": 3,
+            "Sentiment": 6,
+            "Importance": 2,
+            "Impact": 3,
+            "Duration": 1,
+            "Virality": 7,
+            "Source_Score": 2,
+            "Specificity": 4,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "MATCHDAY: AJAX-P$V\n\nRT=als je denkt dat we 3 punten pakken..!! Niet eens een punt",
+            "Correlation": 3,
+            "Sentiment": 2,
+            "Importance": 2,
+            "Impact": 3,
+            "Duration": 1,
+            "Virality": 3,
+            "Source_Score": 2,
+            "Specificity": 2,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 4,
+        "Importance": 6,
+        "Impact": 5,
+        "Duration": 3,
+        "Virality": 2,
+        "Source_Score": 8,
+        "Specificity": 7,
+        "Sector_Spread": 9,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "VRX.TO Vanguard Total World Stock ETF E.P.S. http://t.co/ct2NvfvvNE $VRX.TO $BHP $TPAC $TCS.IN #VRX.TO #stocks #stocksVT WMI Holdings…",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 2,
+            "Source_Score": 8,
+            "Specificity": 8,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "BK Bank of New York Mellon Corp 52Wk Low http://t.co/WzQHWcwqhr $BK $ADXS $UGAZ $BHP #BK #invest #tradeideas",
+            "Correlation": 6,
+            "Sentiment": 3,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 2,
+            "Virality": 2,
+            "Source_Score": 8,
+            "Specificity": 6,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        }
+    ]
+}

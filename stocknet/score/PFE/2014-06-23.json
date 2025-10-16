@@ -1,0 +1,68 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 6,
+        "Importance": 5,
+        "Impact": 6,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 5,
+        "Specificity": 6,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @philstockworld: 5 Trade Ideas that can Make 566-1,700% on a Dow Rally: $DIA $NKE $WMT $PFE #options #hedging #BeTheHouse",
+            "Correlation": 9,
+            "Sentiment": 8,
+            "Importance": 4,
+            "Impact": 7,
+            "Duration": 3,
+            "Virality": 5,
+            "Source_Score": 6,
+            "Specificity": 8,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "$PFE - AbbVie’s Gonzalez Seeks Quick Diversity With Shire Offer",
+            "Correlation": 8,
+            "Sentiment": 7,
+            "Importance": 6,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 2,
+            "Source_Score": 7,
+            "Specificity": 9,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "@matthewherper @AndyBiotech opinions on long term viability of Juno and $KITE compared to big pharma $NVS now $GSK $PFE in T cell therapy",
+            "Correlation": 7,
+            "Sentiment": 5,
+            "Importance": 7,
+            "Impact": 5,
+            "Duration": 6,
+            "Virality": 3,
+            "Source_Score": 8,
+            "Specificity": 7,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "$YHOO Day Low Also See: $PFE $ABX $RSH $WFC",
+            "Correlation": 6,
+            "Sentiment": 4,
+            "Importance": 3,
+            "Impact": 4,
+            "Duration": 2,
+            "Virality": 1,
+            "Source_Score": 4,
+            "Specificity": 5,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        }
+    ]
+}

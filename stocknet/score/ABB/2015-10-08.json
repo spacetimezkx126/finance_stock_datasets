@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 6,
+        "Importance": 5,
+        "Impact": 6,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 7,
+        "Specificity": 8,
+        "Sector_Spread": 6,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "XLB Energy Select Sector SPDR Summary http://t.co/UVSARlwd5l $XLB $ABB $CMG $TLT #XLB #tradeideas #tradeideas",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 3,
+            "Source_Score": 6,
+            "Specificity": 7,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "$ABB: ABB Receives $22.00 Consensus Price Target from Brokerages … http://t.co/F6S3iDzGTq",
+            "Correlation": 6,
+            "Sentiment": 7,
+            "Importance": 6,
+            "Impact": 7,
+            "Duration": 5,
+            "Virality": 3,
+            "Source_Score": 8,
+            "Specificity": 9,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 3
+        }
+    ]
+}

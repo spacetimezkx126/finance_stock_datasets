@@ -1,0 +1,55 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 6,
+        "Importance": 5,
+        "Impact": 4,
+        "Duration": 3,
+        "Virality": 2,
+        "Source_Score": 8,
+        "Specificity": 6,
+        "Sector_Spread": 5,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "AHFD Active Health Foods, Inc. announces a new line of organic supplements targeting the growing health-conscious consumer base.",
+            "Correlation": 9,
+            "Sentiment": 8,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Facebook, Inc. is under scrutiny for potential privacy violations in its latest app update, sparking concerns among users and regulators.",
+            "Correlation": 8,
+            "Sentiment": 3,
+            "Importance": 9,
+            "Impact": 7,
+            "Duration": 6,
+            "Virality": 9,
+            "Source_Score": 9,
+            "Specificity": 7,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "Walgreens Boots Alliance, Inc. reports a slight increase in Q3 earnings, driven by stronger-than-expected pharmacy sales.",
+            "Correlation": 7,
+            "Sentiment": 7,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 8,
+            "Specificity": 6,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 1
+        }
+    ]
+}

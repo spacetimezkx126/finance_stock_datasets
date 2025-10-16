@@ -1,0 +1,81 @@
+{
+    "Overall_score": {
+        "Correlation": 6,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 3,
+        "Duration": 2,
+        "Virality": 7,
+        "Source_Score": 5,
+        "Specificity": 6,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "http://t.co/hsQSac1T47 Don't blindly copy Tim Sykes or SuperTrades! $OIL $VMW $USD $TWM $ANIP $DRI $SCO #stocks $FB",
+            "Correlation": 7,
+            "Sentiment": 4,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 2,
+            "Virality": 6,
+            "Source_Score": 5,
+            "Specificity": 7,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "http://t.co/OM9hSaF2XI 2 stocks trading books: 1 entertaining and 1 educational! Both awesome! $E $CCE $ISRG $PBCT #stocks $FB",
+            "Correlation": 6,
+            "Sentiment": 8,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 3,
+            "Virality": 5,
+            "Source_Score": 6,
+            "Specificity": 6,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "You can poke whoever you want on Facebook, except Mark Zuckerberg. $FB",
+            "Correlation": 5,
+            "Sentiment": 5,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 2,
+            "Virality": 8,
+            "Source_Score": 4,
+            "Specificity": 5,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Really want to make money trading next year? try Super_trades alerts! http://t.co/1CdMJC9G96 $FB $TWTR $LIVE $SAEX $ZPIN",
+            "Correlation": 7,
+            "Sentiment": 6,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 7,
+            "Source_Score": 5,
+            "Specificity": 7,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Really want to make money trading next year? try Super_trades alerts! http://t.co/XAXkgRMEVs $FB $TWTR $LIVE $SAEX $ZPIN",
+            "Correlation": 7,
+            "Sentiment": 6,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 7,
+            "Source_Score": 5,
+            "Specificity": 7,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        }
+    ]
+}

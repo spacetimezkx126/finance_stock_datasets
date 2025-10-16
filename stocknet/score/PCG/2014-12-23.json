@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 5,
+        "Sentiment": 4,
+        "Importance": 6,
+        "Impact": 5,
+        "Duration": 7,
+        "Virality": 3,
+        "Source_Score": 8,
+        "Specificity": 9,
+        "Sector_Spread": 4,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "San Francisco Bay Area Rapid Transit District v. Pacific Gas and Electric Company",
+            "Correlation": 5,
+            "Sentiment": 4,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 7,
+            "Virality": 3,
+            "Source_Score": 8,
+            "Specificity": 9,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 1
+        }
+    ]
+}

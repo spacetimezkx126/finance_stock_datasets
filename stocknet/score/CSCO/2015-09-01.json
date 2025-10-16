@@ -1,0 +1,133 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 6,
+        "Importance": 5,
+        "Impact": 6,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 8,
+        "Specificity": 7,
+        "Sector_Spread": 6,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "CSCO is expected to release its Q3 earnings report next week, with analysts predicting a slight increase in revenue.",
+            "Correlation": 9,
+            "Sentiment": 7,
+            "Importance": 6,
+            "Impact": 7,
+            "Duration": 5,
+            "Virality": 2,
+            "Source_Score": 8,
+            "Specificity": 8,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "IBM announced a new partnership with a leading cloud provider to enhance its AI capabilities.",
+            "Correlation": 8,
+            "Sentiment": 8,
+            "Importance": 7,
+            "Impact": 7,
+            "Duration": 6,
+            "Virality": 4,
+            "Source_Score": 9,
+            "Specificity": 9,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "AAPL stock experienced a minor dip following concerns over supply chain disruptions.",
+            "Correlation": 8,
+            "Sentiment": 4,
+            "Importance": 5,
+            "Impact": 6,
+            "Duration": 3,
+            "Virality": 3,
+            "Source_Score": 7,
+            "Specificity": 7,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "CSCO's CEO spoke at a tech conference about the future of networking technology.",
+            "Correlation": 7,
+            "Sentiment": 6,
+            "Importance": 4,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 8,
+            "Specificity": 6,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "IBM reported strong growth in its software division, driving up investor confidence.",
+            "Correlation": 9,
+            "Sentiment": 8,
+            "Importance": 7,
+            "Impact": 8,
+            "Duration": 5,
+            "Virality": 4,
+            "Source_Score": 9,
+            "Specificity": 8,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "AAPL unveiled a new line of iPhones, sparking excitement among consumers and investors alike.",
+            "Correlation": 10,
+            "Sentiment": 9,
+            "Importance": 8,
+            "Impact": 9,
+            "Duration": 7,
+            "Virality": 8,
+            "Source_Score": 8,
+            "Specificity": 10,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "CSCO is exploring potential acquisitions in the cybersecurity space to bolster its portfolio.",
+            "Correlation": 8,
+            "Sentiment": 7,
+            "Importance": 6,
+            "Impact": 7,
+            "Duration": 5,
+            "Virality": 3,
+            "Source_Score": 8,
+            "Specificity": 8,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "IBM launched a new initiative aimed at reducing its carbon footprint by 2030.",
+            "Correlation": 7,
+            "Sentiment": 8,
+            "Importance": 6,
+            "Impact": 6,
+            "Duration": 6,
+            "Virality": 4,
+            "Source_Score": 9,
+            "Specificity": 7,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "CSCO's stock price has been relatively stable despite market volatility.",
+            "Correlation": 6,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 7,
+            "Specificity": 5,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 0
+        }
+    ]
+}

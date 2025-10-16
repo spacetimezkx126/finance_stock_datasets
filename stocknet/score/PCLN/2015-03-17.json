@@ -1,0 +1,55 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 6,
+        "Importance": 6,
+        "Impact": 5,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 5,
+        "Specificity": 6,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "TNA Short Sales Updated Tuesday, March 17, 2015 2:59:23 PM PCLN LNKD HD MU",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 6,
+            "Specificity": 7,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "PCLN Priceline Group Inc. Earnings: Booming Performance Under Challenging",
+            "Correlation": 9,
+            "Sentiment": 7,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 4,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "Stocks mostly end down ahead of Fed; oil falls: AAPL GOOG PCLN K",
+            "Correlation": 7,
+            "Sentiment": 4,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 5,
+            "Specificity": 5,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 2
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "Overall_score": {
+        "Correlation": 3,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 4,
+        "Duration": 6,
+        "Virality": 2,
+        "Source_Score": 5,
+        "Specificity": 3,
+        "Sector_Spread": 7,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "JBEM picks - Free Membership - Join here: https://t.co/wZhLK4QXda",
+            "Correlation": 3,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 4,
+            "Duration": 6,
+            "Virality": 2,
+            "Source_Score": 5,
+            "Specificity": 3,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "NLSN",
+            "Correlation": 2,
+            "Sentiment": 4,
+            "Importance": 3,
+            "Impact": 3,
+            "Duration": 5,
+            "Virality": 1,
+            "Source_Score": 4,
+            "Specificity": 2,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "VZ",
+            "Correlation": 2,
+            "Sentiment": 4,
+            "Importance": 3,
+            "Impact": 3,
+            "Duration": 5,
+            "Virality": 1,
+            "Source_Score": 4,
+            "Specificity": 2,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "CPSI",
+            "Correlation": 2,
+            "Sentiment": 4,
+            "Importance": 3,
+            "Impact": 3,
+            "Duration": 5,
+            "Virality": 1,
+            "Source_Score": 4,
+            "Specificity": 2,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "PAYX",
+            "Correlation": 2,
+            "Sentiment": 4,
+            "Importance": 3,
+            "Impact": 3,
+            "Duration": 5,
+            "Virality": 1,
+            "Source_Score": 4,
+            "Specificity": 2,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "NLNK",
+            "Correlation": 2,
+            "Sentiment": 4,
+            "Importance": 3,
+            "Impact": 3,
+            "Duration": 5,
+            "Virality": 1,
+            "Source_Score": 4,
+            "Specificity": 2,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "CMN",
+            "Correlation": 2,
+            "Sentiment": 4,
+            "Importance": 3,
+            "Impact": 3,
+            "Duration": 5,
+            "Virality": 1,
+            "Source_Score": 4,
+            "Specificity": 2,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "LG",
+            "Correlation": 2,
+            "Sentiment": 4,
+            "Importance": 3,
+            "Impact": 3,
+            "Duration": 5,
+            "Virality": 1,
+            "Source_Score": 4,
+            "Specificity": 2,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "SNY",
+            "Correlation": 2,
+            "Sentiment": 4,
+            "Importance": 3,
+            "Impact": 3,
+            "Duration": 5,
+            "Virality": 1,
+            "Source_Score": 4,
+            "Specificity": 2,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 1
+        }
+    ]
+}

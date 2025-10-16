@@ -1,0 +1,94 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 3,
+        "Importance": 7,
+        "Impact": 6,
+        "Duration": 5,
+        "Virality": 9,
+        "Source_Score": 6,
+        "Specificity": 7,
+        "Sector_Spread": 10,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @DelRiverkeeper: The Opposition is clear, just say no to the @PennEastLine #EndPennEast @FERC $UGI $PEG $GAS $SE $NJR $SO $SJI",
+            "Correlation": 8,
+            "Sentiment": 3,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 9,
+            "Source_Score": 6,
+            "Specificity": 7,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT @DelRiverkeeper: Time for @PennEastLine to withdraw pipeline application #EndPennEast @FERC $UGI $PEG $GAS $NJR $SJI $SE $SO",
+            "Correlation": 8,
+            "Sentiment": 3,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 9,
+            "Source_Score": 6,
+            "Specificity": 7,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT @jmarkowski0: NJ citizens say @PennEastLine withdraw! #EndPennEast @FERC $UGI $PEG $GAS $NJR $SJI $SE $SO",
+            "Correlation": 8,
+            "Sentiment": 3,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 9,
+            "Source_Score": 6,
+            "Specificity": 7,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT @BucksCCAP: .@SenToomey Impacted communities say that #PennEast is a bad investment! @FERC $UGI $PEG $GAS $SE $NJR $SO $SJI",
+            "Correlation": 8,
+            "Sentiment": 3,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 9,
+            "Source_Score": 6,
+            "Specificity": 7,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT @PCronheim: NJ citizens say @penneastline withdraw! #EndPennEast @FERC $UGI $PEG $GAS $NJR $SJI $SE $SO",
+            "Correlation": 8,
+            "Sentiment": 3,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 9,
+            "Source_Score": 6,
+            "Specificity": 7,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "@PennEastLine threatens aquifer - potential to destroy water for Entire townships #EndPennEast @FERC $UGI $PEG $GAS $SE $NJR $SO $SJI",
+            "Correlation": 8,
+            "Sentiment": 2,
+            "Importance": 8,
+            "Impact": 7,
+            "Duration": 6,
+            "Virality": 8,
+            "Source_Score": 6,
+            "Specificity": 8,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 1
+        }
+    ]
+}

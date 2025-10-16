@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 5,
+        "Sentiment": 4,
+        "Importance": 3,
+        "Impact": 4,
+        "Duration": 2,
+        "Virality": 6,
+        "Source_Score": 3,
+        "Specificity": 4,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "Want to find trades like $NYMX +124%? $FB $WFC $JNJ $GOOGL $JPM $CHL $NVS",
+            "Correlation": 6,
+            "Sentiment": 7,
+            "Importance": 4,
+            "Impact": 5,
+            "Duration": 2,
+            "Virality": 7,
+            "Source_Score": 3,
+            "Specificity": 5,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "NHC.TO Nobilis Health Corp. Ask $NHC.TO $MU $WFC $GOOGL #NHC",
+            "Correlation": 4,
+            "Sentiment": 2,
+            "Importance": 2,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 5,
+            "Source_Score": 3,
+            "Specificity": 3,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        }
+    ]
+}

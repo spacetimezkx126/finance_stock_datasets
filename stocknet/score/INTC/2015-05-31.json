@@ -1,0 +1,120 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 6,
+        "Impact": 6,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 7,
+        "Specificity": 7,
+        "Sector_Spread": 5,
+        "Tech_Mentions": 4
+    },
+    "Each_item": [
+        {
+            "News_content": "IWC iShares Russell Microcap Index Fund Filings",
+            "Correlation": 2,
+            "Sentiment": 1,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 5,
+            "Virality": 1,
+            "Source_Score": 8,
+            "Specificity": 4,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "$INTC chart: INTC Swing Trade (Brad Reed May29,2015)",
+            "Correlation": 9,
+            "Sentiment": 6,
+            "Importance": 4,
+            "Impact": 7,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 6,
+            "Specificity": 9,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 8
+        },
+        {
+            "News_content": "@IHedgeGC Your tweet about $INTC had a sentiment of 2 and was featured on Market Parse",
+            "Correlation": 7,
+            "Sentiment": 2,
+            "Importance": 3,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 5,
+            "Source_Score": 5,
+            "Specificity": 6,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "@bleberszayns Your tweet about $INTC had a sentiment of 5 and was featured on Market Parse",
+            "Correlation": 7,
+            "Sentiment": 5,
+            "Importance": 3,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 5,
+            "Source_Score": 5,
+            "Specificity": 6,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "IBD 50: As Apple Fans Out, Suppliers Eye Next Moves",
+            "Correlation": 5,
+            "Sentiment": 4,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 6,
+            "Virality": 3,
+            "Source_Score": 8,
+            "Specificity": 5,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "INTC Intel Corp. Open",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 5,
+            "Impact": 6,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "IBM International Business Machines Message Board Posts",
+            "Correlation": 6,
+            "Sentiment": 4,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 5,
+            "Virality": 2,
+            "Source_Score": 7,
+            "Specificity": 6,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "@OAK429 $INTC WSJ: Intel to announce $54/share Altera deal on Monday",
+            "Correlation": 10,
+            "Sentiment": 8,
+            "Importance": 9,
+            "Impact": 9,
+            "Duration": 7,
+            "Virality": 6,
+            "Source_Score": 9,
+            "Specificity": 10,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 2
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 2,
+        "Importance": 7,
+        "Impact": 6,
+        "Duration": 5,
+        "Virality": 9,
+        "Source_Score": 4,
+        "Specificity": 3,
+        "Sector_Spread": 6,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "Apple Screwed Up Big Time",
+            "Correlation": 8,
+            "Sentiment": 2,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 9,
+            "Source_Score": 4,
+            "Specificity": 3,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 1
+        }
+    ]
+}

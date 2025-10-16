@@ -1,0 +1,68 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 6,
+        "Impact": 6,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 4,
+        "Specificity": 7,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 5
+    },
+    "Each_item": [
+        {
+            "News_content": "Uptrend Stocks in Industrial Goods $ATI $CAT $CMI $COL $EMR $GD $GE $MAS $ROK $VMC",
+            "Correlation": 9,
+            "Sentiment": 8,
+            "Importance": 7,
+            "Impact": 7,
+            "Duration": 5,
+            "Virality": 2,
+            "Source_Score": 5,
+            "Specificity": 9,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 4
+        },
+        {
+            "News_content": "MRK Merck & Co., Inc. Yield Trending $MRK $CAT $XLE $TWTR #MRK #invest #nasdaq",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 6,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 4,
+            "Source_Score": 6,
+            "Specificity": 8,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "GDXJ Market Vectors Junior Gold Miners Last Price Trending $GDXJ $XPO $INTL $CAT #GDXJ #finance",
+            "Correlation": 7,
+            "Sentiment": 5,
+            "Importance": 5,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 3,
+            "Source_Score": 5,
+            "Specificity": 7,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 5
+        },
+        {
+            "News_content": "Millionaire trading student made millions learning to trade $KITE $HLF $UWTI $NFLX $CAT",
+            "Correlation": 6,
+            "Sentiment": 7,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 2,
+            "Virality": 5,
+            "Source_Score": 4,
+            "Specificity": 6,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 3
+        }
+    ]
+}

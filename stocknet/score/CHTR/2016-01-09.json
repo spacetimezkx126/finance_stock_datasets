@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 10,
+        "Sentiment": 8,
+        "Importance": 9,
+        "Impact": 9,
+        "Duration": 7,
+        "Virality": 6,
+        "Source_Score": 5,
+        "Specificity": 10,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "19B company acquiring 51B company. Don't you just love finance? TWC CHTR",
+            "Correlation": 10,
+            "Sentiment": 8,
+            "Importance": 9,
+            "Impact": 9,
+            "Duration": 7,
+            "Virality": 6,
+            "Source_Score": 5,
+            "Specificity": 10,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 2
+        }
+    ]
+}

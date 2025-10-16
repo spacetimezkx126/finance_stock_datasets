@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 6,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 5,
+        "Duration": 3,
+        "Virality": 7,
+        "Source_Score": 4,
+        "Specificity": 6,
+        "Sector_Spread": 3,
+        "Tech_Mentions": 8
+    },
+    "Each_item": [
+        {
+            "News_content": "AMZN gap fill and now see how it acts at 50 day.",
+            "Correlation": 9,
+            "Sentiment": 5,
+            "Importance": 6,
+            "Impact": 7,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 5,
+            "Specificity": 8,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 10
+        },
+        {
+            "News_content": "chigrl toast sent via AMZN drone with face of Jesus or any of the disciples = 20! \"A Toast of Heaven\"!!!",
+            "Correlation": 3,
+            "Sentiment": 6,
+            "Importance": 2,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 10,
+            "Source_Score": 3,
+            "Specificity": 4,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 6
+        }
+    ]
+}

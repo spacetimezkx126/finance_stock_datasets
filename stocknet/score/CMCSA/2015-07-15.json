@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 8,
+        "Importance": 6,
+        "Impact": 7,
+        "Duration": 5,
+        "Virality": 6,
+        "Source_Score": 5,
+        "Specificity": 7,
+        "Sector_Spread": 9,
+        "Tech_Mentions": 3
+    },
+    "Each_item": [
+        {
+            "News_content": "Our Stock Pick On $GEQU Nearly QUADRUPLED In Value In Less Than 2 Weeks! Major News: http://t.co/Ar3yIMePCp $CMCSA $INTC $AMGN",
+            "Correlation": 10,
+            "Sentiment": 9,
+            "Importance": 8,
+            "Impact": 9,
+            "Duration": 4,
+            "Virality": 7,
+            "Source_Score": 6,
+            "Specificity": 9,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "$TWTR Twitter Inc http://t.co/xynX7aQiCX #Iran $GOOG $VALE $AMGN $GOOGL #finance #stocks $SINA $ACRX $UMPQ $AXP $LLY $NKE $CMCSA $MDLZ",
+            "Correlation": 5,
+            "Sentiment": 7,
+            "Importance": 5,
+            "Impact": 6,
+            "Duration": 6,
+            "Virality": 5,
+            "Source_Score": 4,
+            "Specificity": 5,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 4
+        }
+    ]
+}

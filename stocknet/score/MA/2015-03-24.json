@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 6,
+        "Importance": 5,
+        "Impact": 7,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 5,
+        "Specificity": 9,
+        "Sector_Spread": 7,
+        "Tech_Mentions": 8
+    },
+    "Each_item": [
+        {
+            "News_content": "$AXP has pulled back to almost its 52 week bottom. $V and $MA are moving forward. Time to buy some $AXP?",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 7,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 5,
+            "Specificity": 9,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 8
+        }
+    ]
+}

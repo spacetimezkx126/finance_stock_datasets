@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 1,
+        "Sentiment": 3,
+        "Importance": 1,
+        "Impact": 2,
+        "Duration": 1,
+        "Virality": 4,
+        "Source_Score": 1,
+        "Specificity": 1,
+        "Sector_Spread": 1,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "Let a dumb broad try to get smart I'LL ROA$T TF OUT YU",
+            "Correlation": 1,
+            "Sentiment": 3,
+            "Importance": 1,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 4,
+            "Source_Score": 1,
+            "Specificity": 1,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "BADDE$T BITCH I MIGHT HAVE EVER LAYED ON NIGGA",
+            "Correlation": 1,
+            "Sentiment": 3,
+            "Importance": 1,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 4,
+            "Source_Score": 1,
+            "Specificity": 1,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        }
+    ]
+}

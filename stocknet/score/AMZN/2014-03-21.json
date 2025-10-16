@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 4,
+        "Sentiment": 5,
+        "Importance": 6,
+        "Impact": 5,
+        "Duration": 7,
+        "Virality": 3,
+        "Source_Score": 5,
+        "Specificity": 4,
+        "Sector_Spread": 6,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "Mystery company building giant complex in San Jose",
+            "Correlation": 7,
+            "Sentiment": 6,
+            "Importance": 8,
+            "Impact": 6,
+            "Duration": 9,
+            "Virality": 4,
+            "Source_Score": 6,
+            "Specificity": 5,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Todays Stocks you should be watching",
+            "Correlation": 3,
+            "Sentiment": 4,
+            "Importance": 4,
+            "Impact": 4,
+            "Duration": 5,
+            "Virality": 2,
+            "Source_Score": 4,
+            "Specificity": 3,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 3
+        }
+    ]
+}

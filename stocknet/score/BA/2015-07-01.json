@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 7,
+        "Importance": 6,
+        "Impact": 7,
+        "Duration": 5,
+        "Virality": 4,
+        "Source_Score": 9,
+        "Specificity": 8,
+        "Sector_Spread": 7,
+        "Tech_Mentions": 3
+    },
+    "Each_item": [
+        {
+            "News_content": "Dow Jones (DJIA) Today: Boeing (BA) Leads The Day Higher",
+            "Correlation": 8,
+            "Sentiment": 7,
+            "Importance": 5,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 9,
+            "Specificity": 7,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "Boeing boosts 2015 jet prices 2.9%, 777X jumps to $400M",
+            "Correlation": 8,
+            "Sentiment": 7,
+            "Importance": 7,
+            "Impact": 8,
+            "Duration": 6,
+            "Virality": 5,
+            "Source_Score": 9,
+            "Specificity": 9,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 4
+        }
+    ]
+}

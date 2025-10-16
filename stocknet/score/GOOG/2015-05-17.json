@@ -1,0 +1,120 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 6,
+        "Importance": 5,
+        "Impact": 4,
+        "Duration": 3,
+        "Virality": 5,
+        "Source_Score": 6,
+        "Specificity": 6,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @bosocial: bosocial: stocknugget: Helpful video for stock options beginners!! $GOOG $AAPL $GOOGL $AM",
+            "Correlation": 8,
+            "Sentiment": 7,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 6,
+            "Source_Score": 5,
+            "Specificity": 7,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT @greensboro_nc: Google Chromebooks made by Xolo, Nexian launched for Rs 12999 - The... $GOOG $GOOGL",
+            "Correlation": 7,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 5,
+            "Source_Score": 6,
+            "Specificity": 6,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "RT @ValaAfshar: The changing US technology sector $IBM $MSFT $AAPL $GOOG",
+            "Correlation": 6,
+            "Sentiment": 5,
+            "Importance": 6,
+            "Impact": 4,
+            "Duration": 4,
+            "Virality": 4,
+            "Source_Score": 7,
+            "Specificity": 5,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "rosnerstocks: CSCO Cisco Systems, Inc. Summary $CSCO $FRI $GOOG",
+            "Correlation": 7,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 3,
+            "Duration": 3,
+            "Virality": 3,
+            "Source_Score": 6,
+            "Specificity": 8,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "RT @greensboro_nc: This new version of Google's self-driving car will hit the streets of... $GOOG $GOOGL",
+            "Correlation": 8,
+            "Sentiment": 7,
+            "Importance": 7,
+            "Impact": 5,
+            "Duration": 5,
+            "Virality": 6,
+            "Source_Score": 6,
+            "Specificity": 8,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "KLXI KLX Inc. Ideas $KLXI $GOOG $SYN $ACWI #KLXI #invest #share",
+            "Correlation": 6,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 3,
+            "Source_Score": 5,
+            "Specificity": 6,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "LULU lululemon athletica Filings $LULU $AAPL $GOOG $GBGM #LULU #invest #finance",
+            "Correlation": 6,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 3,
+            "Source_Score": 5,
+            "Specificity": 6,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "clayton_dd: IBB Biotech iShares Market Cap $IBB $GOOG $DSKX $ARIA",
+            "Correlation": 5,
+            "Sentiment": 4,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 2,
+            "Virality": 3,
+            "Source_Score": 5,
+            "Specificity": 5,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 1
+        }
+    ]
+}

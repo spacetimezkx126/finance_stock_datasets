@@ -1,0 +1,55 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 4,
+        "Importance": 7,
+        "Impact": 6,
+        "Duration": 5,
+        "Virality": 3,
+        "Source_Score": 7,
+        "Specificity": 8,
+        "Sector_Spread": 6,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "LMT US stock futures drop more after jobless claims",
+            "Correlation": 9,
+            "Sentiment": 3,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 2,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "LMT 11% lower earnings. The run on defense just came to an abrupt halt, this trade just got cooled off",
+            "Correlation": 10,
+            "Sentiment": 2,
+            "Importance": 8,
+            "Impact": 7,
+            "Duration": 6,
+            "Virality": 3,
+            "Source_Score": 7,
+            "Specificity": 9,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Civilian Drones To Swarm U.S. Skies, But Not Just Yet. #IBDNews $AMZN $BHP $RIO $AVAV $BA $LMT",
+            "Correlation": 7,
+            "Sentiment": 6,
+            "Importance": 7,
+            "Impact": 5,
+            "Duration": 8,
+            "Virality": 5,
+            "Source_Score": 8,
+            "Specificity": 7,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 3
+        }
+    ]
+}

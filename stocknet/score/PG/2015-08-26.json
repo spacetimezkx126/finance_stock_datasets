@@ -1,0 +1,68 @@
+{
+    "Overall_score": {
+        "Correlation": 6,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 5,
+        "Duration": 3,
+        "Virality": 2,
+        "Source_Score": 7,
+        "Specificity": 6,
+        "Sector_Spread": 3,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "PG:US Market Turbulence May Create An Entry Point Into Procter & Gamble's Stock",
+            "Correlation": 9,
+            "Sentiment": 7,
+            "Importance": 6,
+            "Impact": 7,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 8,
+            "Specificity": 8,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "VTI Vanguard Total Stock Market ETF Last Price",
+            "Correlation": 4,
+            "Sentiment": 5,
+            "Importance": 3,
+            "Impact": 4,
+            "Duration": 2,
+            "Virality": 1,
+            "Source_Score": 6,
+            "Specificity": 5,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "PG Patient Home Monitoring Corp. Exchange",
+            "Correlation": 2,
+            "Sentiment": 4,
+            "Importance": 2,
+            "Impact": 3,
+            "Duration": 1,
+            "Virality": 1,
+            "Source_Score": 5,
+            "Specificity": 6,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "SLTD Solar3D, Inc. News",
+            "Correlation": 3,
+            "Sentiment": 6,
+            "Importance": 4,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 7,
+            "Specificity": 7,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        }
+    ]
+}

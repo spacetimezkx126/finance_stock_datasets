@@ -1,0 +1,107 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 6,
+        "Impact": 4,
+        "Duration": 3,
+        "Virality": 2,
+        "Source_Score": 8,
+        "Specificity": 6,
+        "Sector_Spread": 9,
+        "Tech_Mentions": 3
+    },
+    "Each_item": [
+        {
+            "News_content": "Cerrado 9 cortos de GOOG a 627.84USD ganando 19.17USD IDOP287467",
+            "Correlation": 10,
+            "Sentiment": 8,
+            "Importance": 5,
+            "Impact": 6,
+            "Duration": 2,
+            "Virality": 1,
+            "Source_Score": 4,
+            "Specificity": 9,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "MParekh: Concentrate: AMZN, GOOG, AAPL, FB, NFLX, GILD > 50% of Nasdaq $664b YTD gains",
+            "Correlation": 9,
+            "Sentiment": 7,
+            "Importance": 8,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 6,
+            "Specificity": 7,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "I don't need to wait until the earnings CC tomorrow to see that TWTR & GOOG already have a thriving partnership. Just search Google & see.",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 7,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 5,
+            "Specificity": 8,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Companies signing WH Climate Pledge Alcoa Apple Bank of America Berkshire Hathaway Cargill Coca-Cola GM GS GOOG MSFT",
+            "Correlation": 7,
+            "Sentiment": 5,
+            "Importance": 6,
+            "Impact": 3,
+            "Duration": 5,
+            "Virality": 2,
+            "Source_Score": 7,
+            "Specificity": 6,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "TSLA Tesla TSLA BABA AAPL FB TWTR NFLX GOOGL TSLA AMZN PCLN PRMTX FOLD SCMP F PRMTX AAPL GOOG GE SLV",
+            "Correlation": 6,
+            "Sentiment": 4,
+            "Importance": 5,
+            "Impact": 2,
+            "Duration": 3,
+            "Virality": 3,
+            "Source_Score": 3,
+            "Specificity": 5,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "TSLA Tesla AAPL BAC FB SPY GE BABA NFLX C FE TSLA F T UWTI RAD GILD VXX UA X ES_F GOOGL GOOG",
+            "Correlation": 6,
+            "Sentiment": 4,
+            "Importance": 5,
+            "Impact": 2,
+            "Duration": 3,
+            "Virality": 3,
+            "Source_Score": 3,
+            "Specificity": 5,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "WSJ: Google gives up on Google+ as a Facebook rival GOOG",
+            "Correlation": 9,
+            "Sentiment": 3,
+            "Importance": 7,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 5,
+            "Source_Score": 10,
+            "Specificity": 8,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 2
+        }
+    ]
+}

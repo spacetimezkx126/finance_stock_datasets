@@ -1,0 +1,55 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 6,
+        "Impact": 6,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 5,
+        "Specificity": 8,
+        "Sector_Spread": 9,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "Q3 Wireless Service Rev growth: $TMUS +10.9%, $VZ +4.8%, $T -4.2%, $S -5.7%",
+            "Correlation": 10,
+            "Sentiment": 6,
+            "Importance": 8,
+            "Impact": 7,
+            "Duration": 5,
+            "Virality": 4,
+            "Source_Score": 7,
+            "Specificity": 10,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Solving the recurrence $T(n) = 2^{n/2}T(n/2) + 2^n$ using a recursion tree",
+            "Correlation": 1,
+            "Sentiment": 5,
+            "Importance": 2,
+            "Impact": 1,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 4,
+            "Specificity": 6,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 8
+        },
+        {
+            "News_content": "Added a video to a YouTube playlist: Black Smurf - Hustle Pro (Prod. GHO$T)",
+            "Correlation": 1,
+            "Sentiment": 4,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 2,
+            "Virality": 3,
+            "Source_Score": 3,
+            "Specificity": 2,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 6,
+        "Importance": 5,
+        "Impact": 4,
+        "Duration": 3,
+        "Virality": 2,
+        "Source_Score": 5,
+        "Specificity": 6,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "$WFC News Alert: Updated options view: All options views:",
+            "Correlation": 9,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 1,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 6
+        },
+        {
+            "News_content": "$C $WFC $JPM Housing report wasn't as bad as everyone claims. If you take a look at it you'll see that the decline is only due to the South",
+            "Correlation": 8,
+            "Sentiment": 7,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 6,
+            "Specificity": 7,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Who is smart money and how can we follow them $WFC $AXP $XOM",
+            "Correlation": 6,
+            "Sentiment": 5,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 5,
+            "Specificity": 5,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        }
+    ]
+}

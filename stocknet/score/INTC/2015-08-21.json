@@ -1,0 +1,81 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 5,
+        "Importance": 6,
+        "Impact": 7,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 6,
+        "Specificity": 7,
+        "Sector_Spread": 5,
+        "Tech_Mentions": 4
+    },
+    "Each_item": [
+        {
+            "News_content": "$INTC $BABA: The 52-Week Low Club for Friday: http://t.co/ITpCRJROtu",
+            "Correlation": 7,
+            "Sentiment": 3,
+            "Importance": 5,
+            "Impact": 6,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 5,
+            "Specificity": 6,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "$INTC - INTC at critical level on Weekly - https://t.co/EnAcI62eB9",
+            "Correlation": 9,
+            "Sentiment": 4,
+            "Importance": 7,
+            "Impact": 8,
+            "Duration": 5,
+            "Virality": 3,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 6
+        },
+        {
+            "News_content": "$INTC Closing these $INTC puts out for $0.50/sh, 78% profit.",
+            "Correlation": 10,
+            "Sentiment": 8,
+            "Importance": 6,
+            "Impact": 7,
+            "Duration": 2,
+            "Virality": 4,
+            "Source_Score": 6,
+            "Specificity": 9,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "$MU $INTC A value play or value trap from here? http://t.co/9LVl6bATzn",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 6,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 6,
+            "Specificity": 7,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 4
+        },
+        {
+            "News_content": "$INTC:US Should Investors Sell ARM Holdings plc As Intel Corporation Muscles In? #INTEL CORP http://t.co/d0TwCNcQpY #NASDAQ",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 7,
+            "Impact": 7,
+            "Duration": 5,
+            "Virality": 3,
+            "Source_Score": 7,
+            "Specificity": 7,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 5
+        }
+    ]
+}

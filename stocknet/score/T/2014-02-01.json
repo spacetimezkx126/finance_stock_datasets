@@ -1,0 +1,107 @@
+{
+    "Overall_score": {
+        "Correlation": 2,
+        "Sentiment": 4,
+        "Importance": 3,
+        "Impact": 2,
+        "Duration": 1,
+        "Virality": 5,
+        "Source_Score": 3,
+        "Specificity": 2,
+        "Sector_Spread": 1,
+        "Tech_Mentions": 0
+    },
+    "Each_item": [
+        {
+            "News_content": "Off to monster jam to wreck some S&T and ride some wheelies in front of 60,000 people. #hellyes #MERICA #gravedigger",
+            "Correlation": 1,
+            "Sentiment": 8,
+            "Importance": 2,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 7,
+            "Source_Score": 2,
+            "Specificity": 1,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "Após choro em adeus à Lazio, Hernanes é da Inter d...",
+            "Correlation": 2,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 3,
+            "Virality": 4,
+            "Source_Score": 5,
+            "Specificity": 6,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "Jogo de festa-FC Barcelona-Malaga-Liga BBVA-Campeo... ",
+            "Correlation": 2,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 5,
+            "Source_Score": 4,
+            "Specificity": 7,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "3iG VxS VA$T G|C OTOV",
+            "Correlation": 1,
+            "Sentiment": 3,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 3,
+            "Source_Score": 1,
+            "Specificity": 1,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "ANGEL DU$T LP",
+            "Correlation": 1,
+            "Sentiment": 4,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 4,
+            "Source_Score": 2,
+            "Specificity": 1,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "WE JU$T LIVE'N",
+            "Correlation": 1,
+            "Sentiment": 5,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 5,
+            "Source_Score": 1,
+            "Specificity": 1,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "#NEWmixtape \"HIP HOP NEEDS A RE$T\" by: RESTBX contact:REST718@gmail.com #TMG ///",
+            "Correlation": 1,
+            "Sentiment": 6,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 6,
+            "Source_Score": 2,
+            "Specificity": 2,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        }
+    ]
+}

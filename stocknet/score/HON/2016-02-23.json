@@ -1,0 +1,133 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 8,
+        "Impact": 6,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 9,
+        "Specificity": 6,
+        "Sector_Spread": 5,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "@davidfaber @SquawkCNBC @jimcramer David, ask him how many job cuts, plant/office closings would occur with a $HON $UTX merger?",
+            "Correlation": 10,
+            "Sentiment": 3,
+            "Importance": 7,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 4,
+            "Source_Score": 8,
+            "Specificity": 9,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT @CNBCnow: EXCLUSIVE » United Technologies CEO on potential merger between $UTX and $HON: \"You just can't get this deal done\"",
+            "Correlation": 9,
+            "Sentiment": 4,
+            "Importance": 8,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 6,
+            "Source_Score": 9,
+            "Specificity": 8,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Honeywell: Regulation not an obstacle to United Tech merger $HON $UTX",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 7,
+            "Impact": 5,
+            "Duration": 5,
+            "Virality": 3,
+            "Source_Score": 8,
+            "Specificity": 7,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "$AMDA Percent Change Updated Tuesday, February 23, 2016 09:59:23 AM $EFA $KO $HON $DUST",
+            "Correlation": 3,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 2,
+            "Source_Score": 5,
+            "Specificity": 4,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "$HYG Recent News Updated Tuesday, February 23, 2016 12:59:24 PM $VLO $SPXL $CENX $HON",
+            "Correlation": 3,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 2,
+            "Source_Score": 5,
+            "Specificity": 4,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "$GPS, $HD, $HON Stocks Look to Consumer For Direction With Key Data In Focus - → via @AlertTrade",
+            "Correlation": 6,
+            "Sentiment": 5,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 3,
+            "Source_Score": 7,
+            "Specificity": 5,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT @CNBCnow: JUST IN: $UTX confirms it engaged in \"preliminary, exploratory\" $HON talks, didn't proceed due to various issues.",
+            "Correlation": 9,
+            "Sentiment": 4,
+            "Importance": 8,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 6,
+            "Source_Score": 9,
+            "Specificity": 8,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "If $HON gets a $UTX deal done, Faber should get a cut of the investment banking fee.",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 6,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 3,
+            "Source_Score": 7,
+            "Specificity": 6,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "AIG American Intl Group, Inc. Stock Forum $AIG $HON $CM.TO $OCLR #stockmarket #investing",
+            "Correlation": 4,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 2,
+            "Source_Score": 6,
+            "Specificity": 4,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 1
+        }
+    ]
+}

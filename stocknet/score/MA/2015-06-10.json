@@ -1,0 +1,68 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 4,
+        "Importance": 5,
+        "Impact": 6,
+        "Duration": 3,
+        "Virality": 2,
+        "Source_Score": 6,
+        "Specificity": 8,
+        "Sector_Spread": 4,
+        "Tech_Mentions": 5
+    },
+    "Each_item": [
+        {
+            "News_content": "CYBR Cyber-Ark Software Ltd. Day Low",
+            "Correlation": 9,
+            "Sentiment": 3,
+            "Importance": 4,
+            "Impact": 5,
+            "Duration": 2,
+            "Virality": 1,
+            "Source_Score": 7,
+            "Specificity": 10,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 4
+        },
+        {
+            "News_content": "OVAS OvaScience Inc. Open",
+            "Correlation": 8,
+            "Sentiment": 4,
+            "Importance": 5,
+            "Impact": 6,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 6,
+            "Specificity": 9,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "$MA active, relative volume: 5.19, 1H, 3:00 PM, #nyse",
+            "Correlation": 7,
+            "Sentiment": 5,
+            "Importance": 6,
+            "Impact": 7,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 8,
+            "Specificity": 8,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 6
+        },
+        {
+            "News_content": "SLV iShares Silver Trust Open",
+            "Correlation": 8,
+            "Sentiment": 4,
+            "Importance": 5,
+            "Impact": 6,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 7,
+            "Specificity": 9,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 4
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "Overall_score": {
+        "Correlation": 2,
+        "Sentiment": 4,
+        "Importance": 1,
+        "Impact": 1,
+        "Duration": 3,
+        "Virality": 5,
+        "Source_Score": 1,
+        "Specificity": 2,
+        "Sector_Spread": 1,
+        "Tech_Mentions": 0
+    },
+    "Each_item": [
+        {
+            "News_content": "I can taste success",
+            "Correlation": 3,
+            "Sentiment": 7,
+            "Importance": 2,
+            "Impact": 2,
+            "Duration": 4,
+            "Virality": 6,
+            "Source_Score": 1,
+            "Specificity": 3,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "Walk This Way damn bruhhh say it aint so remind me of them Orange County days",
+            "Correlation": 2,
+            "Sentiment": 5,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 3,
+            "Virality": 5,
+            "Source_Score": 1,
+            "Specificity": 2,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "Lames pillow talking to the hoes they laid up with",
+            "Correlation": 1,
+            "Sentiment": 3,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 2,
+            "Virality": 4,
+            "Source_Score": 1,
+            "Specificity": 1,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        }
+    ]
+}

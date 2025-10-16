@@ -1,0 +1,55 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 7,
+        "Importance": 6,
+        "Impact": 7,
+        "Duration": 5,
+        "Virality": 4,
+        "Source_Score": 6,
+        "Specificity": 7,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 3
+    },
+    "Each_item": [
+        {
+            "News_content": "The 6 pro traders alerted over 300% in gains last week. - $HLT $SBUX $FEYE $XRX $NRF $X $AIG $MDT $RAX $HTZ",
+            "Correlation": 9,
+            "Sentiment": 10,
+            "Importance": 5,
+            "Impact": 8,
+            "Duration": 4,
+            "Virality": 6,
+            "Source_Score": 5,
+            "Specificity": 8,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "A pacemaker so small it can be inserted via catheter INSIDE THE HEART: $MDT $STJ",
+            "Correlation": 8,
+            "Sentiment": 9,
+            "Importance": 8,
+            "Impact": 7,
+            "Duration": 6,
+            "Virality": 5,
+            "Source_Score": 7,
+            "Specificity": 9,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 4
+        },
+        {
+            "News_content": "Medtronic PLC Given “Neutral” Rating at Wedbush $MDT",
+            "Correlation": 7,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 3,
+            "Source_Score": 8,
+            "Specificity": 7,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        }
+    ]
+}

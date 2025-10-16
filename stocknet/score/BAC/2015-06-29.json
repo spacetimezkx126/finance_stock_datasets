@@ -1,0 +1,107 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 6,
+        "Impact": 6,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 7,
+        "Specificity": 8,
+        "Sector_Spread": 5,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "Facebook opens first Africa office",
+            "Correlation": 9,
+            "Sentiment": 8,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 7,
+            "Source_Score": 8,
+            "Specificity": 10,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "AppFolio INC",
+            "Correlation": 5,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 2,
+            "Source_Score": 6,
+            "Specificity": 7,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "iShares CDN S&P/TSX Capped Financials Index Fund EOD Data",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 1,
+            "Source_Score": 9,
+            "Specificity": 9,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 4
+        },
+        {
+            "News_content": "New Bank of America Corporation SEC Filing",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 9,
+            "Specificity": 9,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "Options news: $BAC, $FB, $BABA. Earnings activity: $APOL, $PAYX, $APOL",
+            "Correlation": 7,
+            "Sentiment": 5,
+            "Importance": 6,
+            "Impact": 6,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 8,
+            "Specificity": 8,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 6
+        },
+        {
+            "News_content": "Harvard's best degree: Dropping out?",
+            "Correlation": 3,
+            "Sentiment": 4,
+            "Importance": 4,
+            "Impact": 2,
+            "Duration": 2,
+            "Virality": 5,
+            "Source_Score": 7,
+            "Specificity": 5,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Notable opening imbalances: $BAC -1.1M, $C -184K, $BABA -234K, $TWTR -222K, $GE -147K, $F -108K, $V -52K, $HD -48K, $T",
+            "Correlation": 9,
+            "Sentiment": 5,
+            "Importance": 7,
+            "Impact": 8,
+            "Duration": 2,
+            "Virality": 3,
+            "Source_Score": 8,
+            "Specificity": 10,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 5
+        }
+    ]
+}

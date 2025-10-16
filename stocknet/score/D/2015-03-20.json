@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 3,
+        "Sentiment": 4,
+        "Importance": 2,
+        "Impact": 3,
+        "Duration": 2,
+        "Virality": 7,
+        "Source_Score": 5,
+        "Specificity": 4,
+        "Sector_Spread": 1,
+        "Tech_Mentions": 0
+    },
+    "Each_item": [
+        {
+            "News_content": "We Need Everyone To Tweet & Instagram @VsattenXXL & @XXL To Vote @ImNinoMan For #XXLFRESHMEN #XXLFRESHMEN2015 #SORaspy #B$D #HnRBlok Retweet",
+            "Correlation": 2,
+            "Sentiment": 6,
+            "Importance": 1,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 8,
+            "Source_Score": 4,
+            "Specificity": 5,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "@THE_TNT_TEAM Plan A Daashed by U.S. arrognc? Time for Plan BiBi? World tired of U$D with a Yaun? Set th gold China & just dust RV w sm Basel",
+            "Correlation": 4,
+            "Sentiment": 2,
+            "Importance": 3,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 6,
+            "Source_Score": 6,
+            "Specificity": 3,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        }
+    ]
+}

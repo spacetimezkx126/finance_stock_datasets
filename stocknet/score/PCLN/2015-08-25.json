@@ -1,0 +1,94 @@
+{
+    "Overall_score": {
+        "Correlation": 6,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 3,
+        "Duration": 2,
+        "Virality": 7,
+        "Source_Score": 5,
+        "Specificity": 4,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "CVX Chevron Corp. Stock Forum $CVX $PCLN $AAPL $CVX #CVX #stock #stocks",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 2,
+            "Virality": 6,
+            "Source_Score": 5,
+            "Specificity": 7,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "AVY Avery Dennison Corp. Company Info $AVY $GOLD $ERX $PCLN #AVY #investing #finance",
+            "Correlation": 7,
+            "Sentiment": 4,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 2,
+            "Virality": 5,
+            "Source_Score": 5,
+            "Specificity": 6,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "AVY Avery Dennison Corp. Exchange $AVY $CRGP $PCLN $EXEL #AVY #stock #finance",
+            "Correlation": 7,
+            "Sentiment": 4,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 2,
+            "Virality": 5,
+            "Source_Score": 5,
+            "Specificity": 6,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "BIB ProShares Ultra NASDAQ Biotechnology Summary $BIB $HYG $SUNE $PCLN #BIB #stockmarket #stocks",
+            "Correlation": 6,
+            "Sentiment": 5,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 2,
+            "Virality": 7,
+            "Source_Score": 5,
+            "Specificity": 5,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "ARIA ARIAD Pharmaceuticals, Inc. Change $ARIA $PCLN $SLV $AMBA #ARIA #pennystocks #finance",
+            "Correlation": 6,
+            "Sentiment": 4,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 2,
+            "Virality": 6,
+            "Source_Score": 5,
+            "Specificity": 5,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Subscribers Saw A 525% Gain On $GEQU & A SECRET New Pick Is Out! See The Private Info: $PCLN $DAL $YELP",
+            "Correlation": 5,
+            "Sentiment": 8,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 9,
+            "Source_Score": 4,
+            "Specificity": 3,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 1
+        }
+    ]
+}

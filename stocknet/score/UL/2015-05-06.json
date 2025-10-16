@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 3,
+        "Sentiment": 5,
+        "Importance": 2,
+        "Impact": 3,
+        "Duration": 2,
+        "Virality": 4,
+        "Source_Score": 6,
+        "Specificity": 3,
+        "Sector_Spread": 1,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @mediasentiment: $UL received a new alert. See why at #stocks #markets #daytrading",
+            "Correlation": 3,
+            "Sentiment": 5,
+            "Importance": 2,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 4,
+            "Source_Score": 6,
+            "Specificity": 3,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        }
+    ]
+}

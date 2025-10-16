@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 5,
+        "Importance": 6,
+        "Impact": 4,
+        "Duration": 3,
+        "Virality": 2,
+        "Source_Score": 7,
+        "Specificity": 7,
+        "Sector_Spread": 5,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "Which Of The Latest 13F Filers Holds Home Depot? #HOME DEPOT INC #SP500",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 6,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 7,
+            "Specificity": 7,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 1
+        }
+    ]
+}

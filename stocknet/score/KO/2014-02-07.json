@@ -1,0 +1,94 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 7,
+        "Importance": 8,
+        "Impact": 7,
+        "Duration": 6,
+        "Virality": 5,
+        "Source_Score": 9,
+        "Specificity": 8,
+        "Sector_Spread": 4,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "Why we'll be shorting $GMCR ($115) despite their deal with $KO",
+            "Correlation": 9,
+            "Sentiment": 3,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 4,
+            "Source_Score": 8,
+            "Specificity": 9,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Jim Cramer says this deal is a game-changer: • $GMCR $KO",
+            "Correlation": 8,
+            "Sentiment": 9,
+            "Importance": 8,
+            "Impact": 7,
+            "Duration": 6,
+            "Virality": 6,
+            "Source_Score": 9,
+            "Specificity": 7,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Green Mountain Looks To Conquer Home Soda Market, $KO BUYS 10% of $GMCR for $1.25B To develop cold bev prod.",
+            "Correlation": 10,
+            "Sentiment": 8,
+            "Importance": 9,
+            "Impact": 8,
+            "Duration": 7,
+            "Virality": 5,
+            "Source_Score": 7,
+            "Specificity": 10,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "What Companies Stand To Benefit From The Winter #Olympics In #Sochi? $DOW $GE $KO",
+            "Correlation": 6,
+            "Sentiment": 5,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 7,
+            "Source_Score": 6,
+            "Specificity": 5,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Good!! Jim Cramer says this deal is a game-changer: • $GMCR $KO",
+            "Correlation": 8,
+            "Sentiment": 9,
+            "Importance": 8,
+            "Impact": 7,
+            "Duration": 6,
+            "Virality": 6,
+            "Source_Score": 9,
+            "Specificity": 7,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "$KO Gay Rights Protests Against Olympic Sponsors Continue Into Opening Ceremony",
+            "Correlation": 7,
+            "Sentiment": 4,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 5,
+            "Virality": 8,
+            "Source_Score": 7,
+            "Specificity": 6,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        }
+    ]
+}

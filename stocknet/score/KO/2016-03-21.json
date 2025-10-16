@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 6,
+        "Importance": 5,
+        "Impact": 4,
+        "Duration": 3,
+        "Virality": 2,
+        "Source_Score": 8,
+        "Specificity": 6,
+        "Sector_Spread": 5,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "Coca-Cola $KO Stake Boosted by Checchi Capital Advisers LLC",
+            "Correlation": 9,
+            "Sentiment": 7,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 8,
+            "Specificity": 8,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "More Soda Taxes, Time To Invest In Cuba? - Bezek's Daily Briefing $CCL $CPA $CUBA $KO $NCLH $PEP $RCL $USO",
+            "Correlation": 6,
+            "Sentiment": 5,
+            "Importance": 5,
+            "Impact": 3,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 8,
+            "Specificity": 5,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        }
+    ]
+}

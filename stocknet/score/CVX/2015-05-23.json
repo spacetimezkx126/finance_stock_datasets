@@ -1,0 +1,68 @@
+{
+    "Overall_score": {
+        "Correlation": 6,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 4,
+        "Duration": 3,
+        "Virality": 2,
+        "Source_Score": 3,
+        "Specificity": 5,
+        "Sector_Spread": 7,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "bosocial: leahanneta: INTC Intel Corp. Volume $INTC $CAT $CVX $JNK #INTC #nasdaq #stock",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 3,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 2,
+            "Source_Score": 4,
+            "Specificity": 7,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "JPM J.P. Morgan Chase & Co. News $JPM $COP $AAPL $CVX #JPM #stocks #nasdaqK.TO Kinross Gold Corp. Stock Message",
+            "Correlation": 7,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 3,
+            "Source_Score": 5,
+            "Specificity": 6,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "CVX Chevron Corp. Ask $CVX $QLD $T $SWKS #CVX #stockmarket #invest",
+            "Correlation": 6,
+            "Sentiment": 4,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 3,
+            "Specificity": 5,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "CVX Deere & Co. Ask Size $CVX $ADMD $TVIX $GILD #CVX #share #pennystocks",
+            "Correlation": 5,
+            "Sentiment": 4,
+            "Importance": 3,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 1,
+            "Source_Score": 3,
+            "Specificity": 4,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 1
+        }
+    ]
+}

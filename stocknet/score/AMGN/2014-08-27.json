@@ -1,0 +1,81 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 6,
+        "Duration": 3,
+        "Virality": 2,
+        "Source_Score": 5,
+        "Specificity": 8,
+        "Sector_Spread": 3,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "http://t.co/oHSUax81PW",
+            "Correlation": 6,
+            "Sentiment": 4,
+            "Importance": 3,
+            "Impact": 5,
+            "Duration": 2,
+            "Virality": 1,
+            "Source_Score": 4,
+            "Specificity": 7,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "bobirw: Cover 500 $AMGN at 137.35 +.04:",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 7,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 6,
+            "Specificity": 9,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "bobirw",
+            "Correlation": 5,
+            "Sentiment": 3,
+            "Importance": 2,
+            "Impact": 4,
+            "Duration": 1,
+            "Virality": 2,
+            "Source_Score": 5,
+            "Specificity": 6,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "http://t.co/U2M44W0Z0U",
+            "Correlation": 6,
+            "Sentiment": 4,
+            "Importance": 3,
+            "Impact": 5,
+            "Duration": 2,
+            "Virality": 1,
+            "Source_Score": 4,
+            "Specificity": 7,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "http://t.co/oHSUax81PW",
+            "Correlation": 6,
+            "Sentiment": 4,
+            "Importance": 3,
+            "Impact": 5,
+            "Duration": 2,
+            "Virality": 1,
+            "Source_Score": 4,
+            "Specificity": 7,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        }
+    ]
+}

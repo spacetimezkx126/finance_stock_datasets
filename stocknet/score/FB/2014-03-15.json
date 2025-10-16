@@ -1,0 +1,120 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 6,
+        "Impact": 6,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 6,
+        "Specificity": 7,
+        "Sector_Spread": 5,
+        "Tech_Mentions": 4
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @WadeSlome: Investing, Housing, and Speculating: The fundamentals behind valuing stocks via the housing market.",
+            "Correlation": 5,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 7,
+            "Specificity": 4,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "ClayTrader: $FB - Live Trade – Turning a Loss: ClayTrader",
+            "Correlation": 9,
+            "Sentiment": 4,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 2,
+            "Virality": 3,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 6
+        },
+        {
+            "News_content": "$FB Pullback just about the same as 2/26.  Will be on watch.",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 6,
+            "Impact": 6,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 6,
+            "Specificity": 7,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 7
+        },
+        {
+            "News_content": "Get the latest on $RVBD $TMO $PCL $FB",
+            "Correlation": 7,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 2,
+            "Source_Score": 5,
+            "Specificity": 6,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Free research on $SLB $PH $BSX $FB",
+            "Correlation": 7,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 6,
+            "Specificity": 6,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Earnings news on $SNA $DNB $HMA $FB",
+            "Correlation": 8,
+            "Sentiment": 7,
+            "Importance": 8,
+            "Impact": 7,
+            "Duration": 5,
+            "Virality": 3,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "Best information on #stocks like $IT $CBT $PNW $FB",
+            "Correlation": 6,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 6,
+            "Specificity": 5,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "$FB Facebook Gets Price Target Bump Based On Ad Strength",
+            "Correlation": 9,
+            "Sentiment": 8,
+            "Importance": 8,
+            "Impact": 7,
+            "Duration": 4,
+            "Virality": 5,
+            "Source_Score": 8,
+            "Specificity": 9,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 3
+        }
+    ]
+}

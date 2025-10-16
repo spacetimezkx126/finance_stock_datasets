@@ -1,0 +1,68 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 6,
+        "Importance": 5,
+        "Impact": 4,
+        "Duration": 3,
+        "Virality": 2,
+        "Source_Score": 5,
+        "Specificity": 6,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "$PCLN: http://t.co/LDu1c3S64y unveils last-minute accommodation deals for the Milan ...: http://t.co/Hgf39jXdaP",
+            "Correlation": 9,
+            "Sentiment": 7,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 6,
+            "Specificity": 8,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "$PCLN - Additional Proxy Soliciting Materials (definitive) (defa14a) http://t.co/BrKSurZEGt",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 7,
+            "Impact": 4,
+            "Duration": 5,
+            "Virality": 2,
+            "Source_Score": 7,
+            "Specificity": 9,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Eye of the tiger, baby! $GOOG $PCLN $TWTR $FB $AAPL $EBAY $GM $DUST $BABA http://t.co/JUFJoVvAWo http://t.co/Hqtnh6rMVJ",
+            "Correlation": 5,
+            "Sentiment": 8,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 6,
+            "Source_Score": 4,
+            "Specificity": 3,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Your first 'green' trade for Thursday, April 23: http://t.co/tVAT2s0BLc $AAPL $GOOG $PCLN $K",
+            "Correlation": 6,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 3,
+            "Duration": 3,
+            "Virality": 4,
+            "Source_Score": 5,
+            "Specificity": 5,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        }
+    ]
+}

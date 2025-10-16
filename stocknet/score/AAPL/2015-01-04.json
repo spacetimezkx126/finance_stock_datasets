@@ -1,0 +1,81 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 5,
+        "Importance": 6,
+        "Impact": 7,
+        "Duration": 4,
+        "Virality": 7,
+        "Source_Score": 9,
+        "Specificity": 6,
+        "Sector_Spread": 5,
+        "Tech_Mentions": 3
+    },
+    "Each_item": [
+        {
+            "News_content": "Thxs for mention. RT @abnormalreturns Sunday links: unholy alliance, the $AAPL Watch debate, a look at the $SHAK IPO.",
+            "Correlation": 7,
+            "Sentiment": 4,
+            "Importance": 5,
+            "Impact": 6,
+            "Duration": 3,
+            "Virality": 6,
+            "Source_Score": 8,
+            "Specificity": 5,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "RT @WSJ: See how tech companies like Apple, Twitter and Facebook rank in terms of diversity: $AAPL $FB",
+            "Correlation": 6,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 8,
+            "Source_Score": 10,
+            "Specificity": 6,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "The Apple Watch Isn't Here Yet, But The Battle Over It Has Already Started $AAPL",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 7,
+            "Impact": 8,
+            "Duration": 5,
+            "Virality": 7,
+            "Source_Score": 9,
+            "Specificity": 8,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "$AAPL JohnSamuel: NEW YORK (MarketWatch) — There have only been: JohnSamuel",
+            "Correlation": 5,
+            "Sentiment": 3,
+            "Importance": 3,
+            "Impact": 4,
+            "Duration": 2,
+            "Virality": 4,
+            "Source_Score": 7,
+            "Specificity": 4,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT @IBDinvestors: 5 IBD 50 Stocks Poised For Strong '15 Earnings Gains $AMBA $GPRO $BIDU $FB $AAPL $AVGO",
+            "Correlation": 7,
+            "Sentiment": 7,
+            "Importance": 6,
+            "Impact": 7,
+            "Duration": 5,
+            "Virality": 8,
+            "Source_Score": 9,
+            "Specificity": 7,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 2
+        }
+    ]
+}

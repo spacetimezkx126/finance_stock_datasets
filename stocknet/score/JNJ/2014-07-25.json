@@ -1,0 +1,94 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 6,
+        "Importance": 5,
+        "Impact": 4,
+        "Duration": 3,
+        "Virality": 2,
+        "Source_Score": 8,
+        "Specificity": 6,
+        "Sector_Spread": 5,
+        "Tech_Mentions": 3
+    },
+    "Each_item": [
+        {
+            "News_content": "CRM announced a new partnership to enhance customer engagement solutions.",
+            "Correlation": 9,
+            "Sentiment": 8,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 4,
+            "Source_Score": 9,
+            "Specificity": 8,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "Pennystock reported increased trading volume due to speculative interest.",
+            "Correlation": 6,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 7,
+            "Source_Score": 5,
+            "Specificity": 3,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Research indicates potential growth in the tech sector over the next year.",
+            "Correlation": 7,
+            "Sentiment": 7,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 8,
+            "Virality": 3,
+            "Source_Score": 8,
+            "Specificity": 5,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 4
+        },
+        {
+            "News_content": "SLG released Q3 earnings showing a slight increase in revenue.",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 7,
+            "Specificity": 7,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "JNJ is conducting trials for a new drug targeting chronic conditions.",
+            "Correlation": 8,
+            "Sentiment": 7,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 6,
+            "Virality": 3,
+            "Source_Score": 9,
+            "Specificity": 8,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "AAPL stock analysts predict a bullish trend following product launches.",
+            "Correlation": 9,
+            "Sentiment": 8,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 6,
+            "Source_Score": 9,
+            "Specificity": 8,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 7
+        }
+    ]
+}

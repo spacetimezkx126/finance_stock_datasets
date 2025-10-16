@@ -1,0 +1,55 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 6,
+        "Importance": 5,
+        "Impact": 4,
+        "Duration": 3,
+        "Virality": 2,
+        "Source_Score": 6,
+        "Specificity": 7,
+        "Sector_Spread": 3,
+        "Tech_Mentions": 5
+    },
+    "Each_item": [
+        {
+            "News_content": "Coca-Cola (NYSE:KO) Receives Consensus Recommendation",
+            "Correlation": 9,
+            "Sentiment": 7,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 8,
+            "Specificity": 8,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "$KO #vorreifarfelice towards a new record 45.19 168% FIBO, hi-trix, very good accumulative swing",
+            "Correlation": 10,
+            "Sentiment": 8,
+            "Importance": 5,
+            "Impact": 6,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 4,
+            "Specificity": 9,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 9
+        },
+        {
+            "News_content": "A Blogroll For Dividend Growth Investors $KO",
+            "Correlation": 6,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 1,
+            "Source_Score": 7,
+            "Specificity": 6,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 1
+        }
+    ]
+}

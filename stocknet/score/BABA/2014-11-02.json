@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 7,
+        "Importance": 8,
+        "Impact": 7,
+        "Duration": 6,
+        "Virality": 5,
+        "Source_Score": 6,
+        "Specificity": 7,
+        "Sector_Spread": 9,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "APPLE X ALIBABA? $APPL’S COOK HINTS AT THE PARTNERSHIP $BABA http://t.co/w6ssS20QSj #stocks #trading",
+            "Correlation": 10,
+            "Sentiment": 8,
+            "Importance": 9,
+            "Impact": 8,
+            "Duration": 7,
+            "Virality": 6,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "This quote from Alibaba's President shows how they plan to exceed Walmart -> http://t.co/W34REYW8QP $BABA $WMT",
+            "Correlation": 6,
+            "Sentiment": 6,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 4,
+            "Source_Score": 5,
+            "Specificity": 6,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 1
+        }
+    ]
+}

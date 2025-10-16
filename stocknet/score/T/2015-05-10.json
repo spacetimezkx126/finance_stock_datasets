@@ -1,0 +1,68 @@
+{
+    "Overall_score": {
+        "Correlation": 4,
+        "Sentiment": 3,
+        "Importance": 5,
+        "Impact": 4,
+        "Duration": 6,
+        "Virality": 2,
+        "Source_Score": 5,
+        "Specificity": 6,
+        "Sector_Spread": 7,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "BlackBerry Limited and T-Mobile US, Inc. Common Stock get back Verizon Communications Inc. Com",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 7,
+            "Virality": 3,
+            "Source_Score": 6,
+            "Specificity": 8,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "Working on 1. #banger #LeftCoa$T",
+            "Correlation": 2,
+            "Sentiment": 4,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 4,
+            "Virality": 1,
+            "Source_Score": 3,
+            "Specificity": 2,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "News Updated Sunday, May 10, 2015 05:06:32 AM",
+            "Correlation": 3,
+            "Sentiment": 1,
+            "Importance": 2,
+            "Impact": 1,
+            "Duration": 5,
+            "Virality": 1,
+            "Source_Score": 4,
+            "Specificity": 3,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Largest Telecommunication Services Assets      1:   2: Verizon Communications Inc. Com   3:",
+            "Correlation": 7,
+            "Sentiment": 3,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 8,
+            "Virality": 2,
+            "Source_Score": 7,
+            "Specificity": 7,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 8,
+        "Impact": 6,
+        "Duration": 4,
+        "Virality": 7,
+        "Source_Score": 6,
+        "Specificity": 7,
+        "Sector_Spread": 3,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "Hey USDOJ Loretta Lynch: After you shut down @NRA for promoting guns often used by criminals, you can go after $AAPL for encryption.",
+            "Correlation": 6,
+            "Sentiment": 4,
+            "Importance": 7,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 6,
+            "Source_Score": 5,
+            "Specificity": 6,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Attorney General on #Apple ($AAPL): We're Asking Them to Do What Their Customer Wants. Read more: https://t.co/STn3NpP9gD",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 9,
+            "Impact": 7,
+            "Duration": 5,
+            "Virality": 8,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 3
+        }
+    ]
+}

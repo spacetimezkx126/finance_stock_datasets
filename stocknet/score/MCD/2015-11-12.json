@@ -1,0 +1,68 @@
+{
+    "Overall_score": {
+        "Correlation": 6,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 5,
+        "Duration": 3,
+        "Virality": 2,
+        "Source_Score": 7,
+        "Specificity": 6,
+        "Sector_Spread": 3,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "EMH.V Emerald Health Therapeutics Inc. Short Sales",
+            "Correlation": 9,
+            "Sentiment": 3,
+            "Importance": 5,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 1,
+            "Source_Score": 8,
+            "Specificity": 9,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Dividend Growth Stocks As of Wednesday, November 11, 2015",
+            "Correlation": 4,
+            "Sentiment": 7,
+            "Importance": 3,
+            "Impact": 4,
+            "Duration": 2,
+            "Virality": 2,
+            "Source_Score": 6,
+            "Specificity": 4,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "MCD McDonalds Corp. Investor Opinions",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 4,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 3,
+            "Source_Score": 7,
+            "Specificity": 7,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT $MCD's CEO: Customers are telling us that we are running better restaurants than we were a year ago",
+            "Correlation": 7,
+            "Sentiment": 8,
+            "Importance": 5,
+            "Impact": 6,
+            "Duration": 3,
+            "Virality": 5,
+            "Source_Score": 8,
+            "Specificity": 6,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 6,
+        "Importance": 7,
+        "Impact": 6,
+        "Duration": 5,
+        "Virality": 4,
+        "Source_Score": 7,
+        "Specificity": 7,
+        "Sector_Spread": 6,
+        "Tech_Mentions": 5
+    },
+    "Each_item": [
+        {
+            "News_content": "This will piss off a lot of mobile developers ... Microsoft buys Xamarin for cross-platform mobile app tooling",
+            "Correlation": 9,
+            "Sentiment": 3,
+            "Importance": 8,
+            "Impact": 7,
+            "Duration": 6,
+            "Virality": 5,
+            "Source_Score": 6,
+            "Specificity": 8,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 4
+        },
+        {
+            "News_content": "#Microsoft stuck ads on the Windows 10 lock screen (here's how to disable them).",
+            "Correlation": 8,
+            "Sentiment": 2,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 7,
+            "Specificity": 7,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "#Microsoft buys Xamarin, engineering HQ expected to stay in Boston area.",
+            "Correlation": 9,
+            "Sentiment": 7,
+            "Importance": 8,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 4,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 4
+        },
+        {
+            "News_content": "@LSEGplc SELL $GPS BUY $MSFT",
+            "Correlation": 7,
+            "Sentiment": 6,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 5,
+            "Specificity": 7,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "#Microsoft Universal OneDrive app and other improvements on the way.",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 7,
+            "Specificity": 7,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 4
+        },
+        {
+            "News_content": "#Microsoft Universal OneDrive app and other improvements on the way.",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 7,
+            "Specificity": 7,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 4
+        },
+        {
+            "News_content": "#Microsoft plans to back Apple in court.",
+            "Correlation": 7,
+            "Sentiment": 6,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 5,
+            "Virality": 4,
+            "Source_Score": 7,
+            "Specificity": 6,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "#Microsoft 'Wholeheartedly' Supports Apple in FBI Encryption Case.",
+            "Correlation": 7,
+            "Sentiment": 7,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 5,
+            "Source_Score": 7,
+            "Specificity": 6,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "#Microsoft officially cancels 'Project Astoria' plans for porting Android apps to Windo...",
+            "Correlation": 8,
+            "Sentiment": 3,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 5
+        }
+    ]
+}

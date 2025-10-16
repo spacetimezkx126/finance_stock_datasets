@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 9,
+        "Sentiment": 8,
+        "Importance": 9,
+        "Impact": 8,
+        "Duration": 7,
+        "Virality": 6,
+        "Source_Score": 7,
+        "Specificity": 9,
+        "Sector_Spread": 5,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "$CHTR Offers $83 per Share In Cash, $49.50 in Stock for $TWC. Letter Sent to $TWC Today.",
+            "Correlation": 10,
+            "Sentiment": 8,
+            "Importance": 9,
+            "Impact": 8,
+            "Duration": 7,
+            "Virality": 6,
+            "Source_Score": 7,
+            "Specificity": 10,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Charter bids $61.3 billion for Time Warner Cable, according to reports.",
+            "Correlation": 8,
+            "Sentiment": 7,
+            "Importance": 9,
+            "Impact": 7,
+            "Duration": 6,
+            "Virality": 5,
+            "Source_Score": 6,
+            "Specificity": 8,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 3
+        }
+    ]
+}

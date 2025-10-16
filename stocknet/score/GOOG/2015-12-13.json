@@ -1,0 +1,94 @@
+{
+    "Overall_score": {
+        "Correlation": 4,
+        "Sentiment": 3,
+        "Importance": 5,
+        "Impact": 3,
+        "Duration": 2,
+        "Virality": 6,
+        "Source_Score": 5,
+        "Specificity": 4,
+        "Sector_Spread": 3,
+        "Tech_Mentions": 7
+    },
+    "Each_item": [
+        {
+            "News_content": "AHS AMN Healthcare Services, Inc. Current Price",
+            "Correlation": 10,
+            "Sentiment": 5,
+            "Importance": 3,
+            "Impact": 4,
+            "Duration": 1,
+            "Virality": 2,
+            "Source_Score": 6,
+            "Specificity": 9,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "KTKBANK.IN The Karnataka Bank Ltd. Tick",
+            "Correlation": 9,
+            "Sentiment": 4,
+            "Importance": 2,
+            "Impact": 3,
+            "Duration": 1,
+            "Virality": 1,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "See why these assets are trending in 1 watchlist",
+            "Correlation": 3,
+            "Sentiment": 6,
+            "Importance": 4,
+            "Impact": 2,
+            "Duration": 3,
+            "Virality": 8,
+            "Source_Score": 5,
+            "Specificity": 2,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Apple Music says will release Taylor Swift concert video December 20",
+            "Correlation": 2,
+            "Sentiment": 7,
+            "Importance": 5,
+            "Impact": 3,
+            "Duration": 4,
+            "Virality": 9,
+            "Source_Score": 6,
+            "Specificity": 6,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Apple Music says will release Taylor Swift concert video December 20:",
+            "Correlation": 2,
+            "Sentiment": 7,
+            "Importance": 5,
+            "Impact": 3,
+            "Duration": 4,
+            "Virality": 9,
+            "Source_Score": 6,
+            "Specificity": 6,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT #TRADING THE CANDLESTICK PATTERN TOOLBOX!",
+            "Correlation": 5,
+            "Sentiment": 4,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 2,
+            "Virality": 7,
+            "Source_Score": 4,
+            "Specificity": 7,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 10
+        }
+    ]
+}

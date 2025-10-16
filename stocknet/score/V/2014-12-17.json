@@ -1,0 +1,68 @@
+{
+    "Overall_score": {
+        "Correlation": 4,
+        "Sentiment": 3,
+        "Importance": 3,
+        "Impact": 3,
+        "Duration": 2,
+        "Virality": 5,
+        "Source_Score": 4,
+        "Specificity": 4,
+        "Sector_Spread": 3,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @J_kumar44: \"@BarbraBooth254: Get research on $NVR $HPT $IBM\"",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 4,
+            "Source_Score": 5,
+            "Specificity": 7,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT @wijzijnajax020: Nieuw op #WZAWZDB Vanavond spelen FC Calimero (P$V) en FC Werken (010) tegen elkaar.",
+            "Correlation": 2,
+            "Sentiment": 4,
+            "Importance": 2,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 6,
+            "Source_Score": 3,
+            "Specificity": 3,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "RT @FR1908Nieuws: RT @Ijgdrasill: P$V heeft geen 12e man dus offert Kuipers zich maar op. #psvFEY",
+            "Correlation": 1,
+            "Sentiment": 3,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 5,
+            "Source_Score": 3,
+            "Specificity": 2,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "Free webinar on using option spreads for profits $MA $V $C",
+            "Correlation": 7,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 4,
+            "Source_Score": 5,
+            "Specificity": 6,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 8
+        }
+    ]
+}

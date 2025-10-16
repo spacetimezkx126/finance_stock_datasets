@@ -1,0 +1,68 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 6,
+        "Duration": 3,
+        "Virality": 2,
+        "Source_Score": 6,
+        "Specificity": 5,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "JPM J.P. Morgan Chase & Co. Stock Message Board http://t.co/IZ58ckMUod $JPM $PSEC $C $IBM #JPM #tradeideas",
+            "Correlation": 9,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 7,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 7,
+            "Specificity": 6,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "MDCN Medican Enterprises, Inc. Short Sales http://t.co/yLIZKBMtpJ $MDCN $JNK $JPM $GUY.TO #MDCN #invest #pennystocks",
+            "Correlation": 6,
+            "Sentiment": 4,
+            "Importance": 3,
+            "Impact": 5,
+            "Duration": 2,
+            "Virality": 1,
+            "Source_Score": 5,
+            "Specificity": 4,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "JPM J.P. Morgan Chase & Co. News http://t.co/kkLu0qCaZ8 $JPM $COP $AAPL $CVX #JPM #stocks #nasdaq",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 6,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 6,
+            "Specificity": 5,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT @PolgarStocks: PVSP Pervasip Corp. Short Sales http://t.co/8C6cW8qS7w $PVSP $JPM $MYCC $AMBA #PVSP #finance #stocks",
+            "Correlation": 7,
+            "Sentiment": 4,
+            "Importance": 3,
+            "Impact": 5,
+            "Duration": 2,
+            "Virality": 1,
+            "Source_Score": 5,
+            "Specificity": 4,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        }
+    ]
+}

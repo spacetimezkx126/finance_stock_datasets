@@ -1,0 +1,81 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 7,
+        "Importance": 6,
+        "Impact": 7,
+        "Duration": 5,
+        "Virality": 4,
+        "Source_Score": 7,
+        "Specificity": 8,
+        "Sector_Spread": 5,
+        "Tech_Mentions": 3
+    },
+    "Each_item": [
+        {
+            "News_content": "Members alerted to 10-1800% potential. Subscribe $PFE $BUD $VZ $KO $BABA $V",
+            "Correlation": 3,
+            "Sentiment": 9,
+            "Importance": 2,
+            "Impact": 4,
+            "Duration": 2,
+            "Virality": 5,
+            "Source_Score": 4,
+            "Specificity": 2,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "$V is simply converting Class B $SQ shares to Class A ahead of lockup: It's ~10% of Class A. But ~1% of total $SQ shares outstanding.",
+            "Correlation": 9,
+            "Sentiment": 6,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 6,
+            "Specificity": 9,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "CNNMoney: Visa is now a big investor in the mobile payments company Square $V $SQ",
+            "Correlation": 8,
+            "Sentiment": 7,
+            "Importance": 6,
+            "Impact": 7,
+            "Duration": 5,
+            "Virality": 6,
+            "Source_Score": 8,
+            "Specificity": 7,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "Visa reports 9.99% stake in Jack Dorsey's payments startup Square; $V is now one of $SQ's too shareholders.",
+            "Correlation": 9,
+            "Sentiment": 7,
+            "Importance": 8,
+            "Impact": 8,
+            "Duration": 6,
+            "Virality": 5,
+            "Source_Score": 7,
+            "Specificity": 9,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "Visa is now a big investor in the mobile payments company Square $V $SQ",
+            "Correlation": 8,
+            "Sentiment": 7,
+            "Importance": 6,
+            "Impact": 7,
+            "Duration": 5,
+            "Virality": 4,
+            "Source_Score": 6,
+            "Specificity": 8,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 2
+        }
+    ]
+}

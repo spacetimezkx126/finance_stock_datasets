@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 6,
+        "Impact": 6,
+        "Duration": 4,
+        "Virality": 8,
+        "Source_Score": 9,
+        "Specificity": 5,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 3
+    },
+    "Each_item": [
+        {
+            "News_content": "Twitter Top 10 January 2015 Picks CELG FEYE GS LNKD YHOO BAC LULU RAD EBAY SBUX ORCL BIIB",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 9,
+            "Source_Score": 8,
+            "Specificity": 7,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "BAC Up to date company activities and other important information about BAC",
+            "Correlation": 6,
+            "Sentiment": 4,
+            "Importance": 7,
+            "Impact": 7,
+            "Duration": 5,
+            "Virality": 7,
+            "Source_Score": 10,
+            "Specificity": 4,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 4
+        }
+    ]
+}

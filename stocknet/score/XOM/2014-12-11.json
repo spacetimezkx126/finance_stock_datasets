@@ -1,0 +1,120 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 6,
+        "Importance": 7,
+        "Impact": 6,
+        "Duration": 5,
+        "Virality": 4,
+        "Source_Score": 5,
+        "Specificity": 8,
+        "Sector_Spread": 7,
+        "Tech_Mentions": 3
+    },
+    "Each_item": [
+        {
+            "News_content": "@Gdog88: @z8angela Hi what is your view Oil Stocks like $XOM? Blood in the Streets Yet?? - Yes. Oil stocks start looking capitulated.",
+            "Correlation": 9,
+            "Sentiment": 4,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 5,
+            "Source_Score": 4,
+            "Specificity": 8,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "Prefer to see Greece and then consider $XOM because lower OIL is beneficial.",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 3,
+            "Source_Score": 4,
+            "Specificity": 7,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "ExxonMobil: The Safest Way To Play The Oil Rebound? $XOM $CVX",
+            "Correlation": 9,
+            "Sentiment": 7,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 4,
+            "Source_Score": 6,
+            "Specificity": 8,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "$XOM - Statement of Changes in Beneficial Ownership (4)",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 2,
+            "Source_Score": 7,
+            "Specificity": 9,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "$XOM Bearish or Bullish on these #stocks $BEN $TUP $S #wallstreet",
+            "Correlation": 7,
+            "Sentiment": 5,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 4,
+            "Source_Score": 4,
+            "Specificity": 6,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "XOM -2.97% Stock Charts $XOM Exxon Mobil Corp.",
+            "Correlation": 9,
+            "Sentiment": 3,
+            "Importance": 4,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 3,
+            "Source_Score": 5,
+            "Specificity": 9,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 5
+        },
+        {
+            "News_content": "Are Oil Stock Dividends Safe? $XOM",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 5,
+            "Virality": 4,
+            "Source_Score": 5,
+            "Specificity": 7,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "#Exxon Mobil Corporation $XOM Bedrijfsdossier #BEURS z Voorwaarden",
+            "Correlation": 7,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 5,
+            "Specificity": 7,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 1
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "Overall_score": {
+        "Correlation": 6,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 3,
+        "Duration": 2,
+        "Virality": 4,
+        "Source_Score": 3,
+        "Specificity": 5,
+        "Sector_Spread": 2,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "Limit order entered to sell the $T 37.5P for April 1st. See if this stock will drop to hit my price.",
+            "Correlation": 8,
+            "Sentiment": 4,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 2,
+            "Source_Score": 3,
+            "Specificity": 9,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "No way is King Zito out-just a hurdle or 2 SPRING=everything new-Get ready cuz d'King of FA$T-CA$H/back 4 his crown!",
+            "Correlation": 4,
+            "Sentiment": 7,
+            "Importance": 2,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 6,
+            "Source_Score": 2,
+            "Specificity": 3,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "SuperAlerts Monthly changed my financial life for the better forever!!! check it out! $FXCM $T $AAVL $VRX",
+            "Correlation": 5,
+            "Sentiment": 8,
+            "Importance": 4,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 8,
+            "Source_Score": 4,
+            "Specificity": 5,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 0
+        }
+    ]
+}

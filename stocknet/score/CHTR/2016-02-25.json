@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 9,
+        "Importance": 6,
+        "Impact": 7,
+        "Duration": 5,
+        "Virality": 8,
+        "Source_Score": 4,
+        "Specificity": 7,
+        "Sector_Spread": 3,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "Our Stock Picks Gained 300% In 2 Months! Subscribe For Future Alerts $SSYS $CHTR $AMCF",
+            "Correlation": 8,
+            "Sentiment": 9,
+            "Importance": 6,
+            "Impact": 7,
+            "Duration": 5,
+            "Virality": 8,
+            "Source_Score": 4,
+            "Specificity": 7,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 2
+        }
+    ]
+}

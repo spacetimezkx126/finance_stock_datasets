@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 6,
+        "Importance": 5,
+        "Impact": 4,
+        "Duration": 7,
+        "Virality": 3,
+        "Source_Score": 9,
+        "Specificity": 8,
+        "Sector_Spread": 10,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @SeekingAlpha: Global Dividend Top 10 Dogs Averaged 8.7% Yields On Oct. 28 $CIG $E $EC $ELP $FLY $HSBC $MCD $MIL",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 7,
+            "Virality": 3,
+            "Source_Score": 9,
+            "Specificity": 8,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 2
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 3,
+        "Sentiment": 5,
+        "Importance": 2,
+        "Impact": 2,
+        "Duration": 4,
+        "Virality": 1,
+        "Source_Score": 3,
+        "Specificity": 3,
+        "Sector_Spread": 2,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "Is $UPS a buy? Thanks",
+            "Correlation": 3,
+            "Sentiment": 5,
+            "Importance": 2,
+            "Impact": 2,
+            "Duration": 4,
+            "Virality": 1,
+            "Source_Score": 3,
+            "Specificity": 3,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        }
+    ]
+}

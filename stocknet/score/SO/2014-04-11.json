@@ -1,0 +1,81 @@
+{
+    "Overall_score": {
+        "Correlation": 6,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 5,
+        "Duration": 3,
+        "Virality": 2,
+        "Source_Score": 3,
+        "Specificity": 7,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "A$SO my nigga, boyyyy'a.",
+            "Correlation": 2,
+            "Sentiment": 8,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 4,
+            "Source_Score": 2,
+            "Specificity": 3,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "#Stocks you might want to buy $SO $BAH $BR $PCLN #NSE",
+            "Correlation": 7,
+            "Sentiment": 6,
+            "Importance": 3,
+            "Impact": 4,
+            "Duration": 2,
+            "Virality": 3,
+            "Source_Score": 4,
+            "Specificity": 8,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "S&P100 #Stocks Trend $COP $MCD $DVN $SO $CL $KO $IBM $T $HPQ $CSCO $AEP $MDLZ $PG $MO $SPG $PEP $CAT $PM $MRK",
+            "Correlation": 9,
+            "Sentiment": 5,
+            "Importance": 5,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 2,
+            "Source_Score": 6,
+            "Specificity": 10,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Todays movers to research $HXL $SO $ROK $S",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 5,
+            "Specificity": 9,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Looking for the next $GMCR $SO $KMX $DUST",
+            "Correlation": 7,
+            "Sentiment": 6,
+            "Importance": 4,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 4,
+            "Specificity": 8,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 1
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "Overall_score": {
+        "Correlation": 6,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 3,
+        "Duration": 2,
+        "Virality": 4,
+        "Source_Score": 5,
+        "Specificity": 7,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "Looking for the next $CELG $TECH $CA $CBM",
+            "Correlation": 7,
+            "Sentiment": 6,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 2,
+            "Virality": 3,
+            "Source_Score": 5,
+            "Specificity": 8,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Looking for research on $CELG $DF $WDR $ISRG",
+            "Correlation": 6,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 4,
+            "Source_Score": 5,
+            "Specificity": 7,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "@jackstone104 I'd never touch $IBB. Too much junk in there. Play $GILD, $ACT, $VRX, $SHPG, $CELG, $REGN.",
+            "Correlation": 5,
+            "Sentiment": 4,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 2,
+            "Virality": 5,
+            "Source_Score": 5,
+            "Specificity": 6,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        }
+    ]
+}

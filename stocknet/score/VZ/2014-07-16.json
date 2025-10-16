@@ -1,0 +1,55 @@
+{
+    "Overall_score": {
+        "Correlation": 6,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 5,
+        "Duration": 3,
+        "Virality": 2,
+        "Source_Score": 4,
+        "Specificity": 5,
+        "Sector_Spread": 7,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "Some Stocks to Watch NBL DUK USD overvalued",
+            "Correlation": 8,
+            "Sentiment": 3,
+            "Importance": 5,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 2,
+            "Source_Score": 5,
+            "Specificity": 7,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "winners like MAA VZ GME IBM Stock",
+            "Correlation": 7,
+            "Sentiment": 7,
+            "Importance": 4,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 3,
+            "Source_Score": 4,
+            "Specificity": 6,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "VZ Wow Great Stock Research on FLIR SBNY DUST wealthmanagement",
+            "Correlation": 6,
+            "Sentiment": 8,
+            "Importance": 3,
+            "Impact": 4,
+            "Duration": 2,
+            "Virality": 1,
+            "Source_Score": 3,
+            "Specificity": 5,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        }
+    ]
+}

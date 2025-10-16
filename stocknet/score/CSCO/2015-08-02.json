@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 3,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 4,
+        "Duration": 6,
+        "Virality": 2,
+        "Source_Score": 3,
+        "Specificity": 3,
+        "Sector_Spread": 7,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "CSCO Canadian Solar Inc. Open $CSCO $GLD $FOLD #CSCO #stocks",
+            "Correlation": 6,
+            "Sentiment": 5,
+            "Importance": 3,
+            "Impact": 3,
+            "Duration": 5,
+            "Virality": 2,
+            "Source_Score": 4,
+            "Specificity": 6,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "$CSCO Recent News Updated Sunday, August 2, 2015 07:06:48 AM $CELG $EWZ $RGLD $ABX",
+            "Correlation": 4,
+            "Sentiment": 5,
+            "Importance": 5,
+            "Impact": 5,
+            "Duration": 7,
+            "Virality": 2,
+            "Source_Score": 3,
+            "Specificity": 4,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 1
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 6,
+        "Importance": 7,
+        "Impact": 5,
+        "Duration": 8,
+        "Virality": 4,
+        "Source_Score": 7,
+        "Specificity": 8,
+        "Sector_Spread": 6,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "3M to Announce New Policy for Forest Protection, Endangered Species and Forest Communities",
+            "Correlation": 9,
+            "Sentiment": 8,
+            "Importance": 8,
+            "Impact": 6,
+            "Duration": 10,
+            "Virality": 5,
+            "Source_Score": 7,
+            "Specificity": 9,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "All-Time Highs: ABMD, ARG, GWB, AFG, MAR, MMM, LEA, ACT, ALV, LII, HAS, APD, CODE, DLPH, AGU",
+            "Correlation": 8,
+            "Sentiment": 7,
+            "Importance": 6,
+            "Impact": 7,
+            "Duration": 6,
+            "Virality": 3,
+            "Source_Score": 6,
+            "Specificity": 8,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "$MMM Company Info Updated Tuesday, March 3, 2015",
+            "Correlation": 5,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 4,
+            "Virality": 2,
+            "Source_Score": 7,
+            "Specificity": 7,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        }
+    ]
+}

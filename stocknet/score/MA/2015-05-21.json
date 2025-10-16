@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 6,
+        "Impact": 4,
+        "Duration": 3,
+        "Virality": 2,
+        "Source_Score": 5,
+        "Specificity": 4,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "royfberger: $TWTR $FB $LNKD $MA Wednesday Evening Reads – 5/20/15 - Update from Option Million… http://t.co/i8HJt85krl",
+            "Correlation": 7,
+            "Sentiment": 5,
+            "Importance": 6,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 5,
+            "Specificity": 4,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        }
+    ]
+}

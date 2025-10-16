@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 3,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 3,
+        "Duration": 2,
+        "Virality": 6,
+        "Source_Score": 5,
+        "Specificity": 3,
+        "Sector_Spread": 7,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "TWTR United States Natural Gas Fund News http://t.co/sKvV480TQe $TWTR $PG $FNMA $SWKS #TWTR #stock #invest",
+            "Correlation": 3,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 6,
+            "Source_Score": 5,
+            "Specificity": 3,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        }
+    ]
+}

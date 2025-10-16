@@ -1,0 +1,55 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 6,
+        "Impact": 6,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 8,
+        "Specificity": 5,
+        "Sector_Spread": 2,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "Zacks Rating Disclosure on AbbVie Inc",
+            "Correlation": 9,
+            "Sentiment": 6,
+            "Importance": 7,
+            "Impact": 7,
+            "Duration": 5,
+            "Virality": 2,
+            "Source_Score": 9,
+            "Specificity": 8,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "GS on the non-transparent figures",
+            "Correlation": 8,
+            "Sentiment": 4,
+            "Importance": 6,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 10,
+            "Specificity": 7,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "See what others are saying about Super_trades - twitter testimonials",
+            "Correlation": 5,
+            "Sentiment": 5,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 6,
+            "Source_Score": 6,
+            "Specificity": 3,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        }
+    ]
+}

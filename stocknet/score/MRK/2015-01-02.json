@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 5,
+        "Importance": 7,
+        "Impact": 6,
+        "Duration": 9,
+        "Virality": 3,
+        "Source_Score": 7,
+        "Specificity": 8,
+        "Sector_Spread": 10,
+        "Tech_Mentions": 4
+    },
+    "Each_item": [
+        {
+            "News_content": "BMY MRK AZN Risk-adjusted Scenarios for US and WW IO Market, 2020E & 2025E (by Company)",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 9,
+            "Virality": 3,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 4
+        }
+    ]
+}

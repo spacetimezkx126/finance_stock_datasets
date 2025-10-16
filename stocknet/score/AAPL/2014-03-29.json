@@ -1,0 +1,107 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 6,
+        "Importance": 6,
+        "Impact": 5,
+        "Duration": 4,
+        "Virality": 5,
+        "Source_Score": 8,
+        "Specificity": 7,
+        "Sector_Spread": 6,
+        "Tech_Mentions": 3
+    },
+    "Each_item": [
+        {
+            "News_content": "Apple sends out letters to Cupertino 'neighbors' with updates on Campus 2 ... - Apple Insider",
+            "Correlation": 9,
+            "Sentiment": 7,
+            "Importance": 7,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 6,
+            "Source_Score": 8,
+            "Specificity": 9,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "Microsoft's Office for iPad: A cloud revenue boon - ZDNet",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 5,
+            "Source_Score": 9,
+            "Specificity": 8,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 4
+        },
+        {
+            "News_content": "Microsoft says printing functions will come to Office for iPad soon - PCWorld",
+            "Correlation": 7,
+            "Sentiment": 5,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 4,
+            "Source_Score": 8,
+            "Specificity": 7,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "Twitter memiliki simbol $ (cashtags) untuk melihat twit tentang saham dan perusahaan, contoh untuk Apple.",
+            "Correlation": 6,
+            "Sentiment": 4,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 7,
+            "Source_Score": 5,
+            "Specificity": 6,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Need to work hard to increase the stock price so they can hire more talent to increase the \"health tech\" portfolio",
+            "Correlation": 5,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 5,
+            "Virality": 3,
+            "Source_Score": 4,
+            "Specificity": 5,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 5
+        },
+        {
+            "News_content": "Taiwans Hon Hai profit up 12.7% in 2013 on iPhone demand",
+            "Correlation": 8,
+            "Sentiment": 7,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 5,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "Apple gets a 30% cut of Office for iPad sales: (via )",
+            "Correlation": 9,
+            "Sentiment": 6,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 6,
+            "Source_Score": 8,
+            "Specificity": 9,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 3
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "Overall_score": {
+        "Correlation": 3,
+        "Sentiment": 4,
+        "Importance": 5,
+        "Impact": 4,
+        "Duration": 3,
+        "Virality": 6,
+        "Source_Score": 5,
+        "Specificity": 7,
+        "Sector_Spread": 2,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @rvardit: Apuesto $50 pesos Falklands que CFK se pone a twitear del Airbus 330 de Aerolineas. Como si fuera un logro los U$D 2M de perd",
+            "Correlation": 5,
+            "Sentiment": 3,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 5,
+            "Source_Score": 4,
+            "Specificity": 8,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT @MaihenH: 2000 Millardos U$D se Invirtieron en el 2do Puente del Lago de Maracaibo y no se Termino en 2010. #CorrupcionRoja",
+            "Correlation": 4,
+            "Sentiment": 5,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 7,
+            "Source_Score": 5,
+            "Specificity": 9,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "$$$ $\n #$44$HARD$CORE$2$D$WORLD$FAMILY$$$",
+            "Correlation": 1,
+            "Sentiment": 2,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 3,
+            "Source_Score": 2,
+            "Specificity": 1,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT @TachiraProtesta: #CorrupcionRoja 2000 MilIonés U$D se Invirtieron en el 2do Puente del Lago de Maracaibo en 2010 y no Se terminó",
+            "Correlation": 4,
+            "Sentiment": 5,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 7,
+            "Source_Score": 5,
+            "Specificity": 9,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        }
+    ]
+}

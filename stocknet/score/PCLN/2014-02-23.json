@@ -1,0 +1,81 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 6,
+        "Importance": 5,
+        "Impact": 6,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 6,
+        "Specificity": 7,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 4
+    },
+    "Each_item": [
+        {
+            "News_content": "Are you selling NOW INTU TSS PCLN View now",
+            "Correlation": 8,
+            "Sentiment": 4,
+            "Importance": 3,
+            "Impact": 5,
+            "Duration": 2,
+            "Virality": 3,
+            "Source_Score": 5,
+            "Specificity": 7,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "Is PCLN a BUY? Morgan Stanley thinks so",
+            "Correlation": 9,
+            "Sentiment": 8,
+            "Importance": 7,
+            "Impact": 8,
+            "Duration": 5,
+            "Virality": 6,
+            "Source_Score": 9,
+            "Specificity": 8,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "5 Trade Ideas that Can Make 500%+ in the Coming Correction: AAPL SQQQ TZA PCLN UNG USO hedging profits",
+            "Correlation": 7,
+            "Sentiment": 6,
+            "Importance": 6,
+            "Impact": 7,
+            "Duration": 4,
+            "Virality": 4,
+            "Source_Score": 6,
+            "Specificity": 7,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 5
+        },
+        {
+            "News_content": "Stock Watchlist. Find out why MHK SYMC NEM PCLN",
+            "Correlation": 7,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 5,
+            "Specificity": 6,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "Its breaktout time on ATR WFC PNCL HCN PCLN liquidity",
+            "Correlation": 8,
+            "Sentiment": 7,
+            "Importance": 5,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 6,
+            "Specificity": 8,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 4
+        }
+    ]
+}

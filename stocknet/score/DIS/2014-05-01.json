@@ -1,0 +1,68 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 6,
+        "Importance": 6,
+        "Impact": 5,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 5,
+        "Specificity": 6,
+        "Sector_Spread": 4,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "$DIS - ‘Angry Birds’ Maker Rovio’s Profit Growth Stalls Out in 2013",
+            "Correlation": 8,
+            "Sentiment": 4,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 6,
+            "Specificity": 8,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "5 star dining for 5 star stocks. @63Hyacinth @WolfOfWeedST #63Hyacinth #Wolfpack $VPOR $MINE $MYEC $FRTD $DIS $NKE",
+            "Correlation": 3,
+            "Sentiment": 7,
+            "Importance": 2,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 5,
+            "Source_Score": 4,
+            "Specificity": 2,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "Earnings And Business Segment Growth To Add To Disney's Magic $DIS",
+            "Correlation": 9,
+            "Sentiment": 8,
+            "Importance": 8,
+            "Impact": 7,
+            "Duration": 5,
+            "Virality": 4,
+            "Source_Score": 7,
+            "Specificity": 9,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "$DIS - Can Viacom (VIAB) Surprise This Earnings Season?",
+            "Correlation": 7,
+            "Sentiment": 6,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 6,
+            "Specificity": 7,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 2
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 5,
+        "Sentiment": 3,
+        "Importance": 7,
+        "Impact": 6,
+        "Duration": 4,
+        "Virality": 5,
+        "Source_Score": 8,
+        "Specificity": 6,
+        "Sector_Spread": 4,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "Pentagon Official Criticiz",
+            "Correlation": 5,
+            "Sentiment": 3,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 5,
+            "Source_Score": 8,
+            "Specificity": 6,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 1
+        }
+    ]
+}

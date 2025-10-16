@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 6,
+        "Sentiment": 4,
+        "Importance": 5,
+        "Impact": 4,
+        "Duration": 3,
+        "Virality": 7,
+        "Source_Score": 5,
+        "Specificity": 6,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @The_Real_Fly: ATTENTION: ALL PERSONS WORKING IN THE BAKKEN SHALE, PLEASE REPORT TO YOUR NEW JOBS AT $WMT. THIS IS YOUR GOVT SPEAKING.",
+            "Correlation": 7,
+            "Sentiment": 3,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 8,
+            "Source_Score": 4,
+            "Specificity": 7,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Thanksgiving weekend retail sales decline http://t.co/gAfAJDmNeA $TGT $WMT $XLP $XLY",
+            "Correlation": 5,
+            "Sentiment": 5,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 6,
+            "Source_Score": 6,
+            "Specificity": 5,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 3
+        }
+    ]
+}

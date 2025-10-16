@@ -1,0 +1,55 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 6,
+        "Importance": 5,
+        "Impact": 6,
+        "Duration": 4,
+        "Virality": 5,
+        "Source_Score": 3,
+        "Specificity": 6,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "$SPX HOW AM I #BULLISH 😳™ $INTC $NVDA $AVGO AS StockTwits #TRADING FOR GODOT! 'CUSHION' NOT CRITERIA $STUDY WKND!…",
+            "Correlation": 9,
+            "Sentiment": 7,
+            "Importance": 6,
+            "Impact": 7,
+            "Duration": 5,
+            "Virality": 8,
+            "Source_Score": 4,
+            "Specificity": 7,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "FIT Fitbit, Inc. Current Price $FIT $CDII $INTC $DD #FIT #stock #investing",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 6,
+            "Source_Score": 3,
+            "Specificity": 8,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "INTC Intel Corp. Shares $INTC $GEQU $EUM $SCCO #INTC #tradeideas #share",
+            "Correlation": 7,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 5,
+            "Source_Score": 3,
+            "Specificity": 6,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 2
+        }
+    ]
+}

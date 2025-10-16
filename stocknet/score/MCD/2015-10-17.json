@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 3,
+        "Importance": 7,
+        "Impact": 6,
+        "Duration": 4,
+        "Virality": 5,
+        "Source_Score": 6,
+        "Specificity": 8,
+        "Sector_Spread": 3,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @HedgeyeHWP: McDonald's franchisees say all-day breakfast is a nightmare $MCD",
+            "Correlation": 8,
+            "Sentiment": 3,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 5,
+            "Source_Score": 6,
+            "Specificity": 8,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        }
+    ]
+}

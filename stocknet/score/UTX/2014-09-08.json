@@ -1,0 +1,81 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 6,
+        "Importance": 8,
+        "Impact": 7,
+        "Duration": 5,
+        "Virality": 4,
+        "Source_Score": 9,
+        "Specificity": 6,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 3
+    },
+    "Each_item": [
+        {
+            "News_content": "Dow stocks are showing a positive trend today, with MSFT leading gains due to strong earnings reports. NKE announced a new product line, while MRK is under scrutiny for potential regulatory issues. BA reported delays in production schedules, and MMM sees potential upside from cost-cutting measures.",
+            "Correlation": 9,
+            "Sentiment": 7,
+            "Importance": 8,
+            "Impact": 8,
+            "Duration": 6,
+            "Virality": 5,
+            "Source_Score": 9,
+            "Specificity": 8,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "INTC is rumored to be exploring strategic partnerships that could boost its semiconductor business. UNH released a quarterly report indicating higher-than-expected profits, driving stock prices up. T is focusing on expanding its digital services division, which analysts see as a long-term growth driver.",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 7,
+            "Impact": 7,
+            "Duration": 5,
+            "Virality": 4,
+            "Source_Score": 8,
+            "Specificity": 7,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "V is leveraging advancements in payment technology, positioning itself for global market expansion. GE continues restructuring efforts, with recent updates pointing to improved operational efficiency. JPM reported solid financial results, reinforcing its position as a banking leader.",
+            "Correlation": 8,
+            "Sentiment": 7,
+            "Importance": 8,
+            "Impact": 7,
+            "Duration": 5,
+            "Virality": 4,
+            "Source_Score": 9,
+            "Specificity": 7,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 4
+        },
+        {
+            "News_content": "KO benefits from increased consumer demand, boosting Q3 results. JNJ's pharmaceutical segment outperformed expectations, contributing significantly to overall revenue. PFE is investing heavily in R&D, aiming to bring innovative drugs to market faster.",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 8,
+            "Specificity": 7,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "GS announced a shift in investment strategy, focusing more on ESG initiatives. WMT showed resilience amid economic uncertainty, maintaining steady sales growth. HD and PG both reported stable earnings, reflecting consistent performance across their respective sectors. UTX and DIS are exploring synergies through potential joint ventures.",
+            "Correlation": 7,
+            "Sentiment": 6,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 3,
+            "Source_Score": 8,
+            "Specificity": 6,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 2
+        }
+    ]
+}

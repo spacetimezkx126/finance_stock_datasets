@@ -1,0 +1,107 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 6,
+        "Importance": 5,
+        "Impact": 6,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 8,
+        "Specificity": 7,
+        "Sector_Spread": 6,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "TVIX: The VIX futures curve has steepened, which could lead to increased volatility in TVIX.",
+            "Correlation": 9,
+            "Sentiment": 5,
+            "Importance": 6,
+            "Impact": 7,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 8,
+            "Specificity": 9,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 5
+        },
+        {
+            "News_content": "ANAS: Analysts have upgraded ANAS due to strong earnings reports and positive outlook on the semiconductor sector.",
+            "Correlation": 8,
+            "Sentiment": 8,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 4,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "FDN: FDN is seeing increased interest as tech-heavy ETFs gain traction with investors.",
+            "Correlation": 7,
+            "Sentiment": 7,
+            "Importance": 5,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 6,
+            "Specificity": 6,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "BNS.TO: BNS.TO reported lower-than-expected profits due to rising interest rates affecting its loan portfolio.",
+            "Correlation": 8,
+            "Sentiment": 3,
+            "Importance": 6,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 2,
+            "Source_Score": 8,
+            "Specificity": 8,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "USO: Crude oil prices are expected to remain volatile as geopolitical tensions persist, impacting USO.",
+            "Correlation": 9,
+            "Sentiment": 4,
+            "Importance": 7,
+            "Impact": 7,
+            "Duration": 6,
+            "Virality": 3,
+            "Source_Score": 8,
+            "Specificity": 8,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "XOM: XOM announced a new share buyback program, boosting investor confidence in the energy giant.",
+            "Correlation": 8,
+            "Sentiment": 8,
+            "Importance": 7,
+            "Impact": 7,
+            "Duration": 5,
+            "Virality": 4,
+            "Source_Score": 9,
+            "Specificity": 8,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "LULU: LULU's stock price may be affected by supply chain disruptions impacting inventory levels.",
+            "Correlation": 7,
+            "Sentiment": 4,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 7,
+            "Specificity": 7,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 1
+        }
+    ]
+}

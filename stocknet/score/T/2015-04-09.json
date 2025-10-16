@@ -1,0 +1,68 @@
+{
+    "Overall_score": {
+        "Correlation": 3,
+        "Sentiment": 6,
+        "Importance": 4,
+        "Impact": 2,
+        "Duration": 3,
+        "Virality": 5,
+        "Source_Score": 4,
+        "Specificity": 5,
+        "Sector_Spread": 2,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "@KIDS_Records: GHO$T highly anticipated mixtape \"Box of Chocolate\" is out now on Datpiff. @9miamiFL",
+            "Correlation": 4,
+            "Sentiment": 7,
+            "Importance": 5,
+            "Impact": 2,
+            "Duration": 4,
+            "Virality": 6,
+            "Source_Score": 5,
+            "Specificity": 6,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Photo: ALEXANDERLV$T BLOG Love this view 😋😋😋 Submit your pics ladies.",
+            "Correlation": 2,
+            "Sentiment": 6,
+            "Importance": 3,
+            "Impact": 1,
+            "Duration": 2,
+            "Virality": 4,
+            "Source_Score": 3,
+            "Specificity": 4,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "FA$T!",
+            "Correlation": 1,
+            "Sentiment": 5,
+            "Importance": 2,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 3,
+            "Source_Score": 2,
+            "Specificity": 2,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "D0$T",
+            "Correlation": 1,
+            "Sentiment": 4,
+            "Importance": 2,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 2,
+            "Source_Score": 2,
+            "Specificity": 2,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        }
+    ]
+}

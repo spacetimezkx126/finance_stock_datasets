@@ -1,0 +1,94 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 5,
+        "Importance": 7,
+        "Impact": 6,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 9,
+        "Specificity": 7,
+        "Sector_Spread": 6,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "Huge sweep buy JPM FEB 60 calls",
+            "Correlation": 10,
+            "Sentiment": 8,
+            "Importance": 5,
+            "Impact": 7,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 6,
+            "Specificity": 9,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 4
+        },
+        {
+            "News_content": "Goldman Says JPMorgan Should Break Itself Into Pieces via business GS JPM",
+            "Correlation": 9,
+            "Sentiment": 4,
+            "Importance": 8,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 4,
+            "Source_Score": 9,
+            "Specificity": 8,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Goldman Says JPMorgan Should Break Itself Into Pieces JPM",
+            "Correlation": 9,
+            "Sentiment": 4,
+            "Importance": 8,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 3,
+            "Source_Score": 9,
+            "Specificity": 8,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Important to remember both Wells Fargo and JP Morgan report earnings in about 1 week. SPY WFC JPM",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 7,
+            "Impact": 5,
+            "Duration": 7,
+            "Virality": 2,
+            "Source_Score": 7,
+            "Specificity": 7,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "JPM New SEC Document(s) for JPMorgan Chase & Co.",
+            "Correlation": 9,
+            "Sentiment": 5,
+            "Importance": 8,
+            "Impact": 6,
+            "Duration": 6,
+            "Virality": 1,
+            "Source_Score": 8,
+            "Specificity": 9,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Would splitting up JPM be a good thing? kaylatausche & CLSA mike Mayo on now to discuss!",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 7,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 7,
+            "Specificity": 6,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 1
+        }
+    ]
+}

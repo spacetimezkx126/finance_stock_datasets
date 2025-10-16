@@ -1,0 +1,81 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 6,
+        "Impact": 4,
+        "Duration": 3,
+        "Virality": 2,
+        "Source_Score": 9,
+        "Specificity": 7,
+        "Sector_Spread": 5,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "JPM Starting here",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 7,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 9,
+            "Specificity": 8,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "JPM: Chaos to the Left, Chaos to the Right: Britain's Ominous Choice",
+            "Correlation": 5,
+            "Sentiment": 3,
+            "Importance": 8,
+            "Impact": 4,
+            "Duration": 6,
+            "Virality": 2,
+            "Source_Score": 9,
+            "Specificity": 5,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "JPM Is JPMorgan Chase & Co (JPM) Really 'Hoarding' Physical Silver?",
+            "Correlation": 9,
+            "Sentiment": 4,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 3,
+            "Source_Score": 9,
+            "Specificity": 9,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "JPM: Winters Said to Seek More Direct Oversight at Standard Chartered",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 6,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 9,
+            "Specificity": 8,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "JPM has risen 1.770%",
+            "Correlation": 7,
+            "Sentiment": 7,
+            "Importance": 5,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 1,
+            "Source_Score": 9,
+            "Specificity": 7,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        }
+    ]
+}

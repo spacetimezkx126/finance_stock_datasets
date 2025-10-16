@@ -1,0 +1,81 @@
+{
+    "Overall_score": {
+        "Correlation": 5,
+        "Sentiment": 4,
+        "Importance": 3,
+        "Impact": 4,
+        "Duration": 2,
+        "Virality": 6,
+        "Source_Score": 7,
+        "Specificity": 6,
+        "Sector_Spread": 5,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "IK Enemkpali punched Geno Smith in the jaw like UCLA has punched the entire USC football team in the mouth the last 3 years.",
+            "Correlation": 1,
+            "Sentiment": 3,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 4,
+            "Source_Score": 3,
+            "Specificity": 2,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "Platinum Subscribers Saw Our Stock Picks Gain 4,000% In 10 Months! See Our New Pick: $BMSN $C $GE",
+            "Correlation": 8,
+            "Sentiment": 9,
+            "Importance": 6,
+            "Impact": 7,
+            "Duration": 3,
+            "Virality": 8,
+            "Source_Score": 7,
+            "Specificity": 7,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "We Have A MASSIVE New Penny Stock Pick Coming Out Soon! See It Early: $BMSN $C $GE",
+            "Correlation": 7,
+            "Sentiment": 8,
+            "Importance": 5,
+            "Impact": 6,
+            "Duration": 2,
+            "Virality": 7,
+            "Source_Score": 6,
+            "Specificity": 6,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "NEW SEC Filing for $C filed a moment ago.",
+            "Correlation": 9,
+            "Sentiment": 5,
+            "Importance": 8,
+            "Impact": 8,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 9,
+            "Specificity": 9,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "Notable opening imbalances: $BAC -301K, $TWTR -44K, $T -145K, $VZ +117K, $F -119K, $C -80K, $GM -57K, $ABX +763K, $BABA",
+            "Correlation": 10,
+            "Sentiment": 4,
+            "Importance": 7,
+            "Impact": 7,
+            "Duration": 3,
+            "Virality": 5,
+            "Source_Score": 8,
+            "Specificity": 10,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 3
+        }
+    ]
+}

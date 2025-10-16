@@ -1,0 +1,55 @@
+{
+    "Overall_score": {
+        "Correlation": 6,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 3,
+        "Duration": 2,
+        "Virality": 4,
+        "Source_Score": 5,
+        "Specificity": 7,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "Penny Stocking Silver Stock Alerts. https://t.co/nKtm9cXKN1 $NXPI $IXYS $HAWK $WFC $ADTN $ZBRA $JACK",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 3,
+            "Source_Score": 4,
+            "Specificity": 9,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Beer, Credit Card #Debt And Other Positives For Bank Of America https://t.co/xFEzgXz0Co $BAC $SBMRY $BNPQY $WFC $C $JPM",
+            "Correlation": 6,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 5,
+            "Source_Score": 6,
+            "Specificity": 7,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Beer, Credit Card Debt And Other Positives For Bank Of America https://t.co/Q294dtgYfP $SBMRY $BNPQY $WFC $C $JPM $BAC",
+            "Correlation": 6,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 4,
+            "Source_Score": 5,
+            "Specificity": 7,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        }
+    ]
+}

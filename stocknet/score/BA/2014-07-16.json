@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 8,
+        "Importance": 6,
+        "Impact": 5,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 5,
+        "Specificity": 7,
+        "Sector_Spread": 6,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "Boeing Amazing Display of Flight, the 787-9 Dreamliner for Farnborough",
+            "Correlation": 8,
+            "Sentiment": 9,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 4,
+            "Source_Score": 6,
+            "Specificity": 8,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "Are you looking to buy",
+            "Correlation": 3,
+            "Sentiment": 4,
+            "Importance": 2,
+            "Impact": 1,
+            "Duration": 2,
+            "Virality": 1,
+            "Source_Score": 3,
+            "Specificity": 2,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        }
+    ]
+}

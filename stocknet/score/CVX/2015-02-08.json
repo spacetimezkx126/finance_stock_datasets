@@ -1,0 +1,81 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 6,
+        "Importance": 5,
+        "Impact": 4,
+        "Duration": 3,
+        "Virality": 2,
+        "Source_Score": 8,
+        "Specificity": 7,
+        "Sector_Spread": 6,
+        "Tech_Mentions": 3
+    },
+    "Each_item": [
+        {
+            "News_content": "Coca-Cola (KO) announces a new sustainability initiative to reduce plastic waste by 20% over the next five years.",
+            "Correlation": 9,
+            "Sentiment": 8,
+            "Importance": 7,
+            "Impact": 5,
+            "Duration": 8,
+            "Virality": 4,
+            "Source_Score": 9,
+            "Specificity": 9,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Chevron (CVX) reports higher-than-expected quarterly profits due to increased oil prices.",
+            "Correlation": 10,
+            "Sentiment": 7,
+            "Importance": 8,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 3,
+            "Source_Score": 10,
+            "Specificity": 8,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "The XIV ETN has been delisted from major exchanges, affecting volatility traders globally.",
+            "Correlation": 8,
+            "Sentiment": 3,
+            "Importance": 9,
+            "Impact": 8,
+            "Duration": 7,
+            "Virality": 6,
+            "Source_Score": 7,
+            "Specificity": 10,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 5
+        },
+        {
+            "News_content": "DSW Inc. launches a new line of eco-friendly footwear, aiming to appeal to environmentally conscious consumers.",
+            "Correlation": 8,
+            "Sentiment": 7,
+            "Importance": 6,
+            "Impact": 4,
+            "Duration": 6,
+            "Virality": 3,
+            "Source_Score": 8,
+            "Specificity": 8,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Aclaris Therapeutics (AKRX) receives FDA approval for its new drug targeting skin conditions.",
+            "Correlation": 9,
+            "Sentiment": 9,
+            "Importance": 8,
+            "Impact": 7,
+            "Duration": 5,
+            "Virality": 2,
+            "Source_Score": 9,
+            "Specificity": 9,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 3
+        }
+    ]
+}

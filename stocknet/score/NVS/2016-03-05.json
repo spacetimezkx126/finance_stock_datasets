@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 9,
+        "Sentiment": 8,
+        "Importance": 7,
+        "Impact": 6,
+        "Duration": 5,
+        "Virality": 4,
+        "Source_Score": 7,
+        "Specificity": 8,
+        "Sector_Spread": 6,
+        "Tech_Mentions": 3
+    },
+    "Each_item": [
+        {
+            "News_content": "New #Novartis data show Cosentyx demonstrated sustained superiority in skin clearance",
+            "Correlation": 9,
+            "Sentiment": 8,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 4,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "#Novartis International AG: Novartis' Cosentyx superior to Stelara in delivering long-la",
+            "Correlation": 9,
+            "Sentiment": 8,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 4,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 3
+        }
+    ]
+}

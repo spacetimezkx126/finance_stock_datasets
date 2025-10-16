@@ -1,0 +1,94 @@
+{
+    "Overall_score": {
+        "Correlation": 6,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 3,
+        "Duration": 2,
+        "Virality": 7,
+        "Source_Score": 3,
+        "Specificity": 5,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "Great #Stock Newsletter you must have $CFN $CBOE $SMG $FB #personalfinance",
+            "Correlation": 7,
+            "Sentiment": 8,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 6,
+            "Source_Score": 4,
+            "Specificity": 6,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Should you sell or hold stocks like $GCI $NOW $CPWR $FB #economy",
+            "Correlation": 6,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 7,
+            "Source_Score": 3,
+            "Specificity": 5,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "2 stocks trading books: 1 entertaining and 1 educational! Both awesome! $E $CCE $ISRG $PBCT $FB #stocks",
+            "Correlation": 5,
+            "Sentiment": 9,
+            "Importance": 2,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 5,
+            "Source_Score": 3,
+            "Specificity": 4,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Looking for the next $VAR $AWK $LOW $FB",
+            "Correlation": 6,
+            "Sentiment": 4,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 2,
+            "Virality": 6,
+            "Source_Score": 3,
+            "Specificity": 5,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Stocks I'm keeping my Eye on...should you? $CELG $FB $Q $DF #financialnews",
+            "Correlation": 6,
+            "Sentiment": 5,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 2,
+            "Virality": 7,
+            "Source_Score": 3,
+            "Specificity": 5,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Can Tantalizing Twitter Rock Wall Street? $TWTR $FB",
+            "Correlation": 7,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 8,
+            "Source_Score": 4,
+            "Specificity": 6,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 2
+        }
+    ]
+}

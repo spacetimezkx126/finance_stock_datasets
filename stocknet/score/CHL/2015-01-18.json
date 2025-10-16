@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 3,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 3,
+        "Duration": 6,
+        "Virality": 7,
+        "Source_Score": 5,
+        "Specificity": 2,
+        "Sector_Spread": 1,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "the number one reason you will fail or succeed as a trader",
+            "Correlation": 3,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 6,
+            "Virality": 7,
+            "Source_Score": 5,
+            "Specificity": 2,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        }
+    ]
+}

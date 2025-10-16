@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 7,
+        "Importance": 6,
+        "Impact": 5,
+        "Duration": 4,
+        "Virality": 7,
+        "Source_Score": 5,
+        "Specificity": 8,
+        "Sector_Spread": 3,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @eSportHero: Chinese ecommerce giant Alibaba reinstates the World Cyber Games with $5.5M in total prize money #eSports $BABA",
+            "Correlation": 8,
+            "Sentiment": 7,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 7,
+            "Source_Score": 5,
+            "Specificity": 8,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 2
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 5,
+        "Importance": 7,
+        "Impact": 6,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 7,
+        "Specificity": 8,
+        "Sector_Spread": 5,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "Bank of America chart posted, stuck in a tight channel, expect a major move soon",
+            "Correlation": 9,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 7,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 6,
+            "Specificity": 8,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 10
+        },
+        {
+            "News_content": "BREAKING: Bank of America ordered to pay $1.27 billion in countrywide \"hustle\" fraud",
+            "Correlation": 10,
+            "Sentiment": 2,
+            "Importance": 9,
+            "Impact": 8,
+            "Duration": 5,
+            "Virality": 8,
+            "Source_Score": 9,
+            "Specificity": 10,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "A federal judge ordered Bank of America to pay $1.27 billion, finding the bank liable for fraud over the \"Hustle\" program",
+            "Correlation": 10,
+            "Sentiment": 3,
+            "Importance": 8,
+            "Impact": 7,
+            "Duration": 6,
+            "Virality": 7,
+            "Source_Score": 8,
+            "Specificity": 9,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Dunbar Community Center: Bank of America, current mortgage holder Republic",
+            "Correlation": 6,
+            "Sentiment": 5,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 2,
+            "Virality": 1,
+            "Source_Score": 5,
+            "Specificity": 7,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        }
+    ]
+}

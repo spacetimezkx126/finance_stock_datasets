@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 6,
+        "Impact": 4,
+        "Duration": 3,
+        "Virality": 2,
+        "Source_Score": 8,
+        "Specificity": 5,
+        "Sector_Spread": 9,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "Procter & Gamble: It Is Time For Some New Blood $BRK.A $BRK.B $HENKY $UL $PG",
+            "Correlation": 7,
+            "Sentiment": 5,
+            "Importance": 6,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 8,
+            "Specificity": 5,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 1
+        }
+    ]
+}

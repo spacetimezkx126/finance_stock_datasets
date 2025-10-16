@@ -1,0 +1,68 @@
+{
+    "Overall_score": {
+        "Correlation": 3,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 3,
+        "Duration": 2,
+        "Virality": 6,
+        "Source_Score": 7,
+        "Specificity": 5,
+        "Sector_Spread": 2,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "Paysandu goleia o Náutico pela estreia da Copa Ver...",
+            "Correlation": 2,
+            "Sentiment": 8,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 4,
+            "Source_Score": 5,
+            "Specificity": 7,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "SoftBank CEO: Top two U.S. mobile operators hold oligopolistic positio... #stock #stocks #stockaction",
+            "Correlation": 9,
+            "Sentiment": 4,
+            "Importance": 8,
+            "Impact": 7,
+            "Duration": 5,
+            "Virality": 8,
+            "Source_Score": 9,
+            "Specificity": 6,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "@JWesttt_ @IjahTeape",
+            "Correlation": 1,
+            "Sentiment": 5,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 7,
+            "Source_Score": 3,
+            "Specificity": 2,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "O Náutico desconta! (NÁUTICO-RR 1 X 5 PAYSANDU 11/02/2014)",
+            "Correlation": 2,
+            "Sentiment": 6,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 5,
+            "Source_Score": 4,
+            "Specificity": 8,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        }
+    ]
+}

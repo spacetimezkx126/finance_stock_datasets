@@ -1,0 +1,94 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 6,
+        "Importance": 5,
+        "Impact": 6,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 8,
+        "Specificity": 7,
+        "Sector_Spread": 6,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "$CVX Chevron Corp announces a new multi-billion-dollar investment in renewable energy projects.",
+            "Correlation": 9,
+            "Sentiment": 8,
+            "Importance": 7,
+            "Impact": 7,
+            "Duration": 6,
+            "Virality": 4,
+            "Source_Score": 9,
+            "Specificity": 8,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "$DJIA Dow Jones Industrial Average sees slight gains as investors remain cautious ahead of earnings reports.",
+            "Correlation": 6,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 8,
+            "Specificity": 5,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "$DRYS DryShips Inc reports better-than-expected Q3 results, boosting investor confidence.",
+            "Correlation": 8,
+            "Sentiment": 7,
+            "Importance": 6,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 3,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "$HL Hecla Mining Co announces discovery of significant silver deposits in Idaho.",
+            "Correlation": 8,
+            "Sentiment": 7,
+            "Importance": 6,
+            "Impact": 7,
+            "Duration": 5,
+            "Virality": 3,
+            "Source_Score": 8,
+            "Specificity": 9,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "$JNJ Johnson & Johnson faces potential delays in vaccine production due to supply chain issues.",
+            "Correlation": 9,
+            "Sentiment": 4,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 5,
+            "Source_Score": 9,
+            "Specificity": 8,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "$VALE Vale SA confirms strong demand for iron ore from Asian markets, driving up prices.",
+            "Correlation": 8,
+            "Sentiment": 7,
+            "Importance": 6,
+            "Impact": 7,
+            "Duration": 5,
+            "Virality": 3,
+            "Source_Score": 8,
+            "Specificity": 8,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 1
+        }
+    ]
+}

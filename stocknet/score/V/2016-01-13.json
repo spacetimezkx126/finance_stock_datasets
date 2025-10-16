@@ -1,0 +1,107 @@
+{
+    "Overall_score": {
+        "Correlation": 6,
+        "Sentiment": 5,
+        "Importance": 7,
+        "Impact": 4,
+        "Duration": 3,
+        "Virality": 5,
+        "Source_Score": 8,
+        "Specificity": 6,
+        "Sector_Spread": 5,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "$HBR $V:What it will take to fix America's crumbling infrastructure: #SOTU",
+            "Correlation": 8,
+            "Sentiment": 7,
+            "Importance": 9,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 6,
+            "Source_Score": 9,
+            "Specificity": 7,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "#RT $V the_intercept:RT JennaMC_Laugh: I got the chance to hang out with Muslim-Americans during the SOTU spee",
+            "Correlation": 3,
+            "Sentiment": 6,
+            "Importance": 7,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 7,
+            "Source_Score": 8,
+            "Specificity": 4,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "$V #HuffPost:Have you stopped going to the gym yet? #GymFails",
+            "Correlation": 2,
+            "Sentiment": 3,
+            "Importance": 2,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 5,
+            "Source_Score": 7,
+            "Specificity": 2,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "#RT $V the_intercept:Apple’s Tim Cook lashes out at White House officials for being wishy-washy on encryption",
+            "Correlation": 7,
+            "Sentiment": 8,
+            "Importance": 8,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 8,
+            "Source_Score": 9,
+            "Specificity": 8,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 9
+        },
+        {
+            "News_content": "Renminbi borrowing rate plunges in HK $V #Rai",
+            "Correlation": 9,
+            "Sentiment": 4,
+            "Importance": 8,
+            "Impact": 7,
+            "Duration": 6,
+            "Virality": 4,
+            "Source_Score": 7,
+            "Specificity": 9,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "CCJ CCL Industries Inc. - Class B Ask $CCJ $V $ATVI $CSX #CCJ #nasdaq #tradeideas",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 6,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 3,
+            "Source_Score": 6,
+            "Specificity": 8,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "$HBR $V:How an Accounting Firm Convinced Its Employees They Could Change the World",
+            "Correlation": 6,
+            "Sentiment": 7,
+            "Importance": 5,
+            "Impact": 3,
+            "Duration": 4,
+            "Virality": 5,
+            "Source_Score": 8,
+            "Specificity": 6,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        }
+    ]
+}

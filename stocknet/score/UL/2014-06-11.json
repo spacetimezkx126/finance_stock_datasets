@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 3,
+        "Sentiment": 6,
+        "Importance": 4,
+        "Impact": 2,
+        "Duration": 5,
+        "Virality": 8,
+        "Source_Score": 7,
+        "Specificity": 5,
+        "Sector_Spread": 3,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "UL 10 Richest World Cup Athletes",
+            "Correlation": 3,
+            "Sentiment": 6,
+            "Importance": 4,
+            "Impact": 2,
+            "Duration": 5,
+            "Virality": 8,
+            "Source_Score": 7,
+            "Specificity": 5,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        }
+    ]
+}

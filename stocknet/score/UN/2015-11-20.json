@@ -1,0 +1,107 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 5,
+        "Importance": 6,
+        "Impact": 7,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 7,
+        "Specificity": 9,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 6
+    },
+    "Each_item": [
+        {
+            "News_content": "Algo trading CLOSING signals: Nov/20",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 6,
+            "Impact": 7,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 7,
+            "Specificity": 9,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 6
+        },
+        {
+            "News_content": "$POR(-3.2 %)",
+            "Correlation": 7,
+            "Sentiment": 3,
+            "Importance": 5,
+            "Impact": 6,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 6,
+            "Specificity": 8,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 5
+        },
+        {
+            "News_content": "$UN(-1.5 %)",
+            "Correlation": 7,
+            "Sentiment": 4,
+            "Importance": 4,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 6,
+            "Specificity": 8,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 4
+        },
+        {
+            "News_content": "$DRE(-4.2 %)",
+            "Correlation": 7,
+            "Sentiment": 3,
+            "Importance": 5,
+            "Impact": 6,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 6,
+            "Specificity": 8,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 5
+        },
+        {
+            "News_content": "$ABT(2.4 %)",
+            "Correlation": 7,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 6,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 6,
+            "Specificity": 8,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 5
+        },
+        {
+            "News_content": "$LOCK(3.0 %)",
+            "Correlation": 7,
+            "Sentiment": 7,
+            "Importance": 5,
+            "Impact": 6,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 6,
+            "Specificity": 8,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 5
+        },
+        {
+            "News_content": "$AMZN(2.8 %)",
+            "Correlation": 8,
+            "Sentiment": 7,
+            "Importance": 6,
+            "Impact": 7,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 7,
+            "Specificity": 9,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 6
+        }
+    ]
+}

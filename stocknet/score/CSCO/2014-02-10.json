@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 3,
+        "Sentiment": 7,
+        "Importance": 4,
+        "Impact": 5,
+        "Duration": 6,
+        "Virality": 8,
+        "Source_Score": 2,
+        "Specificity": 5,
+        "Sector_Spread": 7,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "Thinking of Investing in AOL ITIC ISCA CSCO I'm loving",
+            "Correlation": 3,
+            "Sentiment": 7,
+            "Importance": 4,
+            "Impact": 5,
+            "Duration": 6,
+            "Virality": 8,
+            "Source_Score": 2,
+            "Specificity": 5,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        }
+    ]
+}

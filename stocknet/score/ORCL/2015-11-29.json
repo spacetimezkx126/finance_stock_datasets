@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 9,
+        "Sentiment": 8,
+        "Importance": 7,
+        "Impact": 9,
+        "Duration": 6,
+        "Virality": 5,
+        "Source_Score": 7,
+        "Specificity": 8,
+        "Sector_Spread": 6,
+        "Tech_Mentions": 3
+    },
+    "Each_item": [
+        {
+            "News_content": "MHRC stock has nearly quadrupled in value in the past two weeks. Special Update: Removed URL for compliance. ORCL YHOO AMZN",
+            "Correlation": 9,
+            "Sentiment": 8,
+            "Importance": 7,
+            "Impact": 9,
+            "Duration": 6,
+            "Virality": 5,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 3
+        }
+    ]
+}

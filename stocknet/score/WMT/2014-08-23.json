@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 3,
+        "Sentiment": 7,
+        "Importance": 4,
+        "Impact": 3,
+        "Duration": 2,
+        "Virality": 8,
+        "Source_Score": 6,
+        "Specificity": 5,
+        "Sector_Spread": 2,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "The president and CEO of Walmart just did the IceBucketChallenge",
+            "Correlation": 3,
+            "Sentiment": 7,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 8,
+            "Source_Score": 6,
+            "Specificity": 5,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        }
+    ]
+}

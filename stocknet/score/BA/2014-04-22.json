@@ -1,0 +1,68 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 6,
+        "Importance": 7,
+        "Impact": 6,
+        "Duration": 5,
+        "Virality": 4,
+        "Source_Score": 6,
+        "Specificity": 7,
+        "Sector_Spread": 5,
+        "Tech_Mentions": 3
+    },
+    "Each_item": [
+        {
+            "News_content": "Couple of Stocks you should Watch",
+            "Correlation": 2,
+            "Sentiment": 4,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 3,
+            "Source_Score": 4,
+            "Specificity": 1,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "Boeing : Shandong Airlines to buy 50 Boeing planes",
+            "Correlation": 9,
+            "Sentiment": 8,
+            "Importance": 9,
+            "Impact": 8,
+            "Duration": 7,
+            "Virality": 6,
+            "Source_Score": 7,
+            "Specificity": 9,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Published estimate on Estimize: +0.12 EPS and +366.08M Revs compared to Wall Street's consensus.",
+            "Correlation": 8,
+            "Sentiment": 7,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 4,
+            "Source_Score": 8,
+            "Specificity": 8,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "Can Boeing Earnings Provide Liftoff After 787 Battery Glitch?",
+            "Correlation": 7,
+            "Sentiment": 5,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 5,
+            "Source_Score": 6,
+            "Specificity": 6,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 3
+        }
+    ]
+}

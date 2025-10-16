@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 5,
+        "Sentiment": 4,
+        "Importance": 3,
+        "Impact": 2,
+        "Duration": 1,
+        "Virality": 6,
+        "Source_Score": 7,
+        "Specificity": 4,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "Having 10 different news tabs open for AAPL, DB, BP? We give you 1",
+            "Correlation": 5,
+            "Sentiment": 4,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 6,
+            "Source_Score": 7,
+            "Specificity": 4,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        }
+    ]
+}

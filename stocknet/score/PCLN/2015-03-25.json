@@ -1,0 +1,68 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 6,
+        "Importance": 5,
+        "Impact": 4,
+        "Duration": 3,
+        "Virality": 2,
+        "Source_Score": 5,
+        "Specificity": 6,
+        "Sector_Spread": 4,
+        "Tech_Mentions": 3
+    },
+    "Each_item": [
+        {
+            "News_content": "CYCC Stock Forum Updated Tuesday, March 24, 2015 11:11:12 PM SCO UCO PCLN EWJ",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 1,
+            "Source_Score": 6,
+            "Specificity": 7,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "PCLN Priceline Strong Balance Sheet, Strong Revenue Growth, Fair",
+            "Correlation": 9,
+            "Sentiment": 8,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "PCLN go go go",
+            "Correlation": 6,
+            "Sentiment": 9,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 5,
+            "Source_Score": 4,
+            "Specificity": 5,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "PCLN active, relative volume: 3.42, 1H, 4:00 PM, nasdaq NDX SPY",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 6,
+            "Specificity": 7,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 5
+        }
+    ]
+}

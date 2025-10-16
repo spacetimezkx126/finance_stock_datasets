@@ -1,0 +1,81 @@
+{
+    "Overall_score": {
+        "Correlation": 6,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 5,
+        "Duration": 3,
+        "Virality": 2,
+        "Source_Score": 3,
+        "Specificity": 5,
+        "Sector_Spread": 7,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "SOXS Direxion Daily Semiconductor Bear 3x Shares 52Wk Low $SOXS $JNJ $KGC $XLB #SOXS #tradeideas #nasdaq",
+            "Correlation": 8,
+            "Sentiment": 3,
+            "Importance": 5,
+            "Impact": 6,
+            "Duration": 2,
+            "Virality": 2,
+            "Source_Score": 4,
+            "Specificity": 7,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "ORCL Oracle Corp. Day Low $ORCL $GE $JNJ $OPK #ORCL #investing #investing",
+            "Correlation": 7,
+            "Sentiment": 4,
+            "Importance": 4,
+            "Impact": 5,
+            "Duration": 2,
+            "Virality": 1,
+            "Source_Score": 5,
+            "Specificity": 6,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RYH Spirit Airlines, Inc. 52Wk Low $RYH $ECA.TO $JNJ $FNMA #RYH #stockmarket #stock",
+            "Correlation": 7,
+            "Sentiment": 3,
+            "Importance": 4,
+            "Impact": 5,
+            "Duration": 2,
+            "Virality": 1,
+            "Source_Score": 4,
+            "Specificity": 6,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "ABX Barrick Gold Corp. Stock Message Board $ABX $CCJ $ABC $JNJ #ABX #nasdaq #finance",
+            "Correlation": 6,
+            "Sentiment": 4,
+            "Importance": 3,
+            "Impact": 4,
+            "Duration": 2,
+            "Virality": 1,
+            "Source_Score": 4,
+            "Specificity": 5,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Our Platinum Subscribers Saw Their Penny Stock Alerts Gain Over 350% In 2 Weeks! Big Update: $GD $JNJ $MOR.DE",
+            "Correlation": 5,
+            "Sentiment": 8,
+            "Importance": 6,
+            "Impact": 7,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 3,
+            "Specificity": 4,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        }
+    ]
+}

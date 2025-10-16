@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 3,
+        "Duration": 2,
+        "Virality": 6,
+        "Source_Score": 7,
+        "Specificity": 3,
+        "Sector_Spread": 9,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @WrigleyTom: JBLU TWTR AAPL LNKD PNRA GILD AMGN GPRO NXPI BWLD FFIV YELP FSLR DECK CRUS SBUX BIDU SCTY EXPE",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 6,
+            "Source_Score": 7,
+            "Specificity": 3,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 1
+        }
+    ]
+}

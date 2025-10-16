@@ -1,0 +1,81 @@
+{
+    "Overall_score": {
+        "Correlation": 6,
+        "Sentiment": 5,
+        "Importance": 7,
+        "Impact": 6,
+        "Duration": 8,
+        "Virality": 4,
+        "Source_Score": 7,
+        "Specificity": 5,
+        "Sector_Spread": 6,
+        "Tech_Mentions": 3
+    },
+    "Each_item": [
+        {
+            "News_content": "We analyse the impact of innovation on beauty consumer behaviour in our latest US research report",
+            "Correlation": 4,
+            "Sentiment": 7,
+            "Importance": 5,
+            "Impact": 3,
+            "Duration": 9,
+            "Virality": 2,
+            "Source_Score": 6,
+            "Specificity": 4,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT @dsobek: @megtirrell @GuyAdami @CNBCClosingBell been trading similar to , , , and past month. Its trading like …",
+            "Correlation": 5,
+            "Sentiment": 4,
+            "Importance": 4,
+            "Impact": 5,
+            "Duration": 6,
+            "Virality": 6,
+            "Source_Score": 8,
+            "Specificity": 5,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "'JBEM' pick RXII upcoming catalyst:Read here:  ",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 8,
+            "Impact": 7,
+            "Duration": 7,
+            "Virality": 3,
+            "Source_Score": 7,
+            "Specificity": 9,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Merck & Co., Inc. Publishes 2014 Global Corporate Responsibility Report ",
+            "Correlation": 7,
+            "Sentiment": 8,
+            "Importance": 9,
+            "Impact": 6,
+            "Duration": 10,
+            "Virality": 4,
+            "Source_Score": 9,
+            "Specificity": 8,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT @marketexclusive: Two Companies With Near Term FDA Catalysts - \n #biotech #FDA",
+            "Correlation": 8,
+            "Sentiment": 7,
+            "Importance": 10,
+            "Impact": 8,
+            "Duration": 5,
+            "Virality": 5,
+            "Source_Score": 7,
+            "Specificity": 7,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 3
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 6,
+        "Impact": 4,
+        "Duration": 3,
+        "Virality": 2,
+        "Source_Score": 6,
+        "Specificity": 7,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 5
+    },
+    "Each_item": [
+        {
+            "News_content": "Johnson & Johnson $JNJ Shares Sold by Washington Trust Bank",
+            "Correlation": 9,
+            "Sentiment": 4,
+            "Importance": 5,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 1,
+            "Source_Score": 7,
+            "Specificity": 9,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Pot. intermed top in Uptrend INTRAWEEK 60m-15m-4m combo chart #Stocks #Trading",
+            "Correlation": 6,
+            "Sentiment": 6,
+            "Importance": 4,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 3,
+            "Source_Score": 5,
+            "Specificity": 6,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 8
+        },
+        {
+            "News_content": "Weekly Dow #Stocks Trend $CAT $CVX $IBM $XOM $WMT $VZ $UTX $MMM $UNH $CSCO $MRK $DD $PG $AXP $JNJ $BA $KO $DIS",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 7,
+            "Impact": 4,
+            "Duration": 4,
+            "Virality": 2,
+            "Source_Score": 6,
+            "Specificity": 8,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 3
+        }
+    ]
+}

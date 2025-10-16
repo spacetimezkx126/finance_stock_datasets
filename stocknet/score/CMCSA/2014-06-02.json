@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 6,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 3,
+        "Duration": 2,
+        "Virality": 4,
+        "Source_Score": 3,
+        "Specificity": 5,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "DennyT: CTL Barchart $CTL $MU $CSCO $CMCSA $F Opinion",
+            "Correlation": 7,
+            "Sentiment": 5,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 3,
+            "Source_Score": 4,
+            "Specificity": 6,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "S&P100 #Stocks Performance $MET $CAT $TWX $UTX $SBUX $GM $BAC $MA $HD $DOW $IBM $ALL $JNJ $CMCSA $EMR",
+            "Correlation": 6,
+            "Sentiment": 5,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 5,
+            "Source_Score": 3,
+            "Specificity": 5,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 1
+        }
+    ]
+}

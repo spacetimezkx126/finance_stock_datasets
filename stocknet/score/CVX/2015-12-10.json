@@ -1,0 +1,94 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 4,
+        "Importance": 6,
+        "Impact": 5,
+        "Duration": 3,
+        "Virality": 2,
+        "Source_Score": 5,
+        "Specificity": 6,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "ERX Direxion Daily Energy Bull 3x Shares Day High $ERX $COST $RELIANCE.IN $CVX #ERX #stock #tradeideas",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 3,
+            "Source_Score": 4,
+            "Specificity": 7,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "Energy giant @Chevron slashes 2016 budget by 24 percent (!!) to weather low #oil prices $CVX",
+            "Correlation": 9,
+            "Sentiment": 3,
+            "Importance": 8,
+            "Impact": 7,
+            "Duration": 5,
+            "Virality": 6,
+            "Source_Score": 7,
+            "Specificity": 9,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Important Movers to Watch: $MNKD $CVX $IVZ",
+            "Correlation": 6,
+            "Sentiment": 5,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 2,
+            "Source_Score": 3,
+            "Specificity": 5,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "$EUM Stock Message Board Updated Thursday, December 10, 2015 09:11:03 AM $CHK $IBB $CVX $NFLX",
+            "Correlation": 5,
+            "Sentiment": 4,
+            "Importance": 2,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 1,
+            "Source_Score": 4,
+            "Specificity": 4,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "$CVX I could see this stock falling well below $60 a share, dividend cut in half in the not too distant future.",
+            "Correlation": 8,
+            "Sentiment": 2,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 5,
+            "Specificity": 8,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "CVX Chevron Corp. Market Cap $CVX $SKX $QLD $BIIB #CVX #stocks #nasdaqDD",
+            "Correlation": 7,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 2,
+            "Source_Score": 4,
+            "Specificity": 6,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        }
+    ]
+}

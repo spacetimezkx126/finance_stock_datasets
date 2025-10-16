@@ -1,0 +1,107 @@
+{
+    "Overall_score": {
+        "Correlation": 2,
+        "Sentiment": 3,
+        "Importance": 1,
+        "Impact": 1,
+        "Duration": 2,
+        "Virality": 4,
+        "Source_Score": 3,
+        "Specificity": 2,
+        "Sector_Spread": 1,
+        "Tech_Mentions": 0
+    },
+    "Each_item": [
+        {
+            "News_content": "HATAN",
+            "Correlation": 1,
+            "Sentiment": 5,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 2,
+            "Source_Score": 1,
+            "Specificity": 1,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "RT @jebat_icon: JST jgn jd kapitalis yg membangsatkan bangsa Johor semata2 nak penuhkan poket beratur berembun berpa",
+            "Correlation": 2,
+            "Sentiment": 3,
+            "Importance": 2,
+            "Impact": 1,
+            "Duration": 2,
+            "Virality": 4,
+            "Source_Score": 3,
+            "Specificity": 2,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "RT @FxckBrent: WEST",
+            "Correlation": 1,
+            "Sentiment": 6,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 3,
+            "Source_Score": 2,
+            "Specificity": 1,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "The Runner - Single by REST",
+            "Correlation": 1,
+            "Sentiment": 7,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 2,
+            "Source_Score": 2,
+            "Specificity": 1,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "PHONE OFF STILL HOLDN NEVER FOLDN U SEE IT REFUSE JUXT WAITING ON MY I PHONE",
+            "Correlation": 1,
+            "Sentiment": 4,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 3,
+            "Source_Score": 1,
+            "Specificity": 1,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "RT @troubleandrew: My new sounds: GHOST on #SoundCloud",
+            "Correlation": 1,
+            "Sentiment": 6,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 3,
+            "Source_Score": 2,
+            "Specificity": 1,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "(((ALERT))) Life-Time Solo Ads Are Almost Sold Out! Grab Yours FAST",
+            "Correlation": 2,
+            "Sentiment": 8,
+            "Importance": 2,
+            "Impact": 2,
+            "Duration": 3,
+            "Virality": 5,
+            "Source_Score": 3,
+            "Specificity": 3,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 0
+        }
+    ]
+}

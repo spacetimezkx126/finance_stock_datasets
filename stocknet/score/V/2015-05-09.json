@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 10,
+        "Sentiment": 8,
+        "Importance": 7,
+        "Impact": 6,
+        "Duration": 3,
+        "Virality": 4,
+        "Source_Score": 5,
+        "Specificity": 9,
+        "Sector_Spread": 2,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "V Stock 69.47 Visa Inc $V Hit a 52 week high of 70.16 Closing the day 05/08/15 at 69.47 +2.89 +4.34%",
+            "Correlation": 10,
+            "Sentiment": 8,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 3,
+            "Virality": 4,
+            "Source_Score": 5,
+            "Specificity": 9,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        }
+    ]
+}

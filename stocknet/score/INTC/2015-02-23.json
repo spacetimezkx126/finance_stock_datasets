@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 5,
+        "Sentiment": 4,
+        "Importance": 3,
+        "Impact": 2,
+        "Duration": 3,
+        "Virality": 2,
+        "Source_Score": 3,
+        "Specificity": 6,
+        "Sector_Spread": 1,
+        "Tech_Mentions": 4
+    },
+    "Each_item": [
+        {
+            "News_content": "Intel Corp stock added to my watch list. Right now with INTC I am watching the last price 34.",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 3,
+            "Specificity": 9,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "Learn to trade advanced options strats.",
+            "Correlation": 2,
+            "Sentiment": 3,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 3,
+            "Specificity": 3,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 5
+        }
+    ]
+}

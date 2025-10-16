@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 5,
+        "Importance": 6,
+        "Impact": 4,
+        "Duration": 3,
+        "Virality": 7,
+        "Source_Score": 6,
+        "Specificity": 7,
+        "Sector_Spread": 9,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "S&P100 #Stocks Performance $AXP $FOXA $AMGN $EXC $EBAY $TWX $BK $SO $SPG $ALL $V $DIS $MA $ACN $ORCL $AIG more@ http://t.co/cKkr8csQUU",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 6,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 7,
+            "Source_Score": 6,
+            "Specificity": 7,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 2
+        }
+    ]
+}

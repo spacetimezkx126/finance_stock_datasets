@@ -1,0 +1,55 @@
+{
+    "Overall_score": {
+        "Correlation": 3,
+        "Sentiment": 7,
+        "Importance": 2,
+        "Impact": 4,
+        "Duration": 2,
+        "Virality": 8,
+        "Source_Score": 5,
+        "Specificity": 4,
+        "Sector_Spread": 6,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "Stock Contest!! Pick $GILD and WIN a FREE Tablet!! Enter NOW!",
+            "Correlation": 3,
+            "Sentiment": 7,
+            "Importance": 2,
+            "Impact": 4,
+            "Duration": 2,
+            "Virality": 8,
+            "Source_Score": 5,
+            "Specificity": 4,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Click here for details:",
+            "Correlation": 1,
+            "Sentiment": 5,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 6,
+            "Source_Score": 3,
+            "Specificity": 1,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "$SIRI $KO $FXE $INCC",
+            "Correlation": 2,
+            "Sentiment": 5,
+            "Importance": 1,
+            "Impact": 3,
+            "Duration": 1,
+            "Virality": 7,
+            "Source_Score": 4,
+            "Specificity": 2,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 1
+        }
+    ]
+}

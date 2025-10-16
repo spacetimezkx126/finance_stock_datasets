@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 5,
+        "Sentiment": 4,
+        "Importance": 7,
+        "Impact": 6,
+        "Duration": 5,
+        "Virality": 3,
+        "Source_Score": 6,
+        "Specificity": 8,
+        "Sector_Spread": 4,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "FX.BTC U$D 443.37 Bid:441.12 | Ask:443.37 Avg:444.04",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 1,
+            "Source_Score": 5,
+            "Specificity": 9,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 7
+        },
+        {
+            "News_content": "Conoco-Phillips le mete palo a Pdvsa, gana demanda por U$D 30 millardos en el CIADI",
+            "Correlation": 7,
+            "Sentiment": 3,
+            "Importance": 10,
+            "Impact": 9,
+            "Duration": 8,
+            "Virality": 5,
+            "Source_Score": 7,
+            "Specificity": 7,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        }
+    ]
+}

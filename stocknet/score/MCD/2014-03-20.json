@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 9,
+        "Sentiment": 5,
+        "Importance": 7,
+        "Impact": 8,
+        "Duration": 4,
+        "Virality": 6,
+        "Source_Score": 8,
+        "Specificity": 9,
+        "Sector_Spread": 7,
+        "Tech_Mentions": 3
+    },
+    "Each_item": [
+        {
+            "News_content": "Burger Trade: Burger King up 36% since Aug; McDonald's up 2.4%. Time for reversal? MKM says short $BKW, buy $MCD",
+            "Correlation": 9,
+            "Sentiment": 5,
+            "Importance": 7,
+            "Impact": 8,
+            "Duration": 4,
+            "Virality": 6,
+            "Source_Score": 8,
+            "Specificity": 9,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 3
+        }
+    ]
+}

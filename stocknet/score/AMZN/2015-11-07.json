@@ -1,0 +1,55 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 7,
+        "Importance": 6,
+        "Impact": 5,
+        "Duration": 4,
+        "Virality": 9,
+        "Source_Score": 7,
+        "Specificity": 8,
+        "Sector_Spread": 10,
+        "Tech_Mentions": 3
+    },
+    "Each_item": [
+        {
+            "News_content": "2 Turnaround Stocks That Can Double Your Money In 2016 $KORS $URI Also $AMZN $NFLX $FB $GOOGL",
+            "Correlation": 7,
+            "Sentiment": 9,
+            "Importance": 5,
+            "Impact": 6,
+            "Duration": 3,
+            "Virality": 8,
+            "Source_Score": 6,
+            "Specificity": 7,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "RT bosocial: $NDX #Nasdaq100 leaps higher on $FB, $AAPL, $NFLX, $GOOGL, $MSFT, $AMZN, $NKE",
+            "Correlation": 9,
+            "Sentiment": 8,
+            "Importance": 7,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 10,
+            "Source_Score": 8,
+            "Specificity": 9,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 4
+        },
+        {
+            "News_content": "$NDX #Nasdaq100 leaps higher on $FB, $AAPL, $NFLX, $GOOGL, $MSFT, $AMZN, $NKE",
+            "Correlation": 9,
+            "Sentiment": 8,
+            "Importance": 7,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 9,
+            "Source_Score": 7,
+            "Specificity": 9,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 4
+        }
+    ]
+}

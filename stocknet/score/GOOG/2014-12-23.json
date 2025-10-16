@@ -1,0 +1,107 @@
+{
+    "Overall_score": {
+        "Correlation": 6,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 3,
+        "Duration": 2,
+        "Virality": 3,
+        "Source_Score": 4,
+        "Specificity": 5,
+        "Sector_Spread": 7,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "RFMD Filings Updated Tuesday, December 23, 2014 07:07:31 AM SWKS GOOG AGN BIDU",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 6,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 7,
+            "Specificity": 9,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "GOOG GOOGL boom again, we posted ystrday, keeps",
+            "Correlation": 7,
+            "Sentiment": 8,
+            "Importance": 5,
+            "Impact": 6,
+            "Duration": 2,
+            "Virality": 4,
+            "Source_Score": 5,
+            "Specificity": 6,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Why access a ticker when you could acesss a group of tickers- US Tech Giants AAPL GOOG MSFT FB TWTR",
+            "Correlation": 6,
+            "Sentiment": 6,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 5,
+            "Source_Score": 6,
+            "Specificity": 5,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "PLUG Stock Chart PLUG JNK GOOG ADMD",
+            "Correlation": 7,
+            "Sentiment": 4,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 3,
+            "Source_Score": 5,
+            "Specificity": 8,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "AAPL GOOGL GOOG FB YHOO options اوبشن النفط تداول الداو_جوز تحليل برنت يستهدف ٦٣.٢٠$ مستشارك_المالي",
+            "Correlation": 6,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 3,
+            "Source_Score": 4,
+            "Specificity": 6,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "AAPL GOOGL GOOG FB YHOO options اوبشن النفط تداول الداو_جوز تحليل برنت يستهدف ٦٣.٢٠$ مستشارك_المالي",
+            "Correlation": 6,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 3,
+            "Source_Score": 4,
+            "Specificity": 6,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "AAPL GOOGL GOOG FB YHOO النفط تداول الداو_جوز فرصه انتحاريه هذا الاسبوع Z put 102 Op:45cent مستشارك_المالي",
+            "Correlation": 6,
+            "Sentiment": 3,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 3,
+            "Source_Score": 4,
+            "Specificity": 7,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 2
+        }
+    ]
+}

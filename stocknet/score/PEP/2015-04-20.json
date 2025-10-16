@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 6,
+        "Impact": 6,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 5,
+        "Specificity": 7,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "@debmalya_dutta $PEP is reporting earnings for Q1 2015 on 04/23/15",
+            "Correlation": 9,
+            "Sentiment": 5,
+            "Importance": 8,
+            "Impact": 7,
+            "Duration": 5,
+            "Virality": 2,
+            "Source_Score": 6,
+            "Specificity": 9,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT @OM_giveaways: Beef up your options game. $CTAC $PEP $TOT $WFM $APH $BTGC $WYY $HIFN $SRNA",
+            "Correlation": 5,
+            "Sentiment": 6,
+            "Importance": 4,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 4,
+            "Source_Score": 4,
+            "Specificity": 5,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 3
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "Overall_score": {
+        "Correlation": 6,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 3,
+        "Duration": 2,
+        "Virality": 1,
+        "Source_Score": 7,
+        "Specificity": 5,
+        "Sector_Spread": 6,
+        "Tech_Mentions": 3
+    },
+    "Each_item": [
+        {
+            "News_content": "C key S 47",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 1,
+            "Source_Score": 7,
+            "Specificity": 6,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "BMY Volume Also See: T C JNK AUY",
+            "Correlation": 5,
+            "Sentiment": 4,
+            "Importance": 2,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 1,
+            "Source_Score": 6,
+            "Specificity": 4,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "C is at good entry",
+            "Correlation": 9,
+            "Sentiment": 8,
+            "Importance": 4,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "UNG Chart Also See: EPI C SH GOOG",
+            "Correlation": 6,
+            "Sentiment": 3,
+            "Importance": 2,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 1,
+            "Source_Score": 7,
+            "Specificity": 5,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 4
+        },
+        {
+            "News_content": "C - Citi to Vend Commitment in Metalmark to Lexington Partners",
+            "Correlation": 7,
+            "Sentiment": 6,
+            "Importance": 6,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 1,
+            "Source_Score": 8,
+            "Specificity": 7,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 0
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "Overall_score": {
+        "Correlation": 5,
+        "Sentiment": 4,
+        "Importance": 6,
+        "Impact": 5,
+        "Duration": 3,
+        "Virality": 2,
+        "Source_Score": 7,
+        "Specificity": 6,
+        "Sector_Spread": 4,
+        "Tech_Mentions": 3
+    },
+    "Each_item": [
+        {
+            "News_content": "STX Seagate Technology Holdings, Inc. Market Cap",
+            "Correlation": 10,
+            "Sentiment": 5,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 1,
+            "Source_Score": 8,
+            "Specificity": 9,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "iPhone 6s hits stores amid Apple growth questions",
+            "Correlation": 8,
+            "Sentiment": 4,
+            "Importance": 8,
+            "Impact": 7,
+            "Duration": 5,
+            "Virality": 6,
+            "Source_Score": 7,
+            "Specificity": 7,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "PCLN Inc. Summary",
+            "Correlation": 9,
+            "Sentiment": 5,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 1,
+            "Source_Score": 8,
+            "Specificity": 8,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "PCLN Inc. Summary",
+            "Correlation": 9,
+            "Sentiment": 5,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 1,
+            "Source_Score": 8,
+            "Specificity": 8,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "NUGT Direxion Daily Gold Miners Bull 3x Shares Current Price",
+            "Correlation": 10,
+            "Sentiment": 5,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 1,
+            "Source_Score": 8,
+            "Specificity": 9,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "SPECIAL $25/month Twitter Rate",
+            "Correlation": 3,
+            "Sentiment": 6,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 5,
+            "Source_Score": 5,
+            "Specificity": 4,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        }
+    ]
+}

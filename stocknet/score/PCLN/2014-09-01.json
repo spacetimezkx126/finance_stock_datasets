@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 6,
+        "Importance": 5,
+        "Impact": 6,
+        "Duration": 4,
+        "Virality": 8,
+        "Source_Score": 3,
+        "Specificity": 5,
+        "Sector_Spread": 9,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "Is this the trade of the decade $NFLX $PCLN $TSLA",
+            "Correlation": 7,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 8,
+            "Source_Score": 3,
+            "Specificity": 5,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 2
+        }
+    ]
+}

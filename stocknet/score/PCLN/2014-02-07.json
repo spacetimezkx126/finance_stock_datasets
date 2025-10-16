@@ -1,0 +1,94 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 8,
+        "Importance": 4,
+        "Impact": 6,
+        "Duration": 3,
+        "Virality": 5,
+        "Source_Score": 3,
+        "Specificity": 7,
+        "Sector_Spread": 2,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "High performance daytrading Check out trade $AAPL $PCLN",
+            "Correlation": 8,
+            "Sentiment": 9,
+            "Importance": 3,
+            "Impact": 5,
+            "Duration": 2,
+            "Virality": 6,
+            "Source_Score": 3,
+            "Specificity": 8,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "wow, could find ourselves getting straight back into $PCLN, that's a very nice recovery",
+            "Correlation": 7,
+            "Sentiment": 8,
+            "Importance": 4,
+            "Impact": 6,
+            "Duration": 3,
+            "Virality": 5,
+            "Source_Score": 3,
+            "Specificity": 7,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Average 50% on every daytrade Must attend webinar $NFLX $PCLN",
+            "Correlation": 7,
+            "Sentiment": 8,
+            "Importance": 4,
+            "Impact": 6,
+            "Duration": 3,
+            "Virality": 5,
+            "Source_Score": 3,
+            "Specificity": 7,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Has anyone checked the $PCLN spreads....that SH#T Cra!!...3-4 point spreads...you can have it makers",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 3,
+            "Impact": 5,
+            "Duration": 2,
+            "Virality": 4,
+            "Source_Score": 3,
+            "Specificity": 8,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "Triple digit returns from daytrades Watch video $NFLX $PCLN",
+            "Correlation": 7,
+            "Sentiment": 9,
+            "Importance": 4,
+            "Impact": 7,
+            "Duration": 3,
+            "Virality": 6,
+            "Source_Score": 3,
+            "Specificity": 7,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Trades produce 100% same day Watch video $NFLX $PCLN",
+            "Correlation": 7,
+            "Sentiment": 9,
+            "Importance": 4,
+            "Impact": 7,
+            "Duration": 3,
+            "Virality": 6,
+            "Source_Score": 3,
+            "Specificity": 7,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        }
+    ]
+}

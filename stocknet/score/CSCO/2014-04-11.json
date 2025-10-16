@@ -1,0 +1,68 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 6,
+        "Impact": 5,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 6,
+        "Specificity": 7,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 4
+    },
+    "Each_item": [
+        {
+            "News_content": "S&P100 #Stocks Trend $COP $MCD $DVN $SO $CL $KO $IBM $T $HPQ $CSCO $AEP $MDLZ $PG $MO $SPG $PEP $CAT $PM $MRK",
+            "Correlation": 9,
+            "Sentiment": 5,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "$CSCO Cisco And Heartbleed, A Class Action Lawsuit In The Making",
+            "Correlation": 8,
+            "Sentiment": 3,
+            "Importance": 8,
+            "Impact": 7,
+            "Duration": 6,
+            "Virality": 5,
+            "Source_Score": 8,
+            "Specificity": 9,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 9
+        },
+        {
+            "News_content": "$CSCO Are you Bullish on these #stocks $FMC $SNI $CRAY #liquidity",
+            "Correlation": 7,
+            "Sentiment": 6,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 3,
+            "Source_Score": 5,
+            "Specificity": 6,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "$CSCO MAY-02 21.5p buyer 11,0000x .08",
+            "Correlation": 6,
+            "Sentiment": 5,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 1,
+            "Source_Score": 4,
+            "Specificity": 7,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 3,
+        "Importance": 7,
+        "Impact": 6,
+        "Duration": 5,
+        "Virality": 4,
+        "Source_Score": 9,
+        "Specificity": 6,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "BHP - The Deal: Global Stocks Fall on Worries Over Chinese Economy",
+            "Correlation": 9,
+            "Sentiment": 2,
+            "Importance": 8,
+            "Impact": 7,
+            "Duration": 6,
+            "Virality": 5,
+            "Source_Score": 10,
+            "Specificity": 7,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "BHP RIO VALE talk about these bluechip mining stocks",
+            "Correlation": 7,
+            "Sentiment": 4,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 8,
+            "Specificity": 5,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 3
+        }
+    ]
+}

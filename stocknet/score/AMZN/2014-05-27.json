@@ -1,0 +1,55 @@
+{
+    "Overall_score": {
+        "Correlation": 4,
+        "Sentiment": 5,
+        "Importance": 3,
+        "Impact": 4,
+        "Duration": 2,
+        "Virality": 6,
+        "Source_Score": 3,
+        "Specificity": 5,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "Check out these stock options sign up 4 a 7 day trial 2 trade 'em $AAPL $NFLX $FB $TSLA $AMZN",
+            "Correlation": 5,
+            "Sentiment": 6,
+            "Importance": 3,
+            "Impact": 4,
+            "Duration": 2,
+            "Virality": 7,
+            "Source_Score": 3,
+            "Specificity": 6,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Here is why you are trailing your $AMZN $EXC",
+            "Correlation": 4,
+            "Sentiment": 4,
+            "Importance": 3,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 5,
+            "Source_Score": 3,
+            "Specificity": 4,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "$ERNI Money Team!!! $ICNM $AAPL $FB $AMZN $TSLA $NFLX $PFE $ICN $MINE $GOOG $TWTR $VGPR",
+            "Correlation": 4,
+            "Sentiment": 5,
+            "Importance": 3,
+            "Impact": 4,
+            "Duration": 2,
+            "Virality": 6,
+            "Source_Score": 3,
+            "Specificity": 5,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 1
+        }
+    ]
+}

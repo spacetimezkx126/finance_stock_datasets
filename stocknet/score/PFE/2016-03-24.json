@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 10,
+        "Sentiment": 8,
+        "Importance": 9,
+        "Impact": 7,
+        "Duration": 8,
+        "Virality": 6,
+        "Source_Score": 9,
+        "Specificity": 10,
+        "Sector_Spread": 7,
+        "Tech_Mentions": 4
+    },
+    "Each_item": [
+        {
+            "News_content": "Pfizer joins next-gen vaccines R&D consortium: $PFE",
+            "Correlation": 10,
+            "Sentiment": 8,
+            "Importance": 9,
+            "Impact": 7,
+            "Duration": 8,
+            "Virality": 6,
+            "Source_Score": 9,
+            "Specificity": 10,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 4
+        }
+    ]
+}

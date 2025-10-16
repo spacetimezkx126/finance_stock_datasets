@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 6,
+        "Sentiment": 9,
+        "Importance": 4,
+        "Impact": 7,
+        "Duration": 3,
+        "Virality": 5,
+        "Source_Score": 4,
+        "Specificity": 8,
+        "Sector_Spread": 2,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "Our Penny Stock Picks Gained Over 968% In 5 Weeks! Get our next pick early: $CMCSA $INTC $AMGN",
+            "Correlation": 6,
+            "Sentiment": 9,
+            "Importance": 4,
+            "Impact": 7,
+            "Duration": 3,
+            "Virality": 5,
+            "Source_Score": 4,
+            "Specificity": 8,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        }
+    ]
+}

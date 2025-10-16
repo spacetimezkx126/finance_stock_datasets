@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 4,
+        "Importance": 6,
+        "Impact": 5,
+        "Duration": 3,
+        "Virality": 2,
+        "Source_Score": 5,
+        "Specificity": 8,
+        "Sector_Spread": 4,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "Stocks Going Ex Dividend the Fourth Week of March $CONE $CPLA $HTA $KAR $LBMH $NAUH $RPAI $SRE",
+            "Correlation": 9,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 5,
+            "Specificity": 10,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Decreased bullishness in $SRE (sentiment score of 2.35 on a scale of 0-4)",
+            "Correlation": 5,
+            "Sentiment": 2,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 6,
+            "Specificity": 6,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        }
+    ]
+}

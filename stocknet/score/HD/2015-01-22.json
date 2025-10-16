@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 3,
+        "Duration": 2,
+        "Virality": 1,
+        "Source_Score": 6,
+        "Specificity": 5,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "HD Investor Opinions Updated Thursday January 22 2015 12:03:26 PM EWZ QLTS NEM CTIX",
+            "Correlation": 7,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 1,
+            "Source_Score": 6,
+            "Specificity": 5,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 2
+        }
+    ]
+}

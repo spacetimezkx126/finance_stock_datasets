@@ -1,0 +1,68 @@
+{
+    "Overall_score": {
+        "Correlation": 3,
+        "Sentiment": 4,
+        "Importance": 2,
+        "Impact": 2,
+        "Duration": 3,
+        "Virality": 5,
+        "Source_Score": 4,
+        "Specificity": 3,
+        "Sector_Spread": 1,
+        "Tech_Mentions": 6
+    },
+    "Each_item": [
+        {
+            "News_content": "$B:#D+$N855$NI$+$C$?$N$H$OJL$N$b$&amp;0lJ}$O$*K4$/$J$j$K$J$C$?$N$G!\"?7$?$K$5$D$-$_$I$j$5$s(B(/78)$B$r",
+            "Correlation": 2,
+            "Sentiment": 3,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 2,
+            "Virality": 4,
+            "Source_Score": 3,
+            "Specificity": 2,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 5
+        },
+        {
+            "News_content": "Camelia A. Pop : $C^0$-estimates and smoothness of solutions to the parabolic equation defined by Kimura operators",
+            "Correlation": 4,
+            "Sentiment": 5,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 4,
+            "Virality": 6,
+            "Source_Score": 5,
+            "Specificity": 4,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 7
+        },
+        {
+            "News_content": "@DashThaStoner FM$C - \"MakeItWork\" (SODMG Saulte) #LouisianaTrackWhippas #WallRaddlers #hiphop #BossUp",
+            "Correlation": 1,
+            "Sentiment": 4,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 2,
+            "Virality": 7,
+            "Source_Score": 3,
+            "Specificity": 1,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Manutenção de Computadores em Copacabana ,em Domicílio: Ligue (21)99691-6007 (21)3242-8240 PCs, Laptops, Etc e$C(",
+            "Correlation": 3,
+            "Sentiment": 3,
+            "Importance": 2,
+            "Impact": 2,
+            "Duration": 3,
+            "Virality": 5,
+            "Source_Score": 4,
+            "Specificity": 3,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 6
+        }
+    ]
+}

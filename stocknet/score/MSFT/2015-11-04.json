@@ -1,0 +1,120 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 6,
+        "Importance": 5,
+        "Impact": 6,
+        "Duration": 4,
+        "Virality": 5,
+        "Source_Score": 8,
+        "Specificity": 6,
+        "Sector_Spread": 7,
+        "Tech_Mentions": 3
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @Benzinga: Amazon Web Services: Best growth story of the decade? $AMZN $CRM $MSFT",
+            "Correlation": 9,
+            "Sentiment": 8,
+            "Importance": 7,
+            "Impact": 7,
+            "Duration": 6,
+            "Virality": 7,
+            "Source_Score": 9,
+            "Specificity": 8,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "$MSFT - Rivals Microsoft and Red Hat Reach Linux Deal",
+            "Correlation": 10,
+            "Sentiment": 7,
+            "Importance": 8,
+            "Impact": 8,
+            "Duration": 5,
+            "Virality": 6,
+            "Source_Score": 7,
+            "Specificity": 9,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "RT SeekingAlpha: The Art And Practice Of Portfolio Diversification $XOM $MSFT $MRK $WMT $EPD $HASI $EVA $MMM $EMR",
+            "Correlation": 6,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 5,
+            "Source_Score": 8,
+            "Specificity": 5,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT @TriangleBIZJrnl: Red Hat-Microsoft partnership means a 'co-location' of engineers $RHT $MSFT",
+            "Correlation": 9,
+            "Sentiment": 7,
+            "Importance": 7,
+            "Impact": 7,
+            "Duration": 5,
+            "Virality": 6,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "RT @alex: $FB is now worth ~$300B, $MSFT $432B, and $GOOG $505B, and, of course:\n\n$AAPL is worth $681B",
+            "Correlation": 7,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 5,
+            "Source_Score": 6,
+            "Specificity": 7,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT @nanexllc: Here's 10 seconds of \"trading\" in $MSFT\nOver 8000 quote changes in 1 of those seconds",
+            "Correlation": 8,
+            "Sentiment": 4,
+            "Importance": 4,
+            "Impact": 5,
+            "Duration": 2,
+            "Virality": 4,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 5
+        },
+        {
+            "News_content": "How Apple Can Beat Microsoft With Businesses $GOOG $GOOGL $AAPL $MSFT",
+            "Correlation": 7,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 5,
+            "Source_Score": 7,
+            "Specificity": 6,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "$MSFT just brought back its best deal ever - smart move with a very appealing services package!",
+            "Correlation": 9,
+            "Sentiment": 8,
+            "Importance": 6,
+            "Impact": 7,
+            "Duration": 5,
+            "Virality": 6,
+            "Source_Score": 6,
+            "Specificity": 8,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 2
+        }
+    ]
+}

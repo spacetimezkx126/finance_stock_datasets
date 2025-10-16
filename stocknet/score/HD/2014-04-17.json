@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 3,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 2,
+        "Duration": 6,
+        "Virality": 1,
+        "Source_Score": 7,
+        "Specificity": 5,
+        "Sector_Spread": 2,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "HD Community Calendar: April 17, 2014",
+            "Correlation": 3,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 2,
+            "Duration": 6,
+            "Virality": 1,
+            "Source_Score": 7,
+            "Specificity": 5,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        }
+    ]
+}

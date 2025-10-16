@@ -1,0 +1,81 @@
+{
+    "Overall_score": {
+        "Correlation": 3,
+        "Sentiment": 4,
+        "Importance": 2,
+        "Impact": 3,
+        "Duration": 2,
+        "Virality": 5,
+        "Source_Score": 3,
+        "Specificity": 4,
+        "Sector_Spread": 2,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "Xi$T, Organized Chaos, tachyonemc2, tachyon3mc2, medstudent01, female-fitnessinspiratio",
+            "Correlation": 2,
+            "Sentiment": 5,
+            "Importance": 1,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 6,
+            "Source_Score": 3,
+            "Specificity": 3,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "GG Stock Message Board Updated Thursday, March 5, 2015 07:11:02 AM $EEM $OREX $T $DVY",
+            "Correlation": 8,
+            "Sentiment": 4,
+            "Importance": 3,
+            "Impact": 4,
+            "Duration": 2,
+            "Virality": 4,
+            "Source_Score": 5,
+            "Specificity": 7,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "Xi$T, Organized Chaos, tachyonemc2, tachyon3mc2, medstudent01, FT",
+            "Correlation": 2,
+            "Sentiment": 5,
+            "Importance": 1,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 6,
+            "Source_Score": 3,
+            "Specificity": 3,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Video: desirerodriguezz: Desire! ALEXANDERLV$T Blog My girl Desire got some moves",
+            "Correlation": 1,
+            "Sentiment": 6,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 7,
+            "Source_Score": 2,
+            "Specificity": 2,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Sponsored Mixtape COA$T GVNG Recording Artist Metro Voice Releases Since 93",
+            "Correlation": 1,
+            "Sentiment": 4,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 5,
+            "Source_Score": 2,
+            "Specificity": 2,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        }
+    ]
+}

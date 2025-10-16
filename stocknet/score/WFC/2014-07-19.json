@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 4,
+        "Sentiment": 5,
+        "Importance": 3,
+        "Impact": 4,
+        "Duration": 2,
+        "Virality": 6,
+        "Source_Score": 5,
+        "Specificity": 3,
+        "Sector_Spread": 7,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "Are you Bullish on these stocks WFC ACGL LIVE NSE",
+            "Correlation": 4,
+            "Sentiment": 5,
+            "Importance": 3,
+            "Impact": 4,
+            "Duration": 2,
+            "Virality": 6,
+            "Source_Score": 5,
+            "Specificity": 3,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        }
+    ]
+}

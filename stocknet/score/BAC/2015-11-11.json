@@ -1,0 +1,68 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 6,
+        "Impact": 4,
+        "Duration": 3,
+        "Virality": 5,
+        "Source_Score": 6,
+        "Specificity": 6,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "Commented on: \"Retirement Strategy: Hate The Stock Market? You Still Can Retire Ra... https://t.co/YlqKOZg6Gv $BAC $BGCP $CVX $ED",
+            "Correlation": 8,
+            "Sentiment": 7,
+            "Importance": 5,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 4,
+            "Source_Score": 7,
+            "Specificity": 7,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Facebook Vs. Google: Which Is The Best Mad Scientist? $FB $TWTR $LNKD $BAC #wlst https://t.co/3p5IMMPLj0 https://t.co/w6hvJQ6pqy",
+            "Correlation": 6,
+            "Sentiment": 6,
+            "Importance": 7,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 8,
+            "Source_Score": 6,
+            "Specificity": 5,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "jim50: BAC Gapped up +0.02 $BAC Last Price 17.96 Day https://t.co/swAdJ5QG5w",
+            "Correlation": 9,
+            "Sentiment": 8,
+            "Importance": 4,
+            "Impact": 5,
+            "Duration": 1,
+            "Virality": 3,
+            "Source_Score": 5,
+            "Specificity": 9,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 6
+        },
+        {
+            "News_content": "RT @StockNewsWires: $SUNE $BAC $AAPL:\n\nMost Active Stocks: SunEdison, (NYSE:SUNE), Bank of America …:\n\nhttps://t.co/meu95sjeAO",
+            "Correlation": 7,
+            "Sentiment": 5,
+            "Importance": 6,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 6,
+            "Source_Score": 7,
+            "Specificity": 6,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 2
+        }
+    ]
+}

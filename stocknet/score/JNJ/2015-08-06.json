@@ -1,0 +1,81 @@
+{
+    "Overall_score": {
+        "Correlation": 6,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 3,
+        "Duration": 2,
+        "Virality": 3,
+        "Source_Score": 5,
+        "Specificity": 5,
+        "Sector_Spread": 7,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "JNJ Johnson & Johnson Bid $JNJ $GLD $KR $FXE #JNJ #share #stock",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 4,
+            "Source_Score": 5,
+            "Specificity": 6,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Bullish on $JNJ with a target price of $105.54",
+            "Correlation": 9,
+            "Sentiment": 8,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 5,
+            "Source_Score": 6,
+            "Specificity": 9,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "JNJ SPDR Barclays High Yield Bond ETF Investor Opinions $JNJ $GS $PANW $SUNE #JNJ #invest #stocks",
+            "Correlation": 7,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 3,
+            "Source_Score": 5,
+            "Specificity": 5,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "UGAZ ProShares UltraPro S&P 500 Ask Size $UGAZ $HYG $GMCR $JNJ #UGAZ #stockmarket #finance",
+            "Correlation": 6,
+            "Sentiment": 4,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 3,
+            "Source_Score": 5,
+            "Specificity": 4,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "CLS.TO Celestica, Inc. Change $CLS.TO $DXJ $JNJ $UUP #CLS.TO #finance #stock",
+            "Correlation": 5,
+            "Sentiment": 4,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 2,
+            "Source_Score": 4,
+            "Specificity": 5,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 1
+        }
+    ]
+}

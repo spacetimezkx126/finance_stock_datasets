@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 4,
+        "Importance": 6,
+        "Impact": 5,
+        "Duration": 3,
+        "Virality": 2,
+        "Source_Score": 8,
+        "Specificity": 5,
+        "Sector_Spread": 7,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @FiercePharma: $JNJ took the No. 1 spot on last year's top #pharma companies by revenue list. See who else made the cut:",
+            "Correlation": 9,
+            "Sentiment": 7,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 2,
+            "Virality": 3,
+            "Source_Score": 8,
+            "Specificity": 6,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "On Repeal Judges Ignore Jury and Give Johnson & Johnson 'OKAY' to Harm Children and Elderly, Steal from Medicaid",
+            "Correlation": 5,
+            "Sentiment": 1,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 1,
+            "Source_Score": 6,
+            "Specificity": 4,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 1
+        }
+    ]
+}

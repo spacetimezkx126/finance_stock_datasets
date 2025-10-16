@@ -1,0 +1,55 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 6,
+        "Importance": 5,
+        "Impact": 6,
+        "Duration": 4,
+        "Virality": 5,
+        "Source_Score": 4,
+        "Specificity": 6,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 3
+    },
+    "Each_item": [
+        {
+            "News_content": "$GOOGL Google #avaのRPとか見ぬいたったー #DragMeDown #ぼくの考えるリッチなTRPGer #白猫で各職1番好きなキャラ挙げてけ $AAPL $BAC $FB $SPY $GE $BABA $NK",
+            "Correlation": 6,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 6,
+            "Source_Score": 3,
+            "Specificity": 5,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "Our Stock Picks Have Gained 3,600% In 10 Months! New Picks Coming: $AAPL $BAC $CBIS",
+            "Correlation": 8,
+            "Sentiment": 9,
+            "Importance": 7,
+            "Impact": 8,
+            "Duration": 5,
+            "Virality": 7,
+            "Source_Score": 6,
+            "Specificity": 8,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 4
+        },
+        {
+            "News_content": "$GOOG Google $QDEN $BSTK $VGTL $DIRV $DIGX $EMPS $atnm $baba $FXI $AAPL $BAC $FB $SPY $HPQ $ORCL $PCLN $JPM $TSLA",
+            "Correlation": 7,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 5,
+            "Source_Score": 4,
+            "Specificity": 7,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 3
+        }
+    ]
+}

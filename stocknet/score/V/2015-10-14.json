@@ -1,0 +1,55 @@
+{
+    "Overall_score": {
+        "Correlation": 6,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 3,
+        "Duration": 2,
+        "Virality": 4,
+        "Source_Score": 5,
+        "Specificity": 6,
+        "Sector_Spread": 7,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "V Visa Inc. 52Wk Low $V $MYEC $XLE $INTC #V #pennystocks #tradeideas VIPS Vipshop Holdings Ltd. Current Price…",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 5,
+            "Source_Score": 6,
+            "Specificity": 8,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "COP ConocoPhillips Prev Close $COP $TLT $V $ABT #COP #stock #invest",
+            "Correlation": 7,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 4,
+            "Source_Score": 5,
+            "Specificity": 7,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "IEF iShares Barclays 7-10 Year Treasury Bond Fund Stock Forum $IEF $V $MYEC $HD #IEF #pennystocks #pennystocks",
+            "Correlation": 6,
+            "Sentiment": 4,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 3,
+            "Source_Score": 4,
+            "Specificity": 6,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 1
+        }
+    ]
+}

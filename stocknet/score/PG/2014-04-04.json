@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 3,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 2,
+        "Duration": 6,
+        "Virality": 1,
+        "Source_Score": 7,
+        "Specificity": 5,
+        "Sector_Spread": 3,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "PG Public Health: 2014 Fact Base",
+            "Correlation": 3,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 2,
+            "Duration": 6,
+            "Virality": 1,
+            "Source_Score": 7,
+            "Specificity": 5,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        }
+    ]
+}

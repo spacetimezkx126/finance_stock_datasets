@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 6,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 3,
+        "Duration": 2,
+        "Virality": 7,
+        "Source_Score": 3,
+        "Specificity": 5,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "REPH Altisource Residential Corp. Class B Change http://t.co/JhmhZXH3Wa $REPH $EXAS $NHTC $CAT #REPH #investing #stocks",
+            "Correlation": 9,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 6,
+            "Source_Score": 4,
+            "Specificity": 8,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "You can promote your website trough our webpages, twitter and blogs, please contact us via twitter or Facebook $AXP $BA $C $CAT $T $BAC $GE",
+            "Correlation": 3,
+            "Sentiment": 4,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 8,
+            "Source_Score": 2,
+            "Specificity": 2,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 1
+        }
+    ]
+}

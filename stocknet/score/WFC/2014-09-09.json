@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 4,
+        "Importance": 6,
+        "Impact": 5,
+        "Duration": 3,
+        "Virality": 2,
+        "Source_Score": 7,
+        "Specificity": 9,
+        "Sector_Spread": 4,
+        "Tech_Mentions": 8
+    },
+    "Each_item": [
+        {
+            "News_content": "GS needs to hold 175 where it broke out. WFC 51 is not looking too good.",
+            "Correlation": 8,
+            "Sentiment": 4,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 7,
+            "Specificity": 9,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 8
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 4,
+        "Sentiment": 5,
+        "Importance": 3,
+        "Impact": 2,
+        "Duration": 1,
+        "Virality": 3,
+        "Source_Score": 6,
+        "Specificity": 7,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "Inactive day for us today. Closed the week with these longs: ACHN, DDD, GE, JNJ, KO, POT, TSLA, V. Have a good weekend everyone!",
+            "Correlation": 4,
+            "Sentiment": 5,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 3,
+            "Source_Score": 6,
+            "Specificity": 7,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        }
+    ]
+}

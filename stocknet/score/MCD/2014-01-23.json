@@ -1,0 +1,107 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 5,
+        "Importance": 7,
+        "Impact": 6,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 9,
+        "Specificity": 8,
+        "Sector_Spread": 5,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "McDonald's CEO Discusses Q4 2013 Results - Earnings Call Transcript",
+            "Correlation": 10,
+            "Sentiment": 6,
+            "Importance": 8,
+            "Impact": 7,
+            "Duration": 5,
+            "Virality": 4,
+            "Source_Score": 9,
+            "Specificity": 9,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "McDonald's sees Jan comps relatively flat",
+            "Correlation": 9,
+            "Sentiment": 4,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 8,
+            "Specificity": 8,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "For the year, McDonald's customer traffic in the US was down 1.6% (per 8-K filing)",
+            "Correlation": 10,
+            "Sentiment": 3,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 2,
+            "Source_Score": 9,
+            "Specificity": 10,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Lots to cover: $NFLX, $EBAY, $FFIV, $MCD, $LMT, $WDC, $SNDK, China, Europe",
+            "Correlation": 6,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 6,
+            "Source_Score": 7,
+            "Specificity": 4,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "5 Companies That Have Stayed Relevant By Re-inventing Themselves",
+            "Correlation": 7,
+            "Sentiment": 7,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 6,
+            "Virality": 5,
+            "Source_Score": 8,
+            "Specificity": 5,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "McDonald's sees fewer customers, sales disappoint",
+            "Correlation": 9,
+            "Sentiment": 2,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 8,
+            "Specificity": 8,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "$MCD reports FQ4 earnings of $1.40 EPS and $7.09B Revs",
+            "Correlation": 10,
+            "Sentiment": 6,
+            "Importance": 8,
+            "Impact": 7,
+            "Duration": 5,
+            "Virality": 4,
+            "Source_Score": 9,
+            "Specificity": 10,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        }
+    ]
+}

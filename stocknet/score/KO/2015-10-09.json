@@ -1,0 +1,68 @@
+{
+    "Overall_score": {
+        "Correlation": 6,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 3,
+        "Duration": 2,
+        "Virality": 7,
+        "Source_Score": 5,
+        "Specificity": 6,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "See video and website for 20 free trades and ideas $CMS $CL $CMA $BK $BRK.B $BRK.A $BA $KO",
+            "Correlation": 7,
+            "Sentiment": 6,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 8,
+            "Source_Score": 6,
+            "Specificity": 7,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Our Pick On $HCTI More Than Tripled For Our Members, In 3 Weeks! Subscribe For Our New Picks: $TWO $KO $EMR",
+            "Correlation": 6,
+            "Sentiment": 8,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 7,
+            "Source_Score": 5,
+            "Specificity": 6,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "FSLR First Solar Inc. Ideas $FSLR $IWM $NKE $KO",
+            "Correlation": 5,
+            "Sentiment": 4,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 2,
+            "Virality": 6,
+            "Source_Score": 4,
+            "Specificity": 5,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "KO Coca Cola Co. Investor Opinions $KO $BCB.TO $ACN $SBUX",
+            "Correlation": 6,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 7,
+            "Source_Score": 5,
+            "Specificity": 6,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        }
+    ]
+}

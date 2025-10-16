@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 6,
+        "Impact": 5,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 8,
+        "Specificity": 7,
+        "Sector_Spread": 9,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "barronsonline: The value premium isn’t gone; it has relocated $XOM $GE $WFC $IWD $MU $GILD $VIAB $SMVLX $AMGN $PY",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 3,
+            "Source_Score": 9,
+            "Specificity": 8,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Follow #Nasdaq 100 traders & track their tweets under one watchlist $AMGN $QCOM",
+            "Correlation": 6,
+            "Sentiment": 4,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 3,
+            "Source_Score": 7,
+            "Specificity": 6,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 3
+        }
+    ]
+}

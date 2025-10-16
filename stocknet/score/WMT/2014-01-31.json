@@ -1,0 +1,55 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 4,
+        "Importance": 7,
+        "Impact": 6,
+        "Duration": 5,
+        "Virality": 6,
+        "Source_Score": 9,
+        "Specificity": 8,
+        "Sector_Spread": 5,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "Obama Says Wal-Mart Joins Apple in Pledge for Jobless",
+            "Correlation": 7,
+            "Sentiment": 8,
+            "Importance": 8,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 7,
+            "Source_Score": 9,
+            "Specificity": 7,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Food-stamp cut, bad weather blamed by Wal-Mart for profit warning",
+            "Correlation": 9,
+            "Sentiment": 2,
+            "Importance": 7,
+            "Impact": 7,
+            "Duration": 6,
+            "Virality": 5,
+            "Source_Score": 8,
+            "Specificity": 9,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Another day, another blue Christmas report: Walmart is the latest retailer to cut its holiday earnings view",
+            "Correlation": 8,
+            "Sentiment": 3,
+            "Importance": 6,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 6,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 2
+        }
+    ]
+}

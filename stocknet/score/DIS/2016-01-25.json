@@ -1,0 +1,68 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 6,
+        "Impact": 4,
+        "Duration": 3,
+        "Virality": 5,
+        "Source_Score": 6,
+        "Specificity": 7,
+        "Sector_Spread": 2,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @stitchkingdom: New Disney Store Arrivals and Sales for January 25, 2016 (173 Items) $DIS",
+            "Correlation": 8,
+            "Sentiment": 7,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 6,
+            "Source_Score": 5,
+            "Specificity": 9,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT @RichBTIG: Most thought #StarWars would easily do $2.5 bn, let alone $3 bn, now struggling to 2 bn #fadetheforce $DIS",
+            "Correlation": 9,
+            "Sentiment": 3,
+            "Importance": 8,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 7,
+            "Source_Score": 8,
+            "Specificity": 8,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "Bought 1.6031 of $DIS scheduled on January 25 for $92.93.",
+            "Correlation": 7,
+            "Sentiment": 6,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 4,
+            "Source_Score": 4,
+            "Specificity": 10,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT @TJReazor: The Traditional brokers err shills top-ticking indv investors since Fall of 2015 cc @1DannyStewart @dvandenbord $DIS",
+            "Correlation": 6,
+            "Sentiment": 4,
+            "Importance": 5,
+            "Impact": 3,
+            "Duration": 4,
+            "Virality": 5,
+            "Source_Score": 7,
+            "Specificity": 6,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        }
+    ]
+}

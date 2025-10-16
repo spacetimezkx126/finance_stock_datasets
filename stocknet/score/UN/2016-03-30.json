@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 2,
+        "Sentiment": 5,
+        "Importance": 3,
+        "Impact": 4,
+        "Duration": 6,
+        "Virality": 7,
+        "Source_Score": 5,
+        "Specificity": 3,
+        "Sector_Spread": 1,
+        "Tech_Mentions": 0
+    },
+    "Each_item": [
+        {
+            "News_content": "3MAY$UN - Internal EYE by 3May$un on SoundCloud np https://t.co/SoLMhzCZr5",
+            "Correlation": 2,
+            "Sentiment": 5,
+            "Importance": 3,
+            "Impact": 4,
+            "Duration": 6,
+            "Virality": 7,
+            "Source_Score": 5,
+            "Specificity": 3,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        }
+    ]
+}

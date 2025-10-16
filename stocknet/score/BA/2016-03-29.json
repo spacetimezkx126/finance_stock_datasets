@@ -1,0 +1,81 @@
+{
+    "Overall_score": {
+        "Correlation": 6,
+        "Sentiment": 5,
+        "Importance": 7,
+        "Impact": 6,
+        "Duration": 4,
+        "Virality": 5,
+        "Source_Score": 8,
+        "Specificity": 6,
+        "Sector_Spread": 5,
+        "Tech_Mentions": 3
+    },
+    "Each_item": [
+        {
+            "News_content": "Egypt Hijacking Without Passenger Deaths Fits Post-9/11 Pattern",
+            "Correlation": 4,
+            "Sentiment": 5,
+            "Importance": 7,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 6,
+            "Source_Score": 8,
+            "Specificity": 6,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Russian Air Crash Investigators : No Technical Fault With Boeing 737 in FlyDubai Cr",
+            "Correlation": 8,
+            "Sentiment": 3,
+            "Importance": 8,
+            "Impact": 7,
+            "Duration": 5,
+            "Virality": 7,
+            "Source_Score": 9,
+            "Specificity": 9,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 4
+        },
+        {
+            "News_content": "Boeing to meet 2017 goal to stop growth of greenhouse gas emissions",
+            "Correlation": 7,
+            "Sentiment": 9,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 7,
+            "Virality": 4,
+            "Source_Score": 8,
+            "Specificity": 8,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "World Watch: News Digest",
+            "Correlation": 3,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 5,
+            "Source_Score": 7,
+            "Specificity": 3,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Worst sentiment for SP1500 stocks at market close: ADBE, BA, SPTN, ICON, CRM (2016/03/29)",
+            "Correlation": 9,
+            "Sentiment": 2,
+            "Importance": 7,
+            "Impact": 8,
+            "Duration": 4,
+            "Virality": 6,
+            "Source_Score": 8,
+            "Specificity": 9,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 6
+        }
+    ]
+}

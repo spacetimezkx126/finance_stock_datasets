@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 7,
+        "Importance": 6,
+        "Impact": 8,
+        "Duration": 3,
+        "Virality": 5,
+        "Source_Score": 4,
+        "Specificity": 9,
+        "Sector_Spread": 7,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "Biggest gainers today large caps: JD 14.28% FE 5.56% PCLN 5.18% WDAY 4.89% NRG 4.72% NBG 4.66% TI-A 4.65% TSN 4.58% TI 3.98%",
+            "Correlation": 9,
+            "Sentiment": 8,
+            "Importance": 6,
+            "Impact": 8,
+            "Duration": 3,
+            "Virality": 4,
+            "Source_Score": 5,
+            "Specificity": 10,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "Wow just saw PCLN up 60 on the day... That is sooooooo CRAZY!!",
+            "Correlation": 7,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 8,
+            "Duration": 2,
+            "Virality": 6,
+            "Source_Score": 3,
+            "Specificity": 8,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 1
+        }
+    ]
+}

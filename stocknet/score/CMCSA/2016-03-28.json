@@ -1,0 +1,55 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 7,
+        "Importance": 6,
+        "Impact": 5,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 9,
+        "Specificity": 7,
+        "Sector_Spread": 6,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "YahooFinance: WATCH: YES Turns Up Heat on Comcast $CMCSA",
+            "Correlation": 10,
+            "Sentiment": 8,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 4,
+            "Source_Score": 9,
+            "Specificity": 9,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT @ChinaInvest: RT SeekingAlpha: Carriers Building Ad Dossiers May Miss The Point $GOOGL $T $VZ $YHOO $GOOG $CMCSA",
+            "Correlation": 7,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 7,
+            "Source_Score": 8,
+            "Specificity": 6,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "Macquarie bullish on $CMCSA Q1 video additions, owing to X1 services roll-out",
+            "Correlation": 9,
+            "Sentiment": 8,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 2,
+            "Source_Score": 9,
+            "Specificity": 8,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 3
+        }
+    ]
+}

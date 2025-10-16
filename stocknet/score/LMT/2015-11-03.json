@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 6,
+        "Impact": 6,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 8,
+        "Specificity": 5,
+        "Sector_Spread": 7,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "FXP News Updated Monday, November 2, 2015 6:10:48 PM LNKD LMT GPRO AMZN",
+            "Correlation": 7,
+            "Sentiment": 5,
+            "Importance": 6,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 8,
+            "Specificity": 5,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 2
+        }
+    ]
+}

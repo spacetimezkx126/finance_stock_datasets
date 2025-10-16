@@ -1,0 +1,94 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 6,
+        "Importance": 5,
+        "Impact": 6,
+        "Duration": 4,
+        "Virality": 5,
+        "Source_Score": 6,
+        "Specificity": 7,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 3
+    },
+    "Each_item": [
+        {
+            "News_content": "Alibaba Makes Strong Push Into Mobile Ecommerce and Search",
+            "Correlation": 9,
+            "Sentiment": 8,
+            "Importance": 8,
+            "Impact": 7,
+            "Duration": 6,
+            "Virality": 7,
+            "Source_Score": 7,
+            "Specificity": 9,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "Thursday Morning Market Video Covering: $WYNN, $GPRO, $AMZN, $SSYS, $DDD, $TSLA, $SCTY, $TLT, $YHOO, $AAPL, $SPY $USO",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 6,
+            "Source_Score": 6,
+            "Specificity": 7,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "$AMZN vs $BABA.  Crazy Chart",
+            "Correlation": 8,
+            "Sentiment": 7,
+            "Importance": 5,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 8,
+            "Source_Score": 5,
+            "Specificity": 8,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 4
+        },
+        {
+            "News_content": "$AMZN Survey: Netflix Is The Leading Video Service, But There Is Room For Competitors",
+            "Correlation": 7,
+            "Sentiment": 6,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 5,
+            "Virality": 5,
+            "Source_Score": 6,
+            "Specificity": 7,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "Reverse Showrooming: Shop in Stores, Resell Online $AMZN",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 6,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "$AMZN Last Price Updated Thursday, April 9, 2015 7:07:30 PM $LULU $SGLB $JRJC $EWZ",
+            "Correlation": 6,
+            "Sentiment": 4,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 3,
+            "Source_Score": 5,
+            "Specificity": 6,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 1
+        }
+    ]
+}

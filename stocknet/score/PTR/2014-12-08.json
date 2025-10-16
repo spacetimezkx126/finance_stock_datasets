@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 9,
+        "Sentiment": 3,
+        "Importance": 6,
+        "Impact": 7,
+        "Duration": 4,
+        "Virality": 2,
+        "Source_Score": 8,
+        "Specificity": 10,
+        "Sector_Spread": 5,
+        "Tech_Mentions": 9
+    },
+    "Each_item": [
+        {
+            "News_content": "Petrochina $PTR Showing Bearish Technicals With Resistance At $112.46",
+            "Correlation": 9,
+            "Sentiment": 3,
+            "Importance": 6,
+            "Impact": 7,
+            "Duration": 4,
+            "Virality": 2,
+            "Source_Score": 8,
+            "Specificity": 10,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 9
+        }
+    ]
+}

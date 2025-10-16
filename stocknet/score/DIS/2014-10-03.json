@@ -1,0 +1,68 @@
+{
+    "Overall_score": {
+        "Correlation": 9,
+        "Sentiment": 7,
+        "Importance": 8,
+        "Impact": 6,
+        "Duration": 5,
+        "Virality": 4,
+        "Source_Score": 8,
+        "Specificity": 9,
+        "Sector_Spread": 3,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "Disney extends CEO Iger's contract through June 2018",
+            "Correlation": 9,
+            "Sentiment": 7,
+            "Importance": 8,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 4,
+            "Source_Score": 8,
+            "Specificity": 9,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "New amended agreement with $DIS Iger gives him potential to earn $60m bonus",
+            "Correlation": 9,
+            "Sentiment": 8,
+            "Importance": 8,
+            "Impact": 7,
+            "Duration": 5,
+            "Virality": 5,
+            "Source_Score": 8,
+            "Specificity": 9,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "NEW VIDEO: STRATEGY SESSION - Giving $DIS $GD another day after big reversals",
+            "Correlation": 6,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 6,
+            "Source_Score": 7,
+            "Specificity": 5,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 8
+        },
+        {
+            "News_content": "The Walt Disney Company Extends Bob Iger's Contract Through 2018",
+            "Correlation": 9,
+            "Sentiment": 7,
+            "Importance": 8,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 4,
+            "Source_Score": 8,
+            "Specificity": 9,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "Overall_score": {
+        "Correlation": 2,
+        "Sentiment": 3,
+        "Importance": 1,
+        "Impact": 1,
+        "Duration": 2,
+        "Virality": 4,
+        "Source_Score": 3,
+        "Specificity": 2,
+        "Sector_Spread": 1,
+        "Tech_Mentions": 0
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @BuckGordy: JU$TIN - JU$T HU$TLE BxTxH Booking No. 3883076 (EP) | @JUSTHUSTLE_Bx",
+            "Correlation": 2,
+            "Sentiment": 3,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 2,
+            "Virality": 5,
+            "Source_Score": 3,
+            "Specificity": 2,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "+&amp;OPt^W(eE(a\"AM$4|W8&amp;Q?kA)&lt;$T~0T=2\\OVPTkk(K-Z5_wc_W",
+            "Correlation": 1,
+            "Sentiment": 2,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 2,
+            "Source_Score": 2,
+            "Specificity": 1,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "JU$TIN JU$T HU$TLE BxTxH Booking No. 3883076 EP",
+            "Correlation": 2,
+            "Sentiment": 3,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 2,
+            "Virality": 4,
+            "Source_Score": 3,
+            "Specificity": 2,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "RT @TripleHQLove: JU$TIN JU$T HU$TLE BxTxH Booking No. 3883076 (EP) | @JUSTHUSTLE_Bx",
+            "Correlation": 2,
+            "Sentiment": 3,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 2,
+            "Virality": 5,
+            "Source_Score": 3,
+            "Specificity": 2,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "@scarletmonahan: C poop meron ELI T I S T E X T R E M I S M The Antid t e",
+            "Correlation": 1,
+            "Sentiment": 2,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 3,
+            "Source_Score": 2,
+            "Specificity": 1,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        }
+    ]
+}

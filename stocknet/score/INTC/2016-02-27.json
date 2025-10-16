@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 6,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 3,
+        "Duration": 2,
+        "Virality": 7,
+        "Source_Score": 8,
+        "Specificity": 5,
+        "Sector_Spread": 6,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "https://t.co/aSPds1Qy1g is a link to someone who provides great free information on hot stocks with a stellar track record. INTC OHRP ALTR are some of the stock tickers mentioned.",
+            "Correlation": 6,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 7,
+            "Source_Score": 8,
+            "Specificity": 5,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 1
+        }
+    ]
+}

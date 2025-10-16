@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 2,
+        "Sentiment": 8,
+        "Importance": 3,
+        "Impact": 2,
+        "Duration": 4,
+        "Virality": 7,
+        "Source_Score": 5,
+        "Specificity": 6,
+        "Sector_Spread": 1,
+        "Tech_Mentions": 0
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @MexicoMerio: Hoodrich Pablo Juan dropped Auto Juan, P$C, & Guriella Warfare 😭🔥🔥🔥🔥 You know what I'm bumpin the next couple months lol",
+            "Correlation": 2,
+            "Sentiment": 8,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 4,
+            "Virality": 7,
+            "Source_Score": 5,
+            "Specificity": 6,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        }
+    ]
+}

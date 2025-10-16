@@ -1,0 +1,55 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 3,
+        "Duration": 6,
+        "Virality": 2,
+        "Source_Score": 5,
+        "Specificity": 4,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "How Much Bond Duration Could You Endure? #stocks #investing $UTX",
+            "Correlation": 6,
+            "Sentiment": 4,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 7,
+            "Virality": 1,
+            "Source_Score": 5,
+            "Specificity": 3,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "$XOM News: \"How To Reach Your Dividend Income Goals $MMM $UTX $XOM $JNJ\"",
+            "Correlation": 7,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 6,
+            "Virality": 3,
+            "Source_Score": 5,
+            "Specificity": 5,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "$XOM News: \"How To Reach Your Dividend Income Goals $MMM $UTX $XOM $JNJ\"",
+            "Correlation": 7,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 6,
+            "Virality": 3,
+            "Source_Score": 5,
+            "Specificity": 5,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 1
+        }
+    ]
+}

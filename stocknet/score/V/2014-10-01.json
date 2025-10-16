@@ -1,0 +1,55 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 6,
+        "Impact": 4,
+        "Duration": 3,
+        "Virality": 5,
+        "Source_Score": 8,
+        "Specificity": 7,
+        "Sector_Spread": 5,
+        "Tech_Mentions": 6
+    },
+    "Each_item": [
+        {
+            "News_content": "Locking Up Profits In Visa Due To Global Turmoil",
+            "Correlation": 9,
+            "Sentiment": 4,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 3,
+            "Source_Score": 8,
+            "Specificity": 8,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "Google Inc (GOOGL) 581.01 -7.40 (-1.26%)",
+            "Correlation": 10,
+            "Sentiment": 2,
+            "Importance": 8,
+            "Impact": 7,
+            "Duration": 2,
+            "Virality": 6,
+            "Source_Score": 9,
+            "Specificity": 10,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "An easy guide to how Apple Pay works",
+            "Correlation": 6,
+            "Sentiment": 7,
+            "Importance": 5,
+            "Impact": 3,
+            "Duration": 4,
+            "Virality": 8,
+            "Source_Score": 7,
+            "Specificity": 6,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 9
+        }
+    ]
+}

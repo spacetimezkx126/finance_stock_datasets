@@ -1,0 +1,55 @@
+{
+    "Overall_score": {
+        "Correlation": 6,
+        "Sentiment": 7,
+        "Importance": 4,
+        "Impact": 5,
+        "Duration": 3,
+        "Virality": 8,
+        "Source_Score": 5,
+        "Specificity": 7,
+        "Sector_Spread": 6,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "C - Statement of Changes in Beneficial Ownership (4)",
+            "Correlation": 9,
+            "Sentiment": 5,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 8,
+            "Specificity": 10,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Our Penny Stock Alerts Gained Over 1400% In Just Over 4 Months! Subscribe today: $VRS $LAS $C $WFC",
+            "Correlation": 7,
+            "Sentiment": 9,
+            "Importance": 5,
+            "Impact": 8,
+            "Duration": 3,
+            "Virality": 9,
+            "Source_Score": 4,
+            "Specificity": 6,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "PPCH Gained As Much As 1005% Within 3 Days! Market News: $BMSN $C $GE",
+            "Correlation": 6,
+            "Sentiment": 8,
+            "Importance": 4,
+            "Impact": 7,
+            "Duration": 2,
+            "Virality": 8,
+            "Source_Score": 5,
+            "Specificity": 7,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 2
+        }
+    ]
+}

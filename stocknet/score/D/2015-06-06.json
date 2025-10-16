@@ -1,0 +1,120 @@
+{
+    "Overall_score": {
+        "Correlation": 2,
+        "Sentiment": 4,
+        "Importance": 3,
+        "Impact": 1,
+        "Duration": 2,
+        "Virality": 6,
+        "Source_Score": 5,
+        "Specificity": 3,
+        "Sector_Spread": 1,
+        "Tech_Mentions": 0
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @LucioQuincioC: No pueden dolarizar la economia,porque sencillamente necesitarian minimo U$D 50.000.000.000,00 en efectivo, y solo cuent…",
+            "Correlation": 8,
+            "Sentiment": 3,
+            "Importance": 7,
+            "Impact": 5,
+            "Duration": 6,
+            "Virality": 4,
+            "Source_Score": 6,
+            "Specificity": 9,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "En Bs o en U$D: Un carro cuesta un ojo de la cara (+Infografía) #Venezuela #BuscaTuCentro",
+            "Correlation": 6,
+            "Sentiment": 2,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 5,
+            "Virality": 3,
+            "Source_Score": 5,
+            "Specificity": 7,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "L$D",
+            "Correlation": 1,
+            "Sentiment": 5,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 7,
+            "Source_Score": 3,
+            "Specificity": 1,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "RT @JoshHennessy: L$D is such a good song",
+            "Correlation": 1,
+            "Sentiment": 8,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 6,
+            "Source_Score": 4,
+            "Specificity": 1,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "@jennaahleee ASAP Rocky L$D calling rn",
+            "Correlation": 1,
+            "Sentiment": 7,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 5,
+            "Source_Score": 3,
+            "Specificity": 1,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "RT @tessticklesss: Rappin to this L$D",
+            "Correlation": 1,
+            "Sentiment": 6,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 5,
+            "Source_Score": 3,
+            "Specificity": 1,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "L$D",
+            "Correlation": 1,
+            "Sentiment": 5,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 7,
+            "Source_Score": 3,
+            "Specificity": 1,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "RT @deathbytrend: A$AP ROCKY - L$D",
+            "Correlation": 1,
+            "Sentiment": 7,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 6,
+            "Source_Score": 4,
+            "Specificity": 1,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        }
+    ]
+}

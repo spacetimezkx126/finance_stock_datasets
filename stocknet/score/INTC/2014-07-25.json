@@ -1,0 +1,55 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 4,
+        "Importance": 5,
+        "Impact": 6,
+        "Duration": 3,
+        "Virality": 5,
+        "Source_Score": 6,
+        "Specificity": 8,
+        "Sector_Spread": 9,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @HedgeyeBerger: @KeithMcCullough Downside risk Semis: $INTC $FCS $ONNN $DIOD $ATML $SYNA $CAVM $SNDK $MU $SWKS $TQNT $NVDA $TSMC $AMKR",
+            "Correlation": 10,
+            "Sentiment": 2,
+            "Importance": 6,
+            "Impact": 7,
+            "Duration": 4,
+            "Virality": 7,
+            "Source_Score": 8,
+            "Specificity": 9,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "#Dow #stocks $INTC Intel Daily:-0.72% Weekly:1.63% YTD:34.31% Trend:63 / 100",
+            "Correlation": 9,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 5,
+            "Duration": 2,
+            "Virality": 4,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "Replicate multimillionaire strategy easy to copy! Subscription is cheap at twice the price! $MYL $LO $INTC $WLL $OZRK",
+            "Correlation": 5,
+            "Sentiment": 7,
+            "Importance": 3,
+            "Impact": 4,
+            "Duration": 2,
+            "Virality": 3,
+            "Source_Score": 4,
+            "Specificity": 6,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 0
+        }
+    ]
+}

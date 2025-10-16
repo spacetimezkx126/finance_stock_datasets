@@ -1,0 +1,107 @@
+{
+    "Overall_score": {
+        "Correlation": 6,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 5,
+        "Duration": 3,
+        "Virality": 4,
+        "Source_Score": 5,
+        "Specificity": 6,
+        "Sector_Spread": 7,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "CVC Cablevision Systems Chart $CVC $HEDJ $AMZN $XLP #CVC #stock #investing",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 3,
+            "Impact": 4,
+            "Duration": 2,
+            "Virality": 3,
+            "Source_Score": 4,
+            "Specificity": 7,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "AMZN, Inc. Prev Close $AMZN $SWI $JNUG $DNO #AMZN #invest #pennystocks",
+            "Correlation": 7,
+            "Sentiment": 4,
+            "Importance": 3,
+            "Impact": 4,
+            "Duration": 2,
+            "Virality": 4,
+            "Source_Score": 5,
+            "Specificity": 6,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "ATVI Activision Blizzard Inc. Last Price $ATVI $USO $VYM $AMZN #ATVI #invest #stock",
+            "Correlation": 7,
+            "Sentiment": 5,
+            "Importance": 3,
+            "Impact": 4,
+            "Duration": 2,
+            "Virality": 3,
+            "Source_Score": 5,
+            "Specificity": 7,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Life as an Amazon bike courier, an epic gathering of tech moguls, and a ... $AMZN #Amazon",
+            "Correlation": 6,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 6,
+            "Source_Score": 6,
+            "Specificity": 5,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "AMZN, Inc. Bid Size $AMZN $INCY $HYG $ERY #AMZN #finance #nasdaq",
+            "Correlation": 7,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 4,
+            "Source_Score": 5,
+            "Specificity": 6,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "AMZN, Inc. Ex-Div Date $AMZN $RGLD $FDN $ORLY #AMZN #finance #stock",
+            "Correlation": 7,
+            "Sentiment": 5,
+            "Importance": 5,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 4,
+            "Source_Score": 5,
+            "Specificity": 7,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "AMZN, Inc. Ask $AMZN $BRCM $BMY $GDX #AMZN #tradeideas #stocks",
+            "Correlation": 7,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 4,
+            "Source_Score": 5,
+            "Specificity": 6,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 2
+        }
+    ]
+}

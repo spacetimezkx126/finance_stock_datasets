@@ -1,0 +1,68 @@
+{
+    "Overall_score": {
+        "Correlation": 6,
+        "Sentiment": 4,
+        "Importance": 5,
+        "Impact": 5,
+        "Duration": 3,
+        "Virality": 7,
+        "Source_Score": 8,
+        "Specificity": 5,
+        "Sector_Spread": 4,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @TheMars3301: M!N&H;G3?,HHQ.R$MCD<RN#GD#/=E^V?%4RSC8WFB5+6CJ%&K>2Q3B\\O9OEN",
+            "Correlation": 1,
+            "Sentiment": 1,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 3,
+            "Source_Score": 2,
+            "Specificity": 1,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT @YahooFinance: For McDonald's, it was a year to forget -- and 2015 might be the same",
+            "Correlation": 9,
+            "Sentiment": 3,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 8,
+            "Source_Score": 9,
+            "Specificity": 8,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT @MarketWatch: Nutrition? A Chipotle burrito can be worse for you than a Big Mac.",
+            "Correlation": 8,
+            "Sentiment": 4,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 7,
+            "Source_Score": 8,
+            "Specificity": 7,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT @CashRocket: My 15 swing longs (common + calls) all green today:",
+            "Correlation": 5,
+            "Sentiment": 7,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 6,
+            "Source_Score": 6,
+            "Specificity": 4,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 8
+        }
+    ]
+}

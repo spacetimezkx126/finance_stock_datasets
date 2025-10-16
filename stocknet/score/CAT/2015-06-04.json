@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 3,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 4,
+        "Duration": 2,
+        "Virality": 8,
+        "Source_Score": 6,
+        "Specificity": 7,
+        "Sector_Spread": 9,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @crypto_chatter: 10 Most Mentioned - last 6 hours: HYP 17 ORB 12 CRACK 8 BET 7 DOGED 6 XRP 6 CAT 5 SUPER 4 VRC 4 MAX 4 altcoin",
+            "Correlation": 3,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 4,
+            "Duration": 2,
+            "Virality": 8,
+            "Source_Score": 6,
+            "Specificity": 7,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 1
+        }
+    ]
+}

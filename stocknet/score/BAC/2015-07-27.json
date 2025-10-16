@@ -1,0 +1,68 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 8,
+        "Importance": 6,
+        "Impact": 5,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 9,
+        "Specificity": 7,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "BAC - Bank of America Announces Industry-leading 125 Billion Environmental Business Initiative",
+            "Correlation": 9,
+            "Sentiment": 9,
+            "Importance": 8,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 4,
+            "Source_Score": 9,
+            "Specificity": 8,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Subscribe NOW SPY AAPL FB IGEX FDX BABA FIT TWTR MCD JNJ INDU XLE XLF BAC FAS FAZ",
+            "Correlation": 3,
+            "Sentiment": 5,
+            "Importance": 2,
+            "Impact": 1,
+            "Duration": 2,
+            "Virality": 3,
+            "Source_Score": 4,
+            "Specificity": 2,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "BofA more than doubles environmental lending pledge BAC",
+            "Correlation": 8,
+            "Sentiment": 8,
+            "Importance": 7,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 8,
+            "Specificity": 7,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "TSLA Tesla AAPL BAC FB SPY GE BABA NFLX C FE TSLA F T UWTI RAD GILD VXX UA GOOGL GOOG",
+            "Correlation": 4,
+            "Sentiment": 6,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 3,
+            "Virality": 5,
+            "Source_Score": 5,
+            "Specificity": 3,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 2
+        }
+    ]
+}

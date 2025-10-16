@@ -1,0 +1,55 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 6,
+        "Importance": 4,
+        "Impact": 5,
+        "Duration": 3,
+        "Virality": 2,
+        "Source_Score": 3,
+        "Specificity": 6,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "$ABBV looking good, Mortimer, looking good, breakout coming soon",
+            "Correlation": 9,
+            "Sentiment": 8,
+            "Importance": 5,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 2,
+            "Source_Score": 4,
+            "Specificity": 7,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "$VTI Stock Price Updated Sunday, June 28, 2015 5:11:08 PM $AAPL $CVX $BIIB $ABBV",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 4,
+            "Duration": 2,
+            "Virality": 1,
+            "Source_Score": 3,
+            "Specificity": 6,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "ABBV AbbVie Inc. Open $ABBV $COW $V $AYI #ABBV #stockmarket #stockmarket",
+            "Correlation": 7,
+            "Sentiment": 6,
+            "Importance": 3,
+            "Impact": 3,
+            "Duration": 3,
+            "Virality": 3,
+            "Source_Score": 3,
+            "Specificity": 5,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        }
+    ]
+}

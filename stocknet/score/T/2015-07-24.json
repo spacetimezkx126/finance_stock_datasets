@@ -1,0 +1,107 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 8,
+        "Importance": 6,
+        "Impact": 7,
+        "Duration": 5,
+        "Virality": 4,
+        "Source_Score": 6,
+        "Specificity": 7,
+        "Sector_Spread": 5,
+        "Tech_Mentions": 3
+    },
+    "Each_item": [
+        {
+            "News_content": "Trinity proved again that it is 1st in its class in the rail car biz. Analysts on the CC surprised at how good it was.",
+            "Correlation": 9,
+            "Sentiment": 8,
+            "Importance": 5,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "AT&T just got the green light to buy DirecTV in $48.5 billion deal",
+            "Correlation": 10,
+            "Sentiment": 9,
+            "Importance": 9,
+            "Impact": 8,
+            "Duration": 6,
+            "Virality": 7,
+            "Source_Score": 8,
+            "Specificity": 10,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "AT&T, DirecTV merger approved by FCC",
+            "Correlation": 10,
+            "Sentiment": 8,
+            "Importance": 8,
+            "Impact": 7,
+            "Duration": 5,
+            "Virality": 6,
+            "Source_Score": 9,
+            "Specificity": 9,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "The FCC approved AT&T's $49 billion purchase of DirecTV",
+            "Correlation": 10,
+            "Sentiment": 8,
+            "Importance": 8,
+            "Impact": 7,
+            "Duration": 5,
+            "Virality": 6,
+            "Source_Score": 9,
+            "Specificity": 9,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "$T and this is going down on the good news? Should be through the",
+            "Correlation": 5,
+            "Sentiment": 4,
+            "Importance": 3,
+            "Impact": 4,
+            "Duration": 2,
+            "Virality": 2,
+            "Source_Score": 4,
+            "Specificity": 3,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "$T compare this chart with the current chart",
+            "Correlation": 6,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 3,
+            "Source_Score": 5,
+            "Specificity": 6,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 4
+        },
+        {
+            "News_content": "XRT SPDR S&P Retail Index Day High",
+            "Correlation": 7,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 2,
+            "Source_Score": 6,
+            "Specificity": 7,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 5
+        }
+    ]
+}

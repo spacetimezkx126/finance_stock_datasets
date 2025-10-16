@@ -1,0 +1,133 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 6,
+        "Importance": 5,
+        "Impact": 4,
+        "Duration": 3,
+        "Virality": 5,
+        "Source_Score": 6,
+        "Specificity": 7,
+        "Sector_Spread": 4,
+        "Tech_Mentions": 8
+    },
+    "Each_item": [
+        {
+            "News_content": "US Stocks & Market Review Ichimoku and Candlestick video Apr29 http://t.co/BRfytkzxZL $VZ $PG $XOM $SO #stocks #futures",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 6,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 10
+        },
+        {
+            "News_content": "US Stocks & Market Review Ichimoku and Candlestick video 29Apr2014 http://t.co/8UUgNPpyb3 $VZ $PG $XOM $SO #futures #stocks",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 6,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 10
+        },
+        {
+            "News_content": "RT @SeekingAlpha: Why Exxon Mobil Is Heading To $110 http://t.co/VSGA2aVdpJ $XOM",
+            "Correlation": 9,
+            "Sentiment": 8,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 7,
+            "Source_Score": 9,
+            "Specificity": 9,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "$XOM US sanctions raise conc http://t.co/gLIx8JUJVR",
+            "Correlation": 8,
+            "Sentiment": 4,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 5,
+            "Source_Score": 6,
+            "Specificity": 8,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "$XOM Best research on #stocks such s $INTC $BHI $CHTP #moneymanagement http://t.co/qHska7VtKh",
+            "Correlation": 7,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 4,
+            "Source_Score": 7,
+            "Specificity": 7,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "$XOM ExxonMobil Lifts Dividend by 9.5% http://t.co/7KiRHhaBVt",
+            "Correlation": 9,
+            "Sentiment": 8,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 6,
+            "Source_Score": 8,
+            "Specificity": 9,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "$XOM - Exxon Mobil announces quarterly dividend increase, to $0.69/share from $0.63 #TooBigToFail #Dividends4Eternity",
+            "Correlation": 9,
+            "Sentiment": 8,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 6,
+            "Source_Score": 8,
+            "Specificity": 9,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "$XOM: Putin sees no need to sanction West, may review energy ties http://t.co/wCp8eO2qb9",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 5,
+            "Source_Score": 6,
+            "Specificity": 8,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT @RiskReversal: a trader agrees w/ @Michael_Khouw 's bullish $XOM trade from Friday's @CNBCOptions and buys 8500 Oct 110 calls for .80 to…",
+            "Correlation": 8,
+            "Sentiment": 7,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 6,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 5
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 6,
+        "Importance": 7,
+        "Impact": 6,
+        "Duration": 5,
+        "Virality": 7,
+        "Source_Score": 6,
+        "Specificity": 8,
+        "Sector_Spread": 9,
+        "Tech_Mentions": 4
+    },
+    "Each_item": [
+        {
+            "News_content": "RT $QQQ Algos BROKE 91.70 LEVEL, P/T 90.00 $MSFT $PCLN $GOOG $FB $TWTR $TSLA $AMZN $GPRO $AAPL $NFLX #HFT",
+            "Correlation": 10,
+            "Sentiment": 5,
+            "Importance": 6,
+            "Impact": 7,
+            "Duration": 4,
+            "Virality": 8,
+            "Source_Score": 7,
+            "Specificity": 9,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 6
+        },
+        {
+            "News_content": "$VXX target hit this morning - double bottom formation still valid watchlist: $AAPL $TWTR $TSLA $MU $FB $TSLA $GPRO",
+            "Correlation": 9,
+            "Sentiment": 6,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 7,
+            "Source_Score": 6,
+            "Specificity": 8,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 5
+        },
+        {
+            "News_content": "RT @AWastler: Top stock lookups on http://t.co/dw39TKnsmw ysty: $AAPL, $NFLX, $BAC, $FB, $SPY, $BABA, $INTC, $C, $GE, $TSLA, $VIX, $TWTR,",
+            "Correlation": 8,
+            "Sentiment": 4,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 6,
+            "Source_Score": 5,
+            "Specificity": 7,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "Time Warner CEO's Plan Forward. $TWX, $FB.",
+            "Correlation": 7,
+            "Sentiment": 6,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 5,
+            "Source_Score": 7,
+            "Specificity": 7,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "RT @timothysykes: My Biggest Achievement By Far http://t.co/tKz3UsTIpS love it $FB $TWTR $LNKD $STUDY",
+            "Correlation": 6,
+            "Sentiment": 7,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 8,
+            "Source_Score": 6,
+            "Specificity": 6,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "@ELGINDOTCOM its almost at the bottom brother -- s&p 1800 is the reverse -- buy $FB $TWTR $CELG $INVN -- shit gonna pop",
+            "Correlation": 7,
+            "Sentiment": 8,
+            "Importance": 5,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 6,
+            "Source_Score": 5,
+            "Specificity": 7,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "http://t.co/0Qt8BqOg1h to go head to head with Apple in smart watch battle. $AAPL, $FB, $INTC.",
+            "Correlation": 9,
+            "Sentiment": 6,
+            "Importance": 8,
+            "Impact": 7,
+            "Duration": 6,
+            "Virality": 7,
+            "Source_Score": 7,
+            "Specificity": 9,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 4
+        },
+        {
+            "News_content": "RT @barronstechblog: Google Falls 4%: Q3 Revenue, EPS Miss - Tech Trader Daily - Barron's $GOOGL $FB $TWTR",
+            "Correlation": 10,
+            "Sentiment": 3,
+            "Importance": 9,
+            "Impact": 8,
+            "Duration": 5,
+            "Virality": 8,
+            "Source_Score": 9,
+            "Specificity": 10,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 5
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 4,
+        "Importance": 6,
+        "Impact": 5,
+        "Duration": 3,
+        "Virality": 6,
+        "Source_Score": 8,
+        "Specificity": 7,
+        "Sector_Spread": 9,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @GoogleInvestor: Google Languishes at $500 Down -5.6% YTD Below 20, 50, 100, 200 Day Avgs $GOOGL $GOOG $QQQ $XLK",
+            "Correlation": 10,
+            "Sentiment": 2,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 7,
+            "Source_Score": 9,
+            "Specificity": 9,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 8
+        },
+        {
+            "News_content": "Logging in now to live stock chat $GOOG $AAPL $FB $EBAY #options #stocks #daytrading",
+            "Correlation": 5,
+            "Sentiment": 5,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 2,
+            "Virality": 5,
+            "Source_Score": 4,
+            "Specificity": 4,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT @StockTwits: Here’s how much money Apple, Google, and Microsoft spend on research and development $GOOG $AAPL",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 8,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 6,
+            "Source_Score": 8,
+            "Specificity": 7,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 3
+        }
+    ]
+}

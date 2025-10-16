@@ -1,0 +1,81 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 5,
+        "Importance": 7,
+        "Impact": 6,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 9,
+        "Specificity": 8,
+        "Sector_Spread": 5,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @davidfaber: Intel has ended talks to acquire Altera $INTC made all cash offer in \"low $50's and was rejected. Talks has taken place for…",
+            "Correlation": 10,
+            "Sentiment": 4,
+            "Importance": 8,
+            "Impact": 7,
+            "Duration": 3,
+            "Virality": 5,
+            "Source_Score": 9,
+            "Specificity": 9,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "$INTC Filings Updated Thursday, April 9, 2015 02:07:35 AM $ADXS $VTI $UUP $DYAX http://t.co/QpZCM0fSXU",
+            "Correlation": 7,
+            "Sentiment": 3,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 1,
+            "Source_Score": 6,
+            "Specificity": 5,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Rayno Portfolio Pick SIMO Breaks Out http://t.co/tsfDaKxJUf @raynoreport $SIMO $AVGO $INTC #mobile #rf #chips",
+            "Correlation": 6,
+            "Sentiment": 7,
+            "Importance": 3,
+            "Impact": 4,
+            "Duration": 2,
+            "Virality": 2,
+            "Source_Score": 7,
+            "Specificity": 6,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "RT @LordWindsor: $ALTR turned away $50 all cash offer via $INTC obviously a bargain at these levels on washout in pre-market they may revis…",
+            "Correlation": 9,
+            "Sentiment": 6,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 3,
+            "Virality": 4,
+            "Source_Score": 8,
+            "Specificity": 8,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "Intel ends talks to acquire Altera, CNBC's Faber reports $ALTR $INTC",
+            "Correlation": 10,
+            "Sentiment": 5,
+            "Importance": 8,
+            "Impact": 7,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 9,
+            "Specificity": 9,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 1
+        }
+    ]
+}

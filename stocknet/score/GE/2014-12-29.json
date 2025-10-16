@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 9,
+        "Sentiment": 4,
+        "Importance": 3,
+        "Impact": 2,
+        "Duration": 1,
+        "Virality": 2,
+        "Source_Score": 7,
+        "Specificity": 8,
+        "Sector_Spread": 2,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "General Electric Co. (GE) Closes 0.19% Down on the Day for December 26",
+            "Correlation": 9,
+            "Sentiment": 4,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 2,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "General Electric Co. (GE) Closes 0.19% Down on the Day for December 26",
+            "Correlation": 9,
+            "Sentiment": 4,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 2,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        }
+    ]
+}

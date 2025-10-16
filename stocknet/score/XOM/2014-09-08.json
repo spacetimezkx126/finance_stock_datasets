@@ -1,0 +1,55 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 6,
+        "Importance": 5,
+        "Impact": 4,
+        "Duration": 3,
+        "Virality": 8,
+        "Source_Score": 5,
+        "Specificity": 6,
+        "Sector_Spread": 9,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "ExxonMobil: Recent Sell-Off Makes Risk/Reward Ratio Extremely Attractive $COP $CVX $XOM",
+            "Correlation": 10,
+            "Sentiment": 8,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 7,
+            "Source_Score": 6,
+            "Specificity": 9,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "You can vote about $AAPL $XOM too. Read story & take poll on left-hand side. More people say they'd buy $AAPL so far.",
+            "Correlation": 6,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 8,
+            "Source_Score": 4,
+            "Specificity": 5,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "Popular: $MBLY, $SPY, $PCLN, $PANW, $ANET, $WLL, $DE, $FXY, $SLCA, $XOM, $MKTO, $KEYW, $KOG, $BMO",
+            "Correlation": 5,
+            "Sentiment": 4,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 9,
+            "Source_Score": 3,
+            "Specificity": 4,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 0
+        }
+    ]
+}

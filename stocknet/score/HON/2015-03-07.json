@@ -1,0 +1,81 @@
+{
+    "Overall_score": {
+        "Correlation": 6,
+        "Sentiment": 4,
+        "Importance": 5,
+        "Impact": 3,
+        "Duration": 2,
+        "Virality": 1,
+        "Source_Score": 7,
+        "Specificity": 5,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "HON Stock Forum Updated Friday, March 6, 2015 7:11:20 PM",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 6,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 9,
+            "Specificity": 7,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "XOM",
+            "Correlation": 5,
+            "Sentiment": 3,
+            "Importance": 4,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 1,
+            "Source_Score": 6,
+            "Specificity": 4,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "BAA",
+            "Correlation": 4,
+            "Sentiment": 2,
+            "Importance": 3,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 1,
+            "Source_Score": 5,
+            "Specificity": 3,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "HL",
+            "Correlation": 3,
+            "Sentiment": 2,
+            "Importance": 2,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 1,
+            "Source_Score": 4,
+            "Specificity": 2,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "KYTH",
+            "Correlation": 2,
+            "Sentiment": 1,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 1,
+            "Source_Score": 3,
+            "Specificity": 1,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 1
+        }
+    ]
+}

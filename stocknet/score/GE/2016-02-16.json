@@ -1,0 +1,55 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 6,
+        "Impact": 4,
+        "Duration": 3,
+        "Virality": 2,
+        "Source_Score": 4,
+        "Specificity": 6,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "$DUST Stock Price Updated Tuesday, February 16, 2016 01:59:23 AM $SIX $GE $XLB $ABX",
+            "Correlation": 9,
+            "Sentiment": 5,
+            "Importance": 5,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 1,
+            "Source_Score": 4,
+            "Specificity": 8,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "$CMG Financials Updated Tuesday, February 16, 2016 12:59:21 PM $V $GE $UPRO $LPLA",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 6,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 5,
+            "Specificity": 7,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Hey, do you know everything while trading #SP500? $GOOG $JNJ $GE",
+            "Correlation": 5,
+            "Sentiment": 4,
+            "Importance": 4,
+            "Impact": 2,
+            "Duration": 2,
+            "Virality": 3,
+            "Source_Score": 3,
+            "Specificity": 4,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 1
+        }
+    ]
+}

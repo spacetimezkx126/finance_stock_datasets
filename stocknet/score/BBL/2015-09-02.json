@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 6,
+        "Importance": 5,
+        "Impact": 7,
+        "Duration": 3,
+        "Virality": 4,
+        "Source_Score": 6,
+        "Specificity": 9,
+        "Sector_Spread": 2,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @iHangout: jim50: Xtremepicks Alerts: BBL Gapped up +0.55 $BBL Last Price 33.61 Day",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 7,
+            "Duration": 3,
+            "Virality": 4,
+            "Source_Score": 6,
+            "Specificity": 9,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        }
+    ]
+}

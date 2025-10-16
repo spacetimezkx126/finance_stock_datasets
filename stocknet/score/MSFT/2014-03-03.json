@@ -1,0 +1,94 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 6,
+        "Importance": 5,
+        "Impact": 6,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 5,
+        "Specificity": 6,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 4
+    },
+    "Each_item": [
+        {
+            "News_content": "CYHHZ Trading at 7 Cents Worth 1 or More Per SEC Filings Strong Buy INTC MSFT XIV YNDX RSX SIRI EFA FCEL VALE VWO TZA PAL RAD",
+            "Correlation": 9,
+            "Sentiment": 10,
+            "Importance": 3,
+            "Impact": 7,
+            "Duration": 2,
+            "Virality": 2,
+            "Source_Score": 4,
+            "Specificity": 8,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "Platinum Memberships rise, after 2,600% gains on penny stocks, in 2 months. Subscribe here: MSFT ORCL VOD",
+            "Correlation": 6,
+            "Sentiment": 8,
+            "Importance": 4,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 4,
+            "Source_Score": 3,
+            "Specificity": 5,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "MSFT Mark Penn, Ex-Clinton Aide, Moves in a Shake-Up at Microsoft",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 6,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 4
+        },
+        {
+            "News_content": "MSFT Technology Stock Roundup: Microsoft, Intel Make Good Show at MWC",
+            "Correlation": 7,
+            "Sentiment": 7,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 5,
+            "Source_Score": 6,
+            "Specificity": 6,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 7
+        },
+        {
+            "News_content": "Bill Gates on how to fix Capitalism MSFT BillGates microsoft",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 8,
+            "Impact": 7,
+            "Duration": 6,
+            "Virality": 7,
+            "Source_Score": 9,
+            "Specificity": 7,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "Mark Penn, a former adviser to Hillary Clinton, is set to become head of Microsoft strategy MSFT",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 6,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 4
+        }
+    ]
+}

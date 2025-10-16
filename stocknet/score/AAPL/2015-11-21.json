@@ -1,0 +1,120 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 6,
+        "Impact": 6,
+        "Duration": 4,
+        "Virality": 5,
+        "Source_Score": 5,
+        "Specificity": 6,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 3
+    },
+    "Each_item": [
+        {
+            "News_content": "SuperTrades subscription for $907.9 per yr !? BARGAIN $GPRO $AAPL #stocks #trading",
+            "Correlation": 8,
+            "Sentiment": 7,
+            "Importance": 4,
+            "Impact": 5,
+            "Duration": 2,
+            "Virality": 6,
+            "Source_Score": 4,
+            "Specificity": 7,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "#Earnings for week of 11/23 to 11/27 $SPY $QQQ $IWM $DIA $AAPL $AMZN $BABA #stockmarket #stocks #finance #money $TZA",
+            "Correlation": 9,
+            "Sentiment": 5,
+            "Importance": 8,
+            "Impact": 7,
+            "Duration": 6,
+            "Virality": 4,
+            "Source_Score": 6,
+            "Specificity": 8,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "GLD SPDR Gold Trust Shares Open $GLD $HAVELLS.IN $AAPL $YANG #GLD #invest #stocks",
+            "Correlation": 7,
+            "Sentiment": 5,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 3,
+            "Source_Score": 5,
+            "Specificity": 6,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "AAPL Apple, Inc. Prev Close $AAPL $DCI $TBT $IWM #AAPL #stock #nasdaq",
+            "Correlation": 8,
+            "Sentiment": 4,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 2,
+            "Virality": 3,
+            "Source_Score": 5,
+            "Specificity": 8,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Man swings samurai sword at Apple store, terrifies customers $AAPL",
+            "Correlation": 6,
+            "Sentiment": 2,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 8,
+            "Source_Score": 5,
+            "Specificity": 9,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "$AAPL Technical Analysis Video 11/20/2015",
+            "Correlation": 9,
+            "Sentiment": 5,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 4,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 9
+        },
+        {
+            "News_content": "Top 10 Hottest Stocks .. $IBM, $GOOGL, $AAPL, $TSLA, $FB, .. #stocks",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 7,
+            "Source_Score": 5,
+            "Specificity": 7,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "How Not to Lose a Fortune Shorting Stocks $LL $VRX $AAPL",
+            "Correlation": 7,
+            "Sentiment": 3,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 5,
+            "Source_Score": 6,
+            "Specificity": 7,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 2
+        }
+    ]
+}

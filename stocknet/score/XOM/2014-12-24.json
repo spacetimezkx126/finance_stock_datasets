@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 3,
+        "Sentiment": 7,
+        "Importance": 4,
+        "Impact": 5,
+        "Duration": 6,
+        "Virality": 8,
+        "Source_Score": 6,
+        "Specificity": 2,
+        "Sector_Spread": 7,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "How to Make Money in Stocks: http://t.co/CCyhDcgKgS",
+            "Correlation": 4,
+            "Sentiment": 8,
+            "Importance": 5,
+            "Impact": 6,
+            "Duration": 7,
+            "Virality": 9,
+            "Source_Score": 7,
+            "Specificity": 3,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "Merry Christmas & Happy Holidays @ the Corner of Wall & Main - Santa Comes Early w/ @EllesEconomy",
+            "Correlation": 2,
+            "Sentiment": 6,
+            "Importance": 3,
+            "Impact": 4,
+            "Duration": 5,
+            "Virality": 7,
+            "Source_Score": 5,
+            "Specificity": 1,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 3,
+        "Duration": 2,
+        "Virality": 1,
+        "Source_Score": 6,
+        "Specificity": 5,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "GPRO Opinions Updated Thursday, March 12, 2015 3:07:29 PM ITB HYG PEP XLU",
+            "Correlation": 7,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 1,
+            "Source_Score": 6,
+            "Specificity": 5,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 2
+        }
+    ]
+}

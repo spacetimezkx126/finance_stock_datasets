@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 9,
+        "Sentiment": 7,
+        "Importance": 8,
+        "Impact": 7,
+        "Duration": 9,
+        "Virality": 6,
+        "Source_Score": 8,
+        "Specificity": 8,
+        "Sector_Spread": 10,
+        "Tech_Mentions": 5
+    },
+    "Each_item": [
+        {
+            "News_content": "Cisco Global Cloud Index Projects Cloud Traffic to Quadruple by 2019",
+            "Correlation": 9,
+            "Sentiment": 7,
+            "Importance": 8,
+            "Impact": 7,
+            "Duration": 9,
+            "Virality": 6,
+            "Source_Score": 8,
+            "Specificity": 8,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 5
+        }
+    ]
+}

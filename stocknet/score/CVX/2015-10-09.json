@@ -1,0 +1,94 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 6,
+        "Impact": 6,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 5,
+        "Specificity": 7,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "BKPIX ProFunds Banks UltraSector Fund Ideas $BKPIX $RUSL $RWM $CVX #BKPIX #share #tradeideas",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 5,
+            "Specificity": 7,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "$CVX short this pig... just laid it out",
+            "Correlation": 9,
+            "Sentiment": 3,
+            "Importance": 7,
+            "Impact": 8,
+            "Duration": 5,
+            "Virality": 4,
+            "Source_Score": 6,
+            "Specificity": 9,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "TQQQ ProShares UltraPro QQQ Financials $TQQQ $HYG $CVX $TWTR #TQQQ #tradeideas #share",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 6,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 5,
+            "Specificity": 8,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "DUST Direxion Daily Gold Miners Bear 3x Shares Summary $DUST $FNMA $CVX $UWTI #DUST #stock #nasdaq",
+            "Correlation": 7,
+            "Sentiment": 5,
+            "Importance": 5,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 2,
+            "Source_Score": 5,
+            "Specificity": 7,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "GG Goldcorp, Inc. Financials $GG $CVX $TTT $PFE #GG #stock #nasdaq",
+            "Correlation": 7,
+            "Sentiment": 5,
+            "Importance": 6,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 2,
+            "Source_Score": 5,
+            "Specificity": 7,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "CELG Celgene Corp. Filings $CELG $DHI $CVX $TZA #CELG #tradeideas #stock",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 6,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 5,
+            "Specificity": 8,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        }
+    ]
+}

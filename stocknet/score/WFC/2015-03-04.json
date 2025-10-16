@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 3,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 4,
+        "Duration": 2,
+        "Virality": 6,
+        "Source_Score": 7,
+        "Specificity": 3,
+        "Sector_Spread": 5,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "Yesterday We Made $89,000 In Just One Trade More Info Here",
+            "Correlation": 5,
+            "Sentiment": 8,
+            "Importance": 3,
+            "Impact": 6,
+            "Duration": 2,
+            "Virality": 7,
+            "Source_Score": 4,
+            "Specificity": 5,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "1/5: Here are Warren Buffett's 15 largest holdings ->",
+            "Correlation": 2,
+            "Sentiment": 3,
+            "Importance": 5,
+            "Impact": 3,
+            "Duration": 3,
+            "Virality": 5,
+            "Source_Score": 10,
+            "Specificity": 2,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        }
+    ]
+}

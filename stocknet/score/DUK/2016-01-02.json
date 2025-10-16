@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 9,
+        "Sentiment": 8,
+        "Importance": 7,
+        "Impact": 6,
+        "Duration": 5,
+        "Virality": 3,
+        "Source_Score": 4,
+        "Specificity": 10,
+        "Sector_Spread": 2,
+        "Tech_Mentions": 8
+    },
+    "Each_item": [
+        {
+            "News_content": "https://t.co/6BkOzRdtEf: $DUK up 6.68%, trend detected 21 days ago at $67.84 and peaked 10 days later at $72.37",
+            "Correlation": 9,
+            "Sentiment": 8,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 3,
+            "Source_Score": 4,
+            "Specificity": 10,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 8
+        }
+    ]
+}

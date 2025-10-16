@@ -1,0 +1,94 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 6,
+        "Impact": 6,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 5,
+        "Specificity": 7,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "CYBR Cyber-Ark Software Ltd. 52Wk Low $CYBR $FL $ITB $VZ #CYBR #share #stock",
+            "Correlation": 9,
+            "Sentiment": 3,
+            "Importance": 5,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 4,
+            "Specificity": 8,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "TLT iShares Barclays 20+ Year Treasury Bond Fund Investor Opinions $TLT $VZ $HJOE $FCX #TLT #stocks #invest",
+            "Correlation": 6,
+            "Sentiment": 4,
+            "Importance": 4,
+            "Impact": 4,
+            "Duration": 5,
+            "Virality": 3,
+            "Source_Score": 5,
+            "Specificity": 6,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "VZ Verizon Communications Day Low $VZ $EUM $TLT $XLU #VZ #share #stocks",
+            "Correlation": 8,
+            "Sentiment": 3,
+            "Importance": 5,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 5,
+            "Specificity": 7,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "MU Micron Technology, Inc. E.P.S. $MU $IYR $VZ $UPRO #MU #invest #invest",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 6,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 6,
+            "Specificity": 8,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "VZ Verizon Communications Volume $VZ $SMN $KMI $GDX #VZ #finance #invest",
+            "Correlation": 7,
+            "Sentiment": 4,
+            "Importance": 5,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 5,
+            "Specificity": 7,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "BT Group: Regulate access prices charged by AT&T, Verizon $VZ, $T, $BT",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 8,
+            "Impact": 7,
+            "Duration": 6,
+            "Virality": 4,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 1
+        }
+    ]
+}

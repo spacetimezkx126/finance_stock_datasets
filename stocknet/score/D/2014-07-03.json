@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 4,
+        "Sentiment": 3,
+        "Importance": 6,
+        "Impact": 5,
+        "Duration": 7,
+        "Virality": 2,
+        "Source_Score": 5,
+        "Specificity": 6,
+        "Sector_Spread": 4,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "Efecto Maduro: se robaron U$D 2.277 millardos de Pdvsa y se perdieron 227 mil barriles diarios que no se sabe donde esta...",
+            "Correlation": 8,
+            "Sentiment": 2,
+            "Importance": 9,
+            "Impact": 7,
+            "Duration": 8,
+            "Virality": 3,
+            "Source_Score": 6,
+            "Specificity": 8,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "【maimai】(上下反転) $D-Alice 07/03 12:18 トルコ行進曲 - オワタ＼(^o^)／ Master",
+            "Correlation": 2,
+            "Sentiment": 4,
+            "Importance": 3,
+            "Impact": 3,
+            "Duration": 6,
+            "Virality": 1,
+            "Source_Score": 4,
+            "Specificity": 4,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        }
+    ]
+}

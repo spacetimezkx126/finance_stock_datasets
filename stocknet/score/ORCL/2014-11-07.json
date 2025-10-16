@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 7,
+        "Importance": 9,
+        "Impact": 6,
+        "Duration": 8,
+        "Virality": 7,
+        "Source_Score": 10,
+        "Specificity": 5,
+        "Sector_Spread": 9,
+        "Tech_Mentions": 4
+    },
+    "Each_item": [
+        {
+            "News_content": "THIS IS THE INTERNET OF THINGS according to Goldman Sachs",
+            "Correlation": 8,
+            "Sentiment": 7,
+            "Importance": 9,
+            "Impact": 6,
+            "Duration": 8,
+            "Virality": 7,
+            "Source_Score": 10,
+            "Specificity": 5,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 4
+        }
+    ]
+}

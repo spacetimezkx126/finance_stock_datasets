@@ -1,0 +1,81 @@
+{
+    "Overall_score": {
+        "Correlation": 5,
+        "Sentiment": 6,
+        "Importance": 4,
+        "Impact": 3,
+        "Duration": 7,
+        "Virality": 5,
+        "Source_Score": 6,
+        "Specificity": 5,
+        "Sector_Spread": 6,
+        "Tech_Mentions": 8
+    },
+    "Each_item": [
+        {
+            "News_content": "Reduction In Jet Flap Interaction Noise With Geared Turbine Engine",
+            "Correlation": 8,
+            "Sentiment": 7,
+            "Importance": 6,
+            "Impact": 4,
+            "Duration": 9,
+            "Virality": 3,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 10
+        },
+        {
+            "News_content": "Alignment Tool For Use In A Gas Turbine Engine",
+            "Correlation": 7,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 3,
+            "Duration": 8,
+            "Virality": 2,
+            "Source_Score": 6,
+            "Specificity": 7,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 9
+        },
+        {
+            "News_content": "Great #Stock Newsletter you must have",
+            "Correlation": 4,
+            "Sentiment": 8,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 6,
+            "Virality": 7,
+            "Source_Score": 5,
+            "Specificity": 3,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Couple of Stocks you should Watch",
+            "Correlation": 5,
+            "Sentiment": 7,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 7,
+            "Virality": 6,
+            "Source_Score": 4,
+            "Specificity": 4,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "Great #Pennystock #research",
+            "Correlation": 3,
+            "Sentiment": 8,
+            "Importance": 2,
+            "Impact": 1,
+            "Duration": 5,
+            "Virality": 8,
+            "Source_Score": 3,
+            "Specificity": 2,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 1
+        }
+    ]
+}

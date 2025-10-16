@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 5,
+        "Importance": 6,
+        "Impact": 7,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 7,
+        "Specificity": 9,
+        "Sector_Spread": 10,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "Best and worst performers for the week in the #S&P500 $ZION $ANF $PVH $WYNN $URBN $DV $ALTR $REGN $FDX $PPL $IRM $WIN",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 6,
+            "Impact": 7,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 7,
+            "Specificity": 9,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 2
+        }
+    ]
+}

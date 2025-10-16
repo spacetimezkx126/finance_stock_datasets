@@ -1,0 +1,68 @@
+{
+    "Overall_score": {
+        "Correlation": 5,
+        "Sentiment": 4,
+        "Importance": 3,
+        "Impact": 3,
+        "Duration": 2,
+        "Virality": 6,
+        "Source_Score": 4,
+        "Specificity": 5,
+        "Sector_Spread": 4,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "EA Electronic Arts, Inc. Short Sales $EA $HALO $T $HJOE #EA #invest #stocks",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 7,
+            "Source_Score": 5,
+            "Specificity": 8,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Listen to BEA$T MODE by JxHN The BAPTi$T #np on #SoundCloud @asvpxrocky",
+            "Correlation": 2,
+            "Sentiment": 3,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 5,
+            "Source_Score": 3,
+            "Specificity": 2,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "Listen to BEA$T MODE by JxHN The BAPTi$T #SoundCloud @asvpxrocky @ASVPXILLZ @trvisXX @Souljaian @OGMaco @ZACFTP",
+            "Correlation": 1,
+            "Sentiment": 2,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 6,
+            "Source_Score": 2,
+            "Specificity": 1,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "T AT&T, Inc. Dividend $T $RGLD $RSP $FNMA #T #finance #stocks",
+            "Correlation": 7,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 6,
+            "Source_Score": 6,
+            "Specificity": 7,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 1
+        }
+    ]
+}

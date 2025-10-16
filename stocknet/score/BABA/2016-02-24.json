@@ -1,0 +1,68 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 6,
+        "Importance": 5,
+        "Impact": 6,
+        "Duration": 4,
+        "Virality": 5,
+        "Source_Score": 6,
+        "Specificity": 5,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 3
+    },
+    "Each_item": [
+        {
+            "News_content": "Why You Should Own Alibaba $AMZN $BABA #Investing #EmergingMarkets #BABA #Alibaba #Invest #Wealth #Growth #MoB",
+            "Correlation": 8,
+            "Sentiment": 9,
+            "Importance": 4,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 7,
+            "Source_Score": 5,
+            "Specificity": 6,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "Momo Receives A Commitment From Alibaba To Go Private $BABA $MOMO",
+            "Correlation": 9,
+            "Sentiment": 8,
+            "Importance": 7,
+            "Impact": 8,
+            "Duration": 5,
+            "Virality": 6,
+            "Source_Score": 7,
+            "Specificity": 9,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Pacific Square Research raises red flags about Alibaba, Signet, and Home Capital Group $BABA $SIG $PIR $KKD $GMCR",
+            "Correlation": 8,
+            "Sentiment": 3,
+            "Importance": 6,
+            "Impact": 7,
+            "Duration": 4,
+            "Virality": 4,
+            "Source_Score": 8,
+            "Specificity": 8,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "$BABA, $JD, $SOHU, $ATHM, $CMCM, $VIPS, $CTRP, $NTES, $FENG, $SINA, $WB, $SFUN, $JPM Now Barrons is on board",
+            "Correlation": 7,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 5,
+            "Source_Score": 9,
+            "Specificity": 4,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 3
+        }
+    ]
+}

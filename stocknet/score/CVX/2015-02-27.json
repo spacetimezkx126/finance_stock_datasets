@@ -1,0 +1,68 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 6,
+        "Duration": 3,
+        "Virality": 2,
+        "Source_Score": 6,
+        "Specificity": 5,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 4
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @MstarJohnG: Oil Services Firms: Hardest Hit. Deepest Value? $OIH $IEZ $XES $USO $XLE $SLB $HAL $XOM $CVX",
+            "Correlation": 9,
+            "Sentiment": 6,
+            "Importance": 7,
+            "Impact": 8,
+            "Duration": 5,
+            "Virality": 3,
+            "Source_Score": 8,
+            "Specificity": 7,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "$CATM Daily- $WBMD $S $FB $AMD $AMZN $BBY $ARNA $CVX $IBIO $LAKE $NSPH $QQQ $SPY $LAKE $NFLX $VXX $USO $VZ $S $V $WSM",
+            "Correlation": 6,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 5,
+            "Specificity": 4,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "$DO Reviews Updated Thursday, February 26, 2015 10:03:27 PM $DIA $DECK $QIHU $CVX",
+            "Correlation": 5,
+            "Sentiment": 4,
+            "Importance": 3,
+            "Impact": 4,
+            "Duration": 2,
+            "Virality": 1,
+            "Source_Score": 6,
+            "Specificity": 5,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "$KIRK 4hr Chart $WBMD $S $FB $AMD $AMZN $BBY $ARNA $CVX $IBIO $LAKE $NSPH $QQQ $SPY $LAKE $NFLX $VXX $USO $VZ $S $V",
+            "Correlation": 7,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 6,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 6,
+            "Specificity": 5,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 4
+        }
+    ]
+}

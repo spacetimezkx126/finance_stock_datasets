@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 6,
+        "Importance": 8,
+        "Impact": 7,
+        "Duration": 5,
+        "Virality": 4,
+        "Source_Score": 8,
+        "Specificity": 7,
+        "Sector_Spread": 6,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "Middle-Wage Employment Moves U.S. Past Fast-Food Jobs",
+            "Correlation": 5,
+            "Sentiment": 7,
+            "Importance": 8,
+            "Impact": 6,
+            "Duration": 7,
+            "Virality": 4,
+            "Source_Score": 8,
+            "Specificity": 6,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Q2 Earnings: Net Earnings: $66 million| Profit: $72 million| Revenue: $683 million",
+            "Correlation": 9,
+            "Sentiment": 5,
+            "Importance": 8,
+            "Impact": 8,
+            "Duration": 4,
+            "Virality": 4,
+            "Source_Score": 8,
+            "Specificity": 9,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 3
+        }
+    ]
+}

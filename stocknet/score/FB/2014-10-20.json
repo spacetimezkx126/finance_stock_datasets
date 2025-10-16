@@ -1,0 +1,120 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 6,
+        "Importance": 5,
+        "Impact": 4,
+        "Duration": 3,
+        "Virality": 8,
+        "Source_Score": 6,
+        "Specificity": 7,
+        "Sector_Spread": 9,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @ReutersMoney: $FB RT @MacMutual: Fidelity Contrafund loads up on Facebook and it pays off",
+            "Correlation": 10,
+            "Sentiment": 8,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 7,
+            "Source_Score": 9,
+            "Specificity": 9,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Why access a ticker when you could acesss a group of tickers- Social Media Stocks $TWTR $LNKD $FB $GRPN $ZNGA",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 6,
+            "Source_Score": 4,
+            "Specificity": 7,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "Big Trader in the News! $SCOK $LEDS $ESI $KWK $FB $TWTR $GOOG we nailed $IBIO !!",
+            "Correlation": 7,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 8,
+            "Source_Score": 5,
+            "Specificity": 6,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "$ES_F EMINI SP500 Futures #TradingSignal #DayTrading Monthly Weekly & Daily Key Support Resistance Levels $SPY $SPX $AAPL #ES_F #ibroker $FB",
+            "Correlation": 6,
+            "Sentiment": 4,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 4,
+            "Virality": 5,
+            "Source_Score": 5,
+            "Specificity": 7,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 8
+        },
+        {
+            "News_content": "$FB - last: $76.73, p/e 80.71 @ 12:27pm EST 10/20/2014",
+            "Correlation": 9,
+            "Sentiment": 3,
+            "Importance": 2,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 2,
+            "Source_Score": 6,
+            "Specificity": 10,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "We have a stalking horse on The Facebook. Nailed first \"waterfall\" #trading short entry - lost some back on Friday. Watching closely... $FB",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 4,
+            "Source_Score": 5,
+            "Specificity": 8,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 4
+        },
+        {
+            "News_content": "RT @HamzeiAnalytics: luv $FB here and agree wholeheartedly with @GuyAdami // most likely our HFT #Options Trading Service will get involve…",
+            "Correlation": 7,
+            "Sentiment": 7,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 6,
+            "Source_Score": 7,
+            "Specificity": 6,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 5
+        },
+        {
+            "News_content": "RT @DamnGoodTrader: $AAPL $FB $TWTR $BABA $GPRO $NFLX $SPY $BAC $C $MCD $NKE Subscribe NOW For Daily Stock & Option …",
+            "Correlation": 6,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 7,
+            "Source_Score": 6,
+            "Specificity": 5,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 1
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 6,
+        "Impact": 6,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 8,
+        "Specificity": 7,
+        "Sector_Spread": 9,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @pippcare: Banksters JAIL !! gaibo OWS $JPM U.S. District Judge Paul Oetken has certified a class action lawsuit by (cont)",
+            "Correlation": 9,
+            "Sentiment": 3,
+            "Importance": 8,
+            "Impact": 7,
+            "Duration": 5,
+            "Virality": 4,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "$USB $MS $BAC $C $WFC $GS $JPM $FNMA $FMCC $AZSEY David Tepper says economy good, stock market not at high mul...",
+            "Correlation": 8,
+            "Sentiment": 7,
+            "Importance": 5,
+            "Impact": 6,
+            "Duration": 3,
+            "Virality": 6,
+            "Source_Score": 9,
+            "Specificity": 5,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "$JPM JPMorgan Chase to Present at the Bank of America Merrill Lynch Banking & Financial Services Confe..",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 2,
+            "Source_Score": 8,
+            "Specificity": 9,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        }
+    ]
+}

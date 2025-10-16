@@ -1,0 +1,120 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 5,
+        "Importance": 7,
+        "Impact": 6,
+        "Duration": 4,
+        "Virality": 6,
+        "Source_Score": 7,
+        "Specificity": 7,
+        "Sector_Spread": 5,
+        "Tech_Mentions": 3
+    },
+    "Each_item": [
+        {
+            "News_content": "$FB - MARKET SNAPSHOT: U.S. Stock Market Is Starting To Ride A Tech M&A Wave",
+            "Correlation": 9,
+            "Sentiment": 7,
+            "Importance": 8,
+            "Impact": 7,
+            "Duration": 5,
+            "Virality": 6,
+            "Source_Score": 8,
+            "Specificity": 8,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 4
+        },
+        {
+            "News_content": "The Ukraine/WhatsApp angle from long ago: a revolt due in part to $FB, who made a Ukrainian billionaire. They want the freedom to make money",
+            "Correlation": 7,
+            "Sentiment": 5,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 5,
+            "Source_Score": 6,
+            "Specificity": 7,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "Bearish on these #stocks $CPRT $CNX $UFPI $BG $FB #economy",
+            "Correlation": 8,
+            "Sentiment": 3,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 2,
+            "Virality": 4,
+            "Source_Score": 5,
+            "Specificity": 6,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "$FB What's Wrong With Facebook's Business Model And Innovation Strategy?",
+            "Correlation": 9,
+            "Sentiment": 4,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 7,
+            "Source_Score": 8,
+            "Specificity": 9,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "Is WhatsApp really worth $19 billion? Yes and no: $FB",
+            "Correlation": 9,
+            "Sentiment": 6,
+            "Importance": 8,
+            "Impact": 7,
+            "Duration": 5,
+            "Virality": 8,
+            "Source_Score": 8,
+            "Specificity": 9,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 4
+        },
+        {
+            "News_content": "$FB - BlackBerry shares set to jump on Facebooks WhatsApp bid ->",
+            "Correlation": 8,
+            "Sentiment": 7,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 6,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "The problem with #WhatsApp’s privacy boasts: They’re not true $FB #Facebook",
+            "Correlation": 8,
+            "Sentiment": 4,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 7,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "Facebook has made 45 acquisitions since it was first founded in 2004. Here are its last 20: $FB",
+            "Correlation": 9,
+            "Sentiment": 6,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 6,
+            "Source_Score": 8,
+            "Specificity": 9,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 3
+        }
+    ]
+}

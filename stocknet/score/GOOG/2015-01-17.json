@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 2,
+        "Sentiment": 6,
+        "Importance": 3,
+        "Impact": 2,
+        "Duration": 4,
+        "Virality": 5,
+        "Source_Score": 4,
+        "Specificity": 5,
+        "Sector_Spread": 1,
+        "Tech_Mentions": 3
+    },
+    "Each_item": [
+        {
+            "News_content": "Get $25 when you sign up #Payoneer with my link. Available in over 200 countries worldwide!",
+            "Correlation": 1,
+            "Sentiment": 7,
+            "Importance": 2,
+            "Impact": 1,
+            "Duration": 3,
+            "Virality": 6,
+            "Source_Score": 3,
+            "Specificity": 4,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "@kinugawamasato earned $230,000 in 2013 via various Bug Bounty programs and got $130k in total from Google.",
+            "Correlation": 3,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 5,
+            "Virality": 4,
+            "Source_Score": 5,
+            "Specificity": 6,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 4
+        }
+    ]
+}

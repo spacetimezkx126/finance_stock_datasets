@@ -1,0 +1,133 @@
+{
+    "Overall_score": {
+        "Correlation": 4,
+        "Sentiment": 5,
+        "Importance": 6,
+        "Impact": 7,
+        "Duration": 3,
+        "Virality": 2,
+        "Source_Score": 5,
+        "Specificity": 6,
+        "Sector_Spread": 4,
+        "Tech_Mentions": 3
+    },
+    "Each_item": [
+        {
+            "News_content": "Jack_Dodge_ 0MQ J4CK I 4M UR BIGG3ST F4N H4H4 S0 RNADUM XD",
+            "Correlation": 1,
+            "Sentiment": 8,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 2,
+            "Source_Score": 1,
+            "Specificity": 1,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "10 Things In Tech You Need To Know This Morning",
+            "Correlation": 3,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 4,
+            "Virality": 5,
+            "Source_Score": 6,
+            "Specificity": 2,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "AT&T Has A Plan To Fix Horrible Wi-Fi On Planes, And Gogo Is Tanking O... - stock stocks stockaction",
+            "Correlation": 9,
+            "Sentiment": 3,
+            "Importance": 8,
+            "Impact": 8,
+            "Duration": 5,
+            "Virality": 4,
+            "Source_Score": 7,
+            "Specificity": 9,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 5
+        },
+        {
+            "News_content": "GOGO shares slide as AT&T bets on in-flight Wi-Fi. via jbooton",
+            "Correlation": 8,
+            "Sentiment": 2,
+            "Importance": 7,
+            "Impact": 7,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 6,
+            "Specificity": 8,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 4
+        },
+        {
+            "News_content": "GOGO plunged over 21% after AT&T announced plans to build an in-flight Internet service.",
+            "Correlation": 10,
+            "Sentiment": 1,
+            "Importance": 9,
+            "Impact": 10,
+            "Duration": 6,
+            "Virality": 5,
+            "Source_Score": 8,
+            "Specificity": 10,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 6
+        },
+        {
+            "News_content": "F$T WARM UP Mixed By Dj Juddy Check It Out!!!",
+            "Correlation": 1,
+            "Sentiment": 7,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 3,
+            "Source_Score": 1,
+            "Specificity": 1,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Aaj phr Hum Sony Lgy To Tm Yaad Aa gay. *;,Dí$T;* Na Jany Tm Ankhon ki Neend Ho! Ya Dil ki Dharkan...... Good Ni8.",
+            "Correlation": 1,
+            "Sentiment": 6,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 2,
+            "Source_Score": 1,
+            "Specificity": 1,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Wow. Great Stock Research on $T $VNTV $TSLA Must have",
+            "Correlation": 7,
+            "Sentiment": 8,
+            "Importance": 5,
+            "Impact": 6,
+            "Duration": 3,
+            "Virality": 4,
+            "Source_Score": 6,
+            "Specificity": 7,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "jim50: Low Date=Apr-28-2014 Open=34.67 High=35.15: jim50",
+            "Correlation": 5,
+            "Sentiment": 4,
+            "Importance": 3,
+            "Impact": 4,
+            "Duration": 2,
+            "Virality": 1,
+            "Source_Score": 4,
+            "Specificity": 5,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 3
+        }
+    ]
+}

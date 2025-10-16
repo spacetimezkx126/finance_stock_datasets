@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 6,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 3,
+        "Duration": 2,
+        "Virality": 1,
+        "Source_Score": 7,
+        "Specificity": 8,
+        "Sector_Spread": 9,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "ODIYX Oppenheimer Discovery Fund Company Info http://t.co/5XV4jrhtOW $ODIYX $ETFC $LQMT $V #ODIYX #stockmarket #stocks",
+            "Correlation": 9,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 7,
+            "Specificity": 10,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "@ndarkos EGW:LKNIOPRHERPI)@#JNOI$N@#OI$P@#B$V#C$2xe3dwrgerb",
+            "Correlation": 3,
+            "Sentiment": 4,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 1,
+            "Source_Score": 5,
+            "Specificity": 6,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 1
+        }
+    ]
+}

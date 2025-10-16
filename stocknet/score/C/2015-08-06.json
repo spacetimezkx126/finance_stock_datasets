@@ -1,0 +1,55 @@
+{
+    "Overall_score": {
+        "Correlation": 5,
+        "Sentiment": 4,
+        "Importance": 3,
+        "Impact": 3,
+        "Duration": 2,
+        "Virality": 4,
+        "Source_Score": 3,
+        "Specificity": 4,
+        "Sector_Spread": 6,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "DGAZ VelocityShares 3x Inverse Natural Gas ETN Yield $DGAZ $FSRPX $OLED $C #DGAZ #tradeideas #invest",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 4,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 5,
+            "Source_Score": 4,
+            "Specificity": 7,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "C Celgene Corp. Filings $C $CEU.TO $KO $EA #C #pennystocks #stocks",
+            "Correlation": 7,
+            "Sentiment": 5,
+            "Importance": 3,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 4,
+            "Source_Score": 3,
+            "Specificity": 6,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Listen to Limelight (Feat. P$C & Big Kuntry) by T.I. on @AppleMusic.",
+            "Correlation": 2,
+            "Sentiment": 3,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 3,
+            "Source_Score": 2,
+            "Specificity": 2,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        }
+    ]
+}

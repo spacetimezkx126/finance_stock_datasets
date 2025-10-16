@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 8,
+        "Importance": 6,
+        "Impact": 5,
+        "Duration": 4,
+        "Virality": 7,
+        "Source_Score": 8,
+        "Specificity": 9,
+        "Sector_Spread": 3,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "UNH - Miami Dolphins and UnitedHealthcare Sack Hunger in South Florida",
+            "Correlation": 7,
+            "Sentiment": 8,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 7,
+            "Source_Score": 8,
+            "Specificity": 9,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        }
+    ]
+}

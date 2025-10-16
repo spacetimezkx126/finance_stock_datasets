@@ -1,0 +1,55 @@
+{
+    "Overall_score": {
+        "Correlation": 4,
+        "Sentiment": 6,
+        "Importance": 3,
+        "Impact": 2,
+        "Duration": 1,
+        "Virality": 5,
+        "Source_Score": 3,
+        "Specificity": 2,
+        "Sector_Spread": 7,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "@dovorah001 @RickCanton @POTUS STOP THAT SH$T DOVORAH CAUSE FAR AS IM CONCERNED WE R ALL N THIS THING 2GETHER! PLZ BELIEVE IT U ME WE PEACE",
+            "Correlation": 2,
+            "Sentiment": 8,
+            "Importance": 2,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 6,
+            "Source_Score": 3,
+            "Specificity": 1,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "$TWTR Twitter Inc http://t.co/RUzsdeDOYZ $AAPL $BAC $FB $SPY $GE $BABA $NFLX $C $FE $TSLA $F $T $UWTI $RAD $GILD $VXX $UA #FX",
+            "Correlation": 9,
+            "Sentiment": 4,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 4,
+            "Source_Score": 4,
+            "Specificity": 8,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "HBD SUGAR TITS IM ENJOYIN BREAKFA$T W/ U RN 🍗💥🎉💛 HOPE U HAVE A FAB DAY LIKE UR SO FAB URSELF BYE @miriamdarnell http://t.co/KlLQhbMyt9",
+            "Correlation": 1,
+            "Sentiment": 7,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 5,
+            "Source_Score": 2,
+            "Specificity": 1,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        }
+    ]
+}

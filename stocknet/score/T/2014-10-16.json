@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 9,
+        "Sentiment": 4,
+        "Importance": 7,
+        "Impact": 6,
+        "Duration": 5,
+        "Virality": 8,
+        "Source_Score": 8,
+        "Specificity": 7,
+        "Sector_Spread": 3,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @IBDinvestors: Netflix has lots of \"Friends\" but not as many customers as the streaming service expected $NFLX $T",
+            "Correlation": 9,
+            "Sentiment": 4,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 8,
+            "Source_Score": 8,
+            "Specificity": 7,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 2
+        }
+    ]
+}

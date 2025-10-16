@@ -1,0 +1,68 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 6,
+        "Impact": 5,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 6,
+        "Specificity": 5,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @barronsonline: With the market on the mend, blue chips with fat dividends look inviting $GE $JPM $MRK $BLK $DD",
+            "Correlation": 9,
+            "Sentiment": 7,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 4,
+            "Source_Score": 8,
+            "Specificity": 6,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "This Guy Is Making Millions! Watch This Video Proof Here.. #Stocks $MRK $LGND",
+            "Correlation": 4,
+            "Sentiment": 8,
+            "Importance": 3,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 6,
+            "Source_Score": 2,
+            "Specificity": 3,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "JNK SPDR Barclays High Yield Bond ETF Bid $JNK $MRK $SH $MO #JNK #tradeideas #finance",
+            "Correlation": 7,
+            "Sentiment": 5,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 3,
+            "Source_Score": 5,
+            "Specificity": 7,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "$PFE News: \"Chinese TCM: Regulated Cures Or Regulated Quackery? $MRK $PFE $RHHBY\" Analyze:",
+            "Correlation": 8,
+            "Sentiment": 4,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 2,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        }
+    ]
+}

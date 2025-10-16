@@ -1,0 +1,107 @@
+{
+    "Overall_score": {
+        "Correlation": 6,
+        "Sentiment": 7,
+        "Importance": 5,
+        "Impact": 6,
+        "Duration": 4,
+        "Virality": 5,
+        "Source_Score": 3,
+        "Specificity": 6,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "Our Penny Stock Picks Have Gained 3,600% In 10 Months! Get Early Access To Our Next Pick: http://t.co/xXdYdpiHOc $BMSN $C $GE",
+            "Correlation": 8,
+            "Sentiment": 9,
+            "Importance": 6,
+            "Impact": 7,
+            "Duration": 3,
+            "Virality": 7,
+            "Source_Score": 4,
+            "Specificity": 7,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Our Stock Alerts Gained Over 550% This Month Already! See Our Huge New Pick Coming This Week: http://t.co/abs4Q0eCx9 $BMSN $C $GE",
+            "Correlation": 8,
+            "Sentiment": 9,
+            "Importance": 6,
+            "Impact": 7,
+            "Duration": 3,
+            "Virality": 7,
+            "Source_Score": 4,
+            "Specificity": 7,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "C Caterpillar, Inc. Summary http://t.co/Kl7VwApCkb $C $FB $RAD $X #C #tradeideas #investing",
+            "Correlation": 7,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 5,
+            "Source_Score": 5,
+            "Specificity": 6,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "TZA Direxion Daily Small Cap Bear 3x Shares Investor Opinions http://t.co/6zawiV00k9 $TZA $AUY $C $EEM #TZA #stocks #invest",
+            "Correlation": 6,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 4,
+            "Source_Score": 4,
+            "Specificity": 5,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "$SPNC Spectranetics http://t.co/UKZ3MRoLy9 $AMRS $NDRM $LC $NVGN $VLTC $MNKD $ARIA $CLF $DF $AAPL $BAC $FB $SPY $GE $BABA $NFLX $C $F",
+            "Correlation": 5,
+            "Sentiment": 4,
+            "Importance": 3,
+            "Impact": 4,
+            "Duration": 2,
+            "Virality": 3,
+            "Source_Score": 3,
+            "Specificity": 4,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "SQQQ ProShares Ultra S&P 500 Fund Summary http://t.co/5QEkDpY344 $SQQQ $C $SGYP $CLVS #SQQQ #nasdaq #share",
+            "Correlation": 6,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 4,
+            "Source_Score": 4,
+            "Specificity": 5,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "AGEN Agenus Inc. Last Price http://t.co/vPV7ytb0bB $AGEN $EDZ $IEF $C #AGEN #tradeideas #nasdaq",
+            "Correlation": 7,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 5,
+            "Source_Score": 5,
+            "Specificity": 6,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 2
+        }
+    ]
+}

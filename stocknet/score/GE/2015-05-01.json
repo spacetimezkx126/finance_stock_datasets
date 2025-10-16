@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 6,
+        "Sentiment": 3,
+        "Importance": 4,
+        "Impact": 5,
+        "Duration": 3,
+        "Virality": 7,
+        "Source_Score": 5,
+        "Specificity": 6,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "GE should have bought TSLA rather than jerked itself off. Think of the story too. GE pissing on Tesla again.",
+            "Correlation": 6,
+            "Sentiment": 3,
+            "Importance": 4,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 7,
+            "Source_Score": 5,
+            "Specificity": 6,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 2
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 6,
+        "Importance": 5,
+        "Impact": 6,
+        "Duration": 4,
+        "Virality": 8,
+        "Source_Score": 3,
+        "Specificity": 7,
+        "Sector_Spread": 9,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "New Profitly guru! This guy is awesome value for money! stocks trading BLUE TRIL CELG",
+            "Correlation": 8,
+            "Sentiment": 9,
+            "Importance": 4,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 7,
+            "Source_Score": 3,
+            "Specificity": 8,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Is that moron Shrekli Tweets causing the entire biotech sector to sell off? If so - INSANITY! kite juno ibb blue xbi CELG",
+            "Correlation": 6,
+            "Sentiment": 3,
+            "Importance": 6,
+            "Impact": 7,
+            "Duration": 5,
+            "Virality": 9,
+            "Source_Score": 3,
+            "Specificity": 6,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 3
+        }
+    ]
+}

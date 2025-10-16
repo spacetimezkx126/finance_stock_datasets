@@ -1,0 +1,68 @@
+{
+    "Overall_score": {
+        "Correlation": 4,
+        "Sentiment": 3,
+        "Importance": 5,
+        "Impact": 4,
+        "Duration": 6,
+        "Virality": 2,
+        "Source_Score": 3,
+        "Specificity": 5,
+        "Sector_Spread": 7,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "Si estáis descontentos con la lamentable actualización de $C, puntuar con una estrella en la Store y comentar!! Quejaos!! @clashconmiguel",
+            "Correlation": 8,
+            "Sentiment": 2,
+            "Importance": 3,
+            "Impact": 4,
+            "Duration": 2,
+            "Virality": 5,
+            "Source_Score": 4,
+            "Specificity": 7,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "ORLY O'Reilly Automotive, Inc. News\n$ORLY $TWTR $IBM $C #ORLY #invest #nasdaq",
+            "Correlation": 5,
+            "Sentiment": 5,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 7,
+            "Virality": 3,
+            "Source_Score": 6,
+            "Specificity": 6,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "TLT iShares Barclays 20+ Year Treasury Bond Fund Investor Opinions\n$TLT $PBR $AAPL $C #T",
+            "Correlation": 6,
+            "Sentiment": 4,
+            "Importance": 5,
+            "Impact": 5,
+            "Duration": 8,
+            "Virality": 2,
+            "Source_Score": 5,
+            "Specificity": 5,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "TLT iShares Barclays 20+ Year Treasury Bond Fund Investor Opinions\n$TLT $PBR $AAPL $C #T",
+            "Correlation": 6,
+            "Sentiment": 4,
+            "Importance": 5,
+            "Impact": 5,
+            "Duration": 8,
+            "Virality": 2,
+            "Source_Score": 5,
+            "Specificity": 5,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 2
+        }
+    ]
+}

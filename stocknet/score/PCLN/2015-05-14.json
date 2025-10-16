@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 4,
+        "Sentiment": 6,
+        "Importance": 3,
+        "Impact": 5,
+        "Duration": 2,
+        "Virality": 7,
+        "Source_Score": 3,
+        "Specificity": 4,
+        "Sector_Spread": 6,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "$PCLN The best prophet of the future is #trade the past",
+            "Correlation": 5,
+            "Sentiment": 7,
+            "Importance": 3,
+            "Impact": 4,
+            "Duration": 2,
+            "Virality": 8,
+            "Source_Score": 3,
+            "Specificity": 5,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "Yesterday We Made $94,000 In Just One Trade More Info Here .. $PCLN $FITBI $PDII",
+            "Correlation": 3,
+            "Sentiment": 5,
+            "Importance": 3,
+            "Impact": 6,
+            "Duration": 2,
+            "Virality": 6,
+            "Source_Score": 3,
+            "Specificity": 3,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 2
+        }
+    ]
+}

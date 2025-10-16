@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 5,
+        "Importance": 6,
+        "Impact": 7,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 7,
+        "Specificity": 9,
+        "Sector_Spread": 10,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "S&P100 #Stocks Performance $MON $GS $DVN $OXY $COF $APC $COP $SPG $CMCSA $AXP $SLB $PM $MS $SO $T $VZ",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 6,
+            "Impact": 7,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 7,
+            "Specificity": 9,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "Dow #Stocks Trend $CVX $PFE $KO $UNH $XOM $AAPL $IBM $JPM $MCD $NKE $CAT $VZ $CSCO $TRV $MMM $MSFT",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 6,
+            "Impact": 7,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 7,
+            "Specificity": 9,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 2
+        }
+    ]
+}

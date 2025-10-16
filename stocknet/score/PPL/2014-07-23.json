@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 5,
+        "Importance": 7,
+        "Impact": 6,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 4,
+        "Specificity": 8,
+        "Sector_Spread": 9,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "Earnings news on $DF $PPL $WIN $LGND I suggest cleaning up the URL as it is a shortened version and may not be reliable.",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 4,
+            "Specificity": 8,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 2
+        }
+    ]
+}

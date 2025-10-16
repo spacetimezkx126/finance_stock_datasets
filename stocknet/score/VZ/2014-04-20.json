@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 3,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 4,
+        "Duration": 2,
+        "Virality": 6,
+        "Source_Score": 7,
+        "Specificity": 3,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "Here are some Stocks to Watch $USB $VZ $AVP $CI Goto http://t.co/fZfeNYCaBZ",
+            "Correlation": 3,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 4,
+            "Duration": 2,
+            "Virality": 6,
+            "Source_Score": 7,
+            "Specificity": 3,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        }
+    ]
+}

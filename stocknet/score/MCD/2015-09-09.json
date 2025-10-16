@@ -1,0 +1,120 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 6,
+        "Impact": 4,
+        "Duration": 3,
+        "Virality": 6,
+        "Source_Score": 5,
+        "Specificity": 6,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 3
+    },
+    "Each_item": [
+        {
+            "News_content": "PMCB PharmaCyte Biotech, Inc. Stock Forum $PMCB $MCD $VTI $SDS #PMCB #stock #pennystocks",
+            "Correlation": 4,
+            "Sentiment": 5,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 5,
+            "Source_Score": 4,
+            "Specificity": 3,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "@clmkrt $MCD McDonald's to transition to cage-free eggs",
+            "Correlation": 9,
+            "Sentiment": 8,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 7,
+            "Source_Score": 6,
+            "Specificity": 9,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "MCD McDonalds Corp. News $MCD $XLY $EA $T #MCD #investing #share",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 6,
+            "Source_Score": 7,
+            "Specificity": 7,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "$MCD - Sell Oct 15 85/90 Put Vertical @ 0.46",
+            "Correlation": 9,
+            "Sentiment": 4,
+            "Importance": 5,
+            "Impact": 6,
+            "Duration": 2,
+            "Virality": 4,
+            "Source_Score": 8,
+            "Specificity": 9,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 8
+        },
+        {
+            "News_content": "#stocks broken out of their chartmill channels $BGG $MCD $TSNU",
+            "Correlation": 7,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 5,
+            "Duration": 2,
+            "Virality": 5,
+            "Source_Score": 6,
+            "Specificity": 7,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 7
+        },
+        {
+            "News_content": "MCD McDonalds Corp. Short Sales $MCD $XIV $HGD.TO $HFC #MCD #tradeideas #invest",
+            "Correlation": 8,
+            "Sentiment": 4,
+            "Importance": 5,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 5,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 6
+        },
+        {
+            "News_content": "Dow #Stocks Trend $INTC $TRV $V $AXP $UNH $BA $MCD $UTX $NKE $GS $VZ $CSCO $GE $PFE $MMM $HD $WMT $AAPL $DIS",
+            "Correlation": 6,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 7,
+            "Source_Score": 5,
+            "Specificity": 5,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "DIG Walt Disney Co. Chart $DIG $MCD $HPQ $UWTI #DIG #share #tradeideas",
+            "Correlation": 6,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 6,
+            "Source_Score": 5,
+            "Specificity": 6,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 4
+        }
+    ]
+}

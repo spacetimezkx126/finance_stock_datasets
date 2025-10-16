@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 6,
+        "Sentiment": 4,
+        "Importance": 5,
+        "Impact": 5,
+        "Duration": 3,
+        "Virality": 7,
+        "Source_Score": 4,
+        "Specificity": 6,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "Are you Bearish on these stocks MB CHTR CLWR IR moneymanagement",
+            "Correlation": 6,
+            "Sentiment": 4,
+            "Importance": 5,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 7,
+            "Source_Score": 4,
+            "Specificity": 6,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 2
+        }
+    ]
+}

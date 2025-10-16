@@ -1,0 +1,94 @@
+{
+    "Overall_score": {
+        "Correlation": 2,
+        "Sentiment": 4,
+        "Importance": 3,
+        "Impact": 2,
+        "Duration": 1,
+        "Virality": 6,
+        "Source_Score": 3,
+        "Specificity": 2,
+        "Sector_Spread": 1,
+        "Tech_Mentions": 0
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @romeyraw: L$D",
+            "Correlation": 1,
+            "Sentiment": 3,
+            "Importance": 2,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 5,
+            "Source_Score": 2,
+            "Specificity": 1,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "RT @_katyabigail: L$D 👅 https://t.co/1u0uPKbY0P",
+            "Correlation": 1,
+            "Sentiment": 4,
+            "Importance": 2,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 6,
+            "Source_Score": 2,
+            "Specificity": 1,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "The song L$D makes you think and gives me goosebumps.",
+            "Correlation": 2,
+            "Sentiment": 5,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 2,
+            "Virality": 4,
+            "Source_Score": 3,
+            "Specificity": 2,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "Make love under pretty lights, \nL$D",
+            "Correlation": 1,
+            "Sentiment": 4,
+            "Importance": 2,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 5,
+            "Source_Score": 2,
+            "Specificity": 1,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "RT @forcingallavich: a$ap rocky - L$D 💙",
+            "Correlation": 1,
+            "Sentiment": 3,
+            "Importance": 2,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 5,
+            "Source_Score": 2,
+            "Specificity": 1,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "RT @LucioQuincioC: La defensa de los narco-sobrinos de Tia Cilia y Tio @NicolasMaduro cobra U$D 10 millones, lo paga Citgo y el bolsillo nu…",
+            "Correlation": 5,
+            "Sentiment": 6,
+            "Importance": 7,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 7,
+            "Source_Score": 4,
+            "Specificity": 6,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 0
+        }
+    ]
+}

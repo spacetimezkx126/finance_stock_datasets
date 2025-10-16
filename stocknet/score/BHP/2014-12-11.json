@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 9,
+        "Sentiment": 3,
+        "Importance": 7,
+        "Impact": 5,
+        "Duration": 4,
+        "Virality": 2,
+        "Source_Score": 8,
+        "Specificity": 10,
+        "Sector_Spread": 6,
+        "Tech_Mentions": 8
+    },
+    "Each_item": [
+        {
+            "News_content": "BHP Billiton Limited hit a 52-week low of 46.97, closing the day at 47.52, with a change of -0.17 (-0.36%)",
+            "Correlation": 9,
+            "Sentiment": 3,
+            "Importance": 7,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 2,
+            "Source_Score": 8,
+            "Specificity": 10,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 8
+        }
+    ]
+}

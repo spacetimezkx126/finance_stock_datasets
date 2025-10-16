@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 3,
+        "Sentiment": 5,
+        "Importance": 2,
+        "Impact": 4,
+        "Duration": 2,
+        "Virality": 8,
+        "Source_Score": 1,
+        "Specificity": 2,
+        "Sector_Spread": 9,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "RT RT RT RT RT $MSFT 120 Mints $SPY $QQQ $AAPL $GOOGL $GOOG $TWTR $FB $BABA $PCLN $TSLA $BIDU $AMZN $MSFT $DDD",
+            "Correlation": 3,
+            "Sentiment": 5,
+            "Importance": 2,
+            "Impact": 4,
+            "Duration": 2,
+            "Virality": 8,
+            "Source_Score": 1,
+            "Specificity": 2,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 1
+        }
+    ]
+}

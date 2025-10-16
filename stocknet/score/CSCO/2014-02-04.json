@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 9,
+        "Sentiment": 7,
+        "Importance": 8,
+        "Impact": 6,
+        "Duration": 5,
+        "Virality": 4,
+        "Source_Score": 8,
+        "Specificity": 9,
+        "Sector_Spread": 7,
+        "Tech_Mentions": 3
+    },
+    "Each_item": [
+        {
+            "News_content": "CSCO Cisco, Google in patent cross-licensing deal",
+            "Correlation": 9,
+            "Sentiment": 7,
+            "Importance": 8,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 4,
+            "Source_Score": 8,
+            "Specificity": 9,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 3
+        }
+    ]
+}

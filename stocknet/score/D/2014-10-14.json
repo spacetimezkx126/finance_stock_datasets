@@ -1,0 +1,94 @@
+{
+    "Overall_score": {
+        "Correlation": 4,
+        "Sentiment": 3,
+        "Importance": 6,
+        "Impact": 5,
+        "Duration": 3,
+        "Virality": 2,
+        "Source_Score": 5,
+        "Specificity": 7,
+        "Sector_Spread": 4,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @LucioQuincioC: Jackelin Farias deberias explicar donde estan los U$D 14 millardos que le dieron para la limpieza del rio Guaire #cecaf",
+            "Correlation": 3,
+            "Sentiment": 2,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 2,
+            "Virality": 1,
+            "Source_Score": 4,
+            "Specificity": 6,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT @LucioQuincioC: El 28, el 28, el 28 de Octubre se vencen mas de U$D 5,5 millardos en deuda publica soberana, tendran con que ?",
+            "Correlation": 5,
+            "Sentiment": 3,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 2,
+            "Source_Score": 5,
+            "Specificity": 8,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "La deuda de Yacyreta es de casi U$D 18 mil millones porque no se pago casi nada de lo prestado por ARG. Se está negociando al respecto.",
+            "Correlation": 6,
+            "Sentiment": 4,
+            "Importance": 8,
+            "Impact": 7,
+            "Duration": 5,
+            "Virality": 3,
+            "Source_Score": 6,
+            "Specificity": 9,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT @LucioQuincioC: Claro y raspao....ExxonMobil le gana pleito a Pdvsa y los obliga a pagar U$D 1,600 millones mas intereses al 5% de tasa …",
+            "Correlation": 7,
+            "Sentiment": 5,
+            "Importance": 9,
+            "Impact": 8,
+            "Duration": 6,
+            "Virality": 4,
+            "Source_Score": 7,
+            "Specificity": 10,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "ojo @LucioQuincioC Nombran a Jackelin Farias como MinCi, pro no ha dicho donde están los U$D 14 millardos q le dieron para limpiar el Guaire",
+            "Correlation": 3,
+            "Sentiment": 2,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 2,
+            "Virality": 1,
+            "Source_Score": 4,
+            "Specificity": 6,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT @LucioQuincioC: Nombran a Jackelin Farias como MinCi, pero no ha dicho donde están los U$D 14 millardos que le dieron para limpiar el Ri…",
+            "Correlation": 3,
+            "Sentiment": 2,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 2,
+            "Virality": 1,
+            "Source_Score": 4,
+            "Specificity": 6,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        }
+    ]
+}

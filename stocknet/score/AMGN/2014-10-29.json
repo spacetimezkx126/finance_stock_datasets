@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 7,
+        "Importance": 6,
+        "Impact": 7,
+        "Duration": 5,
+        "Virality": 4,
+        "Source_Score": 5,
+        "Specificity": 8,
+        "Sector_Spread": 9,
+        "Tech_Mentions": 3
+    },
+    "Each_item": [
+        {
+            "News_content": "Partner Jet $PJT.V reports Q3 results. 146% revenue growth trailing P/E of 6.4 forward P/E 3.8. $AMGN investors read:",
+            "Correlation": 9,
+            "Sentiment": 8,
+            "Importance": 7,
+            "Impact": 8,
+            "Duration": 6,
+            "Virality": 3,
+            "Source_Score": 5,
+            "Specificity": 9,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "Trendsetters: $GGP, $USNA, $UNH, $EIX, $NAVI, $ADP, $O, $KIM, $ZMH, $AAPL, $BXP, $NOC, $TE, $LMT, $AMGN, $LB, $DFT, $ADP",
+            "Correlation": 7,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 5,
+            "Source_Score": 5,
+            "Specificity": 7,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 4
+        }
+    ]
+}

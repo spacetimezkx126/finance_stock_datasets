@@ -1,0 +1,107 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 6,
+        "Impact": 5,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 6,
+        "Specificity": 7,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "Since your tweet was sent, AMZN has dropped -1.523%. See your featured tweet on Market Parse.",
+            "Correlation": 10,
+            "Sentiment": 3,
+            "Importance": 4,
+            "Impact": 5,
+            "Duration": 2,
+            "Virality": 3,
+            "Source_Score": 7,
+            "Specificity": 9,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "The Zacks Analyst Blog Highlights: Alibaba, Groupon and Autobytel - Press Releases",
+            "Correlation": 6,
+            "Sentiment": 5,
+            "Importance": 6,
+            "Impact": 4,
+            "Duration": 5,
+            "Virality": 4,
+            "Source_Score": 8,
+            "Specificity": 7,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Janus Unconstrained Bond Fund Stock Message Board. Trending JUCTX AMZN DGRI MNST.",
+            "Correlation": 5,
+            "Sentiment": 4,
+            "Importance": 3,
+            "Impact": 3,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 6,
+            "Specificity": 6,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Why 3-D Printing is going lower cause like I-Phones it's now Obsolete. DDD SYSS HPQ CRM AAPL AMZN TSLA QQQ IWM SPY SPX.",
+            "Correlation": 7,
+            "Sentiment": 2,
+            "Importance": 5,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 5,
+            "Specificity": 8,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "FXI Investor Opinions Updated Monday, May 4, 2015 5:07:13 PM BMA TNA AMZN COST.",
+            "Correlation": 6,
+            "Sentiment": 4,
+            "Importance": 4,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 7,
+            "Specificity": 7,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Monday Morning Market Minute QQQ IWM AAPL.",
+            "Correlation": 5,
+            "Sentiment": 5,
+            "Importance": 3,
+            "Impact": 3,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 6,
+            "Specificity": 6,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "The U.S. billionaire having the best year is AMZN's Jeff Bezos, up $9.5 billion year-to-date.",
+            "Correlation": 9,
+            "Sentiment": 8,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 4,
+            "Source_Score": 8,
+            "Specificity": 9,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        }
+    ]
+}

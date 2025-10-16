@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 3,
+        "Duration": 2,
+        "Virality": 3,
+        "Source_Score": 6,
+        "Specificity": 5,
+        "Sector_Spread": 1,
+        "Tech_Mentions": 8
+    },
+    "Each_item": [
+        {
+            "News_content": "Same system that called super close to last low on $PEP saying we almost there again. #watchingforbounce",
+            "Correlation": 7,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 3,
+            "Source_Score": 6,
+            "Specificity": 5,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 8
+        }
+    ]
+}

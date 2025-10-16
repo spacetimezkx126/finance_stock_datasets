@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 3,
+        "Sentiment": 5,
+        "Importance": 2,
+        "Impact": 4,
+        "Duration": 3,
+        "Virality": 6,
+        "Source_Score": 4,
+        "Specificity": 5,
+        "Sector_Spread": 7,
+        "Tech_Mentions": 8
+    },
+    "Each_item": [
+        {
+            "News_content": "Looking for the next $MA $ROST $MDU $RAX Check out",
+            "Correlation": 4,
+            "Sentiment": 6,
+            "Importance": 3,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 7,
+            "Source_Score": 5,
+            "Specificity": 6,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 9
+        },
+        {
+            "News_content": "Free webinar on using option spreads for profits $MA $V $C",
+            "Correlation": 2,
+            "Sentiment": 4,
+            "Importance": 1,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 5,
+            "Source_Score": 3,
+            "Specificity": 4,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 7
+        }
+    ]
+}

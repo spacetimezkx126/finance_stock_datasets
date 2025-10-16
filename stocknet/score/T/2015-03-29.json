@@ -1,0 +1,55 @@
+{
+    "Overall_score": {
+        "Correlation": 3,
+        "Sentiment": 4,
+        "Importance": 2,
+        "Impact": 2,
+        "Duration": 1,
+        "Virality": 1,
+        "Source_Score": 5,
+        "Specificity": 3,
+        "Sector_Spread": 1,
+        "Tech_Mentions": 0
+    },
+    "Each_item": [
+        {
+            "News_content": "TLT Company Info Updated Sunday, March 29, 2015 11:11:14 AM",
+            "Correlation": 7,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 1,
+            "Source_Score": 6,
+            "Specificity": 8,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "Jab Mar Jaon To Kandha, Zaroor, Dena Mery Janazy, Ko..!! Zindagi Main Bhout, Kami Rahi Hai Tery,Sahary ki. SANGATI",
+            "Correlation": 1,
+            "Sentiment": 3,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 2,
+            "Source_Score": 4,
+            "Specificity": 1,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "uNf",
+            "Correlation": 1,
+            "Sentiment": 2,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 1,
+            "Source_Score": 3,
+            "Specificity": 1,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        }
+    ]
+}

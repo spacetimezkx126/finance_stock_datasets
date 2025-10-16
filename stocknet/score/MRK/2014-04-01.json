@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 6,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 3,
+        "Duration": 7,
+        "Virality": 2,
+        "Source_Score": 8,
+        "Specificity": 5,
+        "Sector_Spread": 9,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "MRK BUENA VISTA COUNTY ~ JANUARY - MARCH 2014 CLAIMS LISTING",
+            "Correlation": 7,
+            "Sentiment": 4,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 8,
+            "Virality": 1,
+            "Source_Score": 6,
+            "Specificity": 9,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Which Of These Pharmaceutical Giants Has The Best Dividend: Pfizer Or Merck?",
+            "Correlation": 5,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 6,
+            "Virality": 3,
+            "Source_Score": 10,
+            "Specificity": 2,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 1
+        }
+    ]
+}

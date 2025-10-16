@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 6,
+        "Importance": 5,
+        "Impact": 4,
+        "Duration": 3,
+        "Virality": 5,
+        "Source_Score": 6,
+        "Specificity": 7,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "Dividend Investing #DividendInvesting $AXP $GS $MCO $WMT $USB $WFC $PG $IBM $KO $XOM #BuyLowSellHigh #BigBusiness",
+            "Correlation": 8,
+            "Sentiment": 7,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 5,
+            "Virality": 6,
+            "Source_Score": 5,
+            "Specificity": 8,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "$PG: Three Best Stock’s Buzzers: Procter & Gamble (NYSE:PG), Coach … http://t.co/WqDiiBrKm1",
+            "Correlation": 6,
+            "Sentiment": 5,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 2,
+            "Virality": 4,
+            "Source_Score": 7,
+            "Specificity": 6,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 3
+        }
+    ]
+}

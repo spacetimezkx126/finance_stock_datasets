@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 5,
+        "Sentiment": 7,
+        "Importance": 4,
+        "Impact": 3,
+        "Duration": 2,
+        "Virality": 6,
+        "Source_Score": 5,
+        "Specificity": 6,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "Мне понравилось видео \"A$AP Rocky - L$D (LOVE x $EX x DREAMS)\" на @YouTube.",
+            "Correlation": 3,
+            "Sentiment": 8,
+            "Importance": 2,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 7,
+            "Source_Score": 4,
+            "Specificity": 5,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Here's how much Disney makes from its media companies. That includes ESPN, ABC, Pixar, and more: $D",
+            "Correlation": 7,
+            "Sentiment": 6,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 5,
+            "Source_Score": 6,
+            "Specificity": 7,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 1
+        }
+    ]
+}

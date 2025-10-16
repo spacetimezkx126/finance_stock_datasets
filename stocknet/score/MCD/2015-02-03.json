@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 3,
+        "Duration": 2,
+        "Virality": 6,
+        "Source_Score": 8,
+        "Specificity": 7,
+        "Sector_Spread": 3,
+        "Tech_Mentions": 4
+    },
+    "Each_item": [
+        {
+            "News_content": "@SconsetCapital @YahooTech @carlquintanilla Ebay $MCD special sauce reaches $18,000. Clearly peeps have too much money and time on their hands",
+            "Correlation": 6,
+            "Sentiment": 4,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 7,
+            "Source_Score": 8,
+            "Specificity": 6,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "#Dow #stocks $MCD McDonalds Daily:0.08% Weekly:2.03% YTD:-1.27% Trend:57 / 100",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 5,
+            "Source_Score": 8,
+            "Specificity": 8,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 7
+        }
+    ]
+}

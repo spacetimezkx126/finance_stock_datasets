@@ -1,0 +1,55 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 6,
+        "Importance": 6,
+        "Impact": 5,
+        "Duration": 4,
+        "Virality": 5,
+        "Source_Score": 7,
+        "Specificity": 6,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "PepsiCo Inc. announces partnership with Blake Shelton.",
+            "Correlation": 9,
+            "Sentiment": 8,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 7,
+            "Source_Score": 8,
+            "Specificity": 9,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Discussion on how overvalued the market is and if it matters, involving PepsiCo Inc., Walmart, Exxon Mobil, SPDR S&P 500 ETF Trust, Diamonds Trust, Invesco QQQ Trust, and iShares Russell 2000 ETF.",
+            "Correlation": 6,
+            "Sentiment": 5,
+            "Importance": 8,
+            "Impact": 7,
+            "Duration": 6,
+            "Virality": 4,
+            "Source_Score": 7,
+            "Specificity": 5,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "Gatorade launches the tenth annual Beat the Heat campaign with support from NFL, MLS, MLB, and NBA.",
+            "Correlation": 8,
+            "Sentiment": 7,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 5,
+            "Virality": 6,
+            "Source_Score": 6,
+            "Specificity": 8,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        }
+    ]
+}

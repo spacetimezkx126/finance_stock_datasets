@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 3,
+        "Sentiment": 2,
+        "Importance": 4,
+        "Impact": 3,
+        "Duration": 2,
+        "Virality": 5,
+        "Source_Score": 3,
+        "Specificity": 6,
+        "Sector_Spread": 2,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @juancastroMDP: En la web hay gente que vende entradas falsas para la final a U$D 500. Lo mejor es que aclara: \"son iguales a las originales\"",
+            "Correlation": 3,
+            "Sentiment": 2,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 5,
+            "Source_Score": 3,
+            "Specificity": 6,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        }
+    ]
+}

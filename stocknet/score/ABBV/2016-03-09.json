@@ -1,0 +1,68 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 3,
+        "Duration": 2,
+        "Virality": 3,
+        "Source_Score": 6,
+        "Specificity": 6,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "AbbVie Inc $ABBV Shares Sold by Welch & Forbes LLC",
+            "Correlation": 9,
+            "Sentiment": 4,
+            "Importance": 5,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 2,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Most Bright Stocks Now: $FB $ABBV $CIT",
+            "Correlation": 6,
+            "Sentiment": 7,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 5,
+            "Source_Score": 5,
+            "Specificity": 4,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "S&P100 #Stocks Performance $DVN $CVX $KMI $OXY $HPQ $COP $CSCO $APC $UNP $MSFT $ABBV $IBM $SLB $CVS $XOM",
+            "Correlation": 7,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 2,
+            "Duration": 2,
+            "Virality": 4,
+            "Source_Score": 6,
+            "Specificity": 5,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "AbbVie Inc $ABBV Shares Bought by Ferguson Wellman Capital Management Inc.",
+            "Correlation": 9,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 2,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        }
+    ]
+}

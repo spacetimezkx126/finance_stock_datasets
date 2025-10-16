@@ -1,0 +1,81 @@
+{
+    "Overall_score": {
+        "Correlation": 4,
+        "Sentiment": 3,
+        "Importance": 2,
+        "Impact": 3,
+        "Duration": 2,
+        "Virality": 5,
+        "Source_Score": 4,
+        "Specificity": 5,
+        "Sector_Spread": 6,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @takingstock614: FW",
+            "Correlation": 2,
+            "Sentiment": 1,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 3,
+            "Source_Score": 3,
+            "Specificity": 1,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Looking for the next #financial",
+            "Correlation": 3,
+            "Sentiment": 2,
+            "Importance": 2,
+            "Impact": 2,
+            "Duration": 2,
+            "Virality": 4,
+            "Source_Score": 3,
+            "Specificity": 2,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "was talking about $V $MA at last Saturday’s webinar as 2 to watch FF to 2:41:30 to hear my comments-",
+            "Correlation": 7,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 6,
+            "Source_Score": 5,
+            "Specificity": 8,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "Get research on $SNA $CBSH $MA $DO Visit",
+            "Correlation": 6,
+            "Sentiment": 4,
+            "Importance": 3,
+            "Impact": 4,
+            "Duration": 2,
+            "Virality": 5,
+            "Source_Score": 4,
+            "Specificity": 7,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "Find the next hot #pennystock $TEG $MA $LLL $YOD Goto",
+            "Correlation": 5,
+            "Sentiment": 3,
+            "Importance": 2,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 5,
+            "Source_Score": 4,
+            "Specificity": 6,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        }
+    ]
+}

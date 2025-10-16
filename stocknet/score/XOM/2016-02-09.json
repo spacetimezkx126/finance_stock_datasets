@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 4,
+        "Sentiment": 5,
+        "Importance": 3,
+        "Impact": 6,
+        "Duration": 2,
+        "Virality": 7,
+        "Source_Score": 5,
+        "Specificity": 4,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "My friend made $4 million trading! At ..",
+            "Correlation": 3,
+            "Sentiment": 8,
+            "Importance": 2,
+            "Impact": 4,
+            "Duration": 1,
+            "Virality": 6,
+            "Source_Score": 3,
+            "Specificity": 2,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT @TalkMarkets: Why The Dow Jones Industrial Average Fell 177 Points Today",
+            "Correlation": 5,
+            "Sentiment": 3,
+            "Importance": 4,
+            "Impact": 8,
+            "Duration": 3,
+            "Virality": 8,
+            "Source_Score": 7,
+            "Specificity": 6,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 1
+        }
+    ]
+}

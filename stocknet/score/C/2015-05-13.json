@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 6,
+        "Duration": 3,
+        "Virality": 2,
+        "Source_Score": 6,
+        "Specificity": 8,
+        "Sector_Spread": 2,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "Since your tweet was sent $C has risen 1.805%. See your featured tweet on Market Parse",
+            "Correlation": 9,
+            "Sentiment": 7,
+            "Importance": 5,
+            "Impact": 7,
+            "Duration": 3,
+            "Virality": 3,
+            "Source_Score": 7,
+            "Specificity": 9,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "F$C",
+            "Correlation": 5,
+            "Sentiment": 3,
+            "Importance": 3,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 1,
+            "Source_Score": 5,
+            "Specificity": 7,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        }
+    ]
+}

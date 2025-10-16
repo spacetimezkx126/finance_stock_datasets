@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 9,
+        "Sentiment": 8,
+        "Importance": 6,
+        "Impact": 7,
+        "Duration": 4,
+        "Virality": 5,
+        "Source_Score": 7,
+        "Specificity": 10,
+        "Sector_Spread": 3,
+        "Tech_Mentions": 9
+    },
+    "Each_item": [
+        {
+            "News_content": "RT $TSLA HFT Algos triggered BUY in SIGMA-X, CROSSFINDER, ATS, LX @ 08:28, P/T 245.00 #Quant",
+            "Correlation": 9,
+            "Sentiment": 8,
+            "Importance": 6,
+            "Impact": 7,
+            "Duration": 4,
+            "Virality": 5,
+            "Source_Score": 7,
+            "Specificity": 10,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 9
+        },
+        {
+            "News_content": "RT $QQQ HFT Algos triggered BUY in SIGMA-X, CROSSFINDER, ATS, LX @ 09:48, P/T 104.00 #Quant",
+            "Correlation": 9,
+            "Sentiment": 8,
+            "Importance": 6,
+            "Impact": 7,
+            "Duration": 4,
+            "Virality": 5,
+            "Source_Score": 7,
+            "Specificity": 10,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 9
+        }
+    ]
+}

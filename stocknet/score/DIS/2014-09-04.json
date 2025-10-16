@@ -1,0 +1,68 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 3,
+        "Importance": 6,
+        "Impact": 7,
+        "Duration": 4,
+        "Virality": 2,
+        "Source_Score": 5,
+        "Specificity": 9,
+        "Sector_Spread": 3,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "SELL $ALXN 165.64",
+            "Correlation": 8,
+            "Sentiment": 2,
+            "Importance": 5,
+            "Impact": 6,
+            "Duration": 3,
+            "Virality": 1,
+            "Source_Score": 5,
+            "Specificity": 9,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "SELL $APA 98.76",
+            "Correlation": 8,
+            "Sentiment": 3,
+            "Importance": 6,
+            "Impact": 7,
+            "Duration": 4,
+            "Virality": 2,
+            "Source_Score": 5,
+            "Specificity": 9,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "SELL $CIEN 18.40",
+            "Correlation": 8,
+            "Sentiment": 2,
+            "Importance": 5,
+            "Impact": 6,
+            "Duration": 3,
+            "Virality": 1,
+            "Source_Score": 5,
+            "Specificity": 9,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "SELL $DIS 90.14",
+            "Correlation": 8,
+            "Sentiment": 3,
+            "Importance": 6,
+            "Impact": 7,
+            "Duration": 4,
+            "Virality": 2,
+            "Source_Score": 5,
+            "Specificity": 9,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        }
+    ]
+}

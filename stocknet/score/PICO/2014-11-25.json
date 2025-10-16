@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 3,
+        "Importance": 6,
+        "Impact": 7,
+        "Duration": 4,
+        "Virality": 2,
+        "Source_Score": 7,
+        "Specificity": 9,
+        "Sector_Spread": 5,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "5 Financial stocks with the worst monthly performance this month: GNW, ASPS, RYN, PICO, WAC",
+            "Correlation": 8,
+            "Sentiment": 3,
+            "Importance": 6,
+            "Impact": 7,
+            "Duration": 4,
+            "Virality": 2,
+            "Source_Score": 7,
+            "Specificity": 9,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 1
+        }
+    ]
+}

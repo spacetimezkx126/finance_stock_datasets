@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 6,
+        "Importance": 8,
+        "Impact": 5,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 7,
+        "Specificity": 9,
+        "Sector_Spread": 6,
+        "Tech_Mentions": 8
+    },
+    "Each_item": [
+        {
+            "News_content": "What does ORCL unveiling new engineered systems, including Virtual Compute Appliance X5, mean for XXIA and CSCO",
+            "Correlation": 7,
+            "Sentiment": 6,
+            "Importance": 8,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 7,
+            "Specificity": 9,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 8
+        }
+    ]
+}

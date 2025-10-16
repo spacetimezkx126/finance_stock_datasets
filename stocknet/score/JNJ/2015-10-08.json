@@ -1,0 +1,68 @@
+{
+    "Overall_score": {
+        "Correlation": 6,
+        "Sentiment": 4,
+        "Importance": 5,
+        "Impact": 4,
+        "Duration": 3,
+        "Virality": 5,
+        "Source_Score": 4,
+        "Specificity": 5,
+        "Sector_Spread": 7,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "RAD Rite Aid Corp. Ask Size $RAD $UVV $JNJ $CELG #RAD #finance #share",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 4,
+            "Source_Score": 5,
+            "Specificity": 7,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "#HILLARY Clinton Learn the FACTS before shooting off your tweet $IBB $MRK $JNJ $BMY $CLDX $INSM $NBIX $GSK $THRX",
+            "Correlation": 5,
+            "Sentiment": 3,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 7,
+            "Source_Score": 4,
+            "Specificity": 4,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "$1 Million Is Not What It Used To Be In Retirement $JNJ $KO $LLY $SYY $T $WMT",
+            "Correlation": 6,
+            "Sentiment": 4,
+            "Importance": 6,
+            "Impact": 4,
+            "Duration": 5,
+            "Virality": 5,
+            "Source_Score": 5,
+            "Specificity": 5,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "Please be part of the people who want to help keep #JohnsonAndToxin online to continue educating people around the world NOT TO TRUST $JNJ",
+            "Correlation": 7,
+            "Sentiment": 2,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 3,
+            "Virality": 6,
+            "Source_Score": 3,
+            "Specificity": 6,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 0
+        }
+    ]
+}

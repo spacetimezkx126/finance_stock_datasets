@@ -1,0 +1,55 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 6,
+        "Impact": 6,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 5,
+        "Specificity": 7,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "UVXY VelocityShares 3x Long Crude ETN E.P.S. $UVXY $CAT $PCLN $CGC.V #UVXY #invest #stock",
+            "Correlation": 9,
+            "Sentiment": 5,
+            "Importance": 7,
+            "Impact": 8,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 4,
+            "Specificity": 9,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Apple's iOS 9.2 Is Here -- Here's Everything You're Getting: $AAPL $GOOG $PCLN $K",
+            "Correlation": 6,
+            "Sentiment": 7,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 5,
+            "Virality": 6,
+            "Source_Score": 6,
+            "Specificity": 6,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "$PCLN Company Info Updated Friday, December 11, 2015 7:11:18 PM $INTC $PCLN $NKE $RXMD",
+            "Correlation": 8,
+            "Sentiment": 4,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 4,
+            "Virality": 1,
+            "Source_Score": 5,
+            "Specificity": 8,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 1
+        }
+    ]
+}

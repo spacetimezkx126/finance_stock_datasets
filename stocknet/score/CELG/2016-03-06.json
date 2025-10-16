@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 6,
+        "Importance": 5,
+        "Impact": 4,
+        "Duration": 3,
+        "Virality": 2,
+        "Source_Score": 5,
+        "Specificity": 6,
+        "Sector_Spread": 4,
+        "Tech_Mentions": 3
+    },
+    "Each_item": [
+        {
+            "News_content": "CELG -0.21% Stock Charts $CELG Celgene Corp. (NASDAQ) Last Updated: 03/06/2016 09:46:23 CELG Stock Chart - 1 M",
+            "Correlation": 8,
+            "Sentiment": 4,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 1,
+            "Source_Score": 6,
+            "Specificity": 8,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 5
+        },
+        {
+            "News_content": "Our Stock Alert On $PFSD Is Up 266.66% In Less Than 3 Weeks! Subscribe For New Picks: $FB $MDLZ $CELG",
+            "Correlation": 6,
+            "Sentiment": 8,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 4,
+            "Specificity": 4,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 1
+        }
+    ]
+}

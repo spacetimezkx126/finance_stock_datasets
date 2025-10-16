@@ -1,0 +1,107 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 5,
+        "Importance": 7,
+        "Impact": 6,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 6,
+        "Specificity": 8,
+        "Sector_Spread": 3,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "MCD reported February comps dropped 0.3%, stock hardly reacting, down just 0.25%",
+            "Correlation": 10,
+            "Sentiment": 4,
+            "Importance": 7,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 7,
+            "Specificity": 9,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "MCD Randall Letcavage Receives Glowing Reviews at FSX Investment Conference",
+            "Correlation": 7,
+            "Sentiment": 8,
+            "Importance": 6,
+            "Impact": 4,
+            "Duration": 5,
+            "Virality": 4,
+            "Source_Score": 8,
+            "Specificity": 7,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Really, McDonalds? The weather impacted sales? Can't you order from the warmth of your car's heated seat? MCD #polarvortex",
+            "Correlation": 8,
+            "Sentiment": 3,
+            "Importance": 5,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 6,
+            "Source_Score": 5,
+            "Specificity": 7,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "McDonalds Europe comps remain consistently decent, macro crisis or not. And US & Asia remain consistently poor MCD",
+            "Correlation": 9,
+            "Sentiment": 5,
+            "Importance": 8,
+            "Impact": 6,
+            "Duration": 6,
+            "Virality": 3,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "McDonald's Sales Fall More Than Expected MCD * My local franchise service is terrible, frustration abounds! *",
+            "Correlation": 9,
+            "Sentiment": 2,
+            "Importance": 7,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 6,
+            "Specificity": 8,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "MCD - Bull market turns five, but will it live to see six? #stock #stocks #stockaction",
+            "Correlation": 6,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 7,
+            "Virality": 2,
+            "Source_Score": 5,
+            "Specificity": 5,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "MCD 7:58 am McDonalds February comps -0.3% vs. +1.2% in January",
+            "Correlation": 10,
+            "Sentiment": 4,
+            "Importance": 7,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 7,
+            "Specificity": 9,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        }
+    ]
+}

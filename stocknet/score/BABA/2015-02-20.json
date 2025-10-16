@@ -1,0 +1,68 @@
+{
+    "Overall_score": {
+        "Correlation": 6,
+        "Sentiment": 5,
+        "Importance": 7,
+        "Impact": 6,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 5,
+        "Specificity": 6,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "Alibaba's founder Jack Ma was rejected from 30 jobs, including KFC, before becoming the richest man in China.",
+            "Correlation": 4,
+            "Sentiment": 7,
+            "Importance": 6,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 5,
+            "Source_Score": 6,
+            "Specificity": 8,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "$BABA also looks very weak going into next week.",
+            "Correlation": 9,
+            "Sentiment": 2,
+            "Importance": 5,
+            "Impact": 7,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 4,
+            "Specificity": 9,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "Some up stocks on my watch list: $TWTR, $CREE, $FB, $LULU, $BLOX, $AAPL, $YELP, $GIMO, $GRPN, $KING, $SEAS, $BABA",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 4,
+            "Impact": 5,
+            "Duration": 2,
+            "Virality": 3,
+            "Source_Score": 5,
+            "Specificity": 7,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "With moves on $THCZ and $SUTI, our stock picks gained 342% in the past 2 weeks! Big News: http://t.co/7J8VHIw2Cx. Related stocks: $SEGI, $BABA, $SWET",
+            "Correlation": 7,
+            "Sentiment": 9,
+            "Importance": 8,
+            "Impact": 9,
+            "Duration": 5,
+            "Virality": 6,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 4
+        }
+    ]
+}

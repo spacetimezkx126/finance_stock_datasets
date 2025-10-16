@@ -1,0 +1,81 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 6,
+        "Duration": 3,
+        "Virality": 2,
+        "Source_Score": 3,
+        "Specificity": 6,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "Keeping my Eye on $FLIR $DGX $D $AMZN #StockMarket",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 3,
+            "Impact": 5,
+            "Duration": 2,
+            "Virality": 2,
+            "Source_Score": 3,
+            "Specificity": 7,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "$ATVI #Stocks you might want to buy $RPAI $JLL $AMZN #overvalued",
+            "Correlation": 7,
+            "Sentiment": 4,
+            "Importance": 4,
+            "Impact": 6,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 3,
+            "Specificity": 6,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Keeping my Eye on $UNH $AMCX $VMI $AMZN Give it a try",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 3,
+            "Impact": 5,
+            "Duration": 2,
+            "Virality": 2,
+            "Source_Score": 3,
+            "Specificity": 7,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Is it breakout time on $PBCT $UNP $NATI $AMZN",
+            "Correlation": 7,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 7,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 3,
+            "Specificity": 8,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "Is it breakout time on $MRO $LRCX $SWN $AMZN #NSE",
+            "Correlation": 7,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 7,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 3,
+            "Specificity": 8,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 2
+        }
+    ]
+}

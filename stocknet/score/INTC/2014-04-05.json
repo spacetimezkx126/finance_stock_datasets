@@ -1,0 +1,68 @@
+{
+    "Overall_score": {
+        "Correlation": 6,
+        "Sentiment": 5,
+        "Importance": 7,
+        "Impact": 6,
+        "Duration": 8,
+        "Virality": 4,
+        "Source_Score": 5,
+        "Specificity": 6,
+        "Sector_Spread": 9,
+        "Tech_Mentions": 3
+    },
+    "Each_item": [
+        {
+            "News_content": "Location Estimation Based Upon Ambient Identifiable Wireless Signal Sources",
+            "Correlation": 2,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 7,
+            "Virality": 3,
+            "Source_Score": 6,
+            "Specificity": 5,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 7
+        },
+        {
+            "News_content": "The top 10 Nasdaq companies in 1999 vs. now: $MSFT, $CSCO, $QCOM & $INTC make both lists.",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 8,
+            "Impact": 7,
+            "Duration": 9,
+            "Virality": 5,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "Amazing change to #nasdaq top 10: 1999 vs. 2013. $CSCO $INTC $QCOM only 1/3 market cap today, $MSFT 50%",
+            "Correlation": 7,
+            "Sentiment": 4,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 8,
+            "Virality": 6,
+            "Source_Score": 6,
+            "Specificity": 7,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "Avoid mistakes like $BPOP $LPS $INTC $S",
+            "Correlation": 5,
+            "Sentiment": 3,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 6,
+            "Virality": 4,
+            "Source_Score": 5,
+            "Specificity": 6,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        }
+    ]
+}

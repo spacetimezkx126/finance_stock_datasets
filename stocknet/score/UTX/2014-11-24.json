@@ -1,0 +1,68 @@
+{
+    "Overall_score": {
+        "Correlation": 9,
+        "Sentiment": 6,
+        "Importance": 8,
+        "Impact": 7,
+        "Duration": 5,
+        "Virality": 7,
+        "Source_Score": 9,
+        "Specificity": 8,
+        "Sector_Spread": 4,
+        "Tech_Mentions": 3
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @BloombergTV: BREAKING: United Technologies names Gregory J. Hayes as president and CEO $UTX",
+            "Correlation": 10,
+            "Sentiment": 8,
+            "Importance": 9,
+            "Impact": 8,
+            "Duration": 6,
+            "Virality": 8,
+            "Source_Score": 10,
+            "Specificity": 9,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "$UTX trading 2300 of this week's 112 calls for around .18 against OI of 285. Stock at 110.95, up 0.6%",
+            "Correlation": 9,
+            "Sentiment": 7,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 5,
+            "Source_Score": 8,
+            "Specificity": 8,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 6
+        },
+        {
+            "News_content": "RT @CNNMoneyInvest: $UTX dips nearly 1% #premarket after saying CEO Louis Chenevert, 57, is retiring. Conglomerate taps CFO Gregory Hayes a…",
+            "Correlation": 9,
+            "Sentiment": 4,
+            "Importance": 8,
+            "Impact": 7,
+            "Duration": 5,
+            "Virality": 7,
+            "Source_Score": 9,
+            "Specificity": 8,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "RT @IBD_GRich: United Tech CEO Retires; Reaffirms 2014 EPS, Sales $UTX http://t.co/ZRnXfBRdCf",
+            "Correlation": 9,
+            "Sentiment": 6,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 6,
+            "Source_Score": 8,
+            "Specificity": 7,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 3
+        }
+    ]
+}

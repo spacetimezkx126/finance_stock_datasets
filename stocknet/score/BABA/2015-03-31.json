@@ -1,0 +1,94 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 6,
+        "Impact": 5,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 6,
+        "Specificity": 6,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "$BABA- 2nd day in a row with this EDGX seller. Yesterday had a 10k offer every 0.05. Today a little tougher to read",
+            "Correlation": 9,
+            "Sentiment": 4,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 6
+        },
+        {
+            "News_content": "Marissa Mayer will determine her fate! $YHOO $BABA #Merger #IPO #MONEY #BigBusiness",
+            "Correlation": 6,
+            "Sentiment": 7,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 5,
+            "Source_Score": 5,
+            "Specificity": 4,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "2015 Trending Stocks: BABA +0.10% Stock Charts $BABA Alibaba Group",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 3,
+            "Source_Score": 6,
+            "Specificity": 7,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "Alibaba Group Holding Ltd ($BABA) Tapping into Fast-Growing Online Drug Market - Insider Monkey",
+            "Correlation": 9,
+            "Sentiment": 8,
+            "Importance": 8,
+            "Impact": 7,
+            "Duration": 6,
+            "Virality": 4,
+            "Source_Score": 7,
+            "Specificity": 9,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "$AAPL $AMZN $BABA $BIDU $CELG $CVX $FB $FSLR $GILD $GLD $GMCR $GOOG $GOOGL $GPRO $GS $IWM $LNKD $NFLX $PCLN $QQQ $SBUX",
+            "Correlation": 3,
+            "Sentiment": 5,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 6,
+            "Source_Score": 4,
+            "Specificity": 2,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Alibaba said likely to choose #Seattle for its US headquarters. $BABA close: 83.24 #CRE #eCommerce",
+            "Correlation": 9,
+            "Sentiment": 6,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 4,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        }
+    ]
+}

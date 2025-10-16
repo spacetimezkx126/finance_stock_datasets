@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 2,
+        "Sentiment": 3,
+        "Importance": 1,
+        "Impact": 1,
+        "Duration": 2,
+        "Virality": 3,
+        "Source_Score": 4,
+        "Specificity": 1,
+        "Sector_Spread": 2,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "Get great research on stocks",
+            "Correlation": 2,
+            "Sentiment": 4,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 2,
+            "Virality": 3,
+            "Source_Score": 5,
+            "Specificity": 1,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Are you considering selling",
+            "Correlation": 2,
+            "Sentiment": 2,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 2,
+            "Virality": 3,
+            "Source_Score": 3,
+            "Specificity": 1,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        }
+    ]
+}

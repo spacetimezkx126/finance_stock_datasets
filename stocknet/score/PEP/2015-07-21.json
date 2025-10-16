@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 5,
+        "Importance": 6,
+        "Impact": 7,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 7,
+        "Specificity": 9,
+        "Sector_Spread": 2,
+        "Tech_Mentions": 5
+    },
+    "Each_item": [
+        {
+            "News_content": "Potential PepsiCo $PEP Trade Targets 3.94% Return",
+            "Correlation": 9,
+            "Sentiment": 7,
+            "Importance": 6,
+            "Impact": 8,
+            "Duration": 5,
+            "Virality": 3,
+            "Source_Score": 7,
+            "Specificity": 10,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 4
+        },
+        {
+            "News_content": "We've got $PEP going down with 87% confidence",
+            "Correlation": 7,
+            "Sentiment": 3,
+            "Importance": 6,
+            "Impact": 6,
+            "Duration": 3,
+            "Virality": 3,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 6
+        }
+    ]
+}

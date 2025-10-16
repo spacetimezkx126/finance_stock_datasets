@@ -1,0 +1,94 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 5,
+        "Importance": 7,
+        "Impact": 6,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 7,
+        "Specificity": 6,
+        "Sector_Spread": 5,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "J&J halts a depression program in the shadow of a fatal French trial $JNJ",
+            "Correlation": 10,
+            "Sentiment": 2,
+            "Importance": 9,
+            "Impact": 8,
+            "Duration": 5,
+            "Virality": 7,
+            "Source_Score": 8,
+            "Specificity": 10,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Gain from movement in these buzzing assets $AGN $DB $JNJ $KMI $SRPT",
+            "Correlation": 6,
+            "Sentiment": 8,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 6,
+            "Source_Score": 5,
+            "Specificity": 4,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "2 Trades for Johnson & Johnson Stock Ahead of Earnings $JNJ",
+            "Correlation": 9,
+            "Sentiment": 7,
+            "Importance": 8,
+            "Impact": 7,
+            "Duration": 4,
+            "Virality": 4,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "Johnson & Johnson $JNJ Given a $105.00 Price Target by Independent Research GmbH Analysts",
+            "Correlation": 9,
+            "Sentiment": 8,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 3,
+            "Source_Score": 9,
+            "Specificity": 8,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 4
+        },
+        {
+            "News_content": "MMM Altria Group Inc. Dividend $MMM $XLF $NVDA $JNJ",
+            "Correlation": 5,
+            "Sentiment": 6,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 6,
+            "Virality": 2,
+            "Source_Score": 6,
+            "Specificity": 5,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "PGX Pembina Pipeline Corp. Short Sales $PGX $AAPL $JNJ $TPC",
+            "Correlation": 4,
+            "Sentiment": 5,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 4,
+            "Virality": 2,
+            "Source_Score": 5,
+            "Specificity": 4,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 9,
+        "Sentiment": 6,
+        "Importance": 8,
+        "Impact": 7,
+        "Duration": 5,
+        "Virality": 3,
+        "Source_Score": 7,
+        "Specificity": 10,
+        "Sector_Spread": 4,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "DUK - Duke Energy announces complete ash excavation at W.S. Lee Steam Station",
+            "Correlation": 9,
+            "Sentiment": 6,
+            "Importance": 8,
+            "Impact": 7,
+            "Duration": 5,
+            "Virality": 3,
+            "Source_Score": 7,
+            "Specificity": 10,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 2
+        }
+    ]
+}

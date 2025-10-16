@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 9,
+        "Importance": 4,
+        "Impact": 5,
+        "Duration": 3,
+        "Virality": 6,
+        "Source_Score": 5,
+        "Specificity": 6,
+        "Sector_Spread": 2,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @Hwayoutaline: We Are ABSOLUTELY Killing It Join Us #GS #OptionsTraders #Stocks",
+            "Correlation": 7,
+            "Sentiment": 9,
+            "Importance": 4,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 6,
+            "Source_Score": 5,
+            "Specificity": 6,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        }
+    ]
+}

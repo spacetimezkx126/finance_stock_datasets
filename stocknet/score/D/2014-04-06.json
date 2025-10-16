@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 3,
+        "Sentiment": 4,
+        "Importance": 5,
+        "Impact": 4,
+        "Duration": 3,
+        "Virality": 6,
+        "Source_Score": 4,
+        "Specificity": 5,
+        "Sector_Spread": 7,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "Venezuela sin medicamentos para el cáncer en su mayoría niños y Maduro se compra nuevo avión Embraer 190 #Tropa U$D 80",
+            "Correlation": 2,
+            "Sentiment": 3,
+            "Importance": 6,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 7,
+            "Source_Score": 4,
+            "Specificity": 5,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Find out the latest on $NFG $D $GPC $CADX Give it a try",
+            "Correlation": 4,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 5,
+            "Source_Score": 4,
+            "Specificity": 5,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 3
+        }
+    ]
+}

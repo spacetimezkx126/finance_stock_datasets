@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 3,
+        "Sentiment": 5,
+        "Importance": 2,
+        "Impact": 4,
+        "Duration": 3,
+        "Virality": 6,
+        "Source_Score": 4,
+        "Specificity": 3,
+        "Sector_Spread": 2,
+        "Tech_Mentions": 5
+    },
+    "Each_item": [
+        {
+            "News_content": "think what you want",
+            "Correlation": 1,
+            "Sentiment": 5,
+            "Importance": 1,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 4,
+            "Source_Score": 3,
+            "Specificity": 1,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "New to options trading Get how to buy call options today",
+            "Correlation": 5,
+            "Sentiment": 5,
+            "Importance": 3,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 8,
+            "Source_Score": 5,
+            "Specificity": 5,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 9
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 6,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 3,
+        "Duration": 2,
+        "Virality": 1,
+        "Source_Score": 3,
+        "Specificity": 5,
+        "Sector_Spread": 2,
+        "Tech_Mentions": 7
+    },
+    "Each_item": [
+        {
+            "News_content": "PCLN Notice how price hit bottom of channel in past and buyers come in. Buyers are still waiting.",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 1,
+            "Source_Score": 3,
+            "Specificity": 7,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 9
+        },
+        {
+            "News_content": "Reminds me of a 2013 Friday, where futures and stocks ticked higher after hours b4 the weekend.",
+            "Correlation": 4,
+            "Sentiment": 4,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 1,
+            "Source_Score": 3,
+            "Specificity": 3,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 5
+        }
+    ]
+}

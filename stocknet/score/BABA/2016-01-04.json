@@ -1,0 +1,120 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 6,
+        "Impact": 6,
+        "Duration": 4,
+        "Virality": 5,
+        "Source_Score": 6,
+        "Specificity": 5,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 3
+    },
+    "Each_item": [
+        {
+            "News_content": "StockTwits Trending Alert: Trading recent interest in ALIBABA GROUP HOLDING LIMITED $BABA",
+            "Correlation": 9,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 7,
+            "Source_Score": 8,
+            "Specificity": 6,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "$MANH Company Info Updated Monday, January 4, 2016 03:10:51 AM $EPD $AVXL $BABA $EIDO",
+            "Correlation": 6,
+            "Sentiment": 4,
+            "Importance": 3,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 3,
+            "Source_Score": 5,
+            "Specificity": 5,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "IMGN ImmunoGen, Inc. Volume $IMGN $ICE $INTC $BABA #IMGN #stocks",
+            "Correlation": 5,
+            "Sentiment": 4,
+            "Importance": 3,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 4,
+            "Source_Score": 6,
+            "Specificity": 4,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "$BABA: Why Alibaba (BABA) Stock is Down Today:",
+            "Correlation": 10,
+            "Sentiment": 3,
+            "Importance": 7,
+            "Impact": 7,
+            "Duration": 5,
+            "Virality": 6,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "BABA Alibaba Group Holding Ltd. Last Price $BABA $FXE $HAR $DIA #BABA #pennystocks",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 5,
+            "Source_Score": 6,
+            "Specificity": 6,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Alibaba Takes Bold Move Against Online Travel Industry And Ctrip $BABA $BIDU $PCLN $CTRP",
+            "Correlation": 9,
+            "Sentiment": 7,
+            "Importance": 8,
+            "Impact": 8,
+            "Duration": 6,
+            "Virality": 7,
+            "Source_Score": 7,
+            "Specificity": 9,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "$CTLE Opinions Updated Monday, January 4, 2016 12:06:59 PM $XHB $EWK $URA $BABA",
+            "Correlation": 5,
+            "Sentiment": 4,
+            "Importance": 3,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 3,
+            "Source_Score": 5,
+            "Specificity": 4,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Stocks in play lunes 04 de enero 2016: $AAPL $FB $TWTR $TVIX $SQQQ $PTX $SUNE $CMRX $BABA $BXLT $LEI $NFLX $UNIS $VRX $TSLA $P",
+            "Correlation": 4,
+            "Sentiment": 5,
+            "Importance": 3,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 4,
+            "Source_Score": 5,
+            "Specificity": 3,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 1
+        }
+    ]
+}

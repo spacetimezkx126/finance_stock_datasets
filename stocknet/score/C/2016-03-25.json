@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 3,
+        "Importance": 6,
+        "Impact": 5,
+        "Duration": 4,
+        "Virality": 8,
+        "Source_Score": 5,
+        "Specificity": 2,
+        "Sector_Spread": 9,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @TranscendToday: #USA #PoliceState #Fascism #Corporatism #WallStreetBanksters $GS $MS $JPM $C $BAC $BK https://t.co/WKKXjWrc4Q",
+            "Correlation": 7,
+            "Sentiment": 3,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 8,
+            "Source_Score": 5,
+            "Specificity": 2,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 1
+        }
+    ]
+}

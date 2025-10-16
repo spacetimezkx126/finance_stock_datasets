@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 4,
+        "Importance": 6,
+        "Impact": 5,
+        "Duration": 3,
+        "Virality": 2,
+        "Source_Score": 5,
+        "Specificity": 7,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "Interactive Chart -> https://t.co/xaKqRkDfnz $WFC Return on Equity is Declining. https://t.co/dxz7B7o3nN",
+            "Correlation": 9,
+            "Sentiment": 3,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 2,
+            "Source_Score": 6,
+            "Specificity": 9,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "AMBA Ambarella, Inc. Last Trade https://t.co/zQsgIFWt7h $AMBA $IWM $WFC $CVS #AMBA #stocks #stockmarket",
+            "Correlation": 5,
+            "Sentiment": 5,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 2,
+            "Virality": 2,
+            "Source_Score": 4,
+            "Specificity": 5,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 1
+        }
+    ]
+}

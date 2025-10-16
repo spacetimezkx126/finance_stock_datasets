@@ -1,0 +1,68 @@
+{
+    "Overall_score": {
+        "Correlation": 4,
+        "Sentiment": 5,
+        "Importance": 3,
+        "Impact": 4,
+        "Duration": 3,
+        "Virality": 6,
+        "Source_Score": 5,
+        "Specificity": 4,
+        "Sector_Spread": 2,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "Switcheroo. Zuck Vs. Bezos, in market capitalization.",
+            "Correlation": 8,
+            "Sentiment": 7,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 8,
+            "Source_Score": 6,
+            "Specificity": 8,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "got to make sure the bill pay first, then I can work on some personal projects. Few gigs left of October. Beat too :)",
+            "Correlation": 2,
+            "Sentiment": 5,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 3,
+            "Source_Score": 3,
+            "Specificity": 2,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "Good Financial Times article on the risks of taking financial advice on here",
+            "Correlation": 6,
+            "Sentiment": 5,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 4,
+            "Virality": 6,
+            "Source_Score": 8,
+            "Specificity": 5,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "<<--Learn Exactly How To Trade For Profits In This Crazy Market! Free Webinar!",
+            "Correlation": 3,
+            "Sentiment": 6,
+            "Importance": 2,
+            "Impact": 2,
+            "Duration": 2,
+            "Virality": 7,
+            "Source_Score": 4,
+            "Specificity": 3,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        }
+    ]
+}

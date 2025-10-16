@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 8,
+        "Importance": 5,
+        "Impact": 6,
+        "Duration": 4,
+        "Virality": 7,
+        "Source_Score": 5,
+        "Specificity": 3,
+        "Sector_Spread": 9,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "Our Stock Alerts Have Been Seeing Record Gains! Our New Pick Will Be MASSIVE $GD $JNJ $MOR.DE",
+            "Correlation": 7,
+            "Sentiment": 8,
+            "Importance": 5,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 7,
+            "Source_Score": 5,
+            "Specificity": 3,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 2
+        }
+    ]
+}

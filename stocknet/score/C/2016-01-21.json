@@ -1,0 +1,68 @@
+{
+    "Overall_score": {
+        "Correlation": 6,
+        "Sentiment": 4,
+        "Importance": 5,
+        "Impact": 5,
+        "Duration": 3,
+        "Virality": 4,
+        "Source_Score": 7,
+        "Specificity": 6,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "IF($B$44=\"\"\"\",IF(ISERROR(HLOOKUP(I$23,$C$12:G$19,5,FALSE)),\"\",HLOOKUP(I$23,$C$12:G$19,5,FALSE))) みたいな条件式書いててやっとできたぜーと思った矢先に仕様変更 归っていいすか？？？",
+            "Correlation": 2,
+            "Sentiment": 3,
+            "Importance": 2,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 3,
+            "Source_Score": 4,
+            "Specificity": 3,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 5
+        },
+        {
+            "News_content": "$C just posted a new conference call. Listen now:",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 5,
+            "Source_Score": 6,
+            "Specificity": 8,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT @ivanhoff: The big banks are underperforming the market today: $DB $GS $MS $BAC $C $JPM",
+            "Correlation": 9,
+            "Sentiment": 2,
+            "Importance": 6,
+            "Impact": 7,
+            "Duration": 5,
+            "Virality": 7,
+            "Source_Score": 8,
+            "Specificity": 7,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Citigroup Inc. $C Rating Lowered to Strong Sell at Zacks Investment Research #acn",
+            "Correlation": 10,
+            "Sentiment": 1,
+            "Importance": 8,
+            "Impact": 9,
+            "Duration": 6,
+            "Virality": 4,
+            "Source_Score": 9,
+            "Specificity": 10,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 2
+        }
+    ]
+}

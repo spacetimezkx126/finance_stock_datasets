@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 5,
+        "Sentiment": 8,
+        "Importance": 3,
+        "Impact": 2,
+        "Duration": 4,
+        "Virality": 7,
+        "Source_Score": 6,
+        "Specificity": 4,
+        "Sector_Spread": 1,
+        "Tech_Mentions": 0
+    },
+    "Each_item": [
+        {
+            "News_content": "ADCS P/E Ratio",
+            "Correlation": 10,
+            "Sentiment": 5,
+            "Importance": 6,
+            "Impact": 4,
+            "Duration": 7,
+            "Virality": 2,
+            "Source_Score": 8,
+            "Specificity": 9,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 5
+        },
+        {
+            "News_content": "Why cant run like a girl also mean to win the race? #LikeAGirl Is No Longer an Insult #Inspiring Ad PG Always",
+            "Correlation": 1,
+            "Sentiment": 9,
+            "Importance": 2,
+            "Impact": 1,
+            "Duration": 3,
+            "Virality": 9,
+            "Source_Score": 5,
+            "Specificity": 2,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        }
+    ]
+}

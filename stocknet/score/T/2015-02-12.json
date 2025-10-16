@@ -1,0 +1,68 @@
+{
+    "Overall_score": {
+        "Correlation": 4,
+        "Sentiment": 5,
+        "Importance": 3,
+        "Impact": 3,
+        "Duration": 2,
+        "Virality": 6,
+        "Source_Score": 3,
+        "Specificity": 4,
+        "Sector_Spread": 5,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "$BABA, $DIS, $T & $SBUX make your heart go pitter-patter. Among the most searched for stocks.",
+            "Correlation": 8,
+            "Sentiment": 7,
+            "Importance": 4,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 7,
+            "Source_Score": 5,
+            "Specificity": 8,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "THIS SH$T DEEPER THAN RAP M$D THE CLOTHING LINE COMING SOONER THAN YOU THINK #RETWEET",
+            "Correlation": 2,
+            "Sentiment": 6,
+            "Importance": 2,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 8,
+            "Source_Score": 2,
+            "Specificity": 3,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "Gostei de um vídeo @YouTube de @heallergames O$T 18 - AT15 AFGHAN DDB II VOZ SEDUZENCIA + CLÃN",
+            "Correlation": 1,
+            "Sentiment": 5,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 5,
+            "Source_Score": 2,
+            "Specificity": 1,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "Gostei de um vídeo @YouTube de @heallergames O$T 19 - M4A1 DIAMANTE II ATT FEVEREIRO + ACE FEIO",
+            "Correlation": 1,
+            "Sentiment": 5,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 5,
+            "Source_Score": 2,
+            "Specificity": 1,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        }
+    ]
+}

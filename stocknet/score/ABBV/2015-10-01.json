@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 6,
+        "Importance": 5,
+        "Impact": 4,
+        "Duration": 3,
+        "Virality": 7,
+        "Source_Score": 6,
+        "Specificity": 9,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @HedgeMind: Kris Jenner's top picks are $ABBV $MDT $VRX $ACHC $HCA $AGN $MCK. He holds $BIOD $CRME with 5%+ ownership.",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 7,
+            "Source_Score": 6,
+            "Specificity": 9,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 2
+        }
+    ]
+}

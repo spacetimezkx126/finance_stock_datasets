@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 6,
+        "Sentiment": 4,
+        "Importance": 3,
+        "Impact": 4,
+        "Duration": 5,
+        "Virality": 2,
+        "Source_Score": 3,
+        "Specificity": 7,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "Watchlist for next week: CORN GLD GOOGL RAD GPRO SNMX BAC INFN NVAX // long + short and different timeframes",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 5,
+            "Duration": 7,
+            "Virality": 3,
+            "Source_Score": 4,
+            "Specificity": 9,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Denny Crane: yea i had some BAC at 0.02 and: Denny Crane",
+            "Correlation": 4,
+            "Sentiment": 3,
+            "Importance": 2,
+            "Impact": 3,
+            "Duration": 3,
+            "Virality": 1,
+            "Source_Score": 2,
+            "Specificity": 5,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 1
+        }
+    ]
+}

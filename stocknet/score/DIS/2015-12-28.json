@@ -1,0 +1,68 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 7,
+        "Importance": 6,
+        "Impact": 5,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 5,
+        "Specificity": 7,
+        "Sector_Spread": 2,
+        "Tech_Mentions": 3
+    },
+    "Each_item": [
+        {
+            "News_content": "Walt @Disney $DIS @starwars The Force Awakens’ Brings In Over $1 Billion In 12 Days",
+            "Correlation": 9,
+            "Sentiment": 10,
+            "Importance": 8,
+            "Impact": 7,
+            "Duration": 6,
+            "Virality": 8,
+            "Source_Score": 6,
+            "Specificity": 9,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Walt Disney Co $DIS Stake Increased by Chelsea Counsel Company",
+            "Correlation": 8,
+            "Sentiment": 7,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "$DIS oversold bounce, need to get above 10 day ma. so far higher calls vol for today, 7700 calls vs 4500 put",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 4,
+            "Specificity": 7,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 9
+        },
+        {
+            "News_content": "$DIS received a new alert. Find out why at #stocks #daytrading #trading #mkt #NYSE #NASDAQ #markets",
+            "Correlation": 6,
+            "Sentiment": 4,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 2,
+            "Virality": 3,
+            "Source_Score": 3,
+            "Specificity": 4,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 2
+        }
+    ]
+}

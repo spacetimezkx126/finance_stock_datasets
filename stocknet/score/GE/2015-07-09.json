@@ -1,0 +1,81 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 6,
+        "Impact": 4,
+        "Duration": 3,
+        "Virality": 2,
+        "Source_Score": 8,
+        "Specificity": 5,
+        "Sector_Spread": 7,
+        "Tech_Mentions": 3
+    },
+    "Each_item": [
+        {
+            "News_content": "GE Opinions Updated Thursday, July 9, 2015 06:59:24 AM",
+            "Correlation": 7,
+            "Sentiment": 5,
+            "Importance": 6,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 8,
+            "Specificity": 5,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "S",
+            "Correlation": 1,
+            "Sentiment": 1,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 1,
+            "Source_Score": 1,
+            "Specificity": 1,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "PG",
+            "Correlation": 1,
+            "Sentiment": 1,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 1,
+            "Source_Score": 1,
+            "Specificity": 1,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "GS",
+            "Correlation": 1,
+            "Sentiment": 1,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 1,
+            "Source_Score": 1,
+            "Specificity": 1,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "UPRO",
+            "Correlation": 1,
+            "Sentiment": 1,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 1,
+            "Source_Score": 1,
+            "Specificity": 1,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        }
+    ]
+}

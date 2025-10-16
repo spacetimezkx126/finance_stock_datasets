@@ -1,0 +1,55 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 6,
+        "Importance": 5,
+        "Impact": 4,
+        "Duration": 3,
+        "Virality": 8,
+        "Source_Score": 7,
+        "Specificity": 6,
+        "Sector_Spread": 9,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "$MSFT Microsoft Corporation Adds Music Controls, Inactivity Alerts to the Band Wearable: Microsoft Corporatio...",
+            "Correlation": 10,
+            "Sentiment": 8,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 7,
+            "Source_Score": 8,
+            "Specificity": 9,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "https://t.co/gBX46aTrVl $HYG $USO $TSX $EWG $SOXX $BPSPX $COMP $SPX $LNKD $AMZN $GOOGL $MSFT $FB $TSLA $NVDA $FDX",
+            "Correlation": 6,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 9,
+            "Source_Score": 7,
+            "Specificity": 5,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "RT @EricBalchunas: Ok so this is insane: $HYG traded $4.3b yesterday. That's 3x more than any other day and double $MSFT's volume.",
+            "Correlation": 8,
+            "Sentiment": 7,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 3,
+            "Virality": 10,
+            "Source_Score": 9,
+            "Specificity": 8,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 6,
+        "Importance": 7,
+        "Impact": 6,
+        "Duration": 5,
+        "Virality": 4,
+        "Source_Score": 7,
+        "Specificity": 7,
+        "Sector_Spread": 6,
+        "Tech_Mentions": 5
+    },
+    "Each_item": [
+        {
+            "News_content": "Q&A: @JanusCapital’s Marc Pinto discusses some of his favorite stocks $JABAX $GOOGL $MSFT $BA $A",
+            "Correlation": 9,
+            "Sentiment": 7,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 4,
+            "Source_Score": 8,
+            "Specificity": 8,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "SnapCLOUD - Check it out #Azure $MSFT #BigData $ANY #startup #smallcap #DevOps #Cloud #Tech",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 4,
+            "Virality": 5,
+            "Source_Score": 6,
+            "Specificity": 6,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 8
+        },
+        {
+            "News_content": "5 Top Yielding Large Cap Cash Cows With High Potential To Boost Dividends - $MSFT $JNJ $GPC $CMI $AFL $CSCO",
+            "Correlation": 8,
+            "Sentiment": 7,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 6,
+            "Virality": 3,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Qualcomm's Big Wins $HPQ $MSFT $SNE $SSNLF $LNVGY $QCOM",
+            "Correlation": 7,
+            "Sentiment": 7,
+            "Importance": 6,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 4,
+            "Source_Score": 6,
+            "Specificity": 7,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "Bill Gates Predicts An ‘Energy ‘Miracle’ To Happen In the Next 15 $MSFT",
+            "Correlation": 8,
+            "Sentiment": 8,
+            "Importance": 9,
+            "Impact": 7,
+            "Duration": 8,
+            "Virality": 6,
+            "Source_Score": 9,
+            "Specificity": 7,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "Microsoft Corporation (NASDAQ:MSFT)’s White Space Initiative Hits Brick Wall In India $MSFT",
+            "Correlation": 9,
+            "Sentiment": 4,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 3,
+            "Source_Score": 8,
+            "Specificity": 9,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 5
+        },
+        {
+            "News_content": "Will Lack Of #Microsoft License Stall Learning In K-12 Schools - Gauteng, S.A? $MSFT",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 4
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "Overall_score": {
+        "Correlation": 3,
+        "Sentiment": 4,
+        "Importance": 2,
+        "Impact": 3,
+        "Duration": 2,
+        "Virality": 5,
+        "Source_Score": 3,
+        "Specificity": 4,
+        "Sector_Spread": 1,
+        "Tech_Mentions": 0
+    },
+    "Each_item": [
+        {
+            "News_content": "If momentum is a thing USC just got a ton of it. Let's not let them back in this game.",
+            "Correlation": 6,
+            "Sentiment": 7,
+            "Importance": 4,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 6,
+            "Source_Score": 4,
+            "Specificity": 7,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "Vasco vai a campo no #caodrigo, Jemerson, Edson, Giuliano, Lucas Lima, Nenê, Geuvânio, Vagner Love, Jorginho.",
+            "Correlation": 1,
+            "Sentiment": 3,
+            "Importance": 1,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 4,
+            "Source_Score": 2,
+            "Specificity": 5,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "Awesome, as if I needed more fuel to hate USC and UCLA.",
+            "Correlation": 4,
+            "Sentiment": 2,
+            "Importance": 1,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 5,
+            "Source_Score": 3,
+            "Specificity": 3,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        }
+    ]
+}

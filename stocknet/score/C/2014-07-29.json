@@ -1,0 +1,55 @@
+{
+    "Overall_score": {
+        "Correlation": 4,
+        "Sentiment": 6,
+        "Importance": 5,
+        "Impact": 3,
+        "Duration": 2,
+        "Virality": 7,
+        "Source_Score": 6,
+        "Specificity": 5,
+        "Sector_Spread": 4,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "Ladies!!! Coming to a city near you.. VMG Recording Artist \" B$C \" He's bringing R&B back... #BOSSDIDDY #TEAMVMG",
+            "Correlation": 2,
+            "Sentiment": 8,
+            "Importance": 3,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 6,
+            "Source_Score": 3,
+            "Specificity": 4,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "RT @cassandrajar: Latest story: RT @CNBCFastMoney: '90s analysts don't see tech bubble 2.0 by @cassandrajar $AAPL $C",
+            "Correlation": 8,
+            "Sentiment": 7,
+            "Importance": 8,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 8,
+            "Source_Score": 9,
+            "Specificity": 7,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 5
+        },
+        {
+            "News_content": "In Charity Auction, #Citi CEO Corbat falls between Warren Buffett and Don Rickles, WSJMoneyBeat, Chris_Rexrode, $C",
+            "Correlation": 7,
+            "Sentiment": 6,
+            "Importance": 7,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 5,
+            "Source_Score": 8,
+            "Specificity": 8,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 1
+        }
+    ]
+}

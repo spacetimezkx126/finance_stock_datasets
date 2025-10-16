@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 4,
+        "Sentiment": 3,
+        "Importance": 5,
+        "Impact": 4,
+        "Duration": 3,
+        "Virality": 6,
+        "Source_Score": 4,
+        "Specificity": 5,
+        "Sector_Spread": 7,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "Stock Contest!! Pick $FEYE and WIN a FREE Tablet!! Enter NOW! Click here for details: http://t.co/Scw5kngznn $BMSN $BAC $SH $GPRO ~",
+            "Correlation": 2,
+            "Sentiment": 8,
+            "Importance": 2,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 9,
+            "Source_Score": 3,
+            "Specificity": 4,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "3 Losers in the Big Bank of America Corp. Settlement $BAC http://t.co/mqM1HtqYKX",
+            "Correlation": 6,
+            "Sentiment": 2,
+            "Importance": 8,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 3,
+            "Source_Score": 5,
+            "Specificity": 6,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        }
+    ]
+}

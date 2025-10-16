@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 6,
+        "Duration": 3,
+        "Virality": 2,
+        "Source_Score": 5,
+        "Specificity": 8,
+        "Sector_Spread": 2,
+        "Tech_Mentions": 4
+    },
+    "Each_item": [
+        {
+            "News_content": "I knew it would pull back! Just look at my Nov 8th $BABA post. Anyways, we are nearing a major support. Im watching u",
+            "Correlation": 7,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 6,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 5,
+            "Specificity": 8,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 4
+        }
+    ]
+}

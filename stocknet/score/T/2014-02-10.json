@@ -1,0 +1,94 @@
+{
+    "Overall_score": {
+        "Correlation": 4,
+        "Sentiment": 3,
+        "Importance": 2,
+        "Impact": 3,
+        "Duration": 2,
+        "Virality": 5,
+        "Source_Score": 3,
+        "Specificity": 3,
+        "Sector_Spread": 2,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "The AME DIM-WIT who JUST \"BROKE THE BANK\" with the \"FARM BILL\"? GREEDY...",
+            "Correlation": 7,
+            "Sentiment": 2,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 4,
+            "Specificity": 8,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "dakiddhalf ... EAST SIDE COOL COMING SOON!",
+            "Correlation": 2,
+            "Sentiment": 6,
+            "Importance": 1,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 7,
+            "Source_Score": 2,
+            "Specificity": 3,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "HTC Cuts Smartphone Prices",
+            "Correlation": 9,
+            "Sentiment": 5,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 3,
+            "Virality": 4,
+            "Source_Score": 7,
+            "Specificity": 9,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "PRO ERA, FLATBUSH ZOMBIES, THE UNDERACHIEVERS, AND A$AP MOB. I LOVE BEAST COAST.",
+            "Correlation": 1,
+            "Sentiment": 8,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 6,
+            "Source_Score": 2,
+            "Specificity": 2,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Z@yn €qer BiR qUn €Wlİr$an DuQüN€ Ç@qıR N€€€ yAAĞANİQ pA$T@ d@ mI Y€M€YEQ ?",
+            "Correlation": 1,
+            "Sentiment": 3,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 5,
+            "Source_Score": 1,
+            "Specificity": 1,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Killing yo fav rapper Mixtape coming soon: SPVCE GREATEST CREATION",
+            "Correlation": 2,
+            "Sentiment": 4,
+            "Importance": 1,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 8,
+            "Source_Score": 2,
+            "Specificity": 3,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        }
+    ]
+}

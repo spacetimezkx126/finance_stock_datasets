@@ -1,0 +1,68 @@
+{
+    "Overall_score": {
+        "Correlation": 3,
+        "Sentiment": 5,
+        "Importance": 2,
+        "Impact": 4,
+        "Duration": 3,
+        "Virality": 6,
+        "Source_Score": 1,
+        "Specificity": 4,
+        "Sector_Spread": 7,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "New Video on YouTube, Lor Myddie -What About Me 🔥🔥 #BME #Y$C #OTM 💪🙌👑🙌",
+            "Correlation": 2,
+            "Sentiment": 8,
+            "Importance": 1,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 7,
+            "Source_Score": 1,
+            "Specificity": 3,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "#FreeTheDruuuggss",
+            "Correlation": 1,
+            "Sentiment": 4,
+            "Importance": 2,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 5,
+            "Source_Score": 1,
+            "Specificity": 2,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "#webinar #webinar $TSLA $GOOGL $USO $C",
+            "Correlation": 5,
+            "Sentiment": 6,
+            "Importance": 3,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 6,
+            "Source_Score": 2,
+            "Specificity": 6,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "#webinar $TSLA $GOOGL $USO $C",
+            "Correlation": 5,
+            "Sentiment": 6,
+            "Importance": 3,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 6,
+            "Source_Score": 2,
+            "Specificity": 6,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 2
+        }
+    ]
+}

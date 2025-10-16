@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 8,
+        "Importance": 5,
+        "Impact": 6,
+        "Duration": 4,
+        "Virality": 7,
+        "Source_Score": 6,
+        "Specificity": 8,
+        "Sector_Spread": 3,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "Everyone will look back in October and be like damn why didn't I listen to #CBC and load those $MCD $WMT calls in August!",
+            "Correlation": 7,
+            "Sentiment": 8,
+            "Importance": 5,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 7,
+            "Source_Score": 6,
+            "Specificity": 8,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 2
+        }
+    ]
+}

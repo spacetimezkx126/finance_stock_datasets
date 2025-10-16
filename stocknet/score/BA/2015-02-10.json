@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 9,
+        "Sentiment": 6,
+        "Importance": 7,
+        "Impact": 8,
+        "Duration": 3,
+        "Virality": 2,
+        "Source_Score": 5,
+        "Specificity": 10,
+        "Sector_Spread": 1,
+        "Tech_Mentions": 8
+    },
+    "Each_item": [
+        {
+            "News_content": "$BA $0.91 dividend tomorrow. Watch out for early assignment of short ITM Calls, esp Weeklies Feb 13th $146 and below, and Feb 144 and below.",
+            "Correlation": 9,
+            "Sentiment": 6,
+            "Importance": 7,
+            "Impact": 8,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 5,
+            "Specificity": 10,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 8
+        }
+    ]
+}

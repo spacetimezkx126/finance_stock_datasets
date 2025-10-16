@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 6,
+        "Importance": 8,
+        "Impact": 7,
+        "Duration": 5,
+        "Virality": 4,
+        "Source_Score": 9,
+        "Specificity": 8,
+        "Sector_Spread": 6,
+        "Tech_Mentions": 3
+    },
+    "Each_item": [
+        {
+            "News_content": "Bristol Myers Squibb (BMY) announces a breakthrough in cancer treatment with its new drug, showing significant improvement in patient survival rates during clinical trials.",
+            "Correlation": 10,
+            "Sentiment": 9,
+            "Importance": 10,
+            "Impact": 8,
+            "Duration": 7,
+            "Virality": 5,
+            "Source_Score": 9,
+            "Specificity": 10,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "Amazon (AMZN) reports better-than-expected Q3 earnings, driven by strong AWS revenue growth and cost-cutting measures.",
+            "Correlation": 9,
+            "Sentiment": 8,
+            "Importance": 9,
+            "Impact": 7,
+            "Duration": 6,
+            "Virality": 6,
+            "Source_Score": 9,
+            "Specificity": 9,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 4
+        }
+    ]
+}

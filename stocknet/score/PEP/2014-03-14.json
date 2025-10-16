@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 4,
+        "Importance": 5,
+        "Impact": 6,
+        "Duration": 3,
+        "Virality": 2,
+        "Source_Score": 7,
+        "Specificity": 9,
+        "Sector_Spread": 3,
+        "Tech_Mentions": 5
+    },
+    "Each_item": [
+        {
+            "News_content": "Sold to open PEP Apr 82.5 Calls 1.04 against my shares",
+            "Correlation": 8,
+            "Sentiment": 4,
+            "Importance": 5,
+            "Impact": 6,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 7,
+            "Specificity": 9,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 5
+        }
+    ]
+}

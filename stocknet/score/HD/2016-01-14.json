@@ -1,0 +1,94 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 6,
+        "Importance": 5,
+        "Impact": 7,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 5,
+        "Specificity": 8,
+        "Sector_Spread": 3,
+        "Tech_Mentions": 7
+    },
+    "Each_item": [
+        {
+            "News_content": "$HD January 15th 119 Calls 1.14 x 1.24 , Expecting 50% Gain Here , Should Bounce Off MA200 .",
+            "Correlation": 10,
+            "Sentiment": 8,
+            "Importance": 6,
+            "Impact": 8,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 5,
+            "Specificity": 10,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 9
+        },
+        {
+            "News_content": "FXE Currency Shares Euro Trust Open $FXE $HD $CF $VEU #FXE #invest #share",
+            "Correlation": 5,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 4,
+            "Duration": 2,
+            "Virality": 3,
+            "Source_Score": 6,
+            "Specificity": 5,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Only two stocks -- $HD and $NKE -- are in the red on the Dow right now. These are todays top-performers so far.",
+            "Correlation": 8,
+            "Sentiment": 4,
+            "Importance": 5,
+            "Impact": 6,
+            "Duration": 3,
+            "Virality": 4,
+            "Source_Score": 7,
+            "Specificity": 7,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Investors Sell Home Depot Inc $HD on Strength $HD",
+            "Correlation": 9,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 7,
+            "Duration": 3,
+            "Virality": 3,
+            "Source_Score": 6,
+            "Specificity": 8,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "RE: RE: $HD January 15th 119 Calls 1.14 x 1.24 , Expecting 50% Gain Here , Should Bounce Off MA200 . Now 2.16 x 2.27 ,",
+            "Correlation": 10,
+            "Sentiment": 8,
+            "Importance": 6,
+            "Impact": 8,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 5,
+            "Specificity": 10,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 9
+        },
+        {
+            "News_content": "RE: $HD January 15th 119 Calls 1.14 x 1.24 , Expecting 50% Gain Here , Should Bounce Off MA200 . Now 2.64 x 2.74 Have a",
+            "Correlation": 10,
+            "Sentiment": 8,
+            "Importance": 6,
+            "Impact": 8,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 5,
+            "Specificity": 10,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 9
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 4,
+        "Importance": 7,
+        "Impact": 6,
+        "Duration": 9,
+        "Virality": 3,
+        "Source_Score": 7,
+        "Specificity": 5,
+        "Sector_Spread": 10,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "Base Metals Started 2016 on a Weak Note: Can They Recover?",
+            "Correlation": 8,
+            "Sentiment": 4,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 9,
+            "Virality": 3,
+            "Source_Score": 7,
+            "Specificity": 5,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 2
+        }
+    ]
+}

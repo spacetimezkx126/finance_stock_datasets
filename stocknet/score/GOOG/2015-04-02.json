@@ -1,0 +1,81 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 6,
+        "Importance": 7,
+        "Impact": 6,
+        "Duration": 5,
+        "Virality": 6,
+        "Source_Score": 7,
+        "Specificity": 6,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 4
+    },
+    "Each_item": [
+        {
+            "News_content": "Samsung Galaxy Conquers Android: What Happened To The Competition?",
+            "Correlation": 9,
+            "Sentiment": 7,
+            "Importance": 8,
+            "Impact": 7,
+            "Duration": 6,
+            "Virality": 8,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "Algos triggered BUY in SIGMA-X, CROSSFINDER, ATS, LX @ 08:43, P/T 105.70",
+            "Correlation": 10,
+            "Sentiment": 8,
+            "Importance": 6,
+            "Impact": 8,
+            "Duration": 3,
+            "Virality": 4,
+            "Source_Score": 6,
+            "Specificity": 10,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 9
+        },
+        {
+            "News_content": "EU Lays Groundwork for Antitrust Charges Against Google",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 9,
+            "Impact": 7,
+            "Duration": 7,
+            "Virality": 7,
+            "Source_Score": 8,
+            "Specificity": 7,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "Facebook Inc. Takes 2 More Steps Toward Becoming YouTube",
+            "Correlation": 7,
+            "Sentiment": 6,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 6,
+            "Source_Score": 7,
+            "Specificity": 6,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "Mistrust Between China and Foreign Technology Firms Simmers",
+            "Correlation": 6,
+            "Sentiment": 4,
+            "Importance": 8,
+            "Impact": 5,
+            "Duration": 8,
+            "Virality": 5,
+            "Source_Score": 7,
+            "Specificity": 5,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 1
+        }
+    ]
+}

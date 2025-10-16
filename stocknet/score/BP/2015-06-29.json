@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 4,
+        "Importance": 7,
+        "Impact": 6,
+        "Duration": 3,
+        "Virality": 5,
+        "Source_Score": 8,
+        "Specificity": 9,
+        "Sector_Spread": 10,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @theflynews: On The Fly: Analyst Downgrade Summary $AGO $CBF $FFIV $FBP $GCI $IBKC $JPM $KYTH $M $MBI $MKTX $NTRI $PSTB $BP... http://t.co/...",
+            "Correlation": 8,
+            "Sentiment": 4,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 3,
+            "Virality": 5,
+            "Source_Score": 8,
+            "Specificity": 9,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 2
+        }
+    ]
+}

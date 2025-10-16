@@ -1,0 +1,81 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 6,
+        "Importance": 7,
+        "Impact": 7,
+        "Duration": 5,
+        "Virality": 4,
+        "Source_Score": 9,
+        "Specificity": 8,
+        "Sector_Spread": 10,
+        "Tech_Mentions": 3
+    },
+    "Each_item": [
+        {
+            "News_content": "HON: Honeywell International Inc. announced a new partnership with Airbus to develop sustainable aviation fuel solutions, which could reduce carbon emissions significantly in the coming years.",
+            "Correlation": 9,
+            "Sentiment": 8,
+            "Importance": 8,
+            "Impact": 8,
+            "Duration": 7,
+            "Virality": 5,
+            "Source_Score": 9,
+            "Specificity": 9,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "LMT: Lockheed Martin Corporation reported stronger-than-expected Q3 earnings due to increased defense contracts from the U.S. government.",
+            "Correlation": 10,
+            "Sentiment": 9,
+            "Importance": 9,
+            "Impact": 9,
+            "Duration": 6,
+            "Virality": 6,
+            "Source_Score": 10,
+            "Specificity": 10,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 4
+        },
+        {
+            "News_content": "UTX: United Technologies Corporation is rumored to be considering a spin-off of its elevator business, which could unlock significant shareholder value.",
+            "Correlation": 8,
+            "Sentiment": 7,
+            "Importance": 7,
+            "Impact": 7,
+            "Duration": 5,
+            "Virality": 4,
+            "Source_Score": 8,
+            "Specificity": 7,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "BA: Boeing Co. faces potential delays in the delivery of its 737 MAX aircraft due to supply chain disruptions.",
+            "Correlation": 9,
+            "Sentiment": 4,
+            "Importance": 8,
+            "Impact": 8,
+            "Duration": 6,
+            "Virality": 7,
+            "Source_Score": 9,
+            "Specificity": 9,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 5
+        },
+        {
+            "News_content": "GD: General Dynamics Corporation has been awarded a multi-billion-dollar contract for the construction of naval vessels for the U.S. Navy.",
+            "Correlation": 10,
+            "Sentiment": 8,
+            "Importance": 9,
+            "Impact": 9,
+            "Duration": 7,
+            "Virality": 5,
+            "Source_Score": 10,
+            "Specificity": 10,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 3
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 9,
+        "Importance": 7,
+        "Impact": 10,
+        "Duration": 3,
+        "Virality": 6,
+        "Source_Score": 5,
+        "Specificity": 9,
+        "Sector_Spread": 4,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "PPCH Gained As Much As 1005% Within 3 Days! Market News: http://t.co/oGWehWIJji BHP CADX BSX",
+            "Correlation": 8,
+            "Sentiment": 9,
+            "Importance": 7,
+            "Impact": 10,
+            "Duration": 3,
+            "Virality": 6,
+            "Source_Score": 5,
+            "Specificity": 9,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 2
+        }
+    ]
+}

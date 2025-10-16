@@ -1,0 +1,55 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 6,
+        "Impact": 6,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 7,
+        "Specificity": 8,
+        "Sector_Spread": 9,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "GE General Electric Co. Ideas $GE $CELG $NBIX $DO #GE #pennystocks #stock",
+            "Correlation": 5,
+            "Sentiment": 4,
+            "Importance": 3,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 3,
+            "Source_Score": 5,
+            "Specificity": 4,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "JNUG Direxion Daily Junior Gold Miners Index Bull 3X Shares Investor Opinions $JNUG $NFLX $CELG $HALO #JNUG",
+            "Correlation": 4,
+            "Sentiment": 3,
+            "Importance": 2,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 4,
+            "Source_Score": 4,
+            "Specificity": 3,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "$CELG pays $82.5m upfront in broad pact (incl option to buy) w/ Lycera. @annmthayer's look at RORγ agonists (sub)",
+            "Correlation": 9,
+            "Sentiment": 7,
+            "Importance": 8,
+            "Impact": 7,
+            "Duration": 6,
+            "Virality": 2,
+            "Source_Score": 9,
+            "Specificity": 10,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 3
+        }
+    ]
+}

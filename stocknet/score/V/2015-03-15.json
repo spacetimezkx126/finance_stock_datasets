@@ -1,0 +1,68 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 6,
+        "Impact": 6,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 5,
+        "Specificity": 7,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 4
+    },
+    "Each_item": [
+        {
+            "News_content": "$V high open interest range is 272.50 to 280.00 for option expiration 03/13/2015",
+            "Correlation": 9,
+            "Sentiment": 5,
+            "Importance": 5,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 6,
+            "Specificity": 9,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 7
+        },
+        {
+            "News_content": "$V Last Price Updated Sunday, March 15, 2015 2:59:21 PM $EXXI $CTIX $VXUS $FWDG",
+            "Correlation": 6,
+            "Sentiment": 4,
+            "Importance": 4,
+            "Impact": 4,
+            "Duration": 2,
+            "Virality": 2,
+            "Source_Score": 5,
+            "Specificity": 6,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "$V Visa 4:1 Split ShortSqueeze MountingUp Plus Visa Is Billionaire Ken Fisher TopLongTerm Pick",
+            "Correlation": 8,
+            "Sentiment": 8,
+            "Importance": 7,
+            "Impact": 7,
+            "Duration": 5,
+            "Virality": 4,
+            "Source_Score": 8,
+            "Specificity": 8,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "Stocks Trending Now: $V $COP $UPRO $GILD $LGND $ADXS $TWTR $SCO $SUNE $SMH $CMG $EMC",
+            "Correlation": 5,
+            "Sentiment": 6,
+            "Importance": 6,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 5,
+            "Source_Score": 4,
+            "Specificity": 5,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 3
+        }
+    ]
+}

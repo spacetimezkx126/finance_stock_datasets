@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 9,
+        "Importance": 7,
+        "Impact": 6,
+        "Duration": 4,
+        "Virality": 8,
+        "Source_Score": 5,
+        "Specificity": 6,
+        "Sector_Spread": 10,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @TOP10STOCKS: DOW makes history! Closes Above 18000 $DOW $NASDAQ $SNP @Dailystockdeals @TOP10STOCKS",
+            "Correlation": 8,
+            "Sentiment": 9,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 8,
+            "Source_Score": 5,
+            "Specificity": 6,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 2
+        }
+    ]
+}

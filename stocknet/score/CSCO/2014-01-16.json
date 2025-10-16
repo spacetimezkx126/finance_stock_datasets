@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 4,
+        "Importance": 5,
+        "Impact": 6,
+        "Duration": 3,
+        "Virality": 2,
+        "Source_Score": 5,
+        "Specificity": 8,
+        "Sector_Spread": 3,
+        "Tech_Mentions": 4
+    },
+    "Each_item": [
+        {
+            "News_content": "I know I missed that CSCO move too but the 3 gap downs since Aug scared me a bit - if based longer into 20 I may have IanNelson9",
+            "Correlation": 7,
+            "Sentiment": 4,
+            "Importance": 5,
+            "Impact": 6,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 5,
+            "Specificity": 8,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 4
+        }
+    ]
+}

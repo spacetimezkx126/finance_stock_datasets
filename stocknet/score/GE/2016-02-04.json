@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 3,
+        "Duration": 2,
+        "Virality": 6,
+        "Source_Score": 5,
+        "Specificity": 6,
+        "Sector_Spread": 3,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "#Dow #stocks $GE General Electric Daily:1.52% Weekly:2.39% YTD:-7.96% Trend:32 / 100",
+            "Correlation": 10,
+            "Sentiment": 5,
+            "Importance": 6,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 4,
+            "Source_Score": 7,
+            "Specificity": 10,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT @imyunggoldie: Last pic ima post on ig for ah lil min till new mixtape (PROBLEM.CHILD) drop.... #TeamGoldie24K #DntSleep #24K #$GE",
+            "Correlation": 4,
+            "Sentiment": 5,
+            "Importance": 2,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 8,
+            "Source_Score": 3,
+            "Specificity": 2,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 0
+        }
+    ]
+}

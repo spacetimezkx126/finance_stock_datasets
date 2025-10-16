@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 4,
+        "Sentiment": 8,
+        "Importance": 3,
+        "Impact": 6,
+        "Duration": 2,
+        "Virality": 7,
+        "Source_Score": 5,
+        "Specificity": 4,
+        "Sector_Spread": 6,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "578% Gains On Penny Stocks in one month! Plus a New Pick Is Coming",
+            "Correlation": 4,
+            "Sentiment": 8,
+            "Importance": 3,
+            "Impact": 6,
+            "Duration": 2,
+            "Virality": 7,
+            "Source_Score": 5,
+            "Specificity": 4,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 1
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 3,
+        "Sentiment": 8,
+        "Importance": 2,
+        "Impact": 4,
+        "Duration": 2,
+        "Virality": 5,
+        "Source_Score": 3,
+        "Specificity": 2,
+        "Sector_Spread": 1,
+        "Tech_Mentions": 0
+    },
+    "Each_item": [
+        {
+            "News_content": "Our Platinum Members Have Been Seeing MASSIVE Gains On Our Penny Stock Picks! Subscribe Today: http://t.co/ro7o3SYbd1",
+            "Correlation": 3,
+            "Sentiment": 9,
+            "Importance": 2,
+            "Impact": 5,
+            "Duration": 2,
+            "Virality": 6,
+            "Source_Score": 3,
+            "Specificity": 2,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "JBEM Bio picks. Make $$$$. Join/Read here: http://t.co/KUPxStNjfC",
+            "Correlation": 3,
+            "Sentiment": 7,
+            "Importance": 2,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 4,
+            "Source_Score": 3,
+            "Specificity": 2,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        }
+    ]
+}

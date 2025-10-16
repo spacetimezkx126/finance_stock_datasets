@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 3,
+        "Sentiment": 5,
+        "Importance": 2,
+        "Impact": 4,
+        "Duration": 3,
+        "Virality": 6,
+        "Source_Score": 4,
+        "Specificity": 2,
+        "Sector_Spread": 1,
+        "Tech_Mentions": 0
+    },
+    "Each_item": [
+        {
+            "News_content": "Stock_Tracker: Cheeky's Board!: $V Company News Lessons learned in Targets",
+            "Correlation": 4,
+            "Sentiment": 6,
+            "Importance": 3,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 7,
+            "Source_Score": 5,
+            "Specificity": 3,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Eye love you all. Eye am back to this planet save your souls from the sin that is society. -JƎ$V$",
+            "Correlation": 2,
+            "Sentiment": 4,
+            "Importance": 1,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 5,
+            "Source_Score": 3,
+            "Specificity": 1,
+            "Sector_Spread": 0,
+            "Tech_Mentions": 0
+        }
+    ]
+}

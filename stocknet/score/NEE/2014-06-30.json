@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 3,
+        "Sentiment": 4,
+        "Importance": 2,
+        "Impact": 3,
+        "Duration": 5,
+        "Virality": 6,
+        "Source_Score": 7,
+        "Specificity": 2,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "Couple of Stocks you should Watch",
+            "Correlation": 3,
+            "Sentiment": 5,
+            "Importance": 2,
+            "Impact": 3,
+            "Duration": 5,
+            "Virality": 7,
+            "Source_Score": 7,
+            "Specificity": 2,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Find more winners like",
+            "Correlation": 3,
+            "Sentiment": 3,
+            "Importance": 2,
+            "Impact": 3,
+            "Duration": 5,
+            "Virality": 5,
+            "Source_Score": 7,
+            "Specificity": 2,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        }
+    ]
+}

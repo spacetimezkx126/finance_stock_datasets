@@ -1,0 +1,120 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 6,
+        "Importance": 5,
+        "Impact": 6,
+        "Duration": 4,
+        "Virality": 5,
+        "Source_Score": 6,
+        "Specificity": 7,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 5
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @DayTradersGroup: $TWTR Technical Analysis of #Twitter http://t.co/lRDYIRd5jl Descending wedge $FB $LNKD $TSLA $GOOG $AAPL $MU $XLE $XLF…",
+            "Correlation": 9,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 6,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 10
+        },
+        {
+            "News_content": "$MBLY Next $GPRO $LOCO \"The goal...was to build a system with the same capability for autonomous driving as the $GOOG car’s.\" This has $SYF.",
+            "Correlation": 8,
+            "Sentiment": 7,
+            "Importance": 6,
+            "Impact": 7,
+            "Duration": 5,
+            "Virality": 4,
+            "Source_Score": 5,
+            "Specificity": 8,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "Insider Selling: Google Chairman Sells 13,784 Shares of Stock $GOOG http://t.co/pXy4tknavT",
+            "Correlation": 10,
+            "Sentiment": 3,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 8,
+            "Specificity": 10,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "@ChristopherSuld Thought $GOOG might buy $YELP. Buyout would be great but I think well see $85+ PPS by end of year regardless. #stocks #nyse",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 4,
+            "Specificity": 7,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT @BloombergNews: Alibaba's Silicon Valley team competes with $GOOG, $FB, $AMZN for startups' attention: http://t.co/uNo1USDmCA http://t.c…",
+            "Correlation": 7,
+            "Sentiment": 5,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 5,
+            "Virality": 7,
+            "Source_Score": 9,
+            "Specificity": 6,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "First time I've seen the \"I'm Interested\" action button on Twitter, and Google as advertiser! $GOOG $TWTR http://t.co/Cd6GnLIqpc",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 6,
+            "Source_Score": 5,
+            "Specificity": 7,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "GOOGLE 'C' : Patent Application Titled \"Selecting and Presenting Content Relevant to User Input\" Published ... http://t.co/AZV4jr7jTY $GOOG",
+            "Correlation": 9,
+            "Sentiment": 5,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 7,
+            "Specificity": 9,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 8
+        },
+        {
+            "News_content": "Smartphone Market Share - 2Q14 vs. 2Q13 via @neiltwitz $AAPL $MSFT $BBRY $GOOG $QCOM $BRCM $SWKS $RFMD $INVN http://t.co/JSrV7sN6zx",
+            "Correlation": 7,
+            "Sentiment": 4,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 5,
+            "Virality": 4,
+            "Source_Score": 8,
+            "Specificity": 7,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 1
+        }
+    ]
+}

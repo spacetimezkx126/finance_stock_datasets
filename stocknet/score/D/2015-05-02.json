@@ -1,0 +1,55 @@
+{
+    "Overall_score": {
+        "Correlation": 4,
+        "Sentiment": 5,
+        "Importance": 6,
+        "Impact": 5,
+        "Duration": 7,
+        "Virality": 3,
+        "Source_Score": 6,
+        "Specificity": 5,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "LO QUIERO Serían 1785 U$D Deme la caja de 6 colores, por favor",
+            "Correlation": 2,
+            "Sentiment": 4,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 2,
+            "Source_Score": 3,
+            "Specificity": 5,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "PreguntasRevolucionarias Si Maduro Firmo 56 Acuerdos con Cuba por 1.259 Millones de U$D que Abarcan Agricultura, Salud",
+            "Correlation": 5,
+            "Sentiment": 6,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 8,
+            "Virality": 4,
+            "Source_Score": 5,
+            "Specificity": 7,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Según el Banco Muncial la deuda externa argentina del periíodo 2010-2014 U$D 136.271.863 M",
+            "Correlation": 6,
+            "Sentiment": 5,
+            "Importance": 8,
+            "Impact": 7,
+            "Duration": 9,
+            "Virality": 3,
+            "Source_Score": 8,
+            "Specificity": 8,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        }
+    ]
+}

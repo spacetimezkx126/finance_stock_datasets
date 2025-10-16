@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 1,
+        "Sentiment": 5,
+        "Importance": 3,
+        "Impact": 2,
+        "Duration": 4,
+        "Virality": 1,
+        "Source_Score": 6,
+        "Specificity": 7,
+        "Sector_Spread": 2,
+        "Tech_Mentions": 8
+    },
+    "Each_item": [
+        {
+            "News_content": "fa.functional analysis - Example of a space for which $V \\cong Hom ... #Space",
+            "Correlation": 1,
+            "Sentiment": 5,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 4,
+            "Virality": 1,
+            "Source_Score": 6,
+            "Specificity": 7,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 8
+        }
+    ]
+}

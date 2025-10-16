@@ -1,0 +1,94 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 6,
+        "Impact": 5,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 5,
+        "Specificity": 6,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "http://t.co/ffqrCdIMPf #Stock #trading is the BEST business in the world click link to learn more! $FB $STUDY $TWTR",
+            "Correlation": 5,
+            "Sentiment": 9,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 4,
+            "Source_Score": 4,
+            "Specificity": 3,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "4 Signs Your Portfolio Isn't Ready for a #BearMarket http://t.co/hA4uDlBOuK $NFLX $AAPL $TSLA $FB $QQQ $DIA $SCHB",
+            "Correlation": 8,
+            "Sentiment": 3,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 3,
+            "Source_Score": 6,
+            "Specificity": 7,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "#Invest #Stocks Contextualizing Facebook's 1 Billion Daily Users with 6 Graphs: Facebook ... http://t.co/TQxdiPMRYx $FB $AAPL $BABA $IBM",
+            "Correlation": 9,
+            "Sentiment": 8,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 5,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Opening Up Chat Room For Limited Time \nhttp://t.co/xmN5ySZmt4\n$SPY $QQQ $IWM $TSLA $AAPL $FB $AMZN $NFLX $USO $DIA $TWTR $BABA $GPRO $AMBA",
+            "Correlation": 6,
+            "Sentiment": 7,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 3,
+            "Source_Score": 5,
+            "Specificity": 5,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Did Tim Cook Lie To Save Apple Stock: Apple \"Channel Checks\" Paint A Very Gloomy Picture\n $AAPL $QQQ $GOOGL $FB $TWTR",
+            "Correlation": 8,
+            "Sentiment": 2,
+            "Importance": 8,
+            "Impact": 7,
+            "Duration": 6,
+            "Virality": 6,
+            "Source_Score": 7,
+            "Specificity": 9,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "FB Facebook, Inc. Dividend\nhttp://t.co/1ogUwEBzhA\n\n$FB $GE $EDC $FXI #FB #stock #share",
+            "Correlation": 7,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 6,
+            "Specificity": 8,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 1
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 2,
+        "Sentiment": 8,
+        "Importance": 1,
+        "Impact": 1,
+        "Duration": 1,
+        "Virality": 4,
+        "Source_Score": 3,
+        "Specificity": 1,
+        "Sector_Spread": 1,
+        "Tech_Mentions": 0
+    },
+    "Each_item": [
+        {
+            "News_content": "WEST MIRAMAR",
+            "Correlation": 2,
+            "Sentiment": 5,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 3,
+            "Source_Score": 3,
+            "Specificity": 2,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "@SillyGreygrey ugh! Your so sweet Zil! ILYSM",
+            "Correlation": 1,
+            "Sentiment": 9,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 5,
+            "Source_Score": 2,
+            "Specificity": 1,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        }
+    ]
+}

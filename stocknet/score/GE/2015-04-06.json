@@ -1,0 +1,55 @@
+{
+    "Overall_score": {
+        "Correlation": 4,
+        "Sentiment": 3,
+        "Importance": 5,
+        "Impact": 3,
+        "Duration": 6,
+        "Virality": 7,
+        "Source_Score": 8,
+        "Specificity": 2,
+        "Sector_Spread": 9,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "$GE News: \"Why Dividend Growth Investing Might Not Be For You\" $AAPL #APPLE $COP",
+            "Correlation": 4,
+            "Sentiment": 3,
+            "Importance": 5,
+            "Impact": 3,
+            "Duration": 6,
+            "Virality": 5,
+            "Source_Score": 8,
+            "Specificity": 2,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "$GE News: \"Why Dividend Growth Investing Might Not Be For You\" $AAPL #APPLE $COP",
+            "Correlation": 4,
+            "Sentiment": 3,
+            "Importance": 5,
+            "Impact": 3,
+            "Duration": 6,
+            "Virality": 5,
+            "Source_Score": 8,
+            "Specificity": 2,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT @SeekingAlpha: Why Dividend Growth Investing Might Not Be For You $AAPL #APPLE $COP $CVX $ED $F $GE $HCP $JNJ $KO",
+            "Correlation": 4,
+            "Sentiment": 3,
+            "Importance": 5,
+            "Impact": 3,
+            "Duration": 6,
+            "Virality": 9,
+            "Source_Score": 8,
+            "Specificity": 2,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 1
+        }
+    ]
+}

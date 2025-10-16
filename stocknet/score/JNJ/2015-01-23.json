@@ -1,0 +1,68 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 6,
+        "Impact": 6,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 4,
+        "Specificity": 7,
+        "Sector_Spread": 3,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "I have 3 weeklies expiring tomorrow JNJ MCD SBUX",
+            "Correlation": 8,
+            "Sentiment": 1,
+            "Importance": 2,
+            "Impact": 3,
+            "Duration": 1,
+            "Virality": 2,
+            "Source_Score": 3,
+            "Specificity": 9,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "If JNJ would have allowed it to go to trial and lost, they would not be allowed to do business in Europe",
+            "Correlation": 9,
+            "Sentiment": 4,
+            "Importance": 8,
+            "Impact": 7,
+            "Duration": 5,
+            "Virality": 3,
+            "Source_Score": 5,
+            "Specificity": 8,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Our Penny Stock Picks Gained 968% In 5 Weeks! Get Our Next Pick Early JNJ GD MOR.DE",
+            "Correlation": 6,
+            "Sentiment": 9,
+            "Importance": 3,
+            "Impact": 5,
+            "Duration": 2,
+            "Virality": 6,
+            "Source_Score": 3,
+            "Specificity": 5,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "If JNJ would have admitted any wrong-doing, they also would have been banned from being able to keep stealing from Medicaid",
+            "Correlation": 8,
+            "Sentiment": 3,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 2,
+            "Source_Score": 4,
+            "Specificity": 7,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        }
+    ]
+}

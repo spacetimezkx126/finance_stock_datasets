@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 7,
+        "Importance": 5,
+        "Impact": 6,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 6,
+        "Specificity": 9,
+        "Sector_Spread": 10,
+        "Tech_Mentions": 8
+    },
+    "Each_item": [
+        {
+            "News_content": "Parabolic SAR Buy $CACC $MHK $CHTR $IJK $IHS $BXP $PVH $XEC $HUB/B $SIRO $IGV $VDE $EPC $JACK $CVX $RYT $SOXX $FISV",
+            "Correlation": 8,
+            "Sentiment": 7,
+            "Importance": 5,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 6,
+            "Specificity": 9,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 8
+        }
+    ]
+}

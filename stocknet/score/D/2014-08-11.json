@@ -1,0 +1,94 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 3,
+        "Importance": 8,
+        "Impact": 6,
+        "Duration": 5,
+        "Virality": 4,
+        "Source_Score": 5,
+        "Specificity": 7,
+        "Sector_Spread": 6,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @LucioQuincioC: Jackelin Farias deberia explicar donde estan los U$D 14 millardos que le dieron para la limpieza del rio Guaire #cecaf",
+            "Correlation": 6,
+            "Sentiment": 2,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 3,
+            "Source_Score": 4,
+            "Specificity": 6,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT @LucioQuincioC: 19 dias para Octubre Rojo, se vencen U$D 6,400 millones en deuda y no tienen como hacerle frente, DOLARES NO HAY.",
+            "Correlation": 8,
+            "Sentiment": 3,
+            "Importance": 9,
+            "Impact": 7,
+            "Duration": 6,
+            "Virality": 5,
+            "Source_Score": 5,
+            "Specificity": 8,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "RT @LucioQuincioC: 20 dias para que llegue Octubre Rojo, se vencen U$D 6,400 millardos en deuda y no tienen como hacerle frente, dolares no...",
+            "Correlation": 8,
+            "Sentiment": 3,
+            "Importance": 9,
+            "Impact": 7,
+            "Duration": 6,
+            "Virality": 5,
+            "Source_Score": 5,
+            "Specificity": 8,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "RT @LucioQuincioC: Crudo venezolano cae a U$D 92,22 el barril, y sigue bajando..",
+            "Correlation": 7,
+            "Sentiment": 4,
+            "Importance": 8,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 4,
+            "Source_Score": 5,
+            "Specificity": 7,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "RT @LucioQuincioC: Maduro entregara SIDOR a los Chinos como parte de pago de la deuda de U$D 50 millardos..",
+            "Correlation": 8,
+            "Sentiment": 3,
+            "Importance": 9,
+            "Impact": 7,
+            "Duration": 6,
+            "Virality": 5,
+            "Source_Score": 5,
+            "Specificity": 8,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "RT @venezuelaenpazZ: #TROPA el dinero que se robo estos malandros Maduro entregara SIDOR a los Chinos como parte de pago de la deuda de U$D...",
+            "Correlation": 8,
+            "Sentiment": 3,
+            "Importance": 9,
+            "Impact": 7,
+            "Duration": 6,
+            "Virality": 5,
+            "Source_Score": 5,
+            "Specificity": 8,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 2
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 3,
+        "Sentiment": 9,
+        "Importance": 2,
+        "Impact": 1,
+        "Duration": 1,
+        "Virality": 4,
+        "Source_Score": 2,
+        "Specificity": 5,
+        "Sector_Spread": 1,
+        "Tech_Mentions": 0
+    },
+    "Each_item": [
+        {
+            "News_content": "@Gestyriap happy birthday gestyy, sukses terus, lulus UN dngn nilai yg memuaskan, masuk $MA fav. Longlife, sukses terus",
+            "Correlation": 3,
+            "Sentiment": 9,
+            "Importance": 2,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 4,
+            "Source_Score": 2,
+            "Specificity": 5,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        }
+    ]
+}

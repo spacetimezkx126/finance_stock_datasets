@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 5,
+        "Importance": 6,
+        "Impact": 7,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 9,
+        "Specificity": 10,
+        "Sector_Spread": 7,
+        "Tech_Mentions": 8
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @CBOE: Active calls at CBOE: PFE 3/20/15 32, SPY 5/15/15 219, ASHR 4/17/15 42, KO 4/17/15 41",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 6,
+            "Impact": 7,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 9,
+            "Specificity": 10,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 8
+        }
+    ]
+}

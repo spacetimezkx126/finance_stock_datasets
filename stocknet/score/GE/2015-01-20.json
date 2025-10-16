@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 7,
+        "Importance": 6,
+        "Impact": 7,
+        "Duration": 5,
+        "Virality": 4,
+        "Source_Score": 5,
+        "Specificity": 7,
+        "Sector_Spread": 6,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "Platinum Penny Stock Picks gained Over 700% In One Month! Subscribe today: $BMSN $C $GE",
+            "Correlation": 9,
+            "Sentiment": 10,
+            "Importance": 4,
+            "Impact": 8,
+            "Duration": 3,
+            "Virality": 6,
+            "Source_Score": 4,
+            "Specificity": 8,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "EU to rule on GE, Alstom deal by Feb. 23 $GE $ALSMY $AOMFF",
+            "Correlation": 7,
+            "Sentiment": 4,
+            "Importance": 8,
+            "Impact": 6,
+            "Duration": 7,
+            "Virality": 3,
+            "Source_Score": 6,
+            "Specificity": 6,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 3
+        }
+    ]
+}

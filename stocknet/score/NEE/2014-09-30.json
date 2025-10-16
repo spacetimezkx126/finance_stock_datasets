@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 9,
+        "Sentiment": 10,
+        "Importance": 8,
+        "Impact": 9,
+        "Duration": 5,
+        "Virality": 7,
+        "Source_Score": 6,
+        "Specificity": 8,
+        "Sector_Spread": 4,
+        "Tech_Mentions": 3
+    },
+    "Each_item": [
+        {
+            "News_content": "FPFI closed up 250% today! Huge Update and new pick coming: $NEE $APC $QRE",
+            "Correlation": 9,
+            "Sentiment": 10,
+            "Importance": 8,
+            "Impact": 9,
+            "Duration": 5,
+            "Virality": 7,
+            "Source_Score": 6,
+            "Specificity": 8,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 3
+        }
+    ]
+}

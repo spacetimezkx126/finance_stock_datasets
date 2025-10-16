@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 9,
+        "Sentiment": 3,
+        "Importance": 6,
+        "Impact": 7,
+        "Duration": 5,
+        "Virality": 2,
+        "Source_Score": 8,
+        "Specificity": 10,
+        "Sector_Spread": 9,
+        "Tech_Mentions": 4
+    },
+    "Each_item": [
+        {
+            "News_content": "03 Jul 2015: Downtrend Stocks in Industrial Goods $ATI $CMI $EMR $FLR $FLS $GE $HON $IR $ITW $LLL",
+            "Correlation": 9,
+            "Sentiment": 3,
+            "Importance": 6,
+            "Impact": 7,
+            "Duration": 5,
+            "Virality": 2,
+            "Source_Score": 8,
+            "Specificity": 10,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 4
+        }
+    ]
+}

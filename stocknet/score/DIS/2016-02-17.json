@@ -1,0 +1,81 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 6,
+        "Importance": 6,
+        "Impact": 5,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 7,
+        "Specificity": 8,
+        "Sector_Spread": 5,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "Walt Disney Co (DIS) Shares Sold by Duff & Phelps Investment Management Company.",
+            "Correlation": 9,
+            "Sentiment": 4,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 8,
+            "Specificity": 9,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "You should think nothing but happy thoughts about this company - Bob Iger (via @JBoorstin)",
+            "Correlation": 6,
+            "Sentiment": 9,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 2,
+            "Virality": 7,
+            "Source_Score": 8,
+            "Specificity": 5,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "ABC Entertainment President Paul Lee to Depart Network",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "Investor’s Choice: eBay (NASDAQ:EBAY), The Walt Disney",
+            "Correlation": 7,
+            "Sentiment": 6,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 3,
+            "Source_Score": 7,
+            "Specificity": 7,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "DIS Gapped up +0.44 Last Price 93.67 Change +0.76 Volume 192,694",
+            "Correlation": 10,
+            "Sentiment": 7,
+            "Importance": 7,
+            "Impact": 8,
+            "Duration": 2,
+            "Virality": 1,
+            "Source_Score": 6,
+            "Specificity": 10,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 5
+        }
+    ]
+}

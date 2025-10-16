@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 6,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 3,
+        "Duration": 2,
+        "Virality": 7,
+        "Source_Score": 5,
+        "Specificity": 4,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "WMT Wal-Mart Stores, Inc. Yield $WMT $HD $INSY $RCPT #WMT #stock #finance",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 6,
+            "Source_Score": 5,
+            "Specificity": 7,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "JO iPath Bloomberg Coffee Subindex Total Return ETN News $JO $HD $SMH $XLV #JO #pennystocks #finance",
+            "Correlation": 4,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 8,
+            "Source_Score": 5,
+            "Specificity": 1,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        }
+    ]
+}

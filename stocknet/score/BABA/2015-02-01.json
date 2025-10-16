@@ -1,0 +1,81 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 3,
+        "Duration": 6,
+        "Virality": 2,
+        "Source_Score": 5,
+        "Specificity": 8,
+        "Sector_Spread": 9,
+        "Tech_Mentions": 4
+    },
+    "Each_item": [
+        {
+            "News_content": "+57% since inception. Type in your beg capital to see ur results. $GOOG $AAPL $BABA $LMT $DJIA",
+            "Correlation": 8,
+            "Sentiment": 7,
+            "Importance": 3,
+            "Impact": 4,
+            "Duration": 7,
+            "Virality": 1,
+            "Source_Score": 6,
+            "Specificity": 9,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "There's nothin' goin' on. Can't find a bull market. I have my positions in GOLD, SILVER and MMJ. $BABA $GOLD",
+            "Correlation": 6,
+            "Sentiment": 3,
+            "Importance": 2,
+            "Impact": 1,
+            "Duration": 5,
+            "Virality": 3,
+            "Source_Score": 4,
+            "Specificity": 7,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Stock Mkt Analysis 1/30/15 $SPY $QQQ $XLF $AAPL $IWM $AMZN $GOOGL $GLD $BABA",
+            "Correlation": 7,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 2,
+            "Duration": 6,
+            "Virality": 2,
+            "Source_Score": 5,
+            "Specificity": 8,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "Stock Mkt Analysis 1/30/15 $SPY $QQQ $XLF $AAPL $IWM $AMZN $GOOGL $GLD $BABA",
+            "Correlation": 7,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 2,
+            "Duration": 6,
+            "Virality": 2,
+            "Source_Score": 5,
+            "Specificity": 8,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "NEW POST: knock knock knocking on major support $SPY $IWM $AAPL $AMZN $BABA",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 3,
+            "Duration": 7,
+            "Virality": 3,
+            "Source_Score": 6,
+            "Specificity": 9,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 5
+        }
+    ]
+}

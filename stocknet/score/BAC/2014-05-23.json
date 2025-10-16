@@ -1,0 +1,68 @@
+{
+    "Overall_score": {
+        "Correlation": 6,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 3,
+        "Duration": 2,
+        "Virality": 7,
+        "Source_Score": 3,
+        "Specificity": 5,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 4
+    },
+    "Each_item": [
+        {
+            "News_content": "Hot stocks on social media right now: HPQ PCLN USDCAD AAPL NFLX SPY BAC. Trade social buzz  #trading #stocks",
+            "Correlation": 7,
+            "Sentiment": 6,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 9,
+            "Source_Score": 4,
+            "Specificity": 6,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "LIKE AND SHARE GUYS THE MORE HUNTERS JOIN THE BIGGER THE WIN !!!! AAPL TWTR BAC LNKD FB TEMN MINE GACR",
+            "Correlation": 5,
+            "Sentiment": 8,
+            "Importance": 2,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 8,
+            "Source_Score": 2,
+            "Specificity": 4,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Fibonacci Technical Levels  SPY QQQ BAC PLUG",
+            "Correlation": 6,
+            "Sentiment": 4,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 5,
+            "Source_Score": 5,
+            "Specificity": 7,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 9
+        },
+        {
+            "News_content": "Stocks you might want to buy CBI BAC TXT GRPN #equity",
+            "Correlation": 5,
+            "Sentiment": 5,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 2,
+            "Virality": 4,
+            "Source_Score": 3,
+            "Specificity": 5,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 2,
+        "Sentiment": 3,
+        "Importance": 1,
+        "Impact": 1,
+        "Duration": 1,
+        "Virality": 2,
+        "Source_Score": 3,
+        "Specificity": 1,
+        "Sector_Spread": 2,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "any other opinions on this?",
+            "Correlation": 1,
+            "Sentiment": 2,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 2,
+            "Source_Score": 3,
+            "Specificity": 1,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Stocks to buy",
+            "Correlation": 3,
+            "Sentiment": 4,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 2,
+            "Source_Score": 3,
+            "Specificity": 1,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "Overall_score": {
+        "Correlation": 2,
+        "Sentiment": 6,
+        "Importance": 1,
+        "Impact": 1,
+        "Duration": 3,
+        "Virality": 5,
+        "Source_Score": 4,
+        "Specificity": 2,
+        "Sector_Spread": 1,
+        "Tech_Mentions": 0
+    },
+    "Each_item": [
+        {
+            "News_content": "FiR$T LET ME HOP OUT DA MA FREAKiN POR$HE",
+            "Correlation": 1,
+            "Sentiment": 7,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 2,
+            "Virality": 6,
+            "Source_Score": 3,
+            "Specificity": 1,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "Feliz cumpleaños Mi Reina cada vez más Grandee:) Sabes que te amo de acá Asta al cielo a pasos de tortuga renga:$T&D  #Sj amor♡",
+            "Correlation": 1,
+            "Sentiment": 8,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 3,
+            "Virality": 5,
+            "Source_Score": 4,
+            "Specificity": 2,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "Anything I$ Po$$ible! The BE$T is yet to come",
+            "Correlation": 2,
+            "Sentiment": 6,
+            "Importance": 2,
+            "Impact": 2,
+            "Duration": 4,
+            "Virality": 4,
+            "Source_Score": 4,
+            "Specificity": 2,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "WE$T every summer 👐",
+            "Correlation": 1,
+            "Sentiment": 5,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 3,
+            "Virality": 5,
+            "Source_Score": 3,
+            "Specificity": 1,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        }
+    ]
+}

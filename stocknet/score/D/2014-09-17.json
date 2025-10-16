@@ -1,0 +1,68 @@
+{
+    "Overall_score": {
+        "Correlation": 6,
+        "Sentiment": 3,
+        "Importance": 5,
+        "Impact": 4,
+        "Duration": 3,
+        "Virality": 7,
+        "Source_Score": 4,
+        "Specificity": 5,
+        "Sector_Spread": 2,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "Un saludo a los boludos que creyeron en CFK y vendieron los U$D ahorrados para \"hacer patria\". Ahora vale 14,98.",
+            "Correlation": 7,
+            "Sentiment": 2,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 6,
+            "Source_Score": 3,
+            "Specificity": 6,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Con 30mil U$D #River sostiene muchos deportes federados en todo el año. No seamos boludos, cantar ese tipo de cosas hace q e…",
+            "Correlation": 5,
+            "Sentiment": 4,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 8,
+            "Source_Score": 4,
+            "Specificity": 5,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Jackelin Farias deberias explicar donde estan los U$D 14 millardos que le dieron para la limpieza del rio Guaire #cecaf",
+            "Correlation": 6,
+            "Sentiment": 3,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 7,
+            "Source_Score": 5,
+            "Specificity": 7,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Dip Aurora Morales (PSUV): el pueblo no \"está interesado\" en saber de los U$D 25 millardos robados http://t.co/pALpBYZqe…",
+            "Correlation": 8,
+            "Sentiment": 3,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 8,
+            "Source_Score": 6,
+            "Specificity": 8,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        }
+    ]
+}

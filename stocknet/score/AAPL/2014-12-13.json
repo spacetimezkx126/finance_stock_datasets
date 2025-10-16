@@ -1,0 +1,68 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 3,
+        "Duration": 2,
+        "Virality": 6,
+        "Source_Score": 5,
+        "Specificity": 6,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 4
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @s_s_o0: #NYSE #DOW_JONES $AAPL $GOOG $FB $AMZN $PCLN عقد للأسبوع القادم $LULU 55 call Op:58 cent السهم في طور تكوين رايه",
+            "Correlation": 9,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 7,
+            "Source_Score": 4,
+            "Specificity": 8,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 5
+        },
+        {
+            "News_content": "RT @seeitmarket: The Value Of A Multi-Disciplinary Approach To Investing: http://t.co/FuKLTVYPPX by @jessefelder $AAPL $GOOG $SBUX $STUDY",
+            "Correlation": 6,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 6,
+            "Source_Score": 7,
+            "Specificity": 5,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "Best research on #stocks such as $ATK $AMGN $ARIA $AAPL Give it a try http://t.co/7vznUWT5Ik",
+            "Correlation": 7,
+            "Sentiment": 5,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 5,
+            "Source_Score": 6,
+            "Specificity": 6,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "$SAI Buying or selling? $TSN $CPB $AAPL Must have http://t.co/K1aTuBtNDV",
+            "Correlation": 8,
+            "Sentiment": 4,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 2,
+            "Virality": 4,
+            "Source_Score": 5,
+            "Specificity": 7,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 3
+        }
+    ]
+}

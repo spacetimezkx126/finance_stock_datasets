@@ -1,0 +1,68 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 5,
+        "Importance": 7,
+        "Impact": 6,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 7,
+        "Specificity": 8,
+        "Sector_Spread": 2,
+        "Tech_Mentions": 5
+    },
+    "Each_item": [
+        {
+            "News_content": "If BAC closes below 17, signals a break of the trend line. Caution ahead. RSI 49 MoneyFlow decreasing.",
+            "Correlation": 10,
+            "Sentiment": 3,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 7,
+            "Specificity": 9,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 8
+        },
+        {
+            "News_content": "This is REAL crapolla! Report: BofA in Talks to Settle CFPB Case for More than 800M | Fox Business @foxbusiness BAC",
+            "Correlation": 9,
+            "Sentiment": 2,
+            "Importance": 8,
+            "Impact": 7,
+            "Duration": 5,
+            "Virality": 6,
+            "Source_Score": 8,
+            "Specificity": 8,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "BAC Jury to hear 70M lawsuit vs. Bank of America after 3-year battle",
+            "Correlation": 9,
+            "Sentiment": 4,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 4,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Looking for more info on BAC EL TWTC RAX",
+            "Correlation": 5,
+            "Sentiment": 5,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 2,
+            "Virality": 1,
+            "Source_Score": 4,
+            "Specificity": 5,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 1
+        }
+    ]
+}

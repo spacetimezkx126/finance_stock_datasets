@@ -1,0 +1,55 @@
+{
+    "Overall_score": {
+        "Correlation": 4,
+        "Sentiment": 5,
+        "Importance": 3,
+        "Impact": 3,
+        "Duration": 2,
+        "Virality": 6,
+        "Source_Score": 4,
+        "Specificity": 3,
+        "Sector_Spread": 7,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "All $JNJ trades #euthenia #trading #education",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 2,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 4,
+            "Source_Score": 3,
+            "Specificity": 7,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "SPXS Direxion Daily S&P 500 Bear 3X Shares % Change $SPXS $JNJ $GOOGL $XIV #SPXS #stockmarket #stock",
+            "Correlation": 6,
+            "Sentiment": 4,
+            "Importance": 4,
+            "Impact": 4,
+            "Duration": 2,
+            "Virality": 7,
+            "Source_Score": 5,
+            "Specificity": 5,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "BABA Alibaba Group Holding Ltd. Quotes $BABA $JNJ $KO $VEEV #BABA #finance #investing",
+            "Correlation": 5,
+            "Sentiment": 6,
+            "Importance": 3,
+            "Impact": 3,
+            "Duration": 3,
+            "Virality": 5,
+            "Source_Score": 4,
+            "Specificity": 4,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        }
+    ]
+}

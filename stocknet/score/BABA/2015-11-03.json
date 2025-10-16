@@ -1,0 +1,81 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 6,
+        "Impact": 5,
+        "Duration": 4,
+        "Virality": 6,
+        "Source_Score": 7,
+        "Specificity": 8,
+        "Sector_Spread": 7,
+        "Tech_Mentions": 3
+    },
+    "Each_item": [
+        {
+            "News_content": "Stock in Focus - Alibaba Group Holding Ltd",
+            "Correlation": 10,
+            "Sentiment": 5,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 4,
+            "Source_Score": 8,
+            "Specificity": 9,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "RT @TripleDTrader: Notable opening imbalances: BAC, BABA, TWTR, PFE, GE, JWN, KORS, V",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 7,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "BABA BIDU: Top And Flop ETFs Of October: https://t.co/53l7q4e8xd",
+            "Correlation": 7,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 4,
+            "Virality": 5,
+            "Source_Score": 6,
+            "Specificity": 7,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "RT @pelias01: The Generation Portfolio: Reinvesting https://t.co/CuML2EL6FO ABR, BABA, CYS, DIS, KMI, KO, PFE, PG",
+            "Correlation": 6,
+            "Sentiment": 7,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 4,
+            "Virality": 6,
+            "Source_Score": 7,
+            "Specificity": 6,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "https://t.co/Js2Y4m6N0C Superman Trade Alerts and Premium Research on top stocks! Students become millionaires! EVR, MANH, DWRE, BABA",
+            "Correlation": 5,
+            "Sentiment": 8,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 3,
+            "Virality": 8,
+            "Source_Score": 5,
+            "Specificity": 5,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        }
+    ]
+}

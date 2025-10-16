@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 1,
+        "Sentiment": 5,
+        "Importance": 2,
+        "Impact": 3,
+        "Duration": 4,
+        "Virality": 6,
+        "Source_Score": 3,
+        "Specificity": 2,
+        "Sector_Spread": 1,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "On my way to USC",
+            "Correlation": 1,
+            "Sentiment": 7,
+            "Importance": 2,
+            "Impact": 3,
+            "Duration": 4,
+            "Virality": 5,
+            "Source_Score": 3,
+            "Specificity": 2,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Underground Kingz",
+            "Correlation": 1,
+            "Sentiment": 3,
+            "Importance": 2,
+            "Impact": 3,
+            "Duration": 4,
+            "Virality": 7,
+            "Source_Score": 3,
+            "Specificity": 2,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 9,
+        "Importance": 10,
+        "Impact": 7,
+        "Duration": 6,
+        "Virality": 5,
+        "Source_Score": 8,
+        "Specificity": 9,
+        "Sector_Spread": 4,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "$SNY - Amplia disponibilidad de las vacunas antipoliomelíticas inactivadas para todos los niños del mundo",
+            "Correlation": 8,
+            "Sentiment": 9,
+            "Importance": 10,
+            "Impact": 7,
+            "Duration": 6,
+            "Virality": 5,
+            "Source_Score": 8,
+            "Specificity": 9,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "$SNY Inactivated Polio Vaccines Broadly Available for the Worlds Children",
+            "Correlation": 8,
+            "Sentiment": 9,
+            "Importance": 10,
+            "Impact": 7,
+            "Duration": 6,
+            "Virality": 5,
+            "Source_Score": 8,
+            "Specificity": 9,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 2
+        }
+    ]
+}

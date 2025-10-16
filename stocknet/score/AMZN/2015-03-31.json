@@ -1,0 +1,120 @@
+{
+    "Overall_score": {
+        "Correlation": 6,
+        "Sentiment": 5,
+        "Importance": 6,
+        "Impact": 5,
+        "Duration": 4,
+        "Virality": 7,
+        "Source_Score": 6,
+        "Specificity": 5,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 3
+    },
+    "Each_item": [
+        {
+            "News_content": "Our Penny Stock Alerts Gained Over 1400% In Just Over 4 Months! Subscribe today: http://t.co/w9IKB0aLmu",
+            "Correlation": 8,
+            "Sentiment": 10,
+            "Importance": 4,
+            "Impact": 7,
+            "Duration": 2,
+            "Virality": 6,
+            "Source_Score": 3,
+            "Specificity": 9,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Richemont to Merge Net-A-Porter With Yoox Group--3rd Update http://t.co/0pn8Jga87g",
+            "Correlation": 9,
+            "Sentiment": 7,
+            "Importance": 8,
+            "Impact": 7,
+            "Duration": 6,
+            "Virality": 5,
+            "Source_Score": 8,
+            "Specificity": 10,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "3 Reasons Google Inc. Should Fear Facebook Inc.. http://t.co/FlQUWzf8Mo.",
+            "Correlation": 9,
+            "Sentiment": 6,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 8,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 4
+        },
+        {
+            "News_content": "U.S. Transportation Sec. Anthony Foxx, asked on C-SPAN about home-delivery drones, said Monday: \"Absolutely, that's coming.\"",
+            "Correlation": 7,
+            "Sentiment": 8,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 7,
+            "Virality": 7,
+            "Source_Score": 9,
+            "Specificity": 7,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 5
+        },
+        {
+            "News_content": "For US Stocks, a First Quarter Washout: http://t.co/BQ3ghH2JMv",
+            "Correlation": 8,
+            "Sentiment": 3,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 4,
+            "Source_Score": 8,
+            "Specificity": 6,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Jeff #Bezos's Wife, A Writer, Offers Epic Take On #Amazon http://t.co/0xHBRY6SGv",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 7,
+            "Source_Score": 7,
+            "Specificity": 7,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "Really, really bizarre/really out of the box thinking from Amazon. @Rafe reports https://t.co/QUFIDc3S1G http://t.co/Zyf0WYQkl0",
+            "Correlation": 8,
+            "Sentiment": 7,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 8,
+            "Source_Score": 7,
+            "Specificity": 7,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "$AAPL $AMZN $BABA $BIDU $CELG $CVX $FB $FSLR $GILD $GLD $GMCR $GOOG $GOOGL $GPRO $GS $IWM $LNKD $NFLX $PCLN $QQQ $SBUX",
+            "Correlation": 10,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 5,
+            "Source_Score": 6,
+            "Specificity": 8,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 2
+        }
+    ]
+}

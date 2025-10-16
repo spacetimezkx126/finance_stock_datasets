@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 4,
+        "Importance": 8,
+        "Impact": 6,
+        "Duration": 5,
+        "Virality": 3,
+        "Source_Score": 6,
+        "Specificity": 5,
+        "Sector_Spread": 9,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @philstockworld: Wages are Killing this Country: #TheFed #OECD #FOMC $WMT #RaisetheMinimumWage $EWJ $FXI",
+            "Correlation": 7,
+            "Sentiment": 4,
+            "Importance": 8,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 3,
+            "Source_Score": 6,
+            "Specificity": 5,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 2
+        }
+    ]
+}

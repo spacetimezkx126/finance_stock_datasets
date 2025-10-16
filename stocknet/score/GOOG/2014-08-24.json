@@ -1,0 +1,94 @@
+{
+    "Overall_score": {
+        "Correlation": 6,
+        "Sentiment": 5,
+        "Importance": 7,
+        "Impact": 6,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 5,
+        "Specificity": 6,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 4
+    },
+    "Each_item": [
+        {
+            "News_content": "$DAL Market Cap",
+            "Correlation": 10,
+            "Sentiment": 5,
+            "Importance": 3,
+            "Impact": 4,
+            "Duration": 2,
+            "Virality": 1,
+            "Source_Score": 6,
+            "Specificity": 9,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Also See: $GDX $GOOG $AC/B.TO $GPRO",
+            "Correlation": 7,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 5,
+            "Specificity": 7,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Google said to be weighing YouTube, Gmail accounts for kids",
+            "Correlation": 8,
+            "Sentiment": 7,
+            "Importance": 8,
+            "Impact": 7,
+            "Duration": 6,
+            "Virality": 5,
+            "Source_Score": 8,
+            "Specificity": 8,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "$GOOG $FB",
+            "Correlation": 7,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 5,
+            "Specificity": 7,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Silicon Valley stocks that matter the most to large hedge funds, per Goldman Sachs: $AAPL, $FB, $GOOG, $EBAY, $GILD",
+            "Correlation": 9,
+            "Sentiment": 6,
+            "Importance": 9,
+            "Impact": 8,
+            "Duration": 5,
+            "Virality": 4,
+            "Source_Score": 9,
+            "Specificity": 8,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "It's Time to Take Artificial Intelligence Seriously",
+            "Correlation": 6,
+            "Sentiment": 8,
+            "Importance": 10,
+            "Impact": 7,
+            "Duration": 8,
+            "Virality": 7,
+            "Source_Score": 7,
+            "Specificity": 5,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 9
+        }
+    ]
+}

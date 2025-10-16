@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 6,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 3,
+        "Duration": 2,
+        "Virality": 3,
+        "Source_Score": 4,
+        "Specificity": 5,
+        "Sector_Spread": 7,
+        "Tech_Mentions": 6
+    },
+    "Each_item": [
+        {
+            "News_content": "INTC Intel Corp. Bid Size $INTC $ETRM $VXX $CELG #INTC #investing #tradeideas",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 3,
+            "Source_Score": 5,
+            "Specificity": 7,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 4
+        },
+        {
+            "News_content": "Small form @zotac NEN Steam Machine features i5-6400T, GTX 690, 1TB HDD $INTC, $NVDA",
+            "Correlation": 4,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 3,
+            "Source_Score": 3,
+            "Specificity": 3,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 8
+        }
+    ]
+}

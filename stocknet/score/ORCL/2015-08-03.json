@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 4,
+        "Sentiment": 8,
+        "Importance": 3,
+        "Impact": 5,
+        "Duration": 2,
+        "Virality": 7,
+        "Source_Score": 5,
+        "Specificity": 3,
+        "Sector_Spread": 6,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "Our Stock Alerts Gained Over 550% In 5 Weeks! See Our MASSIVE New Pick Coming Tomorrow",
+            "Correlation": 4,
+            "Sentiment": 9,
+            "Importance": 3,
+            "Impact": 6,
+            "Duration": 2,
+            "Virality": 8,
+            "Source_Score": 5,
+            "Specificity": 3,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT @WALLstreetUS",
+            "Correlation": 3,
+            "Sentiment": 7,
+            "Importance": 2,
+            "Impact": 4,
+            "Duration": 1,
+            "Virality": 6,
+            "Source_Score": 4,
+            "Specificity": 2,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 1
+        }
+    ]
+}

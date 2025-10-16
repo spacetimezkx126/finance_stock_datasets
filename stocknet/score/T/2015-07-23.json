@@ -1,0 +1,94 @@
+{
+    "Overall_score": {
+        "Correlation": 6,
+        "Sentiment": 4,
+        "Importance": 5,
+        "Impact": 5,
+        "Duration": 3,
+        "Virality": 7,
+        "Source_Score": 5,
+        "Specificity": 6,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "lookn4wins : OPK Opko Health Inc. Short Sales http://t.co/oGlMq07keW $OPK $T $TRQ $EXEL… http://t.co/nHrgqOW8t5) http://t.co/2fidpA4Hg3",
+            "Correlation": 9,
+            "Sentiment": 3,
+            "Importance": 6,
+            "Impact": 6,
+            "Duration": 2,
+            "Virality": 5,
+            "Source_Score": 4,
+            "Specificity": 8,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "$TWTR Twitter Inc http://t.co/UKZ3MRGmpH $AAPL $BAC $FB $SPY $GE $BABA $NFLX $C $FE $TSLA $F $T $UWTI $RAD $GILD $VXX $UA #FX #MissUSA",
+            "Correlation": 7,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 8,
+            "Source_Score": 6,
+            "Specificity": 5,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "PMCB PharmaCyte Biotech, Inc. Ask http://t.co/hJtJKhz9ZK $PMCB $PCLN $T $QCOM #PMCB #finance #share",
+            "Correlation": 8,
+            "Sentiment": 4,
+            "Importance": 5,
+            "Impact": 5,
+            "Duration": 2,
+            "Virality": 6,
+            "Source_Score": 5,
+            "Specificity": 7,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "OIL iPath S&P GSCI Crude Oil Total Return Index ETN Stock Message Board http://t.co/dNiHDyqDEJ $OIL $UUP $XOM $T #OIL #invest #finance",
+            "Correlation": 8,
+            "Sentiment": 4,
+            "Importance": 6,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 7,
+            "Source_Score": 6,
+            "Specificity": 7,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "$QCOM $T $SNDK News: \"10 Stocks To Watch For July 23, 2015 $AMZN $CAT $GM $MCD …\" http://t.co/EhiKiIzSiJ Analyze: https://t.co/66EuUzkQH1",
+            "Correlation": 7,
+            "Sentiment": 5,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 3,
+            "Virality": 6,
+            "Source_Score": 7,
+            "Specificity": 6,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "⬇️ #2DAFULLE$T #MuzikkZone 💯 #RT2GAIN⚡️ @MREESE06 @Princess3Rina @Mechis_M @PBGforever @RahshonIs_Music @MZSAHFIYAH #MuzikkZone #TFB 💯!!",
+            "Correlation": 2,
+            "Sentiment": 6,
+            "Importance": 2,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 9,
+            "Source_Score": 3,
+            "Specificity": 1,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        }
+    ]
+}

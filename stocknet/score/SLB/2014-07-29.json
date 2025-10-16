@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 6,
+        "Duration": 3,
+        "Virality": 2,
+        "Source_Score": 8,
+        "Specificity": 7,
+        "Sector_Spread": 3,
+        "Tech_Mentions": 9
+    },
+    "Each_item": [
+        {
+            "News_content": "Is $SLB in a bull flag pattern? Find out in today's #TradeKing Midday Market Call Recap blog! $SPX",
+            "Correlation": 7,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 6,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 8,
+            "Specificity": 7,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 9
+        }
+    ]
+}

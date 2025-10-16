@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 5,
+        "Sentiment": 6,
+        "Importance": 4,
+        "Impact": 5,
+        "Duration": 3,
+        "Virality": 7,
+        "Source_Score": 6,
+        "Specificity": 7,
+        "Sector_Spread": 4,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "Que chanta que son por Dios!!!! Salio el iPhone 6 a U$D 999 el de 128gb y en mercardo libre lo oferta a $28499 el de 64gb... estan locos",
+            "Correlation": 8,
+            "Sentiment": 3,
+            "Importance": 2,
+            "Impact": 4,
+            "Duration": 2,
+            "Virality": 9,
+            "Source_Score": 1,
+            "Specificity": 9,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 7
+        },
+        {
+            "News_content": "Dominion Resources to Acquire 2 Californian Solar Farms - September 16, 2014",
+            "Correlation": 7,
+            "Sentiment": 7,
+            "Importance": 8,
+            "Impact": 7,
+            "Duration": 5,
+            "Virality": 4,
+            "Source_Score": 9,
+            "Specificity": 8,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 3
+        }
+    ]
+}

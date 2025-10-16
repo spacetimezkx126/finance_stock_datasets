@@ -1,0 +1,55 @@
+{
+    "Overall_score": {
+        "Correlation": 4,
+        "Sentiment": 3,
+        "Importance": 7,
+        "Impact": 5,
+        "Duration": 6,
+        "Virality": 8,
+        "Source_Score": 5,
+        "Specificity": 6,
+        "Sector_Spread": 3,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "Venezuela sin medicamentos para el cáncer en su mayoría niños y Maduro se compra nuevo avión Embraer 190 #Tropa U$D 80 millones",
+            "Correlation": 3,
+            "Sentiment": 2,
+            "Importance": 8,
+            "Impact": 5,
+            "Duration": 7,
+            "Virality": 9,
+            "Source_Score": 5,
+            "Specificity": 7,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Venezuela sin medicamentos para el cáncer en su mayoría niños y Maduro se compra nuevo avión Embraer 190 #Tropa U$D 80",
+            "Correlation": 3,
+            "Sentiment": 2,
+            "Importance": 8,
+            "Impact": 5,
+            "Duration": 7,
+            "Virality": 8,
+            "Source_Score": 5,
+            "Specificity": 6,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Sick and Tired of losing money on $SLM $SBNY $D $AMZN View now",
+            "Correlation": 6,
+            "Sentiment": 4,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 5,
+            "Virality": 7,
+            "Source_Score": 4,
+            "Specificity": 5,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 3
+        }
+    ]
+}

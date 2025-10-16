@@ -1,0 +1,94 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 6,
+        "Impact": 6,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 5,
+        "Specificity": 7,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "Best XL: $XLY +0.3%, Worst: $XLB -1.2%, Movers: $GDX -3%, $XOP -2.2%, $AMLP -2.1%, $XBI +1.7%, $AMZN +2%, $FB +1%, $HD +1.5%, $INTC -2.5%, $BAC -0.9%",
+            "Correlation": 9,
+            "Sentiment": 5,
+            "Importance": 5,
+            "Impact": 6,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 4,
+            "Specificity": 8,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "$VPCO Closed Up 122.22% Yesterday! Big News: https://t.co/d7FRryJjki, Related: $HD $HOT $AMIGY",
+            "Correlation": 8,
+            "Sentiment": 9,
+            "Importance": 7,
+            "Impact": 8,
+            "Duration": 5,
+            "Virality": 6,
+            "Source_Score": 5,
+            "Specificity": 7,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Upcoming #earnings reports: https://t.co/W4Vh4Y24rG, Companies: $DF $IPXL $ACC $LNT $CBRL $HD $SJM $M $TOL $Y $CAR $ETSY $JAZZ $WBMD",
+            "Correlation": 7,
+            "Sentiment": 4,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 7,
+            "Virality": 3,
+            "Source_Score": 5,
+            "Specificity": 6,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "$NUUU Was One Of The Top Penny Stocks Of The Day Yesterday, With a 63.6% Gain! Huge News: https://t.co/liDL6IhScs, Related: $HD $HOT $AMIGY",
+            "Correlation": 8,
+            "Sentiment": 9,
+            "Importance": 7,
+            "Impact": 8,
+            "Duration": 4,
+            "Virality": 5,
+            "Source_Score": 5,
+            "Specificity": 7,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "$HD OPTIONS: Straddle Prices for Companies Reporting Financial …: https://t.co/fONBR3hXIH",
+            "Correlation": 6,
+            "Sentiment": 5,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 6,
+            "Virality": 2,
+            "Source_Score": 6,
+            "Specificity": 6,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 7
+        },
+        {
+            "News_content": "$HD Financials Updated Friday, February 19, 2016 02:59:21 AM, Related: $MCD $IWM $SCG $TSN, Link: https://t.co/HdmaVXR2op",
+            "Correlation": 7,
+            "Sentiment": 4,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 5,
+            "Virality": 2,
+            "Source_Score": 5,
+            "Specificity": 7,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 2
+        }
+    ]
+}

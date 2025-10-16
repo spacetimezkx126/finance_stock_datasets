@@ -1,0 +1,94 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 6,
+        "Impact": 6,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 8,
+        "Specificity": 7,
+        "Sector_Spread": 5,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "C sets price target on NFLX at 722",
+            "Correlation": 10,
+            "Sentiment": 8,
+            "Importance": 7,
+            "Impact": 7,
+            "Duration": 3,
+            "Virality": 4,
+            "Source_Score": 9,
+            "Specificity": 10,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Visual look at what feds fined UBS, BAC, C, RBS, JPM, BCS in forex scandal",
+            "Correlation": 8,
+            "Sentiment": 3,
+            "Importance": 9,
+            "Impact": 8,
+            "Duration": 6,
+            "Virality": 7,
+            "Source_Score": 8,
+            "Specificity": 9,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "VALE Companhia Vale do Rio Doce SA E.P.S. Trending VALE AAL ATNM C",
+            "Correlation": 7,
+            "Sentiment": 5,
+            "Importance": 5,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 2,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "India Rupee Gains Most in a Week as Dollar Drops on Fed Minutes",
+            "Correlation": 6,
+            "Sentiment": 7,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 5,
+            "Virality": 3,
+            "Source_Score": 8,
+            "Specificity": 7,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Citigroup Inc. Downgrade by Zacks (Ranked 63rd) to Hold",
+            "Correlation": 9,
+            "Sentiment": 4,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 8,
+            "Specificity": 9,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Six Banks Pay 5.8 Billion, Five Guilty of Market Rigging C JPM BCS RBS manipulate U.S. dollar, Euro",
+            "Correlation": 8,
+            "Sentiment": 3,
+            "Importance": 10,
+            "Impact": 9,
+            "Duration": 7,
+            "Virality": 8,
+            "Source_Score": 8,
+            "Specificity": 9,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 1
+        }
+    ]
+}

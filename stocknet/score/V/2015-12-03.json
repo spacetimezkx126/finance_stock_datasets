@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 6,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 3,
+        "Duration": 2,
+        "Virality": 7,
+        "Source_Score": 5,
+        "Specificity": 4,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "SALT Scorpio Bulkers Inc. Message Board Posts https://t.co/xJF6hK5eOo $SALT $PFF $GOOG $V #SALT #invest #finance",
+            "Correlation": 7,
+            "Sentiment": 6,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 8,
+            "Source_Score": 5,
+            "Specificity": 5,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "V Virgin America Inc. Investor Opinions https://t.co/dMAsymiGkh $V $AEM $USO $NFLX #V #pennystocks #share",
+            "Correlation": 5,
+            "Sentiment": 4,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 6,
+            "Source_Score": 5,
+            "Specificity": 3,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 1
+        }
+    ]
+}

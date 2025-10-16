@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 3,
+        "Importance": 5,
+        "Impact": 6,
+        "Duration": 2,
+        "Virality": 1,
+        "Source_Score": 7,
+        "Specificity": 9,
+        "Sector_Spread": 2,
+        "Tech_Mentions": 8
+    },
+    "Each_item": [
+        {
+            "News_content": "AMGN Max Pain is 147.00, Maturity on 04/01/2016, Previous close at 149.49, bearish",
+            "Correlation": 8,
+            "Sentiment": 3,
+            "Importance": 5,
+            "Impact": 6,
+            "Duration": 2,
+            "Virality": 1,
+            "Source_Score": 7,
+            "Specificity": 9,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 8
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 6,
+        "Importance": 5,
+        "Impact": 7,
+        "Duration": 4,
+        "Virality": 6,
+        "Source_Score": 5,
+        "Specificity": 7,
+        "Sector_Spread": 3,
+        "Tech_Mentions": 4
+    },
+    "Each_item": [
+        {
+            "News_content": "$FB dropped down today and testing its $71.55 support level",
+            "Correlation": 9,
+            "Sentiment": 3,
+            "Importance": 6,
+            "Impact": 7,
+            "Duration": 3,
+            "Virality": 5,
+            "Source_Score": 6,
+            "Specificity": 9,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 8
+        },
+        {
+            "News_content": "danrocks: $FB Hitting Buzz",
+            "Correlation": 7,
+            "Sentiment": 7,
+            "Importance": 4,
+            "Impact": 5,
+            "Duration": 2,
+            "Virality": 8,
+            "Source_Score": 4,
+            "Specificity": 5,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "$FB +1.72% holding",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 6,
+            "Duration": 3,
+            "Virality": 4,
+            "Source_Score": 5,
+            "Specificity": 7,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "$FB is showing a huge bounce",
+            "Correlation": 8,
+            "Sentiment": 8,
+            "Importance": 6,
+            "Impact": 8,
+            "Duration": 4,
+            "Virality": 6,
+            "Source_Score": 6,
+            "Specificity": 7,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 5
+        },
+        {
+            "News_content": "Popular: $BAC, $FB, $UVXY, $ABBV, $P, $PCLN, $APA, $CBS, $CLF, $HST, $VRNT, $NUS",
+            "Correlation": 5,
+            "Sentiment": 5,
+            "Importance": 3,
+            "Impact": 4,
+            "Duration": 2,
+            "Virality": 7,
+            "Source_Score": 4,
+            "Specificity": 4,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "$FB at 72 was a great buy in AH",
+            "Correlation": 8,
+            "Sentiment": 7,
+            "Importance": 5,
+            "Impact": 6,
+            "Duration": 3,
+            "Virality": 5,
+            "Source_Score": 5,
+            "Specificity": 8,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 4
+        }
+    ]
+}

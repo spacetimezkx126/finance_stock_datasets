@@ -1,0 +1,68 @@
+{
+    "Overall_score": {
+        "Correlation": 3,
+        "Sentiment": 4,
+        "Importance": 2,
+        "Impact": 3,
+        "Duration": 2,
+        "Virality": 5,
+        "Source_Score": 3,
+        "Specificity": 4,
+        "Sector_Spread": 3,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "Amos a verla sis fanniibarra @ EA$T $IDE $TOCKTON",
+            "Correlation": 4,
+            "Sentiment": 5,
+            "Importance": 2,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 6,
+            "Source_Score": 3,
+            "Specificity": 4,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT @LMft1DColombia: BRA$IL E$TÁ JUGANDO DEMA$IADO",
+            "Correlation": 2,
+            "Sentiment": 3,
+            "Importance": 1,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 4,
+            "Source_Score": 2,
+            "Specificity": 3,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "RT @InfamousLok: FARW3$T Gangsta",
+            "Correlation": 3,
+            "Sentiment": 4,
+            "Importance": 2,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 5,
+            "Source_Score": 3,
+            "Specificity": 3,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "$KO Day High\n\nAlso See: $BBRY $ELTP $FCS $T ~",
+            "Correlation": 5,
+            "Sentiment": 5,
+            "Importance": 3,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 6,
+            "Source_Score": 4,
+            "Specificity": 5,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 2
+        }
+    ]
+}

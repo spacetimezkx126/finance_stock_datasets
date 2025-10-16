@@ -1,0 +1,68 @@
+{
+    "Overall_score": {
+        "Correlation": 3,
+        "Sentiment": 5,
+        "Importance": 2,
+        "Impact": 2,
+        "Duration": 1,
+        "Virality": 6,
+        "Source_Score": 4,
+        "Specificity": 3,
+        "Sector_Spread": 5,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "\"Kodeine\" dropping later today \"Lo$T\" dropping Monday ! #SwankWorld ($wank)",
+            "Correlation": 2,
+            "Sentiment": 7,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 8,
+            "Source_Score": 3,
+            "Specificity": 4,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "RT @EmiForLove: Michael Kors Gift Gveaway and FA$T CA$H 7PM EST!! #GlobalGoodEmiLOVE",
+            "Correlation": 3,
+            "Sentiment": 8,
+            "Importance": 2,
+            "Impact": 2,
+            "Duration": 2,
+            "Virality": 7,
+            "Source_Score": 4,
+            "Specificity": 5,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "@EmiForLove OUR PASS LOVE FORWARD MESSAGES HAVE BEEN SEEN BY OVER 283 MILLION ! #GlobalGoodEmiLOVE FA$T CASH GRAB @ 350M WAY TO GO!!!",
+            "Correlation": 2,
+            "Sentiment": 9,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 6,
+            "Source_Score": 3,
+            "Specificity": 3,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "$MMM Opinions Updated Friday, February 12, 2016 2:59:26 PM $IYT $T $IBM $XLK",
+            "Correlation": 5,
+            "Sentiment": 3,
+            "Importance": 3,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 4,
+            "Source_Score": 5,
+            "Specificity": 6,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 2
+        }
+    ]
+}

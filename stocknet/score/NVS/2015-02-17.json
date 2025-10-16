@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 6,
+        "Importance": 8,
+        "Impact": 7,
+        "Duration": 9,
+        "Virality": 5,
+        "Source_Score": 8,
+        "Specificity": 6,
+        "Sector_Spread": 10,
+        "Tech_Mentions": 3
+    },
+    "Each_item": [
+        {
+            "News_content": "Update On Prospects For Drugs To Make You Live Longer: Novartis ...",
+            "Correlation": 7,
+            "Sentiment": 6,
+            "Importance": 8,
+            "Impact": 7,
+            "Duration": 9,
+            "Virality": 5,
+            "Source_Score": 8,
+            "Specificity": 6,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 3
+        }
+    ]
+}

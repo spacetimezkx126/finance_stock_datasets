@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 6,
+        "Importance": 7,
+        "Impact": 6,
+        "Duration": 9,
+        "Virality": 4,
+        "Source_Score": 7,
+        "Specificity": 5,
+        "Sector_Spread": 3,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "Are analysts underestimating the long term contribution of the current iPhone lineup?",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 9,
+            "Virality": 4,
+            "Source_Score": 7,
+            "Specificity": 5,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 2
+        }
+    ]
+}

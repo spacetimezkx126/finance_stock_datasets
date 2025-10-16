@@ -1,0 +1,68 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 6,
+        "Importance": 6,
+        "Impact": 5,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 7,
+        "Specificity": 6,
+        "Sector_Spread": 5,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @ScripDonnaDC: $BXLT $MNTA initiate pivotal trial for #Humira #biosimilar M923  http://t.co/cCF4WoJSFz",
+            "Correlation": 10,
+            "Sentiment": 8,
+            "Importance": 9,
+            "Impact": 7,
+            "Duration": 6,
+            "Virality": 4,
+            "Source_Score": 8,
+            "Specificity": 10,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT @clayton_dd: ABBV AbbVie Inc. Ideas http://t.co/Zj3l5wbDkW $ABBV $BABA $XLK $AMGN #ABBV #invest #nasdaq",
+            "Correlation": 6,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 3,
+            "Source_Score": 6,
+            "Specificity": 5,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "ABBV AbbVie Inc. Summary http://t.co/AKUbf2tSLE $ABBV $NFLX $PAAS $AVXL #ABBV #stocks #invest",
+            "Correlation": 5,
+            "Sentiment": 4,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 2,
+            "Virality": 2,
+            "Source_Score": 5,
+            "Specificity": 4,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT @SeekingAlpha: Quirky Or Sensible? Weighting A Dividend Growth Portfolio By Quality And Income http://t.co/DX0SAGbW4w $AAPL #APPLE $ABBV",
+            "Correlation": 4,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 5,
+            "Source_Score": 9,
+            "Specificity": 3,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 2
+        }
+    ]
+}

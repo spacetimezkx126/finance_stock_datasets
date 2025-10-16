@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 5,
+        "Importance": 7,
+        "Impact": 6,
+        "Duration": 4,
+        "Virality": 7,
+        "Source_Score": 9,
+        "Specificity": 6,
+        "Sector_Spread": 10,
+        "Tech_Mentions": 3
+    },
+    "Each_item": [
+        {
+            "News_content": "Twitter Top 10 January 2015 Picks $CELG $FEYE $GS $LNKD $YHOO $BAC $LULU $RAD $EBAY $SBUX $ORCL $BIIB",
+            "Correlation": 7,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 8,
+            "Source_Score": 8,
+            "Specificity": 5,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "Key takeaways from Oracle's 2Q15 earnings $CRM $INTC $ORCL $QQQ",
+            "Correlation": 9,
+            "Sentiment": 4,
+            "Importance": 9,
+            "Impact": 8,
+            "Duration": 5,
+            "Virality": 6,
+            "Source_Score": 10,
+            "Specificity": 7,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 4
+        }
+    ]
+}

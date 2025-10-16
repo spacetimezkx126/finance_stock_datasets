@@ -1,0 +1,94 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 6,
+        "Duration": 3,
+        "Virality": 8,
+        "Source_Score": 5,
+        "Specificity": 6,
+        "Sector_Spread": 9,
+        "Tech_Mentions": 7
+    },
+    "Each_item": [
+        {
+            "News_content": "Our Platinum Members Have Been Seeing MASSIVE Gains On Our Penny Stock Picks Subscribe Today $AMZN $QCOM $CSCO",
+            "Correlation": 6,
+            "Sentiment": 8,
+            "Importance": 3,
+            "Impact": 5,
+            "Duration": 2,
+            "Virality": 7,
+            "Source_Score": 4,
+            "Specificity": 5,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "RT $AAPL HFT Algos BROKE 109.80 in SIGMA-X CROSSFINDER ATS LX 09:34 P/T 108.00 #Quant $MSFT $FB $GPRO $AMZN $GOOG $TSLA $NFLX $QQQ",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 7,
+            "Duration": 3,
+            "Virality": 9,
+            "Source_Score": 6,
+            "Specificity": 8,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 9
+        },
+        {
+            "News_content": "RT Not every stock was a loser this quarter $CMG +20 $GOOGL +20 $AMZN +20 $ATVI +25 More",
+            "Correlation": 7,
+            "Sentiment": 7,
+            "Importance": 4,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 8,
+            "Source_Score": 5,
+            "Specificity": 7,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 4
+        },
+        {
+            "News_content": "RT Amazon's Latest Delivery Test Taps Into Gig Economy $AMZN",
+            "Correlation": 6,
+            "Sentiment": 6,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 5,
+            "Virality": 7,
+            "Source_Score": 5,
+            "Specificity": 8,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "RT $AAPL HFT Algos triggered SELL in SIGMA-X CROSSFINDER ATS LX 09:22 P/T 108.00 #Quant $MSFT $FB $GPRO $AMZN $GOOG $TSLA $NFLX $QQQ",
+            "Correlation": 8,
+            "Sentiment": 4,
+            "Importance": 5,
+            "Impact": 7,
+            "Duration": 3,
+            "Virality": 9,
+            "Source_Score": 6,
+            "Specificity": 8,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 9
+        },
+        {
+            "News_content": "RT $AAPL HFT Algos triggered SELL in SIGMA-X CROSSFINDER ATS LX 09:50 P/T 108.00 #Quant $MSFT $FB $GPRO $AMZN $GOOG $TSLA $NFLX $QQQ",
+            "Correlation": 8,
+            "Sentiment": 4,
+            "Importance": 5,
+            "Impact": 7,
+            "Duration": 3,
+            "Virality": 9,
+            "Source_Score": 6,
+            "Specificity": 8,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 9
+        }
+    ]
+}

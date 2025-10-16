@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 3,
+        "Sentiment": 2,
+        "Importance": 7,
+        "Impact": 4,
+        "Duration": 5,
+        "Virality": 6,
+        "Source_Score": 4,
+        "Specificity": 8,
+        "Sector_Spread": 2,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @LucioQuincioC: Venezuela sin medicamentos para el cáncer en su mayoría niños y Maduro se compra nuevo avión Embraer 190 #Cecaf U$D 80",
+            "Correlation": 3,
+            "Sentiment": 2,
+            "Importance": 7,
+            "Impact": 4,
+            "Duration": 5,
+            "Virality": 6,
+            "Source_Score": 4,
+            "Specificity": 8,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        }
+    ]
+}

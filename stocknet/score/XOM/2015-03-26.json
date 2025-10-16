@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 6,
+        "Impact": 4,
+        "Duration": 3,
+        "Virality": 2,
+        "Source_Score": 8,
+        "Specificity": 7,
+        "Sector_Spread": 9,
+        "Tech_Mentions": 3
+    },
+    "Each_item": [
+        {
+            "News_content": "Weekly Dow #Stocks Trend $MCD $MRK $PFE $NKE $VZ $UNH $TRV $CVX $DIS $HD $IBM $UTX $BA $KO $XOM $AAPL $PG $JNJ",
+            "Correlation": 9,
+            "Sentiment": 5,
+            "Importance": 5,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 2,
+            "Source_Score": 7,
+            "Specificity": 6,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "$XOM Exxon Mobil: Return On Capital Employed (ROCE) And Valuation",
+            "Correlation": 6,
+            "Sentiment": 5,
+            "Importance": 7,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 2,
+            "Source_Score": 9,
+            "Specificity": 8,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 5
+        }
+    ]
+}

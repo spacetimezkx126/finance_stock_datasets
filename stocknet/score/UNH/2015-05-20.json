@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 8,
+        "Importance": 5,
+        "Impact": 6,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 5,
+        "Specificity": 7,
+        "Sector_Spread": 6,
+        "Tech_Mentions": 4
+    },
+    "Each_item": [
+        {
+            "News_content": "$UNH The five day chart is amazing. Must-own company in UNH.",
+            "Correlation": 9,
+            "Sentiment": 10,
+            "Importance": 4,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 5,
+            "Specificity": 8,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 5
+        },
+        {
+            "News_content": "UNH Unitedhealth Group, Inc. Current Price Trending $UNH $XLE $ISIS $SLV #UNH #pennystocks",
+            "Correlation": 6,
+            "Sentiment": 6,
+            "Importance": 6,
+            "Impact": 7,
+            "Duration": 5,
+            "Virality": 4,
+            "Source_Score": 5,
+            "Specificity": 6,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 3
+        }
+    ]
+}

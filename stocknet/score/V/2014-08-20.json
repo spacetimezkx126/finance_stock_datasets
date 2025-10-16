@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 2,
+        "Sentiment": 8,
+        "Importance": 3,
+        "Impact": 4,
+        "Duration": 5,
+        "Virality": 7,
+        "Source_Score": 1,
+        "Specificity": 2,
+        "Sector_Spread": 3,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "#partiu #JB$V #euvoumorrerdeamor",
+            "Correlation": 2,
+            "Sentiment": 8,
+            "Importance": 3,
+            "Impact": 4,
+            "Duration": 5,
+            "Virality": 7,
+            "Source_Score": 1,
+            "Specificity": 2,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        }
+    ]
+}

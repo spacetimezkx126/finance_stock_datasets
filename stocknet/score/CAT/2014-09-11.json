@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 4,
+        "Importance": 6,
+        "Impact": 5,
+        "Duration": 3,
+        "Virality": 2,
+        "Source_Score": 5,
+        "Specificity": 8,
+        "Sector_Spread": 9,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "Caterpillar : Patent Issued for Arcuate Shields for Compactor Wheel Assembly and Compactor Using Same $CAT",
+            "Correlation": 10,
+            "Sentiment": 7,
+            "Importance": 8,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 1,
+            "Source_Score": 6,
+            "Specificity": 10,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "#SENTISHIFTDOWN $INTC $NFLX $PCLN $IRS $TSLA $EMC $SPX $MSFT $EBAY $CAT #quantheta",
+            "Correlation": 4,
+            "Sentiment": 1,
+            "Importance": 4,
+            "Impact": 4,
+            "Duration": 2,
+            "Virality": 3,
+            "Source_Score": 4,
+            "Specificity": 6,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 1
+        }
+    ]
+}

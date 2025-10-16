@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 4,
+        "Sentiment": 5,
+        "Importance": 3,
+        "Impact": 3,
+        "Duration": 2,
+        "Virality": 6,
+        "Source_Score": 5,
+        "Specificity": 4,
+        "Sector_Spread": 2,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "$MO received a new alert. Find out why at http://t.co/nZwqReM0tj #stocks #daytrading #trading #mkt #NYSE #NASDAQ #markets",
+            "Correlation": 7,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 5,
+            "Source_Score": 6,
+            "Specificity": 6,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT @jh_suarez: Apoyando al CAPITALI$MO de la F1 “@edoilustrado: ...El regalo para Pastor Maldonado. Aplica para 2013, 2014, 2015...\"",
+            "Correlation": 2,
+            "Sentiment": 5,
+            "Importance": 2,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 7,
+            "Source_Score": 4,
+            "Specificity": 3,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        }
+    ]
+}

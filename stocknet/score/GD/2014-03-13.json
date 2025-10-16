@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 6,
+        "Importance": 7,
+        "Impact": 5,
+        "Duration": 8,
+        "Virality": 4,
+        "Source_Score": 9,
+        "Specificity": 8,
+        "Sector_Spread": 6,
+        "Tech_Mentions": 3
+    },
+    "Each_item": [
+        {
+            "News_content": "$GD - U.S. Navy Awards General Dynamics $57 Million for USS Minnesota Mainte...",
+            "Correlation": 10,
+            "Sentiment": 8,
+            "Importance": 9,
+            "Impact": 7,
+            "Duration": 10,
+            "Virality": 5,
+            "Source_Score": 9,
+            "Specificity": 10,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "$GD What's Holding Women Back in Science and Technology Industries",
+            "Correlation": 4,
+            "Sentiment": 4,
+            "Importance": 5,
+            "Impact": 3,
+            "Duration": 6,
+            "Virality": 3,
+            "Source_Score": 9,
+            "Specificity": 6,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 4
+        }
+    ]
+}

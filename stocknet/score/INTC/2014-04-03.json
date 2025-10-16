@@ -1,0 +1,81 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 6,
+        "Importance": 7,
+        "Impact": 6,
+        "Duration": 5,
+        "Virality": 4,
+        "Source_Score": 8,
+        "Specificity": 7,
+        "Sector_Spread": 6,
+        "Tech_Mentions": 5
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @barronstechblog: Intel Rising: Piper Ups to Buy; PCs Stabilizing, Mobile Improving - Tech Trader Daily - Barron's $INTC $ARMH",
+            "Correlation": 9,
+            "Sentiment": 8,
+            "Importance": 7,
+            "Impact": 7,
+            "Duration": 4,
+            "Virality": 6,
+            "Source_Score": 9,
+            "Specificity": 8,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "Piper Jaffray upgraduje #Intel $INTC a downgraduje #Broadcom $BRCM. Na aftermarket INTC roste o 0,6 % a BRCM klesá o 1 %. #akcie #Ratings",
+            "Correlation": 9,
+            "Sentiment": 6,
+            "Importance": 8,
+            "Impact": 6,
+            "Duration": 3,
+            "Virality": 5,
+            "Source_Score": 8,
+            "Specificity": 9,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "$INTC - Globalfoundries edges out Intel for IBM chip-making business: WSJ",
+            "Correlation": 8,
+            "Sentiment": 4,
+            "Importance": 8,
+            "Impact": 5,
+            "Duration": 6,
+            "Virality": 3,
+            "Source_Score": 9,
+            "Specificity": 8,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 4
+        },
+        {
+            "News_content": "$INTC - Globalfoundries edges out Intel for IBM chip-making business -WSJ",
+            "Correlation": 8,
+            "Sentiment": 4,
+            "Importance": 8,
+            "Impact": 5,
+            "Duration": 6,
+            "Virality": 3,
+            "Source_Score": 9,
+            "Specificity": 8,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 4
+        },
+        {
+            "News_content": "Did you lose money on $CHTR $INTC $GPC $ISRG Visit http://t.co/jQLg0jOBEQ",
+            "Correlation": 5,
+            "Sentiment": 2,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 1,
+            "Source_Score": 5,
+            "Specificity": 5,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 5,
+        "Sentiment": 4,
+        "Importance": 6,
+        "Impact": 4,
+        "Duration": 7,
+        "Virality": 3,
+        "Source_Score": 8,
+        "Specificity": 6,
+        "Sector_Spread": 9,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "Glassdoors Top 25 Most Difficult Companies To Interview",
+            "Correlation": 3,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 2,
+            "Duration": 6,
+            "Virality": 7,
+            "Source_Score": 8,
+            "Specificity": 5,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "Short basket of CAT, DE, KO and PG delivering whether markets up or down lately",
+            "Correlation": 7,
+            "Sentiment": 3,
+            "Importance": 8,
+            "Impact": 6,
+            "Duration": 8,
+            "Virality": 1,
+            "Source_Score": 8,
+            "Specificity": 7,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 4
+        }
+    ]
+}

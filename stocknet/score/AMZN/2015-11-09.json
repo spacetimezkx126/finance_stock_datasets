@@ -1,0 +1,94 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 6,
+        "Importance": 6,
+        "Impact": 5,
+        "Duration": 4,
+        "Virality": 5,
+        "Source_Score": 6,
+        "Specificity": 6,
+        "Sector_Spread": 7,
+        "Tech_Mentions": 3
+    },
+    "Each_item": [
+        {
+            "News_content": "60% of America's top tech companies founded by 1st/2nd gen immigrants. Companies include $AAPL, $GOOG, $IBM, $FB, $AMZN.",
+            "Correlation": 8,
+            "Sentiment": 9,
+            "Importance": 8,
+            "Impact": 4,
+            "Duration": 6,
+            "Virality": 7,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "How #Amazon and Two Other #Firms Are Changing #Operations — #Forever. | #tech #innovation $AMZN",
+            "Correlation": 7,
+            "Sentiment": 8,
+            "Importance": 7,
+            "Impact": 5,
+            "Duration": 5,
+            "Virality": 6,
+            "Source_Score": 7,
+            "Specificity": 6,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 4
+        },
+        {
+            "News_content": "Some strong buy and holds thru year end include $FIT, $FB, $GOOGL, $AMZN, $RARE, $BMRN, $ACAD, $B.",
+            "Correlation": 6,
+            "Sentiment": 7,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 4,
+            "Source_Score": 6,
+            "Specificity": 7,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "$AMZN is strong. $663 could trigger quick run to $672. Not much resistance. Support down at 652.",
+            "Correlation": 9,
+            "Sentiment": 8,
+            "Importance": 6,
+            "Impact": 7,
+            "Duration": 2,
+            "Virality": 3,
+            "Source_Score": 6,
+            "Specificity": 9,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 8
+        },
+        {
+            "News_content": "Share your #Amazon Prime account with spouse to avoid seeing gift orders $AMZN",
+            "Correlation": 5,
+            "Sentiment": 6,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 5,
+            "Source_Score": 5,
+            "Specificity": 5,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "If somebody else were running BBBY these guys would be like Circuit City. All their items could be bought on $AMZN",
+            "Correlation": 7,
+            "Sentiment": 4,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 4,
+            "Source_Score": 6,
+            "Specificity": 7,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 2
+        }
+    ]
+}

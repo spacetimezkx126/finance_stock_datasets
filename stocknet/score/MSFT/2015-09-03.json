@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 6,
+        "Importance": 5,
+        "Impact": 4,
+        "Duration": 3,
+        "Virality": 5,
+        "Source_Score": 6,
+        "Specificity": 8,
+        "Sector_Spread": 7,
+        "Tech_Mentions": 4
+    },
+    "Each_item": [
+        {
+            "News_content": "@ASUS unveils a @Windows 10-powered PC-on-a-stick with the new #VivoStick $MSFT $INTC",
+            "Correlation": 9,
+            "Sentiment": 8,
+            "Importance": 7,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 6,
+            "Source_Score": 7,
+            "Specificity": 10,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "Say what you want about $MSFT, but saving PC settings online when I have to do system recovery keeping my sanity. All to verify HW is broken",
+            "Correlation": 5,
+            "Sentiment": 4,
+            "Importance": 3,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 4,
+            "Source_Score": 5,
+            "Specificity": 6,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 5
+        }
+    ]
+}

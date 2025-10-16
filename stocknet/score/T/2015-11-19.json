@@ -1,0 +1,68 @@
+{
+    "Overall_score": {
+        "Correlation": 4,
+        "Sentiment": 3,
+        "Importance": 3,
+        "Impact": 2,
+        "Duration": 2,
+        "Virality": 3,
+        "Source_Score": 5,
+        "Specificity": 4,
+        "Sector_Spread": 1,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "AT&T Inc., Stock price forecast: 33.32 (-0.66%). Probability: 82.93%. More on: https://t.co/lHCKfKJdCy",
+            "Correlation": 10,
+            "Sentiment": 4,
+            "Importance": 7,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 5,
+            "Source_Score": 8,
+            "Specificity": 9,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 7
+        },
+        {
+            "News_content": "NEW MUSIC !! GHX$T - Assassination https://t.co/LBwkYzHfZv #soundcloud",
+            "Correlation": 1,
+            "Sentiment": 8,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 6,
+            "Source_Score": 3,
+            "Specificity": 2,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Later today: iDOLG@NG$T@$ at #RenshaSession with @mizu3142",
+            "Correlation": 1,
+            "Sentiment": 5,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 4,
+            "Source_Score": 2,
+            "Specificity": 3,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "mood: ??32Z|??#?D%$TË???T`S#¨&*(@??@#$!!!!?#!CZ^}{`{Ç``^{^}{[=-90",
+            "Correlation": 1,
+            "Sentiment": 2,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 2,
+            "Source_Score": 1,
+            "Specificity": 1,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        }
+    ]
+}

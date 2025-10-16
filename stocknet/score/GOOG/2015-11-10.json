@@ -1,0 +1,107 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 6,
+        "Importance": 7,
+        "Impact": 6,
+        "Duration": 5,
+        "Virality": 4,
+        "Source_Score": 7,
+        "Specificity": 7,
+        "Sector_Spread": 6,
+        "Tech_Mentions": 3
+    },
+    "Each_item": [
+        {
+            "News_content": "In Search Of Alpha-Trading On Limited Investor Attention https://t.co/bXR4HEoYf0 $GOOG $GOOGL",
+            "Correlation": 9,
+            "Sentiment": 5,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 8,
+            "Specificity": 8,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Take a Look at the Top Stock Picks of this Multi-Billion Dollar Fund $WSH, $ECL, $ADI, $FIS, $GOOG https://t.co/XOv2j0GuZT",
+            "Correlation": 8,
+            "Sentiment": 7,
+            "Importance": 8,
+            "Impact": 7,
+            "Duration": 6,
+            "Virality": 4,
+            "Source_Score": 7,
+            "Specificity": 7,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Alot of Chatrooms are afraid to play the BIG Board Stocks, LIKE $AMZN $GOOG $GOOGL $PCLN But in #Awesomecalls",
+            "Correlation": 7,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 5,
+            "Source_Score": 6,
+            "Specificity": 6,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Snapchat's video numbers are exploding FortuneMagazine https://t.co/NarKS1MYmM #VideoMarketing #Facebook $FB $GOOG",
+            "Correlation": 8,
+            "Sentiment": 8,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 6,
+            "Source_Score": 9,
+            "Specificity": 8,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "$GOOG Developers in the Desert: Google's Oasis for Startups in Dubai https://t.co/ywYbM3bMMu",
+            "Correlation": 9,
+            "Sentiment": 7,
+            "Importance": 8,
+            "Impact": 7,
+            "Duration": 6,
+            "Virality": 4,
+            "Source_Score": 8,
+            "Specificity": 9,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "Our Stock Alerts Gained Over 1,900% In 2 And A Half Months! See Our Special New Pick: https://t.co/rdhi4T4cqG $AMZN $MCOX $GOOG",
+            "Correlation": 7,
+            "Sentiment": 9,
+            "Importance": 6,
+            "Impact": 8,
+            "Duration": 4,
+            "Virality": 7,
+            "Source_Score": 5,
+            "Specificity": 6,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Google just acquired Fly Labs, one of the best iOS video editing apps, to fold into Google Photos $GOOG #mobiles",
+            "Correlation": 9,
+            "Sentiment": 8,
+            "Importance": 9,
+            "Impact": 8,
+            "Duration": 7,
+            "Virality": 5,
+            "Source_Score": 8,
+            "Specificity": 9,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 4
+        }
+    ]
+}

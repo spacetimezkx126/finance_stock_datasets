@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 2,
+        "Sentiment": 3,
+        "Importance": 4,
+        "Impact": 3,
+        "Duration": 5,
+        "Virality": 6,
+        "Source_Score": 3,
+        "Specificity": 4,
+        "Sector_Spread": 1,
+        "Tech_Mentions": 0
+    },
+    "Each_item": [
+        {
+            "News_content": "I Can't-Dee Emm x L$D x Louie by $teezNation #RipRozay @Dee__Emm S/o Louie",
+            "Correlation": 1,
+            "Sentiment": 2,
+            "Importance": 2,
+            "Impact": 1,
+            "Duration": 3,
+            "Virality": 7,
+            "Source_Score": 2,
+            "Specificity": 3,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "Venezuela sin medicamentos para el cáncer en su mayoría niños y Maduro se compra nuevo avión Embraer 190 #Tropa",
+            "Correlation": 3,
+            "Sentiment": 4,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 7,
+            "Virality": 5,
+            "Source_Score": 4,
+            "Specificity": 5,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        }
+    ]
+}

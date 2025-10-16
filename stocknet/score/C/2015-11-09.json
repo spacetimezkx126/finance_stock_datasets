@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 6,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 5,
+        "Duration": 3,
+        "Virality": 2,
+        "Source_Score": 7,
+        "Specificity": 6,
+        "Sector_Spread": 3,
+        "Tech_Mentions": 8
+    },
+    "Each_item": [
+        {
+            "News_content": "C:\\n\\nCitigroup Technical Analysis - Primary Theme Remains Bullish:\\n\\nhttps://t.co/jcm8UVUBMS",
+            "Correlation": 10,
+            "Sentiment": 8,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 3,
+            "Source_Score": 9,
+            "Specificity": 8,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 10
+        },
+        {
+            "News_content": "やってしまった\\nお買い物して、帰りにゲーセン寄ってしまった\\n2000円が…… u$C$",
+            "Correlation": 2,
+            "Sentiment": 3,
+            "Importance": 1,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 1,
+            "Source_Score": 5,
+            "Specificity": 4,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 6
+        }
+    ]
+}

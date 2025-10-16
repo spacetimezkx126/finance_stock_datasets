@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 9,
+        "Sentiment": 6,
+        "Importance": 8,
+        "Impact": 7,
+        "Duration": 5,
+        "Virality": 7,
+        "Source_Score": 9,
+        "Specificity": 10,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 3
+    },
+    "Each_item": [
+        {
+            "News_content": "@CNBC: Shares of... • $TMUS up more than 4% • $S down more than 4% • $T down more than 2% • $VZ down more than 2% @TMobile",
+            "Correlation": 10,
+            "Sentiment": 6,
+            "Importance": 7,
+            "Impact": 8,
+            "Duration": 4,
+            "Virality": 8,
+            "Source_Score": 9,
+            "Specificity": 10,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "RT @WaltBTIG: Reported Q2 wireless service rev growth: $TMUS +8.1% $VZ +6.0% $T -5.6% $S -6.3% *includes impact from EIP’s",
+            "Correlation": 9,
+            "Sentiment": 6,
+            "Importance": 9,
+            "Impact": 6,
+            "Duration": 6,
+            "Virality": 6,
+            "Source_Score": 8,
+            "Specificity": 10,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 4
+        }
+    ]
+}

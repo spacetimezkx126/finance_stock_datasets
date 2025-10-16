@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 8,
+        "Impact": 6,
+        "Duration": 9,
+        "Virality": 4,
+        "Source_Score": 3,
+        "Specificity": 5,
+        "Sector_Spread": 7,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "#Iran is the new kid on the block #TehranStockExchange #frontiermarket",
+            "Correlation": 7,
+            "Sentiment": 5,
+            "Importance": 8,
+            "Impact": 6,
+            "Duration": 9,
+            "Virality": 4,
+            "Source_Score": 3,
+            "Specificity": 5,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        }
+    ]
+}

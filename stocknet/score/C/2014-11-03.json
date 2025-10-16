@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 3,
+        "Sentiment": 9,
+        "Importance": 4,
+        "Impact": 2,
+        "Duration": 3,
+        "Virality": 7,
+        "Source_Score": 5,
+        "Specificity": 6,
+        "Sector_Spread": 1,
+        "Tech_Mentions": 0
+    },
+    "Each_item": [
+        {
+            "News_content": "MY BOYS!!! UCLAWaterPolo takes down USC 10-8 at SC! Hell yeeeeeeah! #GoBruins",
+            "Correlation": 3,
+            "Sentiment": 9,
+            "Importance": 4,
+            "Impact": 2,
+            "Duration": 3,
+            "Virality": 7,
+            "Source_Score": 5,
+            "Specificity": 6,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        }
+    ]
+}

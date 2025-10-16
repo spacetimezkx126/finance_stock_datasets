@@ -1,0 +1,68 @@
+{
+    "Overall_score": {
+        "Correlation": 4,
+        "Sentiment": 5,
+        "Importance": 6,
+        "Impact": 5,
+        "Duration": 7,
+        "Virality": 3,
+        "Source_Score": 6,
+        "Specificity": 5,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "After 3,000% Gains In The Past Year, We Have A Major New Pick Out! Big Update",
+            "Correlation": 9,
+            "Sentiment": 10,
+            "Importance": 8,
+            "Impact": 9,
+            "Duration": 6,
+            "Virality": 8,
+            "Source_Score": 5,
+            "Specificity": 7,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Citigroup: Emerging Markets, FX And Oil Meltdown Risks",
+            "Correlation": 8,
+            "Sentiment": 2,
+            "Importance": 9,
+            "Impact": 8,
+            "Duration": 9,
+            "Virality": 6,
+            "Source_Score": 9,
+            "Specificity": 8,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "$C'",
+            "Correlation": 1,
+            "Sentiment": 5,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 1,
+            "Source_Score": 1,
+            "Specificity": 1,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Tom's Tip For #Excel: Repeats in list A2:A25. List uniques. In C2 copy down ARRAY =INDEX($A$2:$A$25,MATCH(0,COUNTIF($C$1:C1,$A$2:$A$25),0))",
+            "Correlation": 1,
+            "Sentiment": 5,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 1,
+            "Source_Score": 3,
+            "Specificity": 6,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 4
+        }
+    ]
+}

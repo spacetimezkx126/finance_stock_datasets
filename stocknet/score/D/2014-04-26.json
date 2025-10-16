@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 3,
+        "Sentiment": 4,
+        "Importance": 5,
+        "Impact": 2,
+        "Duration": 1,
+        "Virality": 6,
+        "Source_Score": 4,
+        "Specificity": 3,
+        "Sector_Spread": 2,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @LucioQuincioC: Venezuela sin medicamentos para el cáncer en su mayoría niños y Maduro se compra nuevo avión Embraer 190 #Tropa U$D 80 m…",
+            "Correlation": 5,
+            "Sentiment": 2,
+            "Importance": 7,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 7,
+            "Source_Score": 5,
+            "Specificity": 6,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "“@outlaw_smutty: S/O to @LorBigBrova and the whole G$D family!”already i appreciate that! 💯",
+            "Correlation": 1,
+            "Sentiment": 7,
+            "Importance": 2,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 5,
+            "Source_Score": 3,
+            "Specificity": 1,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        }
+    ]
+}

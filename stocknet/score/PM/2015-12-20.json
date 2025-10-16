@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 5,
+        "Sentiment": 4,
+        "Importance": 3,
+        "Impact": 2,
+        "Duration": 1,
+        "Virality": 3,
+        "Source_Score": 6,
+        "Specificity": 4,
+        "Sector_Spread": 2,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "INTC Stock Forum Updated Sunday, December 20, 2015 04:06:44 AM",
+            "Correlation": 5,
+            "Sentiment": 4,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 3,
+            "Source_Score": 6,
+            "Specificity": 4,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        }
+    ]
+}

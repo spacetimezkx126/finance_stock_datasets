@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 9,
+        "Sentiment": 4,
+        "Importance": 5,
+        "Impact": 6,
+        "Duration": 3,
+        "Virality": 2,
+        "Source_Score": 7,
+        "Specificity": 10,
+        "Sector_Spread": 3,
+        "Tech_Mentions": 5
+    },
+    "Each_item": [
+        {
+            "News_content": "Volume Alert - CMCSA 56.08 Comcast Corp $CMCSA Hit a high today of 56.74, Closing the day at 10:30 with 56.08, -0.70. http://t.co/VYo3LvhjW3",
+            "Correlation": 9,
+            "Sentiment": 4,
+            "Importance": 5,
+            "Impact": 6,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 7,
+            "Specificity": 10,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 5
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 9,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 3,
+        "Duration": 2,
+        "Virality": 1,
+        "Source_Score": 6,
+        "Specificity": 8,
+        "Sector_Spread": 2,
+        "Tech_Mentions": 3
+    },
+    "Each_item": [
+        {
+            "News_content": "Volume Alert - PEP 103.10 Pepsico Inc $PEP Hit a high today of 103.19. Closing the day at 10:30 with 103.10, +0.41 (+0%)",
+            "Correlation": 9,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 1,
+            "Source_Score": 6,
+            "Specificity": 8,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 3
+        }
+    ]
+}

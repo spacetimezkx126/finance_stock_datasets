@@ -1,0 +1,81 @@
+{
+    "Overall_score": {
+        "Correlation": 4,
+        "Sentiment": 5,
+        "Importance": 3,
+        "Impact": 4,
+        "Duration": 3,
+        "Virality": 6,
+        "Source_Score": 3,
+        "Specificity": 4,
+        "Sector_Spread": 2,
+        "Tech_Mentions": 5
+    },
+    "Each_item": [
+        {
+            "News_content": "Egg Freezing: A Hope, Not a Promise",
+            "Correlation": 2,
+            "Sentiment": 5,
+            "Importance": 3,
+            "Impact": 3,
+            "Duration": 4,
+            "Virality": 6,
+            "Source_Score": 4,
+            "Specificity": 5,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Wowser in breakout mode. Going long on the 8k news.",
+            "Correlation": 9,
+            "Sentiment": 8,
+            "Importance": 7,
+            "Impact": 8,
+            "Duration": 5,
+            "Virality": 7,
+            "Source_Score": 6,
+            "Specificity": 8,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "You know you wanna learn",
+            "Correlation": 1,
+            "Sentiment": 4,
+            "Importance": 2,
+            "Impact": 2,
+            "Duration": 3,
+            "Virality": 5,
+            "Source_Score": 2,
+            "Specificity": 1,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Quadcopter with camera to take your own Aerial #Video it is very easy!",
+            "Correlation": 3,
+            "Sentiment": 6,
+            "Importance": 4,
+            "Impact": 4,
+            "Duration": 4,
+            "Virality": 7,
+            "Source_Score": 3,
+            "Specificity": 6,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 8
+        },
+        {
+            "News_content": "How To Make Millions Presale 70% Off! ALL proceeds DONATED TO CHARITY!",
+            "Correlation": 4,
+            "Sentiment": 7,
+            "Importance": 5,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 8,
+            "Source_Score": 4,
+            "Specificity": 5,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        }
+    ]
+}

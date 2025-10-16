@@ -1,0 +1,55 @@
+{
+    "Overall_score": {
+        "Correlation": 6,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 3,
+        "Duration": 7,
+        "Virality": 5,
+        "Source_Score": 8,
+        "Specificity": 5,
+        "Sector_Spread": 6,
+        "Tech_Mentions": 4
+    },
+    "Each_item": [
+        {
+            "News_content": "Are you hanging on to KLAC GIS GOOG",
+            "Correlation": 4,
+            "Sentiment": 3,
+            "Importance": 2,
+            "Impact": 2,
+            "Duration": 5,
+            "Virality": 3,
+            "Source_Score": 5,
+            "Specificity": 3,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Tip of the iceberg: \"Unseen Operation Behind the Accuracy of Google Maps\" wired GOOG maps technology engineering",
+            "Correlation": 8,
+            "Sentiment": 7,
+            "Importance": 6,
+            "Impact": 4,
+            "Duration": 9,
+            "Virality": 7,
+            "Source_Score": 9,
+            "Specificity": 8,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 6
+        },
+        {
+            "News_content": "Hackathons Helped Facebook Evolve; Now South Korea Wants To Do The Same FB GOOG MSFT via benzinga",
+            "Correlation": 7,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 3,
+            "Duration": 8,
+            "Virality": 6,
+            "Source_Score": 7,
+            "Specificity": 6,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 3
+        }
+    ]
+}

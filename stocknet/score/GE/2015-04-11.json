@@ -1,0 +1,107 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 6,
+        "Importance": 6,
+        "Impact": 5,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 5,
+        "Specificity": 6,
+        "Sector_Spread": 4,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @ZenTrends: Lg-Cap Trailing Stops and Watchlist: http://t.co/ShMoWlLV9x $SPX $BA $SBUX $AIG $GILD $LYB $EOG $SLB $GE $ABBV",
+            "Correlation": 5,
+            "Sentiment": 4,
+            "Importance": 3,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 3,
+            "Source_Score": 4,
+            "Specificity": 5,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT @philstockworld: $GE Swallows Itself to Give Markets a $50Bn Lift: $BX $SPY $UCO $USO $EWJ -- http://t.co/mBA8wgz1iV http://t.co/lXZuLjn…",
+            "Correlation": 7,
+            "Sentiment": 7,
+            "Importance": 6,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 4,
+            "Source_Score": 6,
+            "Specificity": 7,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT @Financial_Orbit: Today's wrap covers element of mania in #Europe & #China, uncertainty re  #Election2015 & an excellent $GE statement h…",
+            "Correlation": 6,
+            "Sentiment": 5,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 3,
+            "Source_Score": 5,
+            "Specificity": 6,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "RT @OptionsHawk: $GE weekly $26 calls traded for $0.06 yesterday, worth $2.40+ here...Insanity",
+            "Correlation": 8,
+            "Sentiment": 8,
+            "Importance": 7,
+            "Impact": 7,
+            "Duration": 2,
+            "Virality": 2,
+            "Source_Score": 6,
+            "Specificity": 9,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 8
+        },
+        {
+            "News_content": "RT @MarketWatch: Apple and General Electric lead the share buyback table: http://t.co/Q6ed2uFZcH $GE $AAPL http://t.co/qh3MPcSz3r",
+            "Correlation": 8,
+            "Sentiment": 7,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 4,
+            "Source_Score": 8,
+            "Specificity": 8,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "$GE announced they have the potential to return $90 billion to investors through 2018 as dividends and buybacks  http://t.co/MrWcigD1Nk",
+            "Correlation": 9,
+            "Sentiment": 9,
+            "Importance": 9,
+            "Impact": 8,
+            "Duration": 6,
+            "Virality": 3,
+            "Source_Score": 7,
+            "Specificity": 10,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "Stock Breakout: April 11th.: 12 breakouts: $ALU, $BXMT (gap), $GE (gap), $ORBK. Two sub-$1, one $1-2. Decent d... http://t.co/NenLOXK0Cg",
+            "Correlation": 6,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 2,
+            "Source_Score": 5,
+            "Specificity": 6,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 3
+        }
+    ]
+}

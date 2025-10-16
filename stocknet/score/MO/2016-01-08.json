@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 2,
+        "Sentiment": 3,
+        "Importance": 4,
+        "Impact": 3,
+        "Duration": 5,
+        "Virality": 6,
+        "Source_Score": 3,
+        "Specificity": 2,
+        "Sector_Spread": 1,
+        "Tech_Mentions": 0
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @totibest: @WilmerSolano @LLORAZUELA POR ESO ESTAMOS COMO ESTAMOS... SOCIALISMO CÁNCER DE VENEZUELA.",
+            "Correlation": 2,
+            "Sentiment": 3,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 5,
+            "Virality": 6,
+            "Source_Score": 3,
+            "Specificity": 2,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        }
+    ]
+}

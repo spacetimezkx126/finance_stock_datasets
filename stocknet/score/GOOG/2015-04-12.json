@@ -1,0 +1,68 @@
+{
+    "Overall_score": {
+        "Correlation": 6,
+        "Sentiment": 4,
+        "Importance": 5,
+        "Impact": 5,
+        "Duration": 3,
+        "Virality": 7,
+        "Source_Score": 4,
+        "Specificity": 6,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 5
+    },
+    "Each_item": [
+        {
+            "News_content": "This Millionaire Maker For Traders Shares His Secrets! Click here .. $ERBB $BBDA $GOOG",
+            "Correlation": 7,
+            "Sentiment": 8,
+            "Importance": 4,
+            "Impact": 6,
+            "Duration": 2,
+            "Virality": 9,
+            "Source_Score": 3,
+            "Specificity": 5,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Your tweet about $GOOG had a sentiment of 5 and was featured on Market Parse.",
+            "Correlation": 6,
+            "Sentiment": 5,
+            "Importance": 3,
+            "Impact": 4,
+            "Duration": 1,
+            "Virality": 8,
+            "Source_Score": 6,
+            "Specificity": 7,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Learn stock technical analysis and charting. $AAPL $GOOG $JRJC $LIVE $INTC $TWTR",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 7,
+            "Source_Score": 5,
+            "Specificity": 6,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 8
+        },
+        {
+            "News_content": "Our Penny Stock Alerts On $THCZ Gained Over 800%! Subscribe To Get Our Next Pick: $GPS $NSPR $GOOG",
+            "Correlation": 9,
+            "Sentiment": 10,
+            "Importance": 7,
+            "Impact": 9,
+            "Duration": 3,
+            "Virality": 6,
+            "Source_Score": 4,
+            "Specificity": 8,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 2
+        }
+    ]
+}

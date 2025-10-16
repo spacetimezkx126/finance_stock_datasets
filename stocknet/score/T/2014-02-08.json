@@ -1,0 +1,94 @@
+{
+    "Overall_score": {
+        "Correlation": 2,
+        "Sentiment": 3,
+        "Importance": 1,
+        "Impact": 1,
+        "Duration": 2,
+        "Virality": 4,
+        "Source_Score": 3,
+        "Specificity": 2,
+        "Sector_Spread": 1,
+        "Tech_Mentions": 0
+    },
+    "Each_item": [
+        {
+            "News_content": "@DI_MrOhio: SATURDAY OUT 2 Theez TRz #ShineOn #GoFollow @PBGforever @ZinaB702_TNF @MARVILIS757",
+            "Correlation": 1,
+            "Sentiment": 5,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 2,
+            "Virality": 6,
+            "Source_Score": 3,
+            "Specificity": 2,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "RT @REALDROSE_: DONT TRUST A SOUL",
+            "Correlation": 1,
+            "Sentiment": 2,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 5,
+            "Source_Score": 2,
+            "Specificity": 1,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "EQUIPSOUND APRESENTA $$$ EQUIPE FEST $$$ Máxima tranquilidade pra tocar horror com seu som PRESENÇA... http://t.co/yGEt2G442o",
+            "Correlation": 2,
+            "Sentiment": 4,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 2,
+            "Virality": 4,
+            "Source_Score": 3,
+            "Specificity": 3,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "Best fRi3nDz 4 LyF3 #cali #oldtown http://t.co/MVNP5eJQAW",
+            "Correlation": 1,
+            "Sentiment": 6,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 2,
+            "Virality": 5,
+            "Source_Score": 2,
+            "Specificity": 2,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "#TheusPaye ton STICK DHERBE?",
+            "Correlation": 1,
+            "Sentiment": 3,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 4,
+            "Source_Score": 2,
+            "Specificity": 1,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "TEKNOLOJ-KOMUNYX-STYLLO-MEX-VER: FC Barcelona vs Real Sociedad 2-0 All Goals & Highlights (Copa... http://t.co/nzYiYQi0As",
+            "Correlation": 3,
+            "Sentiment": 4,
+            "Importance": 2,
+            "Impact": 2,
+            "Duration": 3,
+            "Virality": 6,
+            "Source_Score": 4,
+            "Specificity": 4,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 0
+        }
+    ]
+}

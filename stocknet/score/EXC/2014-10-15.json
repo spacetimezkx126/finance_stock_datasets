@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 4,
+        "Importance": 6,
+        "Impact": 5,
+        "Duration": 3,
+        "Virality": 2,
+        "Source_Score": 8,
+        "Specificity": 9,
+        "Sector_Spread": 7,
+        "Tech_Mentions": 10
+    },
+    "Each_item": [
+        {
+            "News_content": "Parabolic Sell Signals",
+            "Correlation": 8,
+            "Sentiment": 3,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 2,
+            "Virality": 1,
+            "Source_Score": 9,
+            "Specificity": 10,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 10
+        }
+    ]
+}

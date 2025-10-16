@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 6,
+        "Importance": 5,
+        "Impact": 4,
+        "Duration": 3,
+        "Virality": 8,
+        "Source_Score": 9,
+        "Specificity": 6,
+        "Sector_Spread": 10,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "Weekly S&P100 #Stocks Trend $EXC $WMT $SO $KMI $DVN $MON $HAL $GE $MCD $COST $EMR $MSFT $T $APC $HD $MDT $PG",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 7,
+            "Source_Score": 8,
+            "Specificity": 7,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "(1 of 2)\n#MadMoneyEspresso 1/4/16\n$FB $AMZN $NFLX $GOOGL $AAPL—👍\n$NKE $HD $GE $MSFT—👍\n$UTX—👍\n$WING—👍\n$AWK—👎\n$NRZ—👎",
+            "Correlation": 6,
+            "Sentiment": 7,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 9,
+            "Source_Score": 10,
+            "Specificity": 5,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 3
+        }
+    ]
+}

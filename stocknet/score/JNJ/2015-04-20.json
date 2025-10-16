@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 10,
+        "Sentiment": 7,
+        "Importance": 5,
+        "Impact": 3,
+        "Duration": 2,
+        "Virality": 4,
+        "Source_Score": 8,
+        "Specificity": 9,
+        "Sector_Spread": 3,
+        "Tech_Mentions": 6
+    },
+    "Each_item": [
+        {
+            "News_content": "JNJ Stock Gapped up +0.20, Last Price 100.59, Day High 100.88, Day Low 100.05, Change +1.01, Volume 2,534,174",
+            "Correlation": 10,
+            "Sentiment": 7,
+            "Importance": 5,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 4,
+            "Source_Score": 8,
+            "Specificity": 9,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 6
+        }
+    ]
+}

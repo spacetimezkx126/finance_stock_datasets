@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 2,
+        "Sentiment": 5,
+        "Importance": 3,
+        "Impact": 2,
+        "Duration": 4,
+        "Virality": 6,
+        "Source_Score": 3,
+        "Specificity": 7,
+        "Sector_Spread": 1,
+        "Tech_Mentions": 0
+    },
+    "Each_item": [
+        {
+            "News_content": "Calle7FL El gran premio final entregado al ganador de la temporada de Calle 7 es un premio monetario de U$D 9.500.",
+            "Correlation": 2,
+            "Sentiment": 5,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 4,
+            "Virality": 6,
+            "Source_Score": 3,
+            "Specificity": 7,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "RT Xx_uzmk_xX",
+            "Correlation": 1,
+            "Sentiment": 4,
+            "Importance": 2,
+            "Impact": 1,
+            "Duration": 3,
+            "Virality": 5,
+            "Source_Score": 2,
+            "Specificity": 3,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        }
+    ]
+}

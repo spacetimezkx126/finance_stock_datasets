@@ -1,0 +1,55 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 5,
+        "Importance": 6,
+        "Impact": 7,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 5,
+        "Specificity": 7,
+        "Sector_Spread": 3,
+        "Tech_Mentions": 4
+    },
+    "Each_item": [
+        {
+            "News_content": "310, then 280 look like a natural targets for AMZN if it continues to sell off (weekly chart).",
+            "Correlation": 9,
+            "Sentiment": 3,
+            "Importance": 5,
+            "Impact": 6,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 4,
+            "Specificity": 8,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 7
+        },
+        {
+            "News_content": "AMZN U.S. judge OKs class action in e-book suit against Apple",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 7,
+            "Impact": 7,
+            "Duration": 5,
+            "Virality": 4,
+            "Source_Score": 6,
+            "Specificity": 7,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "Sick and Tired of losing money on SLM SBNY D AMZN",
+            "Correlation": 7,
+            "Sentiment": 2,
+            "Importance": 4,
+            "Impact": 5,
+            "Duration": 2,
+            "Virality": 3,
+            "Source_Score": 3,
+            "Specificity": 6,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 1
+        }
+    ]
+}

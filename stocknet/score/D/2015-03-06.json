@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 2,
+        "Sentiment": 4,
+        "Importance": 3,
+        "Impact": 3,
+        "Duration": 5,
+        "Virality": 6,
+        "Source_Score": 4,
+        "Specificity": 7,
+        "Sector_Spread": 1,
+        "Tech_Mentions": 0
+    },
+    "Each_item": [
+        {
+            "News_content": "Young L$D made it out a free man",
+            "Correlation": 1,
+            "Sentiment": 8,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 6,
+            "Virality": 9,
+            "Source_Score": 3,
+            "Specificity": 5,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "BRAND NEW 2 BR Villa at Legian, Kuta. Villa Kelapa View No.2, KUTA. Price = U$D 120 per night.",
+            "Correlation": 3,
+            "Sentiment": 2,
+            "Importance": 2,
+            "Impact": 2,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 5,
+            "Specificity": 9,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        }
+    ]
+}

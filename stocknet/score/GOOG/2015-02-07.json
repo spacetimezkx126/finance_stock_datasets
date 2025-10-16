@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 6,
+        "Importance": 5,
+        "Impact": 6,
+        "Duration": 4,
+        "Virality": 8,
+        "Source_Score": 5,
+        "Specificity": 7,
+        "Sector_Spread": 9,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @JonErlichman: Latest Quarter Sales, YoY Growth:\n$TWTR $479M 97%\n$FB $3.9B 49% \n$LNKD $643M 44% \n$AAPL $74.6B 30%\n$AMZN $29.3B 15%\n$GOOG…",
+            "Correlation": 9,
+            "Sentiment": 7,
+            "Importance": 6,
+            "Impact": 7,
+            "Duration": 5,
+            "Virality": 7,
+            "Source_Score": 6,
+            "Specificity": 9,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "This Guy Turned $100 into over $10,000 In Just 30 Days! http://t.co/NovWYe2RAx ...  $DPM $FRAK $GOOG",
+            "Correlation": 5,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 9,
+            "Source_Score": 4,
+            "Specificity": 5,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 3
+        }
+    ]
+}

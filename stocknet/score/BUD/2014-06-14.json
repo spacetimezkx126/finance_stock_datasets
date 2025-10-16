@@ -1,0 +1,55 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 6,
+        "Importance": 7,
+        "Impact": 6,
+        "Duration": 5,
+        "Virality": 8,
+        "Source_Score": 9,
+        "Specificity": 7,
+        "Sector_Spread": 4,
+        "Tech_Mentions": 3
+    },
+    "Each_item": [
+        {
+            "News_content": "Tesla Motors Inc (TSLA) announced a new partnership with a leading solar energy company to develop innovative battery storage solutions. This collaboration is expected to enhance Tesla's product offerings and reduce costs in the long term.",
+            "Correlation": 10,
+            "Sentiment": 8,
+            "Importance": 9,
+            "Impact": 7,
+            "Duration": 8,
+            "Virality": 9,
+            "Source_Score": 9,
+            "Specificity": 10,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 5
+        },
+        {
+            "News_content": "Intel Corporation reported a slight decline in quarterly earnings due to increased competition in the semiconductor market. Analysts remain optimistic about Intel's future growth prospects, citing its strong R&D pipeline.",
+            "Correlation": 9,
+            "Sentiment": 5,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 6,
+            "Virality": 7,
+            "Source_Score": 8,
+            "Specificity": 8,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 4
+        },
+        {
+            "News_content": "Priceline Group Inc has launched a major advertising campaign aimed at increasing brand awareness and attracting new customers. The campaign features celebrity endorsements and focuses on expanding their international presence.",
+            "Correlation": 8,
+            "Sentiment": 7,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 8,
+            "Source_Score": 7,
+            "Specificity": 7,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        }
+    ]
+}

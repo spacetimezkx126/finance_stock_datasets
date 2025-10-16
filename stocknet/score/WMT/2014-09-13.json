@@ -1,0 +1,55 @@
+{
+    "Overall_score": {
+        "Correlation": 3,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 3,
+        "Duration": 2,
+        "Virality": 7,
+        "Source_Score": 4,
+        "Specificity": 5,
+        "Sector_Spread": 6,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "Stock Contest!! Pick DBC and WIN a FREE Tablet!! Enter NOW! Click here for details: URL_REMOVED $DBC $VXX $WMT $WFC ~",
+            "Correlation": 2,
+            "Sentiment": 8,
+            "Importance": 2,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 9,
+            "Source_Score": 3,
+            "Specificity": 4,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Stock Contest!! Pick DRIO and WIN a FREE Tablet!! Enter NOW! Click here for details: URL_REMOVED $WMT $YNDX $GS $SDRL ~",
+            "Correlation": 2,
+            "Sentiment": 8,
+            "Importance": 2,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 9,
+            "Source_Score": 3,
+            "Specificity": 4,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Walmart workers unhappy about new dress code URL_REMOVED QUOTE_REMOVED quoted on SOURCE_REMOVED $WMT",
+            "Correlation": 8,
+            "Sentiment": 3,
+            "Importance": 7,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 5,
+            "Source_Score": 6,
+            "Specificity": 8,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 1
+        }
+    ]
+}

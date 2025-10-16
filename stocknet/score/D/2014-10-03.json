@@ -1,0 +1,55 @@
+{
+    "Overall_score": {
+        "Correlation": 6,
+        "Sentiment": 4,
+        "Importance": 7,
+        "Impact": 5,
+        "Duration": 3,
+        "Virality": 8,
+        "Source_Score": 5,
+        "Specificity": 6,
+        "Sector_Spread": 4,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @LucioQuincioC: Jackelin Farias deberias explicar donde estan los U$D 14 millardos que le dieron para la limpieza del rio Guaire #cecaf",
+            "Correlation": 5,
+            "Sentiment": 3,
+            "Importance": 6,
+            "Impact": 4,
+            "Duration": 2,
+            "Virality": 7,
+            "Source_Score": 4,
+            "Specificity": 5,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT @LucioQuincioC: Pdvsa pierde demanda en el CIADI por U$D 1,200 millones + intereses al 5% tasa libor, con ExxonMobil...ahora tiene que p…",
+            "Correlation": 7,
+            "Sentiment": 5,
+            "Importance": 8,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 9,
+            "Source_Score": 6,
+            "Specificity": 7,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "RT @LucioQuincioC: Comenzo Octubre Rojo, Bs/$ 100,78 y crudo de Pdvsa a U$D 85, bb/l  Precio del oro a 1,214.80♫♫ palo abajo en rodada...♫",
+            "Correlation": 6,
+            "Sentiment": 4,
+            "Importance": 7,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 8,
+            "Source_Score": 5,
+            "Specificity": 6,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 2
+        }
+    ]
+}

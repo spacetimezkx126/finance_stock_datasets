@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 9,
+        "Sentiment": 5,
+        "Importance": 8,
+        "Impact": 7,
+        "Duration": 4,
+        "Virality": 6,
+        "Source_Score": 8,
+        "Specificity": 9,
+        "Sector_Spread": 3,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @MarkSchoenebaum: $CELG vs $ACT markman hearing is THURSDAY on Revlimid. Stock ($CELG) could move. I'll have a lawyer there.",
+            "Correlation": 10,
+            "Sentiment": 5,
+            "Importance": 8,
+            "Impact": 7,
+            "Duration": 3,
+            "Virality": 7,
+            "Source_Score": 9,
+            "Specificity": 10,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT @Stocks_Biotech: Celgene: The Markman Cometh.. http://t.co/UOU932NRG0 $CELG #biotech #stocks",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 5,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 3
+        }
+    ]
+}

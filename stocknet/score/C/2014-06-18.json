@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 9,
+        "Importance": 4,
+        "Impact": 6,
+        "Duration": 3,
+        "Virality": 8,
+        "Source_Score": 5,
+        "Specificity": 6,
+        "Sector_Spread": 2,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @teapartymobile: \"@teacuppiglets: $AAPL about to have a huge day! Gapping up already! Weeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee!!! $MLCG $F $C\"",
+            "Correlation": 7,
+            "Sentiment": 9,
+            "Importance": 4,
+            "Impact": 6,
+            "Duration": 3,
+            "Virality": 8,
+            "Source_Score": 5,
+            "Specificity": 6,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        }
+    ]
+}

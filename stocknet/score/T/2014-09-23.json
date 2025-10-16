@@ -1,0 +1,68 @@
+{
+    "Overall_score": {
+        "Correlation": 4,
+        "Sentiment": 6,
+        "Importance": 3,
+        "Impact": 5,
+        "Duration": 2,
+        "Virality": 7,
+        "Source_Score": 3,
+        "Specificity": 4,
+        "Sector_Spread": 6,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "Assunto do momento #LO$T PART",
+            "Correlation": 3,
+            "Sentiment": 5,
+            "Importance": 2,
+            "Impact": 4,
+            "Duration": 1,
+            "Virality": 6,
+            "Source_Score": 2,
+            "Specificity": 3,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Monday Market Outlook - $T and $AAPL Trades up 90% since June! Ideas for $BTU $CHK $YHOO $DBA $HOV $IRBT and more",
+            "Correlation": 5,
+            "Sentiment": 7,
+            "Importance": 4,
+            "Impact": 6,
+            "Duration": 3,
+            "Virality": 8,
+            "Source_Score": 4,
+            "Specificity": 5,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "@AdonisRose @LiV3LAUGH_H00P @WavyMaddy @MaseratiCosby @_AB562 WE$$T!!",
+            "Correlation": 2,
+            "Sentiment": 6,
+            "Importance": 1,
+            "Impact": 3,
+            "Duration": 1,
+            "Virality": 7,
+            "Source_Score": 2,
+            "Specificity": 2,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Prevejo que a LO$T vai ser massa 👌👌",
+            "Correlation": 4,
+            "Sentiment": 6,
+            "Importance": 3,
+            "Impact": 5,
+            "Duration": 2,
+            "Virality": 6,
+            "Source_Score": 3,
+            "Specificity": 4,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 1
+        }
+    ]
+}

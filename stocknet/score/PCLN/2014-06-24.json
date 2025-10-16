@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 4,
+        "Importance": 6,
+        "Impact": 7,
+        "Duration": 3,
+        "Virality": 2,
+        "Source_Score": 5,
+        "Specificity": 9,
+        "Sector_Spread": 3,
+        "Tech_Mentions": 8
+    },
+    "Each_item": [
+        {
+            "News_content": "PCLN puts below 1206",
+            "Correlation": 8,
+            "Sentiment": 3,
+            "Importance": 5,
+            "Impact": 6,
+            "Duration": 2,
+            "Virality": 1,
+            "Source_Score": 4,
+            "Specificity": 8,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 7
+        },
+        {
+            "News_content": "PCLN Max Pain = 1200.00, Maturity = 06/27/2014, Previous close = 1204.73",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 7,
+            "Impact": 8,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 6,
+            "Specificity": 10,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 9
+        }
+    ]
+}

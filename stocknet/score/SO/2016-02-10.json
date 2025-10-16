@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 9,
+        "Sentiment": 5,
+        "Importance": 7,
+        "Impact": 6,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 8,
+        "Specificity": 10,
+        "Sector_Spread": 2,
+        "Tech_Mentions": 8
+    },
+    "Each_item": [
+        {
+            "News_content": "$SO $0.54 dividend tomorrow. Watch out for early #assignment of short ITM #Calls, esp Feb 48 and below, and May 45 and below. S=$49.21",
+            "Correlation": 9,
+            "Sentiment": 5,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 8,
+            "Specificity": 10,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 8
+        }
+    ]
+}

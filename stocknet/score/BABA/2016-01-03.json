@@ -1,0 +1,55 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 3,
+        "Duration": 2,
+        "Virality": 6,
+        "Source_Score": 5,
+        "Specificity": 6,
+        "Sector_Spread": 9,
+        "Tech_Mentions": 4
+    },
+    "Each_item": [
+        {
+            "News_content": "NCR NCR Corp. Ask Size $NCR $BABA $TTCM $XLU #NCR #finance",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 5,
+            "Source_Score": 4,
+            "Specificity": 7,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "Updating #Chart Analysis tonight on $AAPL $AMZN $BABA $FB $MON $MSFT $XOM $CVX $IBM $TWTR $GOOG $YM _F $CL _F $NQ #finance",
+            "Correlation": 7,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 7,
+            "Source_Score": 6,
+            "Specificity": 6,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 5
+        },
+        {
+            "News_content": "CRM Inc. Ask $CRM $GOOGL $BABA $GSG #CRM #finance #stockmarket",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 6,
+            "Source_Score": 5,
+            "Specificity": 7,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 3
+        }
+    ]
+}

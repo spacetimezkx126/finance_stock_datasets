@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 9,
+        "Importance": 4,
+        "Impact": 3,
+        "Duration": 7,
+        "Virality": 5,
+        "Source_Score": 6,
+        "Specificity": 7,
+        "Sector_Spread": 2,
+        "Tech_Mentions": 8
+    },
+    "Each_item": [
+        {
+            "News_content": "CSCO's chart is great. Everyone who bought below $1 in the early 1990's and held on all these years made out great",
+            "Correlation": 8,
+            "Sentiment": 9,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 7,
+            "Virality": 5,
+            "Source_Score": 6,
+            "Specificity": 7,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 8
+        }
+    ]
+}

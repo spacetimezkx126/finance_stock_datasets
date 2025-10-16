@@ -1,0 +1,68 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 4,
+        "Importance": 6,
+        "Impact": 8,
+        "Duration": 5,
+        "Virality": 3,
+        "Source_Score": 7,
+        "Specificity": 6,
+        "Sector_Spread": 9,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "That is worrisome.",
+            "Correlation": 3,
+            "Sentiment": 2,
+            "Importance": 4,
+            "Impact": 5,
+            "Duration": 2,
+            "Virality": 1,
+            "Source_Score": 5,
+            "Specificity": 1,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Popular Stock Update:",
+            "Correlation": 4,
+            "Sentiment": 5,
+            "Importance": 3,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 6,
+            "Source_Score": 6,
+            "Specificity": 2,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Locking In Trade For A Gain Of 2.57%",
+            "Correlation": 8,
+            "Sentiment": 8,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 5,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "Bank of America Corp, Citigroup, Goldman Sachs Group Tumble to 52 week Low",
+            "Correlation": 10,
+            "Sentiment": 1,
+            "Importance": 10,
+            "Impact": 10,
+            "Duration": 7,
+            "Virality": 8,
+            "Source_Score": 9,
+            "Specificity": 10,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 4
+        }
+    ]
+}

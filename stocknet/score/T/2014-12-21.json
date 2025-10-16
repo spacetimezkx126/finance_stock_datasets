@@ -1,0 +1,94 @@
+{
+    "Overall_score": {
+        "Correlation": 1,
+        "Sentiment": 3,
+        "Importance": 2,
+        "Impact": 1,
+        "Duration": 1,
+        "Virality": 4,
+        "Source_Score": 2,
+        "Specificity": 1,
+        "Sector_Spread": 1,
+        "Tech_Mentions": 0
+    },
+    "Each_item": [
+        {
+            "News_content": "AINT NO ODDER HU$TLER STRONGA,FRANKLIN JACK$ON HUN$ AND TWUN$ ATLANTA CITY WE DA STRONGE$T",
+            "Correlation": 1,
+            "Sentiment": 5,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 3,
+            "Source_Score": 1,
+            "Specificity": 1,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "NO WAR\nNO RAP€$\nNO TORTUR€$\nNO W€$TMON$T€R\nNO CAM€RON R€GIM€$",
+            "Correlation": 1,
+            "Sentiment": 2,
+            "Importance": 3,
+            "Impact": 1,
+            "Duration": 2,
+            "Virality": 5,
+            "Source_Score": 2,
+            "Specificity": 1,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "BAŞLIKLAR Pİ$Tİ\nHAVUZ $İ$Tİ\n#HOCAEFENDİ - #HİZMET KUMPAS KURANLAR AYNI\n#TÜRKİYE #RTE #AKP #AK #MHP #TC #CHP #ATA",
+            "Correlation": 1,
+            "Sentiment": 3,
+            "Importance": 2,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 4,
+            "Source_Score": 2,
+            "Specificity": 1,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "BAŞLIKLAR Pİ$Tİ\nHAVUZ $İ$Tİ\n#HOCAEFENDİ - #HİZMET KUMPAS KURANLAR AYNI",
+            "Correlation": 1,
+            "Sentiment": 3,
+            "Importance": 2,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 4,
+            "Source_Score": 2,
+            "Specificity": 1,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "BAŞLIKLAR Pİ$Tİ\nHAVUZ $İ$Tİ\n#HOCAEFENDİ - #HİZMET KUMPAS KURANLAR AYNI\n#RTE #AKP #AK #MHP #TC #CHP",
+            "Correlation": 1,
+            "Sentiment": 3,
+            "Importance": 2,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 4,
+            "Source_Score": 2,
+            "Specificity": 1,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "I like to thank everybody who's going to be on the KLV Presents: Rebels without A CO$T album it's truly a blessing #RWOC",
+            "Correlation": 1,
+            "Sentiment": 6,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 3,
+            "Source_Score": 1,
+            "Specificity": 1,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        }
+    ]
+}

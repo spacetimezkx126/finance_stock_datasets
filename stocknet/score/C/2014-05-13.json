@@ -1,0 +1,55 @@
+{
+    "Overall_score": {
+        "Correlation": 2,
+        "Sentiment": 5,
+        "Importance": 3,
+        "Impact": 2,
+        "Duration": 4,
+        "Virality": 6,
+        "Source_Score": 4,
+        "Specificity": 3,
+        "Sector_Spread": 1,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "@ShawnRaw: Listen to $C.O.D$ on @audiomack $C.O.D$ THE MIXTAPE",
+            "Correlation": 2,
+            "Sentiment": 7,
+            "Importance": 2,
+            "Impact": 1,
+            "Duration": 3,
+            "Virality": 5,
+            "Source_Score": 4,
+            "Specificity": 3,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Special guest coming to #KissATL #1stKiss. Be there May 29th to find out who it is.",
+            "Correlation": 1,
+            "Sentiment": 4,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 5,
+            "Virality": 7,
+            "Source_Score": 3,
+            "Specificity": 4,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT @KnownasDai: #1stKiss #KissATL red lipstick B$C",
+            "Correlation": 2,
+            "Sentiment": 6,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 4,
+            "Virality": 8,
+            "Source_Score": 4,
+            "Specificity": 3,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        }
+    ]
+}

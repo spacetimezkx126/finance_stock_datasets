@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 2,
+        "Sentiment": 8,
+        "Importance": 3,
+        "Impact": 2,
+        "Duration": 1,
+        "Virality": 5,
+        "Source_Score": 4,
+        "Specificity": 3,
+        "Sector_Spread": 1,
+        "Tech_Mentions": 0
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @Mexiveli: Happy BDAY & Shout Out to @Miscdaboss Watch \"MI$C (MI$CELLANEOUS) #MEIGO\" on YouTube https://t.co/JDImmLCB9y",
+            "Correlation": 2,
+            "Sentiment": 8,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 5,
+            "Source_Score": 4,
+            "Specificity": 3,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        }
+    ]
+}

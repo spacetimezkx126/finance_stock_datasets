@@ -1,0 +1,55 @@
+{
+    "Overall_score": {
+        "Correlation": 4,
+        "Sentiment": 6,
+        "Importance": 3,
+        "Impact": 5,
+        "Duration": 2,
+        "Virality": 7,
+        "Source_Score": 3,
+        "Specificity": 4,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "Great #Gift! #Christmas #Holiday Green Cast Iron Infuser #Teapot & Holiday #Teas $MSFT $GOOG $M $BAC $C $CAKE",
+            "Correlation": 3,
+            "Sentiment": 8,
+            "Importance": 2,
+            "Impact": 4,
+            "Duration": 1,
+            "Virality": 6,
+            "Source_Score": 2,
+            "Specificity": 3,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "3,500% Gains In 5 Months & A MASSIVE New Pick Is Ready! Check It Out: $NTEK $MSFT $MWIP",
+            "Correlation": 5,
+            "Sentiment": 7,
+            "Importance": 4,
+            "Impact": 6,
+            "Duration": 3,
+            "Virality": 8,
+            "Source_Score": 4,
+            "Specificity": 5,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "2016 boom?: hybrids or \"detachables: \" tablets such as the new Apple iPad Pro, Microsoft Surface Pro & Google's Pixel $AAPL $MSFT $GOOG",
+            "Correlation": 6,
+            "Sentiment": 5,
+            "Importance": 5,
+            "Impact": 7,
+            "Duration": 4,
+            "Virality": 7,
+            "Source_Score": 5,
+            "Specificity": 6,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 3
+        }
+    ]
+}

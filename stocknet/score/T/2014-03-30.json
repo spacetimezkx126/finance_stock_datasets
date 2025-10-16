@@ -1,0 +1,55 @@
+{
+    "Overall_score": {
+        "Correlation": 1,
+        "Sentiment": 3,
+        "Importance": 2,
+        "Impact": 1,
+        "Duration": 1,
+        "Virality": 4,
+        "Source_Score": 2,
+        "Specificity": 3,
+        "Sector_Spread": 1,
+        "Tech_Mentions": 0
+    },
+    "Each_item": [
+        {
+            "News_content": "Thé Crime/Murder rate Gone do numbers in St.louis this summer. Its Sad, But True.",
+            "Correlation": 1,
+            "Sentiment": 2,
+            "Importance": 2,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 3,
+            "Source_Score": 2,
+            "Specificity": 3,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "Superliga Feminina de Volei 2013/2014 (quartas) jogo 2",
+            "Correlation": 1,
+            "Sentiment": 4,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 5,
+            "Source_Score": 2,
+            "Specificity": 3,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "Memoria BO$$T€RO$$$, #Lunati",
+            "Correlation": 1,
+            "Sentiment": 3,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 4,
+            "Source_Score": 2,
+            "Specificity": 2,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 10,
+        "Sentiment": 8,
+        "Importance": 9,
+        "Impact": 9,
+        "Duration": 7,
+        "Virality": 6,
+        "Source_Score": 9,
+        "Specificity": 10,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @jonathanrockoff: $PFE and $AGN nearing $150bn deal, 11.3 PFE shares per AGN share. Story coming to @WSJ W/ @DanaMattioli",
+            "Correlation": 10,
+            "Sentiment": 8,
+            "Importance": 9,
+            "Impact": 9,
+            "Duration": 7,
+            "Virality": 6,
+            "Source_Score": 9,
+            "Specificity": 10,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "RT @OpenOutcrier: $PFE set to buy $AGN for more than $150 billion: sources https://t.co/4ywlE3JgKc",
+            "Correlation": 10,
+            "Sentiment": 8,
+            "Importance": 9,
+            "Impact": 9,
+            "Duration": 7,
+            "Virality": 6,
+            "Source_Score": 8,
+            "Specificity": 9,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 2
+        }
+    ]
+}

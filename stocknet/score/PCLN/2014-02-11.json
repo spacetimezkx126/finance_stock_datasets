@@ -1,0 +1,55 @@
+{
+    "Overall_score": {
+        "Correlation": 5,
+        "Sentiment": 8,
+        "Importance": 4,
+        "Impact": 6,
+        "Duration": 3,
+        "Virality": 7,
+        "Source_Score": 5,
+        "Specificity": 6,
+        "Sector_Spread": 2,
+        "Tech_Mentions": 4
+    },
+    "Each_item": [
+        {
+            "News_content": "Trades produce 100% same day",
+            "Correlation": 7,
+            "Sentiment": 9,
+            "Importance": 5,
+            "Impact": 7,
+            "Duration": 2,
+            "Virality": 6,
+            "Source_Score": 6,
+            "Specificity": 7,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 5
+        },
+        {
+            "News_content": "Precision trade entries 40 to 100% on each trade -Get FREE alerts for 1 week",
+            "Correlation": 6,
+            "Sentiment": 8,
+            "Importance": 4,
+            "Impact": 6,
+            "Duration": 3,
+            "Virality": 8,
+            "Source_Score": 5,
+            "Specificity": 6,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 4
+        },
+        {
+            "News_content": "RT @WillardCallejo: Trades produce 100% same day",
+            "Correlation": 5,
+            "Sentiment": 7,
+            "Importance": 3,
+            "Impact": 5,
+            "Duration": 2,
+            "Virality": 9,
+            "Source_Score": 4,
+            "Specificity": 5,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 3
+        }
+    ]
+}

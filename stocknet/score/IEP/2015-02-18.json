@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 9,
+        "Sentiment": 7,
+        "Importance": 8,
+        "Impact": 8,
+        "Duration": 6,
+        "Virality": 5,
+        "Source_Score": 10,
+        "Specificity": 9,
+        "Sector_Spread": 4,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "@Carl_C_Icahn Invokes S.E.C. in Unusual Twist in Fight With Wachtell Lipton via @dealbook $IEP $CVRR",
+            "Correlation": 9,
+            "Sentiment": 7,
+            "Importance": 8,
+            "Impact": 8,
+            "Duration": 6,
+            "Virality": 5,
+            "Source_Score": 10,
+            "Specificity": 9,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 2
+        }
+    ]
+}

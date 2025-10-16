@@ -1,0 +1,68 @@
+{
+    "Overall_score": {
+        "Correlation": 3,
+        "Sentiment": 2,
+        "Importance": 6,
+        "Impact": 4,
+        "Duration": 5,
+        "Virality": 7,
+        "Source_Score": 5,
+        "Specificity": 4,
+        "Sector_Spread": 2,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @LucioQuincioC: Venezuela sin medicamentos para el cáncer en su mayoría niños y Maduro se compra nuevo avión Embraer 190 #Cecaf U$D 80 …",
+            "Correlation": 2,
+            "Sentiment": 1,
+            "Importance": 7,
+            "Impact": 3,
+            "Duration": 6,
+            "Virality": 8,
+            "Source_Score": 4,
+            "Specificity": 5,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT @LucioQuincioC: Claro y raspao....ExxonMobil le gana pleito a Pdvsa y los obliga a pagar U$D 1,600 millones mas intereses al 5% de tasa …",
+            "Correlation": 4,
+            "Sentiment": 3,
+            "Importance": 8,
+            "Impact": 5,
+            "Duration": 5,
+            "Virality": 7,
+            "Source_Score": 6,
+            "Specificity": 7,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "RT @LucioQuincioC: Jackelin Farias deberias explicar donde estan los U$D 14 millardos que le dieron para la limpieza del rio Guaire #cecaf",
+            "Correlation": 3,
+            "Sentiment": 2,
+            "Importance": 6,
+            "Impact": 4,
+            "Duration": 4,
+            "Virality": 6,
+            "Source_Score": 5,
+            "Specificity": 6,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "(ABBÁS PEDÍA 4000) 1er Ministro Noruego:Conferencia de Donantes compromete U$D 5400 para reconstrucción de Gaza",
+            "Correlation": 2,
+            "Sentiment": 3,
+            "Importance": 7,
+            "Impact": 4,
+            "Duration": 6,
+            "Virality": 5,
+            "Source_Score": 4,
+            "Specificity": 5,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        }
+    ]
+}

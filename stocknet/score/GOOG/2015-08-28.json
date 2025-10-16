@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 8,
+        "Impact": 6,
+        "Duration": 9,
+        "Virality": 7,
+        "Source_Score": 8,
+        "Specificity": 6,
+        "Sector_Spread": 7,
+        "Tech_Mentions": 4
+    },
+    "Each_item": [
+        {
+            "News_content": "Google Rebuffs European Union on Antitrust Charges --2nd Update",
+            "Correlation": 10,
+            "Sentiment": 3,
+            "Importance": 9,
+            "Impact": 7,
+            "Duration": 8,
+            "Virality": 6,
+            "Source_Score": 9,
+            "Specificity": 8,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "6 Machine Learning Giants to Watch",
+            "Correlation": 4,
+            "Sentiment": 8,
+            "Importance": 7,
+            "Impact": 5,
+            "Duration": 10,
+            "Virality": 8,
+            "Source_Score": 7,
+            "Specificity": 4,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 6
+        }
+    ]
+}

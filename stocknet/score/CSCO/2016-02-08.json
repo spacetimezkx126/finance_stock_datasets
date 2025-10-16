@@ -1,0 +1,94 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 6,
+        "Impact": 6,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 6,
+        "Specificity": 7,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 5
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @WrigleyTom: YELP REGN PNRA DIS SCTY TSLA TWTR DWRE SGEN Z GWPH EXPE WFM CSCO AKAM TRIP CYBR FEYE SKX AIG P",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 5,
+            "Specificity": 6,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "FXI Stock Forum Updated Sunday, February 7, 2016 10:59:25 PM CSCO VZ MO DUK",
+            "Correlation": 7,
+            "Sentiment": 4,
+            "Importance": 3,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 1,
+            "Source_Score": 4,
+            "Specificity": 5,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "Cambridge Advisors Inc. Decreases Stake in Cisco Systems, Inc. CSCO",
+            "Correlation": 9,
+            "Sentiment": 3,
+            "Importance": 5,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 7,
+            "Specificity": 9,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 4
+        },
+        {
+            "News_content": "EARNINGS THIS WEEK Mon -YELP FOXA Tue - REGN CVS KO SCTY DIS Wed - TSLA TWTR CSCO Thu - PEP AIG ATVI",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 6,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 4,
+            "Source_Score": 6,
+            "Specificity": 7,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "Cisco Systems, Inc. CSCO Downgraded by Goldman Sachs",
+            "Correlation": 10,
+            "Sentiment": 2,
+            "Importance": 7,
+            "Impact": 7,
+            "Duration": 5,
+            "Virality": 5,
+            "Source_Score": 9,
+            "Specificity": 10,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 6
+        },
+        {
+            "News_content": "Cisco to Buy Jasper In Defining Acquisition for IoT Age CSCO",
+            "Correlation": 10,
+            "Sentiment": 8,
+            "Importance": 9,
+            "Impact": 8,
+            "Duration": 7,
+            "Virality": 6,
+            "Source_Score": 8,
+            "Specificity": 9,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 9
+        }
+    ]
+}

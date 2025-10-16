@@ -1,0 +1,81 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 4,
+        "Importance": 6,
+        "Impact": 5,
+        "Duration": 3,
+        "Virality": 5,
+        "Source_Score": 8,
+        "Specificity": 6,
+        "Sector_Spread": 4,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @MarketWatch: It really was time for Cisco CEO John Chambers to go, writes @PhilipvanDoorn. Here's why:",
+            "Correlation": 9,
+            "Sentiment": 5,
+            "Importance": 8,
+            "Impact": 7,
+            "Duration": 4,
+            "Virality": 7,
+            "Source_Score": 10,
+            "Specificity": 8,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "@MarkYolton Since your tweet was sent $CSCO has dropped -1.023%. See your featured tweet on Market Parse",
+            "Correlation": 8,
+            "Sentiment": 3,
+            "Importance": 5,
+            "Impact": 6,
+            "Duration": 2,
+            "Virality": 4,
+            "Source_Score": 6,
+            "Specificity": 7,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "$F Stock Message Board Updated Wednesday, May 6, 2015 7:11:14 PM $TASR $EEM $USO $CSCO",
+            "Correlation": 6,
+            "Sentiment": 1,
+            "Importance": 3,
+            "Impact": 4,
+            "Duration": 1,
+            "Virality": 3,
+            "Source_Score": 4,
+            "Specificity": 5,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "Dow #Stocks Trend $JPM $MRK $NKE $CAT $V $MSFT $AXP $IBM $GS $GE $DIS $UNH $UTX $MCD $CVX $XOM $CSCO $VZ $MMM",
+            "Correlation": 5,
+            "Sentiment": 2,
+            "Importance": 2,
+            "Impact": 3,
+            "Duration": 1,
+            "Virality": 2,
+            "Source_Score": 3,
+            "Specificity": 4,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "CSCO Cisco Systems, Inc. Chart Click Here -&gt; http://t.co/hoCkpnVRCe Trending $CSCO $BLTA $CLF $OCFN #CSCO #stock #nasdaq",
+            "Correlation": 7,
+            "Sentiment": 4,
+            "Importance": 4,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 5,
+            "Source_Score": 5,
+            "Specificity": 6,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 2
+        }
+    ]
+}

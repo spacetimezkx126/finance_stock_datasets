@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 6,
+        "Sentiment": 4,
+        "Importance": 3,
+        "Impact": 2,
+        "Duration": 1,
+        "Virality": 1,
+        "Source_Score": 5,
+        "Specificity": 5,
+        "Sector_Spread": 2,
+        "Tech_Mentions": 7
+    },
+    "Each_item": [
+        {
+            "News_content": "About 15 minutes to DAX open, I make my decisions on TREND, BIAS, and DIRECTION, because I am not sure. AUS ADR BHP is only a guide for TREND.",
+            "Correlation": 6,
+            "Sentiment": 4,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 1,
+            "Source_Score": 5,
+            "Specificity": 5,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 7
+        }
+    ]
+}

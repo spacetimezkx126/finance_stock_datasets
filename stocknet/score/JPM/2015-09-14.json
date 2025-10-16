@@ -1,0 +1,55 @@
+{
+    "Overall_score": {
+        "Correlation": 4,
+        "Sentiment": 6,
+        "Importance": 3,
+        "Impact": 5,
+        "Duration": 2,
+        "Virality": 7,
+        "Source_Score": 3,
+        "Specificity": 5,
+        "Sector_Spread": 6,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "Gains Over 2500% In one Trade.. Subscribe Here!",
+            "Correlation": 2,
+            "Sentiment": 8,
+            "Importance": 1,
+            "Impact": 9,
+            "Duration": 1,
+            "Virality": 8,
+            "Source_Score": 2,
+            "Specificity": 1,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Yesterday We Made $94,000 In Just One Trade More Info Here",
+            "Correlation": 3,
+            "Sentiment": 7,
+            "Importance": 2,
+            "Impact": 8,
+            "Duration": 1,
+            "Virality": 7,
+            "Source_Score": 2,
+            "Specificity": 2,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "$JPM $AAPL $GOOGL: The High Costs of Cardtronics’ ATMs",
+            "Correlation": 9,
+            "Sentiment": 4,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 5,
+            "Source_Score": 6,
+            "Specificity": 9,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 2
+        }
+    ]
+}

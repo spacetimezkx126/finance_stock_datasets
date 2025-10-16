@@ -1,0 +1,55 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 6,
+        "Importance": 5,
+        "Impact": 6,
+        "Duration": 3,
+        "Virality": 8,
+        "Source_Score": 4,
+        "Specificity": 7,
+        "Sector_Spread": 9,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "看到同事们都在聊 $BABA $BIDU $GOOG $AAPL $AMZN 我默默地关掉了窗口…",
+            "Correlation": 5,
+            "Sentiment": 3,
+            "Importance": 4,
+            "Impact": 4,
+            "Duration": 2,
+            "Virality": 7,
+            "Source_Score": 5,
+            "Specificity": 6,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "$ELRA closed up 288.89% on over 315 MILLION Volume! Get our new penny stock picks: http://t.co/qloC4OFNEn $CBL $GOOG $BLL",
+            "Correlation": 9,
+            "Sentiment": 8,
+            "Importance": 7,
+            "Impact": 8,
+            "Duration": 4,
+            "Virality": 9,
+            "Source_Score": 3,
+            "Specificity": 9,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "$ELRA closed up 288.89% on over 315 MILLION Volume! Get our new penny stock picks: http://t.co/qloC4OFNEn $TRX $AAPL $GOOG",
+            "Correlation": 9,
+            "Sentiment": 8,
+            "Importance": 7,
+            "Impact": 8,
+            "Duration": 4,
+            "Virality": 9,
+            "Source_Score": 3,
+            "Specificity": 9,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 3
+        }
+    ]
+}

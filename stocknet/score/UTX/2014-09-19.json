@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 3,
+        "Duration": 2,
+        "Virality": 1,
+        "Source_Score": 6,
+        "Specificity": 9,
+        "Sector_Spread": 2,
+        "Tech_Mentions": 10
+    },
+    "Each_item": [
+        {
+            "News_content": "UTX support resistance levels. 110.15 strong resistance level. Others: Resistance 113 - 114; Support 103.62. Minor support 107.95.",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 1,
+            "Source_Score": 6,
+            "Specificity": 9,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 10
+        }
+    ]
+}

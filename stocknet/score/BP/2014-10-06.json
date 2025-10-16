@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 4,
+        "Sentiment": 5,
+        "Importance": 6,
+        "Impact": 3,
+        "Duration": 7,
+        "Virality": 2,
+        "Source_Score": 5,
+        "Specificity": 3,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "How should companies manage a crisis? Read to find out http $TESO $BP $BCS http",
+            "Correlation": 4,
+            "Sentiment": 5,
+            "Importance": 6,
+            "Impact": 3,
+            "Duration": 7,
+            "Virality": 2,
+            "Source_Score": 5,
+            "Specificity": 3,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        }
+    ]
+}

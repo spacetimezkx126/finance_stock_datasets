@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 4,
+        "Sentiment": 3,
+        "Importance": 2,
+        "Impact": 3,
+        "Duration": 2,
+        "Virality": 5,
+        "Source_Score": 1,
+        "Specificity": 3,
+        "Sector_Spread": 7,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "Are you thinking of Investing in SYK JPM WCC FEYE personalfinance",
+            "Correlation": 5,
+            "Sentiment": 4,
+            "Importance": 2,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 6,
+            "Source_Score": 1,
+            "Specificity": 4,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "AAPL GOOG COP XOM JPM C BAC GS WHICH TRADING TOOLS do you use to trade stocks & options Proprietary & trade service included",
+            "Correlation": 3,
+            "Sentiment": 2,
+            "Importance": 2,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 4,
+            "Source_Score": 1,
+            "Specificity": 2,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 3
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 6,
+        "Impact": 6,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 5,
+        "Specificity": 8,
+        "Sector_Spread": 7,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "\"@wisdon: @silverjet2: Top 10 holdings in Homebuilder ETF XHB: HD BBBY MAS LOW LEG LEN LL WSM AWI RH Congratulations good job!\"",
+            "Correlation": 9,
+            "Sentiment": 8,
+            "Importance": 5,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 4,
+            "Source_Score": 6,
+            "Specificity": 10,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Home Depot: Expecting A Substantial Pullback (HD) HD http://t.co/QxQ0SJY14J",
+            "Correlation": 5,
+            "Sentiment": 2,
+            "Importance": 7,
+            "Impact": 7,
+            "Duration": 5,
+            "Virality": 2,
+            "Source_Score": 4,
+            "Specificity": 6,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 3
+        }
+    ]
+}

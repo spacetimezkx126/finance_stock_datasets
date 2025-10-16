@@ -1,0 +1,107 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 6,
+        "Importance": 5,
+        "Impact": 6,
+        "Duration": 4,
+        "Virality": 7,
+        "Source_Score": 5,
+        "Specificity": 6,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 3
+    },
+    "Each_item": [
+        {
+            "News_content": "RT $QQQ HFT Algos BROKE 106.20 in SIGMA-X, CROSSFINDER, ATS, LX @ 10:08, P/T 104.00 #Quant $MSFT $FB $GPRO $AMZN $GOOG $AAPL $TSLA $NFLX",
+            "Correlation": 9,
+            "Sentiment": 7,
+            "Importance": 8,
+            "Impact": 8,
+            "Duration": 3,
+            "Virality": 8,
+            "Source_Score": 6,
+            "Specificity": 9,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 9
+        },
+        {
+            "News_content": "Europe Sets Off A Second Cloud Boom And Amazon Will Be The Biggest Winner $AAPL $FB $GOOG",
+            "Correlation": 8,
+            "Sentiment": 8,
+            "Importance": 7,
+            "Impact": 7,
+            "Duration": 6,
+            "Virality": 7,
+            "Source_Score": 7,
+            "Specificity": 7,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "Want to make $600,00 In One Year Trading? Check out how this guy did it! $GOOG $PCLN $VTAE",
+            "Correlation": 5,
+            "Sentiment": 9,
+            "Importance": 4,
+            "Impact": 5,
+            "Duration": 2,
+            "Virality": 6,
+            "Source_Score": 3,
+            "Specificity": 4,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "GOOG Alphabet Inc. - Class C Stock Forum $GOOG $AEM $UPRO $JNUG #GOOG #stocks #share",
+            "Correlation": 7,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 5,
+            "Source_Score": 5,
+            "Specificity": 7,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "RT $GOOG's chief biz officer (Omid Kordestani) now exec chairman of $TWTR",
+            "Correlation": 8,
+            "Sentiment": 7,
+            "Importance": 7,
+            "Impact": 7,
+            "Duration": 5,
+            "Virality": 7,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "GOOG Alphabet Inc. - Class C Financials $GOOG $DRYS $JPM $LQMT #GOOG #investing #investGOOGL Alphabet Inc.",
+            "Correlation": 7,
+            "Sentiment": 6,
+            "Importance": 6,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 5,
+            "Source_Score": 6,
+            "Specificity": 7,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "RT to Win - #BigData #CrowdFunding $FB $YM $NQ $ES $GOOG $GOOGL $AAPL $TSLA $GLD $MNST $MSFT $QQQ $HGU #FinTech #Drones",
+            "Correlation": 6,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 8,
+            "Source_Score": 5,
+            "Specificity": 5,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 4
+        }
+    ]
+}

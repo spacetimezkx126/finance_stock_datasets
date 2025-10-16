@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 5,
+        "Importance": 6,
+        "Impact": 7,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 2,
+        "Specificity": 5,
+        "Sector_Spread": 10,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "S&P100 #Stocks Trend $USB $HAL $CVX $DVN $GM $LOW $UTX $HON $DIS $F $DD $HD $V $AMZN $OXY $COP $MS $RTN $BA",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 6,
+            "Impact": 7,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 2,
+            "Specificity": 5,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 1
+        }
+    ]
+}

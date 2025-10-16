@@ -1,0 +1,133 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 6,
+        "Importance": 5,
+        "Impact": 4,
+        "Duration": 3,
+        "Virality": 5,
+        "Source_Score": 6,
+        "Specificity": 7,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @WrigleyTom: Earnings $BAC $DAL $IBM $NFLX $CREE $GS $FFIV $LUV $VZ $UAL $AXP $SBUX $ISRG $GE $MS $EDU $UNH $AMD $EAT $XLNX $KMI",
+            "Correlation": 9,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 6,
+            "Source_Score": 5,
+            "Specificity": 8,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "UNH Market Cap Click Here -- > https://t.co/lE36Lj3mCl $UNH $CSIQ $DTO $ABBV #UNH #nasdaq #share",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 4,
+            "Source_Score": 4,
+            "Specificity": 7,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Stocks Up But Off Session Highs; Netflix Rallies Ahead Of Earnings: https://t.co/ij5O5SA5yl $UNH $ULTA $MS $RCL $CCL $NCLH $NFLX $IBM $IBKR",
+            "Correlation": 7,
+            "Sentiment": 7,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 5,
+            "Source_Score": 6,
+            "Specificity": 6,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "Stocks Up But Off Session Highs; Netflix Rallies Ahead Of Earnings: https://t.co/huIV6TMLlD $UNH $ULTA $MS $RCL $CCL $NCLH $NFLX $IBM $IBKR",
+            "Correlation": 7,
+            "Sentiment": 7,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 5,
+            "Source_Score": 6,
+            "Specificity": 6,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "Shares Of UnitedHealth Holding On To Early Morning Gains Following Q4 Print $UNH via @benzinga https://t.co/5vA26Nk07y",
+            "Correlation": 9,
+            "Sentiment": 8,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 6,
+            "Source_Score": 7,
+            "Specificity": 9,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "EARNINGS ALERT: Dow component UnitedHealth EPS beats $1.40 vs. $1.38 (est.) $UNH",
+            "Correlation": 10,
+            "Sentiment": 8,
+            "Importance": 8,
+            "Impact": 7,
+            "Duration": 5,
+            "Virality": 7,
+            "Source_Score": 8,
+            "Specificity": 10,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "SQ Change Click Here -- > https://t.co/uSfMar1rDF $SQ $SUNE $SPY $UNH #SQ #pennystocks #share",
+            "Correlation": 6,
+            "Sentiment": 5,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 4,
+            "Source_Score": 4,
+            "Specificity": 5,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT @EquityClock: Seasonal charts of companies reporting earnings today $AMD $BAC $CMA $CREE $DAL $IBKR $IBM $LLTC $MS $NFLX $UNH : https://…",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 6,
+            "Source_Score": 5,
+            "Specificity": 7,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "TLT 52Wk High https://t.co/WQSqsSQUap $TLT $UNH $SQ $MS #TLT #share #investing",
+            "Correlation": 7,
+            "Sentiment": 6,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 5,
+            "Source_Score": 5,
+            "Specificity": 6,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        }
+    ]
+}

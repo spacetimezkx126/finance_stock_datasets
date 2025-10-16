@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 3,
+        "Importance": 8,
+        "Impact": 6,
+        "Duration": 5,
+        "Virality": 9,
+        "Source_Score": 10,
+        "Specificity": 7,
+        "Sector_Spread": 4,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "UN panel slams US for police brutality, torture #Ferguson",
+            "Correlation": 7,
+            "Sentiment": 3,
+            "Importance": 8,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 9,
+            "Source_Score": 10,
+            "Specificity": 7,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 1
+        }
+    ]
+}

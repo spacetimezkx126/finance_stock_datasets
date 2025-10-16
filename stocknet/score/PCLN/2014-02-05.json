@@ -1,0 +1,55 @@
+{
+    "Overall_score": {
+        "Correlation": 4,
+        "Sentiment": 8,
+        "Importance": 3,
+        "Impact": 5,
+        "Duration": 2,
+        "Virality": 6,
+        "Source_Score": 4,
+        "Specificity": 3,
+        "Sector_Spread": 7,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @TerenceMcgloste: Laser targeted signals for powerful returns Killer webinar $NFLX $PCLN",
+            "Correlation": 4,
+            "Sentiment": 8,
+            "Importance": 3,
+            "Impact": 5,
+            "Duration": 2,
+            "Virality": 7,
+            "Source_Score": 4,
+            "Specificity": 3,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Explosive returns daily Killer webinar $NFLX $PCLN",
+            "Correlation": 4,
+            "Sentiment": 9,
+            "Importance": 3,
+            "Impact": 5,
+            "Duration": 2,
+            "Virality": 6,
+            "Source_Score": 3,
+            "Specificity": 2,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT @VinceBaladejo: Explosive returns daily Check out trade $AAPL $PCLN",
+            "Correlation": 4,
+            "Sentiment": 8,
+            "Importance": 3,
+            "Impact": 5,
+            "Duration": 2,
+            "Virality": 6,
+            "Source_Score": 4,
+            "Specificity": 3,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        }
+    ]
+}

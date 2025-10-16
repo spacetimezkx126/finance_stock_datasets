@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 7,
+        "Importance": 6,
+        "Impact": 5,
+        "Duration": 4,
+        "Virality": 9,
+        "Source_Score": 3,
+        "Specificity": 2,
+        "Sector_Spread": 10,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "Bull Economy $AAPL #APPLE $AMZN $BAC $BHI $BRK.A $BRK.B $C $CHK $CMG $CSX $DIA $DIS $DVY $EOG $FB $FCX $GE $GOOG",
+            "Correlation": 8,
+            "Sentiment": 7,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 9,
+            "Source_Score": 3,
+            "Specificity": 2,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 1
+        }
+    ]
+}

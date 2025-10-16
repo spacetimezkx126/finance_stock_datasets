@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 3,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 4,
+        "Duration": 6,
+        "Virality": 2,
+        "Source_Score": 3,
+        "Specificity": 5,
+        "Sector_Spread": 7,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "Gana USD 9843 al año con Clixsense trabajando 30 minutos al día",
+            "Correlation": 2,
+            "Sentiment": 7,
+            "Importance": 3,
+            "Impact": 3,
+            "Duration": 5,
+            "Virality": 2,
+            "Source_Score": 2,
+            "Specificity": 6,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Mentiras para la HISTORIA de la Patria. podemos soportar un precio de barril de petróleo a USD 40",
+            "Correlation": 4,
+            "Sentiment": 3,
+            "Importance": 5,
+            "Impact": 5,
+            "Duration": 7,
+            "Virality": 2,
+            "Source_Score": 4,
+            "Specificity": 4,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 1
+        }
+    ]
+}

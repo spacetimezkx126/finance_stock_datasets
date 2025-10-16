@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 4,
+        "Importance": 5,
+        "Impact": 6,
+        "Duration": 3,
+        "Virality": 2,
+        "Source_Score": 8,
+        "Specificity": 9,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @TripleDTrader: Notable opening imbalances: $BAC -157K, $C +101K, $KO -149K, $AA +128K, $PFE -55K, $JNJ -31K, $NKE -50K, $WMT -50K, $V -...",
+            "Correlation": 9,
+            "Sentiment": 3,
+            "Importance": 6,
+            "Impact": 7,
+            "Duration": 2,
+            "Virality": 3,
+            "Source_Score": 8,
+            "Specificity": 10,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Elder Red https://t.co/USEeQFp93n $PFE $XLE $FIT $HBAN $RSX $XLV $CSX $WDC $HES $NVAX $CFG $MYL $EPD $CELG $EXEL $EWT $NFX",
+            "Correlation": 5,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 1,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 1
+        }
+    ]
+}

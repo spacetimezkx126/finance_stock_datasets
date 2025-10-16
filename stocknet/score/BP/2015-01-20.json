@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 3,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 4,
+        "Duration": 6,
+        "Virality": 7,
+        "Source_Score": 8,
+        "Specificity": 5,
+        "Sector_Spread": 6,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "Change your life and beat the wall street scammers at their own game!",
+            "Correlation": 2,
+            "Sentiment": 8,
+            "Importance": 3,
+            "Impact": 3,
+            "Duration": 5,
+            "Virality": 9,
+            "Source_Score": 4,
+            "Specificity": 1,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "Greenlight Capital Investor Letter 2014 Q4 Pdf",
+            "Correlation": 4,
+            "Sentiment": 2,
+            "Importance": 5,
+            "Impact": 5,
+            "Duration": 7,
+            "Virality": 5,
+            "Source_Score": 10,
+            "Specificity": 9,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 4
+        }
+    ]
+}

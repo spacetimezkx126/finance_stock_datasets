@@ -1,0 +1,68 @@
+{
+    "Overall_score": {
+        "Correlation": 3,
+        "Sentiment": 4,
+        "Importance": 5,
+        "Impact": 4,
+        "Duration": 2,
+        "Virality": 6,
+        "Source_Score": 4,
+        "Specificity": 5,
+        "Sector_Spread": 3,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @LucioQuincioC: @JacquelinePSUV deberias explicar donde estan los U$D 14 millardos que te robaste para la limpieza del rio Guaire",
+            "Correlation": 7,
+            "Sentiment": 2,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 5,
+            "Source_Score": 5,
+            "Specificity": 8,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "WESRDTGYHUGRU$E^#^$D%RFGYHUGFR NOOOOOOOOO SHES CLOSE. AUTO PACKY UP",
+            "Correlation": 2,
+            "Sentiment": 8,
+            "Importance": 3,
+            "Impact": 4,
+            "Duration": 1,
+            "Virality": 7,
+            "Source_Score": 2,
+            "Specificity": 3,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Rollin @dyce9feva B$D FGE 👈💯",
+            "Correlation": 1,
+            "Sentiment": 7,
+            "Importance": 2,
+            "Impact": 3,
+            "Duration": 1,
+            "Virality": 6,
+            "Source_Score": 1,
+            "Specificity": 2,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT @LuisPlatero: EL ASESINO DE #NISMAN EN LOS 90 LE ROBÓ U$D 5.000 MILLONES A LOS ARGENTINOS #ResistiendoConAguante #MacriDictador",
+            "Correlation": 6,
+            "Sentiment": 3,
+            "Importance": 7,
+            "Impact": 5,
+            "Duration": 2,
+            "Virality": 8,
+            "Source_Score": 6,
+            "Specificity": 7,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        }
+    ]
+}

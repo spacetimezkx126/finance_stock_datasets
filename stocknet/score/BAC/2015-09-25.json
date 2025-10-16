@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 4,
+        "Sentiment": 5,
+        "Importance": 3,
+        "Impact": 2,
+        "Duration": 1,
+        "Virality": 7,
+        "Source_Score": 6,
+        "Specificity": 3,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "RLH Starbucks Corp. Open http://t.co/bSH0CfzBZO $RLH $FNV $TCEL $BAC #RLH #stocks #investing",
+            "Correlation": 5,
+            "Sentiment": 6,
+            "Importance": 2,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 5,
+            "Source_Score": 4,
+            "Specificity": 4,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT @tradewithjoe: SPECIAL $25/month Twitter Rate - http://t.co/J1xwgbmglc $LNKD $PCLN $BIDU $GOOGL $GOOG $NFLX $AAPL $AMZN $BAC $FIT $SHAK",
+            "Correlation": 3,
+            "Sentiment": 4,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 1,
+            "Virality": 9,
+            "Source_Score": 8,
+            "Specificity": 2,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 1
+        }
+    ]
+}

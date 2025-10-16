@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 4,
+        "Sentiment": 5,
+        "Importance": 3,
+        "Impact": 3,
+        "Duration": 2,
+        "Virality": 6,
+        "Source_Score": 7,
+        "Specificity": 5,
+        "Sector_Spread": 4,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "TOMORROW LAND KABBALAH ZOHAR UN HINE Extraña historia del genial científico Nikola Tesla",
+            "Correlation": 2,
+            "Sentiment": 8,
+            "Importance": 2,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 9,
+            "Source_Score": 5,
+            "Specificity": 7,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Unilever UN Shares Gap Up to $44.19",
+            "Correlation": 9,
+            "Sentiment": 7,
+            "Importance": 8,
+            "Impact": 9,
+            "Duration": 3,
+            "Virality": 3,
+            "Source_Score": 9,
+            "Specificity": 10,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 2
+        }
+    ]
+}

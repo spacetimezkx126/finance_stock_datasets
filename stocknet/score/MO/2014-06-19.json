@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 1,
+        "Sentiment": 8,
+        "Importance": 2,
+        "Impact": 1,
+        "Duration": 3,
+        "Virality": 5,
+        "Source_Score": 4,
+        "Specificity": 6,
+        "Sector_Spread": 1,
+        "Tech_Mentions": 0
+    },
+    "Each_item": [
+        {
+            "News_content": "TODAY IS THE DAY!!! #JUNE19TH go listen to my first EP titled VERI$MO. Hope you guys enjoy.",
+            "Correlation": 1,
+            "Sentiment": 8,
+            "Importance": 2,
+            "Impact": 1,
+            "Duration": 3,
+            "Virality": 5,
+            "Source_Score": 4,
+            "Specificity": 6,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "TODAY IS THE DAY!!! #JUNE19TH go listen to my first EP titled VERI$MO. Hope you guys enjoy.",
+            "Correlation": 1,
+            "Sentiment": 8,
+            "Importance": 2,
+            "Impact": 1,
+            "Duration": 3,
+            "Virality": 5,
+            "Source_Score": 4,
+            "Specificity": 6,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        }
+    ]
+}

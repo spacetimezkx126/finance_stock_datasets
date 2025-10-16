@@ -1,0 +1,107 @@
+{
+    "Overall_score": {
+        "Correlation": 6,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 5,
+        "Duration": 3,
+        "Virality": 4,
+        "Source_Score": 5,
+        "Specificity": 6,
+        "Sector_Spread": 7,
+        "Tech_Mentions": 5
+    },
+    "Each_item": [
+        {
+            "News_content": "FCX Freeport-McMoRan, Inc. Day Low",
+            "Correlation": 9,
+            "Sentiment": 2,
+            "Importance": 3,
+            "Impact": 4,
+            "Duration": 2,
+            "Virality": 1,
+            "Source_Score": 6,
+            "Specificity": 8,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Big Data 2015-2016: A Look Back And A Look Ahead",
+            "Correlation": 4,
+            "Sentiment": 6,
+            "Importance": 7,
+            "Impact": 3,
+            "Duration": 8,
+            "Virality": 5,
+            "Source_Score": 7,
+            "Specificity": 5,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "The Middle Class is Dying in America",
+            "Correlation": 3,
+            "Sentiment": 1,
+            "Importance": 8,
+            "Impact": 5,
+            "Duration": 9,
+            "Virality": 7,
+            "Source_Score": 6,
+            "Specificity": 2,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Got nothing FANGy going today, sold $DWTI overnight long. Even though $FB $GOOG $NFLX $AMZN ought to bounce I ain",
+            "Correlation": 7,
+            "Sentiment": 4,
+            "Importance": 5,
+            "Impact": 6,
+            "Duration": 3,
+            "Virality": 3,
+            "Source_Score": 5,
+            "Specificity": 7,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "$SPX $SPY $GOOGL $AMZN $GS $AVGO $MBLY $WM $CBS $RAI",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 5,
+            "Duration": 2,
+            "Virality": 2,
+            "Source_Score": 6,
+            "Specificity": 8,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "@Dan_Passarelli thinks $AMZN options over priced, explores call credit sprd",
+            "Correlation": 8,
+            "Sentiment": 3,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 6
+        },
+        {
+            "News_content": "$TSLA HFT Algos triggered BUY in SIGMA-X, CROSSFINDER, ATS, LX @ 09:05, P/T 229.00 #Quant $MSFT $GPRO $GOOG $AMZN $FB $AAPL $NFLX $QQQ",
+            "Correlation": 9,
+            "Sentiment": 7,
+            "Importance": 6,
+            "Impact": 7,
+            "Duration": 3,
+            "Virality": 4,
+            "Source_Score": 8,
+            "Specificity": 9,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 9
+        }
+    ]
+}

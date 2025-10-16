@@ -1,0 +1,81 @@
+{
+    "Overall_score": {
+        "Correlation": 4,
+        "Sentiment": 2,
+        "Importance": 6,
+        "Impact": 5,
+        "Duration": 7,
+        "Virality": 3,
+        "Source_Score": 5,
+        "Specificity": 8,
+        "Sector_Spread": 2,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @LucioQuincioC: Venezuela sin medicamentos para el cáncer en su mayoría niños y Maduro se compra nuevo avión Embraer 190 #Cecaf U$D 80 …",
+            "Correlation": 5,
+            "Sentiment": 1,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 8,
+            "Virality": 4,
+            "Source_Score": 6,
+            "Specificity": 9,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT @pregANDREINA: Esta es la Misión Villanueva es para sustituir los Ranchos por Casas estaria listo 2012 Inversión 3.000 Millones U$D http…",
+            "Correlation": 4,
+            "Sentiment": 3,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 7,
+            "Virality": 3,
+            "Source_Score": 5,
+            "Specificity": 8,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT @LucioQuincioC: Regimen requiere para poder sobrevivir mas de U$D 18 millardos en efectivo..nadie le quiere prestar ni el diablo...",
+            "Correlation": 4,
+            "Sentiment": 2,
+            "Importance": 7,
+            "Impact": 5,
+            "Duration": 8,
+            "Virality": 3,
+            "Source_Score": 6,
+            "Specificity": 8,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT @1LIDERAGUILA: tramo de el metro seria entregado en el año 2012...1700 Millones U$D de la Línea 2 del Metro Valencia y asi esta! http://…",
+            "Correlation": 4,
+            "Sentiment": 2,
+            "Importance": 6,
+            "Impact": 4,
+            "Duration": 7,
+            "Virality": 2,
+            "Source_Score": 5,
+            "Specificity": 8,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT @MaihenH: #CorrupciónRoja Se invirtieron 1700 Millones U$D para Línea 2 del Metro Valencia q estaría lista 2012 y no se Termino http://t…",
+            "Correlation": 4,
+            "Sentiment": 2,
+            "Importance": 6,
+            "Impact": 4,
+            "Duration": 7,
+            "Virality": 2,
+            "Source_Score": 5,
+            "Specificity": 8,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        }
+    ]
+}

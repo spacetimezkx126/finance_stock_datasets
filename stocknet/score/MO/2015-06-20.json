@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 4,
+        "Sentiment": 7,
+        "Importance": 3,
+        "Impact": 5,
+        "Duration": 2,
+        "Virality": 6,
+        "Source_Score": 5,
+        "Specificity": 4,
+        "Sector_Spread": 7,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "ABB Abb Ltd. Stock Message Board http://t.co/ZrloARpcs2 $ABB $MO $SUNE $LQD #ABB #pennystocks #stockmarket",
+            "Correlation": 5,
+            "Sentiment": 6,
+            "Importance": 3,
+            "Impact": 4,
+            "Duration": 2,
+            "Virality": 7,
+            "Source_Score": 4,
+            "Specificity": 5,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Our Platinum Subscribers Saw Their Penny Stock Alerts Gain Over 200% In The Past 2 Weeks! Big Update: http://t.co/Lhta1y8KaK $BAESY $BWP $MO",
+            "Correlation": 3,
+            "Sentiment": 8,
+            "Importance": 3,
+            "Impact": 6,
+            "Duration": 2,
+            "Virality": 5,
+            "Source_Score": 6,
+            "Specificity": 3,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 1
+        }
+    ]
+}

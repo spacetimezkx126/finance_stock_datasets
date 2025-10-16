@@ -1,0 +1,68 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 3,
+        "Importance": 8,
+        "Impact": 6,
+        "Duration": 5,
+        "Virality": 4,
+        "Source_Score": 3,
+        "Specificity": 6,
+        "Sector_Spread": 5,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "Se robaron U$D 360 millardos en Pdvsa....jejeje.l os tomaron prestado...",
+            "Correlation": 9,
+            "Sentiment": 2,
+            "Importance": 9,
+            "Impact": 7,
+            "Duration": 6,
+            "Virality": 5,
+            "Source_Score": 3,
+            "Specificity": 8,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Gracias Nicolas, fallecen 8 pacientes con VIH por falta de medicamentos...pero para #Cuba U$D 18 millardos de regalo + g…",
+            "Correlation": 8,
+            "Sentiment": 1,
+            "Importance": 10,
+            "Impact": 8,
+            "Duration": 7,
+            "Virality": 6,
+            "Source_Score": 3,
+            "Specificity": 7,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "500 U$D = Sicad I: 12 Bs = 6000 Bs.\n\n 500 U$D = Sicad II: 50 Bs = 6000 BsF = 25000 Bs.\n\n25000 Bs= 5 sueldos minimos",
+            "Correlation": 7,
+            "Sentiment": 4,
+            "Importance": 8,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 4,
+            "Source_Score": 3,
+            "Specificity": 9,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "A N*GGA LIK ME GETS SHIT DONE G$D WHAT'S IN YOO CUP",
+            "Correlation": 2,
+            "Sentiment": 5,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 2,
+            "Virality": 3,
+            "Source_Score": 1,
+            "Specificity": 1,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        }
+    ]
+}

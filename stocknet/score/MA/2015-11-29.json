@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 8,
+        "Impact": 6,
+        "Duration": 9,
+        "Virality": 4,
+        "Source_Score": 3,
+        "Specificity": 5,
+        "Sector_Spread": 7,
+        "Tech_Mentions": 8
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @HFM17Mile: Watch Out, Visa and MasterCard; Here Comes Blockchain.",
+            "Correlation": 7,
+            "Sentiment": 5,
+            "Importance": 8,
+            "Impact": 6,
+            "Duration": 9,
+            "Virality": 4,
+            "Source_Score": 3,
+            "Specificity": 5,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 8
+        }
+    ]
+}

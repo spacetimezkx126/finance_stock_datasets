@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 3,
+        "Duration": 2,
+        "Virality": 1,
+        "Source_Score": 6,
+        "Specificity": 9,
+        "Sector_Spread": 3,
+        "Tech_Mentions": 7
+    },
+    "Each_item": [
+        {
+            "News_content": "V, +0.11%, Stock Charts, $V, VISA Inc. Cl A (NYSE), Last Updated: 10/09/2015 20:04:36, V Stock Chart - 1 Month, http://t.co/9xhsiRMjdC",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 1,
+            "Source_Score": 6,
+            "Specificity": 9,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 7
+        }
+    ]
+}

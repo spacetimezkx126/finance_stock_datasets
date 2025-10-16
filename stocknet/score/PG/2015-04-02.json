@@ -1,0 +1,68 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 4,
+        "Importance": 7,
+        "Impact": 6,
+        "Duration": 5,
+        "Virality": 3,
+        "Source_Score": 9,
+        "Specificity": 7,
+        "Sector_Spread": 10,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "#sentishiftdown $PG $AXP $SU $COP $DWTI $XOM $PTR $PSX $KO $TWTR #sentiquant 20150402 08:00:04:838",
+            "Correlation": 9,
+            "Sentiment": 3,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 2,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "#sentishiftdown $PG $AXP $SU $COP $DWTI $XOM $PTR $PSX $KO $TWTR #sentiquant 20150402 08:00:04:838",
+            "Correlation": 9,
+            "Sentiment": 3,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 2,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Is #WarrenBuffett Wrong About #Oil Stocks? $XOM $COP $KO $AXP $PG $PTR $SU $PSX",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 8,
+            "Impact": 7,
+            "Duration": 6,
+            "Virality": 4,
+            "Source_Score": 10,
+            "Specificity": 7,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "Is #WarrenBuffett Wrong About #Oil Stocks? $XOM $COP $KO $AXP $PG $PTR $SU $PSX",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 8,
+            "Impact": 7,
+            "Duration": 6,
+            "Virality": 4,
+            "Source_Score": 10,
+            "Specificity": 7,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 3
+        }
+    ]
+}

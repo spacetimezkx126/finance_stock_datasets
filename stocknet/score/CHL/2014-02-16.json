@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 4,
+        "Importance": 9,
+        "Impact": 7,
+        "Duration": 6,
+        "Virality": 5,
+        "Source_Score": 8,
+        "Specificity": 3,
+        "Sector_Spread": 10,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @SeekingAlpha: Xi's Tinkering Risks China Hard Landing $FXI $CHL $EWA $TCEHY $PGJ $GXC $FXP $YINN $VPL $YANG $AIA",
+            "Correlation": 8,
+            "Sentiment": 4,
+            "Importance": 9,
+            "Impact": 7,
+            "Duration": 6,
+            "Virality": 5,
+            "Source_Score": 8,
+            "Specificity": 3,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 2
+        }
+    ]
+}

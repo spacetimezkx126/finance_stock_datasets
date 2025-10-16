@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 3,
+        "Sentiment": 4,
+        "Importance": 5,
+        "Impact": 2,
+        "Duration": 3,
+        "Virality": 6,
+        "Source_Score": 4,
+        "Specificity": 2,
+        "Sector_Spread": 1,
+        "Tech_Mentions": 0
+    },
+    "Each_item": [
+        {
+            "News_content": "@GobAlexisR @meridamundo #Si luchamos por un nuevo modelo social... Para qué continuar PROMOVIENDO LOS Vicios DEL CAPITALISMO: Consumo, miche, toros",
+            "Correlation": 3,
+            "Sentiment": 4,
+            "Importance": 5,
+            "Impact": 2,
+            "Duration": 3,
+            "Virality": 6,
+            "Source_Score": 4,
+            "Specificity": 2,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        }
+    ]
+}

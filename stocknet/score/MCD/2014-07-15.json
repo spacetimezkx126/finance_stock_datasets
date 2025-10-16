@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 5,
+        "Sentiment": 3,
+        "Importance": 2,
+        "Impact": 4,
+        "Duration": 3,
+        "Virality": 1,
+        "Source_Score": 2,
+        "Specificity": 3,
+        "Sector_Spread": 1,
+        "Tech_Mentions": 0
+    },
+    "Each_item": [
+        {
+            "News_content": "Most stupid share to have. Boring not moving. Holy $100",
+            "Correlation": 5,
+            "Sentiment": 3,
+            "Importance": 2,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 1,
+            "Source_Score": 2,
+            "Specificity": 3,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 6,
+        "Impact": 6,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 5,
+        "Specificity": 7,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "RT $AAPL Algos erased today's all gains, in NEGATIVE TERRITORY, P/T 99.20 $LNKD $PCLN $BIDU $GOOG $FB $TWTR $TSLA $AMZN $BBRY $NFLX $QQQ",
+            "Correlation": 9,
+            "Sentiment": 3,
+            "Importance": 5,
+            "Impact": 6,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 4,
+            "Specificity": 8,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Google's Chromecast Now Features Disney, Twitch, iHeartRadio, And Drama ... $GOOG",
+            "Correlation": 8,
+            "Sentiment": 7,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 5,
+            "Virality": 4,
+            "Source_Score": 6,
+            "Specificity": 7,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT $AAPL Algos triggered SELL @ 10:08 in SIGMA-X, CROSSFINDER, LTS, P/T 99.20 $LNKD $PCLN $BIDU $GOOG $FB $TWTR $TSLA $AMZN $BBRY $NFLX $QQQ",
+            "Correlation": 9,
+            "Sentiment": 2,
+            "Importance": 5,
+            "Impact": 6,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 4,
+            "Specificity": 8,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "GOOGLE 'C' : Magubane - I Had No Idea Who He Was $GOOG",
+            "Correlation": 5,
+            "Sentiment": 4,
+            "Importance": 3,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 3,
+            "Source_Score": 5,
+            "Specificity": 4,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "Google's Android One Initiative Could Affect Samsung $SSNLF $GOOG",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 6,
+            "Virality": 3,
+            "Source_Score": 7,
+            "Specificity": 7,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT $AAPL Algos triggered SELL @ 09:18 in SIGMA-X, CROSSFINDER, LTS, P/T 99.20 $LNKD $PCLN $BIDU $GOOG $FB $TWTR $TSLA $AMZN $BBRY $NFLX $QQQ",
+            "Correlation": 9,
+            "Sentiment": 2,
+            "Importance": 5,
+            "Impact": 6,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 4,
+            "Specificity": 8,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT Living Longer And Making Money: Life Extending Businesses $ABBV $GERN $GOOG $GOOGL",
+            "Correlation": 6,
+            "Sentiment": 8,
+            "Importance": 7,
+            "Impact": 5,
+            "Duration": 7,
+            "Virality": 3,
+            "Source_Score": 6,
+            "Specificity": 5,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "GOOGLE 'C' : Military Intelligence collects tens of millions of pieces of information a day $GOOG",
+            "Correlation": 5,
+            "Sentiment": 4,
+            "Importance": 6,
+            "Impact": 4,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 6,
+            "Specificity": 5,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        }
+    ]
+}

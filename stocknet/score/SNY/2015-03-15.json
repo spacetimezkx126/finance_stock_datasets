@@ -1,0 +1,55 @@
+{
+    "Overall_score": {
+        "Correlation": 9,
+        "Sentiment": 5,
+        "Importance": 8,
+        "Impact": 7,
+        "Duration": 6,
+        "Virality": 4,
+        "Source_Score": 7,
+        "Specificity": 9,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 3
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @AndyBiotech: $REGN 10-K: Languages regarding FDA's concerns about PCSK9 Neurocognitive AEs.",
+            "Correlation": 10,
+            "Sentiment": 3,
+            "Importance": 8,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 3,
+            "Source_Score": 7,
+            "Specificity": 10,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "RT @fwpharma: PCSK9 inhibitors from Amgen, Sanofi, Regeneron lower cardiovascular risk in studies $AMGN $SNY $REGN",
+            "Correlation": 9,
+            "Sentiment": 7,
+            "Importance": 9,
+            "Impact": 8,
+            "Duration": 7,
+            "Virality": 5,
+            "Source_Score": 8,
+            "Specificity": 8,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 4
+        },
+        {
+            "News_content": "$REGN 10-K: Languages regarding FDA's concerns about PCSK9 Neurocognitive AEs.",
+            "Correlation": 10,
+            "Sentiment": 3,
+            "Importance": 8,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 2,
+            "Source_Score": 7,
+            "Specificity": 10,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 2
+        }
+    ]
+}

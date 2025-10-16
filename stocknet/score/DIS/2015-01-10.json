@@ -1,0 +1,55 @@
+{
+    "Overall_score": {
+        "Correlation": 6,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 3,
+        "Duration": 2,
+        "Virality": 7,
+        "Source_Score": 8,
+        "Specificity": 5,
+        "Sector_Spread": 9,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "$GDXJ Financials Updated Friday, January 9, 2015 10:03:22 PM $XLY $TLT $T $DIS",
+            "Correlation": 7,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 6,
+            "Source_Score": 8,
+            "Specificity": 6,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "$DIS Stock Message Board Updated Saturday, January 10, 2015 05:59:24 AM $PG $AEM $XLB $PCLN",
+            "Correlation": 6,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 7,
+            "Source_Score": 8,
+            "Specificity": 5,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT @StockSignaling: Movers and Shakers: Making Range Advances: $KGC $SVU $NXPI $CNAT $HILL $BITA $DIS $EDAP $ODP $EGO $XL $AGEN $NVAX $PIR",
+            "Correlation": 5,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 8,
+            "Source_Score": 7,
+            "Specificity": 4,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 1
+        }
+    ]
+}

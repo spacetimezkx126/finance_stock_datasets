@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 3,
+        "Sentiment": 7,
+        "Importance": 4,
+        "Impact": 5,
+        "Duration": 6,
+        "Virality": 8,
+        "Source_Score": 5,
+        "Specificity": 2,
+        "Sector_Spread": 1,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "Review of Super_Trades service - see what all his subs are raving about! http://t.co/eaD6UiJ6nc",
+            "Correlation": 3,
+            "Sentiment": 7,
+            "Importance": 4,
+            "Impact": 5,
+            "Duration": 6,
+            "Virality": 8,
+            "Source_Score": 5,
+            "Specificity": 2,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        }
+    ]
+}

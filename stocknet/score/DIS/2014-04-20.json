@@ -1,0 +1,55 @@
+{
+    "Overall_score": {
+        "Correlation": 3,
+        "Sentiment": 6,
+        "Importance": 4,
+        "Impact": 2,
+        "Duration": 5,
+        "Virality": 7,
+        "Source_Score": 8,
+        "Specificity": 5,
+        "Sector_Spread": 4,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "How to get employees to be more entrepreneurial",
+            "Correlation": 2,
+            "Sentiment": 7,
+            "Importance": 3,
+            "Impact": 1,
+            "Duration": 6,
+            "Virality": 5,
+            "Source_Score": 8,
+            "Specificity": 4,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Captain America soars again, tops Rio 2 to win U.S. box office",
+            "Correlation": 3,
+            "Sentiment": 8,
+            "Importance": 4,
+            "Impact": 2,
+            "Duration": 4,
+            "Virality": 9,
+            "Source_Score": 8,
+            "Specificity": 6,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "How Nintendo Co. Opted Out of Partnerships With EA and Activision",
+            "Correlation": 6,
+            "Sentiment": 5,
+            "Importance": 6,
+            "Impact": 3,
+            "Duration": 5,
+            "Virality": 8,
+            "Source_Score": 8,
+            "Specificity": 7,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 2
+        }
+    ]
+}

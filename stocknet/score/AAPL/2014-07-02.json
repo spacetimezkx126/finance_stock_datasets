@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 5,
+        "Importance": 6,
+        "Impact": 7,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 7,
+        "Specificity": 9,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "$PEG, $HXL, $AMCX, $AAPL, $HBAN, $XYL, $WYNN, $NVE, $HSIC, $SIRI, $AAPL, $MIK, $VICL, $WFC, $BMY, $COV, $ED, $JNJ, $AAPL, $RHI, $SLXP, $SNA, $AAPL, $VRSK, $VFC, $BMY, $AAPL, $FANG, $SLXP, $SSYS, $PANW, $SCTY, $AAPL, $ABBV, $CNK, $PNR, $AAPL, $RCL, $CHRW, $HD, $AAPL, $CBOE, $SMG, $CAR, $AAPL, $AAPL, $BAC, $BKW, $CA, $JWN, $AWK, $AAPL, $DUK, $EXPE, $TK, $AAPL, $CYH, $ANAT, $PVH, $AAPL, $GHC, $OI, $SCI, $AAPL, $COH, $NSC, $CNP, $AAPL, $AAPL, $CHRW, $MORN, $UPL, $AAPL, $DD, $JCP, $G, $AAPL, $RGLD, $SLH, $CYT, $AAPL, $MRO, $RAI, $WFM, $AAPL, $BMR, $HHC, $KLAC, $AAPL, $HP, $TFM, $HRB, $AAPL, $AAPL, $ABBV, $ALU, $AAPL, $BZH, $BMY, $CSIQ, $EPB, $LLY, $ENPH, $FEYE, $HOG, $AAPL, $AAPL, $FE, $GXP, $DF, $AAPL, $WIN, $VVC, $TGT, $AAPL, $CINF, $PAYX, $CSE, $AAPL, $WLL, $ORLY, $HSY, $AAPL, $SNI, $CREE, $RCL, $AAPL",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 6,
+            "Impact": 7,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 7,
+            "Specificity": 9,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 2
+        }
+    ]
+}

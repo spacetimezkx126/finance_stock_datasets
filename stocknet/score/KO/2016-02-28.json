@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 3,
+        "Sentiment": 2,
+        "Importance": 4,
+        "Impact": 3,
+        "Duration": 5,
+        "Virality": 6,
+        "Source_Score": 5,
+        "Specificity": 4,
+        "Sector_Spread": 2,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "GAPol's Team FADA used empty and hateful excuses about KO funded HB757 and kept losing arguments only to claim victory",
+            "Correlation": 3,
+            "Sentiment": 2,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 5,
+            "Virality": 6,
+            "Source_Score": 5,
+            "Specificity": 4,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        }
+    ]
+}

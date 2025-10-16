@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 6,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 3,
+        "Duration": 2,
+        "Virality": 7,
+        "Source_Score": 8,
+        "Specificity": 5,
+        "Sector_Spread": 9,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "@ASUS unveils a @Windows 10-powered PC-on-a-stick with the new #VivoStick",
+            "Correlation": 8,
+            "Sentiment": 7,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 6,
+            "Source_Score": 7,
+            "Specificity": 9,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "News Digest: @AMZN @CSCO @GOOGL @INTC http://t.co/53OxwIoP1O",
+            "Correlation": 4,
+            "Sentiment": 3,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 8,
+            "Source_Score": 9,
+            "Specificity": 1,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 1
+        }
+    ]
+}

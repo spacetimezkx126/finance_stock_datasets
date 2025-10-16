@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 3,
+        "Sentiment": 8,
+        "Importance": 2,
+        "Impact": 3,
+        "Duration": 4,
+        "Virality": 6,
+        "Source_Score": 5,
+        "Specificity": 3,
+        "Sector_Spread": 7,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "Great #Gift! #Christmas #Holiday Green Cast Iron Infuser #Teapot & Holiday #Teas $MSFT $GOOG $M $BAC $C $CAKE",
+            "Correlation": 3,
+            "Sentiment": 8,
+            "Importance": 2,
+            "Impact": 3,
+            "Duration": 4,
+            "Virality": 6,
+            "Source_Score": 5,
+            "Specificity": 3,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 9,
+        "Sentiment": 5,
+        "Importance": 8,
+        "Impact": 7,
+        "Duration": 6,
+        "Virality": 7,
+        "Source_Score": 8,
+        "Specificity": 8,
+        "Sector_Spread": 10,
+        "Tech_Mentions": 6
+    },
+    "Each_item": [
+        {
+            "News_content": "Hacking Victim JPMorgan Chasing Cybersecurity Fixes #IBDNews $JPM $CHKP $FTNT $HACK $CSCO $PANW",
+            "Correlation": 9,
+            "Sentiment": 5,
+            "Importance": 8,
+            "Impact": 7,
+            "Duration": 6,
+            "Virality": 7,
+            "Source_Score": 8,
+            "Specificity": 8,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 6
+        }
+    ]
+}

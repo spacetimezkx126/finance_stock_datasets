@@ -1,0 +1,55 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 7,
+        "Importance": 6,
+        "Impact": 7,
+        "Duration": 5,
+        "Virality": 6,
+        "Source_Score": 7,
+        "Specificity": 7,
+        "Sector_Spread": 6,
+        "Tech_Mentions": 4
+    },
+    "Each_item": [
+        {
+            "News_content": "Just over 1yr ago we tweeted our large position in $AAPL & belief the company extremely undervalued. Since then, stock i…",
+            "Correlation": 10,
+            "Sentiment": 8,
+            "Importance": 7,
+            "Impact": 8,
+            "Duration": 6,
+            "Virality": 5,
+            "Source_Score": 8,
+            "Specificity": 9,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "$AAPL had a big day yesterday following F0MC",
+            "Correlation": 9,
+            "Sentiment": 7,
+            "Importance": 8,
+            "Impact": 9,
+            "Duration": 4,
+            "Virality": 7,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "Mid-Week Update 10.5.14: $SPY, $IWM, $AAPL, $FB, $TWTR, $GOOGL, $KORS, $PCLN",
+            "Correlation": 7,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 6,
+            "Source_Score": 6,
+            "Specificity": 6,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 4
+        }
+    ]
+}

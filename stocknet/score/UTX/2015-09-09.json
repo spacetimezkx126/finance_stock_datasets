@@ -1,0 +1,94 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 6,
+        "Impact": 6,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 8,
+        "Specificity": 7,
+        "Sector_Spread": 9,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "Dow stocks are showing mixed trends today as investors weigh economic data and corporate earnings. Intel (INTC) reported better-than-expected quarterly results, boosting tech sector sentiment. Travelers Companies Inc. (TRV) saw a slight dip due to concerns over insurance claims. Visa (V) is up following positive analyst coverage.",
+            "Correlation": 9,
+            "Sentiment": 6,
+            "Importance": 7,
+            "Impact": 7,
+            "Duration": 3,
+            "Virality": 4,
+            "Source_Score": 8,
+            "Specificity": 8,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "American Express (AXP) announced a new partnership that could enhance its payment solutions. UnitedHealth Group (UNH) is under scrutiny for potential regulatory changes affecting healthcare providers. Boeing (BA) continues to face production challenges impacting its stock price.",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 6,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 7,
+            "Specificity": 7,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "McDonald's (MCD) reported strong global sales growth, driving its stock higher. United Technologies (UTX) is exploring strategic options for its aerospace division. Nike (NKE) launched a new product line which has been well-received by consumers.",
+            "Correlation": 8,
+            "Sentiment": 7,
+            "Importance": 6,
+            "Impact": 6,
+            "Duration": 3,
+            "Virality": 5,
+            "Source_Score": 8,
+            "Specificity": 8,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Goldman Sachs (GS) posted solid earnings, lifting financial sector stocks. Verizon Communications (VZ) is investing heavily in 5G infrastructure. Cisco Systems (CSCO) faces margin pressure amid supply chain disruptions.",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 8,
+            "Specificity": 7,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "General Electric (GE) is restructuring its energy business, causing volatility in its shares. Pfizer (PFE) received approval for a new drug, boosting investor confidence. 3M Company (MMM) cut its outlook due to weaker demand.",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 6,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 7,
+            "Specificity": 7,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Home Depot (HD) reported robust same-store sales growth. Walmart (WMT) is expanding its e-commerce presence. Apple (AAPL) unveiled new products at its annual event, sparking interest among tech enthusiasts. Disney (DIS) raised subscription prices for its streaming service.",
+            "Correlation": 9,
+            "Sentiment": 7,
+            "Importance": 7,
+            "Impact": 7,
+            "Duration": 3,
+            "Virality": 5,
+            "Source_Score": 8,
+            "Specificity": 8,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 3
+        }
+    ]
+}

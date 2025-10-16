@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 9,
+        "Sentiment": 8,
+        "Importance": 6,
+        "Impact": 7,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 7,
+        "Specificity": 10,
+        "Sector_Spread": 2,
+        "Tech_Mentions": 9
+    },
+    "Each_item": [
+        {
+            "News_content": "A bullish Moving out of Oversold has occurred at 11:30 AM Nov 06 at $13.11 for HRG Group Inc (HRG) with ticker symbol $HRG.",
+            "Correlation": 9,
+            "Sentiment": 8,
+            "Importance": 6,
+            "Impact": 7,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 7,
+            "Specificity": 10,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 9
+        }
+    ]
+}

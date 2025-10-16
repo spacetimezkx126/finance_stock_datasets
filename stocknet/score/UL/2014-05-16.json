@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 3,
+        "Sentiment": 2,
+        "Importance": 8,
+        "Impact": 5,
+        "Duration": 9,
+        "Virality": 6,
+        "Source_Score": 7,
+        "Specificity": 8,
+        "Sector_Spread": 4,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "In Karachi, the Taliban Digs In for the Long Haul",
+            "Correlation": 3,
+            "Sentiment": 2,
+            "Importance": 8,
+            "Impact": 5,
+            "Duration": 9,
+            "Virality": 6,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 1
+        }
+    ]
+}

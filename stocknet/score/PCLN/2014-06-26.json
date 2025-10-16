@@ -1,0 +1,68 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 6,
+        "Duration": 3,
+        "Virality": 2,
+        "Source_Score": 3,
+        "Specificity": 8,
+        "Sector_Spread": 5,
+        "Tech_Mentions": 9
+    },
+    "Each_item": [
+        {
+            "News_content": "$PCLN Would like to see price breakout of the 1 hour downtrend channel.",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 3,
+            "Impact": 5,
+            "Duration": 2,
+            "Virality": 1,
+            "Source_Score": 3,
+            "Specificity": 9,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 8
+        },
+        {
+            "News_content": "$PCLN 1 Hour Fibonacci Channel Support/Resistance /Pivot Points",
+            "Correlation": 9,
+            "Sentiment": 4,
+            "Importance": 4,
+            "Impact": 6,
+            "Duration": 3,
+            "Virality": 1,
+            "Source_Score": 3,
+            "Specificity": 10,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 10
+        },
+        {
+            "News_content": "Are you looking to buy $AMP $NSC $EMR $PCLN #Stock",
+            "Correlation": 6,
+            "Sentiment": 6,
+            "Importance": 3,
+            "Impact": 4,
+            "Duration": 2,
+            "Virality": 3,
+            "Source_Score": 2,
+            "Specificity": 7,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "$1200 & 50 day holding in $PCLN",
+            "Correlation": 7,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 6,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 3,
+            "Specificity": 8,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 7
+        }
+    ]
+}

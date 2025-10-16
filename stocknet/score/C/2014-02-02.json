@@ -1,0 +1,68 @@
+{
+    "Overall_score": {
+        "Correlation": 2,
+        "Sentiment": 3,
+        "Importance": 1,
+        "Impact": 1,
+        "Duration": 1,
+        "Virality": 4,
+        "Source_Score": 2,
+        "Specificity": 2,
+        "Sector_Spread": 1,
+        "Tech_Mentions": 3
+    },
+    "Each_item": [
+        {
+            "News_content": "変数セルを含んだ関数だよ。変数セル（ウェイト）を「S4」にした時 S4*S4*$I$18（分散）+(1-S4)*(1-S4)*$M$18（分散）+2*S4*(1-S4)*$C$25(相関変数)*$I$19(標準偏差)*$M$19(標準偏差) みたいな",
+            "Correlation": 6,
+            "Sentiment": 5,
+            "Importance": 2,
+            "Impact": 2,
+            "Duration": 3,
+            "Virality": 1,
+            "Source_Score": 4,
+            "Specificity": 7,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 8
+        },
+        {
+            "News_content": "I'm a King / P$C",
+            "Correlation": 1,
+            "Sentiment": 7,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 6,
+            "Source_Score": 1,
+            "Specificity": 1,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT @VennTooDope: “@Dekee_: Pussy ass nigga you don't want this shit, this shit”FM$C",
+            "Correlation": 1,
+            "Sentiment": 2,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 8,
+            "Source_Score": 1,
+            "Specificity": 1,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "!! 🙌 RT @kennethbrandon6: Happy Born day @DjRydeOut ##DB  #F$C \"last night that Goose\" enjoy my boy!",
+            "Correlation": 1,
+            "Sentiment": 8,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 7,
+            "Source_Score": 1,
+            "Specificity": 1,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 3,
+        "Sentiment": 4,
+        "Importance": 2,
+        "Impact": 3,
+        "Duration": 2,
+        "Virality": 5,
+        "Source_Score": 1,
+        "Specificity": 4,
+        "Sector_Spread": 2,
+        "Tech_Mentions": 0
+    },
+    "Each_item": [
+        {
+            "News_content": "Did Marvel fuck up the one of the greatest characters in the Marvel Universe again? Colossus rules! WTF",
+            "Correlation": 3,
+            "Sentiment": 4,
+            "Importance": 2,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 5,
+            "Source_Score": 1,
+            "Specificity": 4,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 0
+        }
+    ]
+}

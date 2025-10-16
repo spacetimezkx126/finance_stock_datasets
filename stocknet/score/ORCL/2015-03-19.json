@@ -1,0 +1,68 @@
+{
+    "Overall_score": {
+        "Correlation": 5,
+        "Sentiment": 7,
+        "Importance": 4,
+        "Impact": 6,
+        "Duration": 3,
+        "Virality": 5,
+        "Source_Score": 4,
+        "Specificity": 6,
+        "Sector_Spread": 3,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "$PPCH Gained 1005% Within 3 Days! Market News Update:",
+            "Correlation": 9,
+            "Sentiment": 10,
+            "Importance": 8,
+            "Impact": 10,
+            "Duration": 3,
+            "Virality": 7,
+            "Source_Score": 5,
+            "Specificity": 8,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Our Penny Stock Picks Gained 500% In 2 Months! Subscribe Here For Our New Alerts:",
+            "Correlation": 7,
+            "Sentiment": 9,
+            "Importance": 6,
+            "Impact": 8,
+            "Duration": 5,
+            "Virality": 6,
+            "Source_Score": 4,
+            "Specificity": 7,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Stocks our traders are trading:",
+            "Correlation": 4,
+            "Sentiment": 5,
+            "Importance": 3,
+            "Impact": 4,
+            "Duration": 2,
+            "Virality": 4,
+            "Source_Score": 3,
+            "Specificity": 5,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "chartguy89: $ORCL Oracle Corporation: ORCL 44.13 Oracle Corp Stock Charts $ORCL Last",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 6,
+            "Specificity": 9,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 7
+        }
+    ]
+}

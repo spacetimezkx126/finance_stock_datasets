@@ -1,0 +1,68 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 6,
+        "Importance": 5,
+        "Impact": 6,
+        "Duration": 4,
+        "Virality": 5,
+        "Source_Score": 3,
+        "Specificity": 6,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "@Brandon555577 https://t.co/TsIduE57K6 $VDRM #BIOTECH HUGE FILING OUT REVENUES! 1000% run inevitable $AAPL $ASUV $BCAP $BETS $BIG $CLSH $C",
+            "Correlation": 9,
+            "Sentiment": 10,
+            "Importance": 7,
+            "Impact": 8,
+            "Duration": 3,
+            "Virality": 6,
+            "Source_Score": 2,
+            "Specificity": 8,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "@Qwovadis $VDRM #BIOTECH HUGE FILING OUT REVENUES! 1000% run inevitable $AAPL $ASUV $BCAP $BETS $BIG $CLSH $COBI $C #stocks #mmj $CGRA",
+            "Correlation": 9,
+            "Sentiment": 10,
+            "Importance": 7,
+            "Impact": 8,
+            "Duration": 3,
+            "Virality": 6,
+            "Source_Score": 2,
+            "Specificity": 8,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Notable opening imbalances: $BAC -157K, $C +101K, $KO -149K, $AA +128K, $PFE -55K, $JNJ -31K, $NKE -50K, $WMT -50K, $V",
+            "Correlation": 8,
+            "Sentiment": 4,
+            "Importance": 6,
+            "Impact": 7,
+            "Duration": 2,
+            "Virality": 3,
+            "Source_Score": 5,
+            "Specificity": 9,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "STOCKMARKET CRASH IS COMING get ready! #stocks #Brussels $VIX $TVIX $SPY $AAPL $FB $TWTR $C $BAC $SIRI $PCLN $MSFT $AMZN",
+            "Correlation": 6,
+            "Sentiment": 2,
+            "Importance": 8,
+            "Impact": 9,
+            "Duration": 5,
+            "Virality": 7,
+            "Source_Score": 4,
+            "Specificity": 5,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 3
+        }
+    ]
+}

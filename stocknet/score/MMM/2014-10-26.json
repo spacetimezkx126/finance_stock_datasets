@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 3,
+        "Sentiment": 7,
+        "Importance": 5,
+        "Impact": 4,
+        "Duration": 6,
+        "Virality": 8,
+        "Source_Score": 6,
+        "Specificity": 4,
+        "Sector_Spread": 2,
+        "Tech_Mentions": 3
+    },
+    "Each_item": [
+        {
+            "News_content": "5-Steps to His First Million Trading",
+            "Correlation": 3,
+            "Sentiment": 7,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 6,
+            "Virality": 8,
+            "Source_Score": 6,
+            "Specificity": 4,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 3
+        }
+    ]
+}

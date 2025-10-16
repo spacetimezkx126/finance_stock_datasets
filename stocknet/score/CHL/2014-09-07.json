@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 3,
+        "Sentiment": 4,
+        "Importance": 2,
+        "Impact": 3,
+        "Duration": 2,
+        "Virality": 5,
+        "Source_Score": 3,
+        "Specificity": 4,
+        "Sector_Spread": 1,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "Stock Contest!! Pick $CHL and WIN a FREE Tablet!! Enter NOW! Click here for details: http://t.co/NTDLcAVdJa $DDD $PG $VALE $WMT",
+            "Correlation": 3,
+            "Sentiment": 7,
+            "Importance": 1,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 8,
+            "Source_Score": 2,
+            "Specificity": 5,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "@StockKingz lol god the ignorance you guys on twitter present is hilarious....whats $CHL float and what did it do the past 5 months? goodbye",
+            "Correlation": 3,
+            "Sentiment": 2,
+            "Importance": 3,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 4,
+            "Specificity": 3,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        }
+    ]
+}

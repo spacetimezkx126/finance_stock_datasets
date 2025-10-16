@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 7,
+        "Importance": 6,
+        "Impact": 7,
+        "Duration": 5,
+        "Virality": 3,
+        "Source_Score": 4,
+        "Specificity": 9,
+        "Sector_Spread": 2,
+        "Tech_Mentions": 8
+    },
+    "Each_item": [
+        {
+            "News_content": "$PG up 6.65%, trend detected 23 days ago at $75.94 and peaked 11 days later at $80.99",
+            "Correlation": 9,
+            "Sentiment": 8,
+            "Importance": 7,
+            "Impact": 8,
+            "Duration": 6,
+            "Virality": 2,
+            "Source_Score": 5,
+            "Specificity": 10,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 9
+        },
+        {
+            "News_content": "https://t.co/jY0wIDOoap",
+            "Correlation": 2,
+            "Sentiment": 3,
+            "Importance": 3,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 4,
+            "Source_Score": 3,
+            "Specificity": 3,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 2
+        }
+    ]
+}

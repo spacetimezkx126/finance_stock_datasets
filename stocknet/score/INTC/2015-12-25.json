@@ -1,0 +1,81 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 6,
+        "Importance": 5,
+        "Impact": 6,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 8,
+        "Specificity": 7,
+        "Sector_Spread": 6,
+        "Tech_Mentions": 5
+    },
+    "Each_item": [
+        {
+            "News_content": "ALL - Analysts at Morgan Stanley upgraded shares of Atlas Air Worldwide from equal-weight to overweight citing potential for margin expansion.",
+            "Correlation": 9,
+            "Sentiment": 8,
+            "Importance": 7,
+            "Impact": 7,
+            "Duration": 5,
+            "Virality": 2,
+            "Source_Score": 9,
+            "Specificity": 9,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "GIG - GigCapital announced a new partnership with a leading AI company to develop cutting-edge technologies.",
+            "Correlation": 8,
+            "Sentiment": 9,
+            "Importance": 8,
+            "Impact": 8,
+            "Duration": 6,
+            "Virality": 5,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 8
+        },
+        {
+            "News_content": "BMRN - BioMarin Pharmaceutical reported positive results from its Phase 3 clinical trial for a rare genetic disorder.",
+            "Correlation": 10,
+            "Sentiment": 9,
+            "Importance": 9,
+            "Impact": 9,
+            "Duration": 7,
+            "Virality": 4,
+            "Source_Score": 8,
+            "Specificity": 10,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "FSLR - First Solar's Q3 earnings report showed a slight miss on revenue expectations but beat on EPS.",
+            "Correlation": 9,
+            "Sentiment": 6,
+            "Importance": 6,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 8,
+            "Specificity": 8,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 5
+        },
+        {
+            "News_content": "INTC - Intel Corporation announced plans to cut costs significantly over the next two years, impacting thousands of jobs globally.",
+            "Correlation": 9,
+            "Sentiment": 4,
+            "Importance": 8,
+            "Impact": 7,
+            "Duration": 8,
+            "Virality": 6,
+            "Source_Score": 9,
+            "Specificity": 9,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 7
+        }
+    ]
+}

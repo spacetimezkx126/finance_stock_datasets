@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 5,
+        "Sentiment": 6,
+        "Importance": 7,
+        "Impact": 4,
+        "Duration": 3,
+        "Virality": 8,
+        "Source_Score": 7,
+        "Specificity": 6,
+        "Sector_Spread": 9,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "@TheUAVExperts: FAA Wants To Speed Up Commercial Drone Approvals #FAA #DroneNews",
+            "Correlation": 7,
+            "Sentiment": 8,
+            "Importance": 9,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 10,
+            "Source_Score": 8,
+            "Specificity": 7,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "$GOL Prev Close",
+            "Correlation": 3,
+            "Sentiment": 4,
+            "Importance": 5,
+            "Impact": 2,
+            "Duration": 2,
+            "Virality": 6,
+            "Source_Score": 6,
+            "Specificity": 5,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        }
+    ]
+}

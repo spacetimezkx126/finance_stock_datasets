@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 6,
+        "Importance": 7,
+        "Impact": 5,
+        "Duration": 9,
+        "Virality": 4,
+        "Source_Score": 7,
+        "Specificity": 6,
+        "Sector_Spread": 10,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "Is Large Cap Biotech One Of The Few Market Sectors With An Attractive Valuation? $ABBV $AMGN $BIIB $CELG $IBB $IBM",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 7,
+            "Impact": 5,
+            "Duration": 9,
+            "Virality": 4,
+            "Source_Score": 7,
+            "Specificity": 6,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "Is Large Cap Biotech One Of The Few Market Sectors With An Attractive Valuation? $ABBV $AMGN $BIIB $CELG $IBB $IBM",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 7,
+            "Impact": 5,
+            "Duration": 9,
+            "Virality": 4,
+            "Source_Score": 7,
+            "Specificity": 6,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 2
+        }
+    ]
+}

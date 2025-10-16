@@ -1,0 +1,55 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 6,
+        "Importance": 5,
+        "Impact": 6,
+        "Duration": 4,
+        "Virality": 8,
+        "Source_Score": 5,
+        "Specificity": 6,
+        "Sector_Spread": 7,
+        "Tech_Mentions": 3
+    },
+    "Each_item": [
+        {
+            "News_content": "$IBB  DJ 09:14AM $MRK seeking Oncology deals to bolster pipeline - Market Talk    bout time someone said things were getting ripe...",
+            "Correlation": 9,
+            "Sentiment": 7,
+            "Importance": 8,
+            "Impact": 7,
+            "Duration": 5,
+            "Virality": 6,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "Our Stock Alerts Have Gained Over 200% In 2 Weeks! See Our New Picks Early: https://t.co/vhHz9CKsji #Breakout $INSY $MRK",
+            "Correlation": 6,
+            "Sentiment": 9,
+            "Importance": 4,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 9,
+            "Source_Score": 4,
+            "Specificity": 5,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "These assets are seeing a jump in tweets $CMCSA $GM $MRK $RKET $USDTRY https://t.co/8E4nW7Dqnx https://t.co/zKKN6gyc1v",
+            "Correlation": 7,
+            "Sentiment": 5,
+            "Importance": 3,
+            "Impact": 4,
+            "Duration": 4,
+            "Virality": 10,
+            "Source_Score": 6,
+            "Specificity": 4,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 4
+        }
+    ]
+}

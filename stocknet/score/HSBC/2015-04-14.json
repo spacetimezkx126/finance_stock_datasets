@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 9,
+        "Sentiment": 2,
+        "Importance": 7,
+        "Impact": 8,
+        "Duration": 5,
+        "Virality": 3,
+        "Source_Score": 8,
+        "Specificity": 10,
+        "Sector_Spread": 4,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "HSBC Holdings plc downgraded by Investec to sell.",
+            "Correlation": 9,
+            "Sentiment": 2,
+            "Importance": 7,
+            "Impact": 8,
+            "Duration": 5,
+            "Virality": 3,
+            "Source_Score": 8,
+            "Specificity": 10,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 1
+        }
+    ]
+}

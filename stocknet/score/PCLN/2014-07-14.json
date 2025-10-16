@@ -1,0 +1,68 @@
+{
+    "Overall_score": {
+        "Correlation": 3,
+        "Sentiment": 5,
+        "Importance": 2,
+        "Impact": 2,
+        "Duration": 4,
+        "Virality": 1,
+        "Source_Score": 3,
+        "Specificity": 4,
+        "Sector_Spread": 7,
+        "Tech_Mentions": 0
+    },
+    "Each_item": [
+        {
+            "News_content": "Get more info on HSY AIZ EXR PCLN",
+            "Correlation": 3,
+            "Sentiment": 5,
+            "Importance": 2,
+            "Impact": 2,
+            "Duration": 4,
+            "Virality": 1,
+            "Source_Score": 3,
+            "Specificity": 4,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "Get more info on UNH NWSA NEE PCLN",
+            "Correlation": 3,
+            "Sentiment": 5,
+            "Importance": 2,
+            "Impact": 2,
+            "Duration": 4,
+            "Virality": 1,
+            "Source_Score": 3,
+            "Specificity": 4,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "HON Are you hanging on to APH PSA PCLN",
+            "Correlation": 3,
+            "Sentiment": 4,
+            "Importance": 2,
+            "Impact": 2,
+            "Duration": 4,
+            "Virality": 1,
+            "Source_Score": 3,
+            "Specificity": 4,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "MWV Considering investing in AEP PEP PCLN",
+            "Correlation": 3,
+            "Sentiment": 6,
+            "Importance": 2,
+            "Impact": 2,
+            "Duration": 4,
+            "Virality": 1,
+            "Source_Score": 3,
+            "Specificity": 4,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 0
+        }
+    ]
+}

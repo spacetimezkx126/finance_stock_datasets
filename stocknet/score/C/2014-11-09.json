@@ -1,0 +1,81 @@
+{
+    "Overall_score": {
+        "Correlation": 4,
+        "Sentiment": 3,
+        "Importance": 5,
+        "Impact": 4,
+        "Duration": 6,
+        "Virality": 7,
+        "Source_Score": 5,
+        "Specificity": 3,
+        "Sector_Spread": 2,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @SupremeSensum: RT@tombreadley:По результатам ТСК.Потери под проклятым Иловайском (илинойский котел).",
+            "Correlation": 8,
+            "Sentiment": 2,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 6,
+            "Source_Score": 4,
+            "Specificity": 7,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT @RadioLemberg: O$C€ died in Ukraine.\nОБСЕ умерла в Украине.\n1973-2014.",
+            "Correlation": 7,
+            "Sentiment": 1,
+            "Importance": 8,
+            "Impact": 5,
+            "Duration": 7,
+            "Virality": 8,
+            "Source_Score": 6,
+            "Specificity": 5,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT @uclatheden: 🔔For the $C game, we have a very special contest coming up and the prize will make you a legend #beatSC 🔔",
+            "Correlation": 2,
+            "Sentiment": 9,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 3,
+            "Virality": 5,
+            "Source_Score": 3,
+            "Specificity": 4,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT @pravda_1: Звичайне військове російське підкріплення, що ми вже бачили на протязі 7 місяців війни.\nНа кордоні О$CЄ їх не помічає",
+            "Correlation": 6,
+            "Sentiment": 3,
+            "Importance": 6,
+            "Impact": 4,
+            "Duration": 6,
+            "Virality": 7,
+            "Source_Score": 5,
+            "Specificity": 6,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT @RomanDmitrich: Тут друзі питяннячко підняли! \nЧому б місію О$CЄ не замінити військами ООН?",
+            "Correlation": 5,
+            "Sentiment": 5,
+            "Importance": 7,
+            "Impact": 3,
+            "Duration": 8,
+            "Virality": 6,
+            "Source_Score": 4,
+            "Specificity": 5,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "Overall_score": {
+        "Correlation": 9,
+        "Sentiment": 3,
+        "Importance": 8,
+        "Impact": 7,
+        "Duration": 6,
+        "Virality": 5,
+        "Source_Score": 8,
+        "Specificity": 9,
+        "Sector_Spread": 10,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "New SEC Filing for JPM: Form FWP (No. 0000891092-15-004426)",
+            "Correlation": 8,
+            "Sentiment": 4,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 8,
+            "Specificity": 9,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Visual look at what feds fined UBS, BAC, C, RBS, JPM, BCS in forex scandal.",
+            "Correlation": 9,
+            "Sentiment": 3,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 6,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "Six Banks Pay $5.8 Billion, Five Guilty of Market Rigging: C, JPM, BCS, RBS manipulate U.S. dollar, Euro",
+            "Correlation": 10,
+            "Sentiment": 2,
+            "Importance": 9,
+            "Impact": 8,
+            "Duration": 7,
+            "Virality": 7,
+            "Source_Score": 9,
+            "Specificity": 10,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 3
+        }
+    ]
+}

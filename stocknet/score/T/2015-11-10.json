@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 2,
+        "Sentiment": 4,
+        "Importance": 3,
+        "Impact": 3,
+        "Duration": 5,
+        "Virality": 7,
+        "Source_Score": 1,
+        "Specificity": 2,
+        "Sector_Spread": 4,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "Courtesy of lariguap : THE CO$T OF L!V!N",
+            "Correlation": 2,
+            "Sentiment": 4,
+            "Importance": 3,
+            "Impact": 3,
+            "Duration": 5,
+            "Virality": 7,
+            "Source_Score": 1,
+            "Specificity": 2,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "SONG: TRUFFLE BUTTER REMIX (CRAZY FREESTYLE) \"THE CO$T OF L!V!N\"",
+            "Correlation": 2,
+            "Sentiment": 4,
+            "Importance": 3,
+            "Impact": 3,
+            "Duration": 5,
+            "Virality": 7,
+            "Source_Score": 1,
+            "Specificity": 2,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 1
+        }
+    ]
+}

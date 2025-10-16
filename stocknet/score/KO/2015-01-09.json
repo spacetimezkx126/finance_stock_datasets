@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 9,
+        "Importance": 7,
+        "Impact": 6,
+        "Duration": 9,
+        "Virality": 5,
+        "Source_Score": 10,
+        "Specificity": 7,
+        "Sector_Spread": 4,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "Warren Buffett loves KO WFC and AXP. Great stock for the long run.",
+            "Correlation": 8,
+            "Sentiment": 9,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 9,
+            "Virality": 5,
+            "Source_Score": 10,
+            "Specificity": 7,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 2
+        }
+    ]
+}

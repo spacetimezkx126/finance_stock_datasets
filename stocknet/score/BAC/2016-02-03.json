@@ -1,0 +1,55 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 6,
+        "Impact": 6,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 5,
+        "Specificity": 7,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 4
+    },
+    "Each_item": [
+        {
+            "News_content": "Deutch Bank with 75 TRILLION IN OTC DERIVATIVES, Germany announces cash controls",
+            "Correlation": 9,
+            "Sentiment": 2,
+            "Importance": 10,
+            "Impact": 8,
+            "Duration": 7,
+            "Virality": 6,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Hot Options Report For Midday February 3rd - Includes $CHK, $BAC, $PFE, $LOW, $FB, $AA, $BX",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 4,
+            "Source_Score": 6,
+            "Specificity": 7,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 8
+        },
+        {
+            "News_content": "Bought some Bank of America (BAC) May 2016 (strike 16) calls, targeting 14.10-14.20 very short term",
+            "Correlation": 10,
+            "Sentiment": 7,
+            "Importance": 4,
+            "Impact": 4,
+            "Duration": 2,
+            "Virality": 2,
+            "Source_Score": 5,
+            "Specificity": 10,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 9
+        }
+    ]
+}

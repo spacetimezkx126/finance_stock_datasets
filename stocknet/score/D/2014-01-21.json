@@ -1,0 +1,55 @@
+{
+    "Overall_score": {
+        "Correlation": 3,
+        "Sentiment": 2,
+        "Importance": 5,
+        "Impact": 4,
+        "Duration": 6,
+        "Virality": 7,
+        "Source_Score": 4,
+        "Specificity": 5,
+        "Sector_Spread": 2,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "Venezuela sin medicamentos para el cáncer en su mayoría niños y Maduro se compra nuevo avión Embraer 190 #Tropa U$D 80",
+            "Correlation": 6,
+            "Sentiment": 1,
+            "Importance": 8,
+            "Impact": 7,
+            "Duration": 5,
+            "Virality": 8,
+            "Source_Score": 5,
+            "Specificity": 7,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "La deuda del régimen con empresarios privados nacionales e internacionales es de U$D 53 millardos. DOLARES NO HAY",
+            "Correlation": 5,
+            "Sentiment": 2,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 7,
+            "Virality": 6,
+            "Source_Score": 4,
+            "Specificity": 6,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Mis vecinos no comparten el wifi y Etchegaray quiere que compartan su U$D: AJAJAJAJAJAJAJAAJAJAJA ¡CONTATE OTRO!",
+            "Correlation": 2,
+            "Sentiment": 3,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 4,
+            "Virality": 5,
+            "Source_Score": 3,
+            "Specificity": 3,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 2
+        }
+    ]
+}

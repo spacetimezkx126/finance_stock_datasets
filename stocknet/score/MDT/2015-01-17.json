@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 9,
+        "Importance": 6,
+        "Impact": 7,
+        "Duration": 4,
+        "Virality": 5,
+        "Source_Score": 7,
+        "Specificity": 9,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 3
+    },
+    "Each_item": [
+        {
+            "News_content": "My 15 swing longs (common + calls) all green today: $A $ACT $ARWR $CLDX $CRTO $CXO $DISH $IP $MCD $MDT $OVAS $PXD $NTES $R",
+            "Correlation": 8,
+            "Sentiment": 9,
+            "Importance": 6,
+            "Impact": 7,
+            "Duration": 4,
+            "Virality": 5,
+            "Source_Score": 7,
+            "Specificity": 9,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 3
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 3,
+        "Duration": 2,
+        "Virality": 1,
+        "Source_Score": 7,
+        "Specificity": 9,
+        "Sector_Spread": 3,
+        "Tech_Mentions": 6
+    },
+    "Each_item": [
+        {
+            "News_content": "INTC 13,799,636 Stock Charts $INTC Intel Corp. (NASDAQ) Last Updated: 03/26/2016 07:50:54",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 1,
+            "Source_Score": 7,
+            "Specificity": 9,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 6
+        }
+    ]
+}

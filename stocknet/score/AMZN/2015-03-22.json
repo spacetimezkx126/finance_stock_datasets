@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 8,
+        "Importance": 6,
+        "Impact": 7,
+        "Duration": 5,
+        "Virality": 6,
+        "Source_Score": 5,
+        "Specificity": 7,
+        "Sector_Spread": 9,
+        "Tech_Mentions": 3
+    },
+    "Each_item": [
+        {
+            "News_content": "LLBO Gained Over 1400% In The Past 5 Weeks! Huge News: AMZN QCOM CSCO",
+            "Correlation": 9,
+            "Sentiment": 10,
+            "Importance": 7,
+            "Impact": 9,
+            "Duration": 4,
+            "Virality": 7,
+            "Source_Score": 5,
+            "Specificity": 8,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "AMZN, PCLN, JD, NFLX, VIPS R&D Trend Comparison",
+            "Correlation": 5,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 5,
+            "Duration": 6,
+            "Virality": 5,
+            "Source_Score": 5,
+            "Specificity": 6,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 4
+        }
+    ]
+}

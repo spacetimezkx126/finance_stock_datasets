@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 6,
+        "Impact": 4,
+        "Duration": 3,
+        "Virality": 5,
+        "Source_Score": 6,
+        "Specificity": 5,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "Weekly S&P100 #Stocks Performance $LLY $EXC $LOW $TGT $HD $SPG $BMY $SO $T $MCD $JNJ $V $LMT $UNH $EMR $GM more@",
+            "Correlation": 9,
+            "Sentiment": 5,
+            "Importance": 5,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 4,
+            "Source_Score": 6,
+            "Specificity": 8,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Retirement Strategy: When There Is Blood In The Streets, Will You Become A Vampire? $AMZN $NFLX $TSLA $JNJ $PG",
+            "Correlation": 6,
+            "Sentiment": 6,
+            "Importance": 7,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 6,
+            "Source_Score": 6,
+            "Specificity": 3,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 3
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "Overall_score": {
+        "Correlation": 6,
+        "Sentiment": 7,
+        "Importance": 4,
+        "Impact": 5,
+        "Duration": 3,
+        "Virality": 8,
+        "Source_Score": 5,
+        "Specificity": 6,
+        "Sector_Spread": 9,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "SuperAlerts Monthly changed my financial life for the better forever, check it out!!! $TRIP $BABA $JNPR",
+            "Correlation": 7,
+            "Sentiment": 9,
+            "Importance": 5,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 8,
+            "Source_Score": 6,
+            "Specificity": 7,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Get news, views & analysis for various assets under one watchlist $BTC $BABA $YELP",
+            "Correlation": 6,
+            "Sentiment": 6,
+            "Importance": 3,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 7,
+            "Source_Score": 5,
+            "Specificity": 5,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "Get news, views & analysis for various assets under one watchlist $BTC $BABA $YELP",
+            "Correlation": 6,
+            "Sentiment": 6,
+            "Importance": 3,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 7,
+            "Source_Score": 5,
+            "Specificity": 5,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "Our Picks TRIPLED In Value In Less Then A Month! See Our Big New Pick: $SEGI $BABA $SWET",
+            "Correlation": 8,
+            "Sentiment": 10,
+            "Importance": 6,
+            "Impact": 7,
+            "Duration": 5,
+            "Virality": 9,
+            "Source_Score": 6,
+            "Specificity": 8,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "I would not be surprised to see $FXCM at $3 after hours $BABA $AAPL $GOOG $YHOO $fb $twtr",
+            "Correlation": 5,
+            "Sentiment": 7,
+            "Importance": 4,
+            "Impact": 5,
+            "Duration": 2,
+            "Virality": 6,
+            "Source_Score": 4,
+            "Specificity": 6,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 2
+        }
+    ]
+}

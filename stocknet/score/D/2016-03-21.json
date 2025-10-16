@@ -1,0 +1,81 @@
+{
+    "Overall_score": {
+        "Correlation": 2,
+        "Sentiment": 4,
+        "Importance": 3,
+        "Impact": 2,
+        "Duration": 3,
+        "Virality": 5,
+        "Source_Score": 4,
+        "Specificity": 3,
+        "Sector_Spread": 1,
+        "Tech_Mentions": 0
+    },
+    "Each_item": [
+        {
+            "News_content": "A$AP Rocky - L$D",
+            "Correlation": 1,
+            "Sentiment": 6,
+            "Importance": 2,
+            "Impact": 1,
+            "Duration": 2,
+            "Virality": 7,
+            "Source_Score": 5,
+            "Specificity": 4,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "Super Promo hasta el 31/03! Festeja tus 15 en Disney con Grupal 15! PLAN MINI U$D 4.242!",
+            "Correlation": 3,
+            "Sentiment": 8,
+            "Importance": 4,
+            "Impact": 2,
+            "Duration": 5,
+            "Virality": 6,
+            "Source_Score": 3,
+            "Specificity": 7,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "Baby im just rapping to this L$D",
+            "Correlation": 1,
+            "Sentiment": 5,
+            "Importance": 2,
+            "Impact": 1,
+            "Duration": 2,
+            "Virality": 6,
+            "Source_Score": 4,
+            "Specificity": 3,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "10.000 millones de U$D son 3750 pesos de cada argentino En 12 años, $312,50 por año",
+            "Correlation": 5,
+            "Sentiment": 2,
+            "Importance": 7,
+            "Impact": 4,
+            "Duration": 6,
+            "Virality": 4,
+            "Source_Score": 6,
+            "Specificity": 8,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "Listen to Raury - L$D (Cover) by LVRN #np on #SoundCloud",
+            "Correlation": 1,
+            "Sentiment": 6,
+            "Importance": 2,
+            "Impact": 1,
+            "Duration": 2,
+            "Virality": 7,
+            "Source_Score": 5,
+            "Specificity": 4,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        }
+    ]
+}

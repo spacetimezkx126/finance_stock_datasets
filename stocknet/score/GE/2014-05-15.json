@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 6,
+        "Sentiment": 4,
+        "Importance": 7,
+        "Impact": 5,
+        "Duration": 8,
+        "Virality": 3,
+        "Source_Score": 5,
+        "Specificity": 7,
+        "Sector_Spread": 6,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "Jake13: $GE Buy? Click here to find out if $GE is a buy: Jake13",
+            "Correlation": 4,
+            "Sentiment": 5,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 5,
+            "Virality": 4,
+            "Source_Score": 3,
+            "Specificity": 2,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "$GE France's New Anti-Takeover Powers Imperil GE Bid for Alstom Unit",
+            "Correlation": 8,
+            "Sentiment": 3,
+            "Importance": 9,
+            "Impact": 7,
+            "Duration": 10,
+            "Virality": 2,
+            "Source_Score": 7,
+            "Specificity": 9,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 3
+        }
+    ]
+}

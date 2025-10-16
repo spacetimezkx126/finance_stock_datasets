@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 6,
+        "Sentiment": 4,
+        "Importance": 3,
+        "Impact": 5,
+        "Duration": 2,
+        "Virality": 1,
+        "Source_Score": 5,
+        "Specificity": 7,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 0
+    },
+    "Each_item": [
+        {
+            "News_content": "Some stocks for today: DLR, EBAY, UA, AMGN, AAL, ALK, R, AKAM - Quick and dirty. This is not yet a buy and hold market.",
+            "Correlation": 6,
+            "Sentiment": 4,
+            "Importance": 3,
+            "Impact": 5,
+            "Duration": 2,
+            "Virality": 1,
+            "Source_Score": 5,
+            "Specificity": 7,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 0
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 6,
+        "Duration": 3,
+        "Virality": 2,
+        "Source_Score": 7,
+        "Specificity": 9,
+        "Sector_Spread": 3,
+        "Tech_Mentions": 8
+    },
+    "Each_item": [
+        {
+            "News_content": "PCLN Max Pain is 1030.00 for maturity 01/30/2015. Price = 1037.99.",
+            "Correlation": 10,
+            "Sentiment": 5,
+            "Importance": 5,
+            "Impact": 7,
+            "Duration": 2,
+            "Virality": 1,
+            "Source_Score": 8,
+            "Specificity": 10,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 10
+        },
+        {
+            "News_content": "Bandwidth Hogs SPX, NDX, PCLN, SPXPM, SPY",
+            "Correlation": 6,
+            "Sentiment": 4,
+            "Importance": 3,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 3,
+            "Source_Score": 7,
+            "Specificity": 7,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 5
+        },
+        {
+            "News_content": "PCLN Watch the move thru 1044",
+            "Correlation": 9,
+            "Sentiment": 6,
+            "Importance": 4,
+            "Impact": 6,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 7
+        },
+        {
+            "News_content": "PCLN its slow but deadly it will move 4 points without you noticing. if your right you get paid if your wrong good luck getting filled.",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 2,
+            "Source_Score": 6,
+            "Specificity": 7,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 6
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 6,
+        "Duration": 3,
+        "Virality": 2,
+        "Source_Score": 3,
+        "Specificity": 6,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 7
+    },
+    "Each_item": [
+        {
+            "News_content": "$AMZN looking to break out from descending channel. 50 day ma overhead & price action stalling; could be bull flag",
+            "Correlation": 10,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 7,
+            "Duration": 4,
+            "Virality": 1,
+            "Source_Score": 4,
+            "Specificity": 9,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 9
+        },
+        {
+            "News_content": "$AMZN $NFLX $SPY $BABA $QQQ $GOOG $FB $AAPL",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 6,
+            "Duration": 3,
+            "Virality": 3,
+            "Source_Score": 3,
+            "Specificity": 4,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Try the discovery engine & social network for investors. Free. $AMZN $NFLX $GOOG #stocks",
+            "Correlation": 5,
+            "Sentiment": 4,
+            "Importance": 3,
+            "Impact": 4,
+            "Duration": 2,
+            "Virality": 5,
+            "Source_Score": 2,
+            "Specificity": 3,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        }
+    ]
+}

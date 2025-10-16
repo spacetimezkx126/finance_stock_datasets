@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 2,
+        "Sentiment": 5,
+        "Importance": 1,
+        "Impact": 1,
+        "Duration": 3,
+        "Virality": 4,
+        "Source_Score": 3,
+        "Specificity": 6,
+        "Sector_Spread": 2,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "@questjm3000 QUE$T, I think you do need VC on NBA2015. Check the secret to get 450,000 VC in my Bio Profile.",
+            "Correlation": 2,
+            "Sentiment": 5,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 3,
+            "Virality": 4,
+            "Source_Score": 3,
+            "Specificity": 6,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        }
+    ]
+}

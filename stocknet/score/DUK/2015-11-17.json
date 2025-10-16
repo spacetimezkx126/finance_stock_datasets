@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 9,
+        "Sentiment": 5,
+        "Importance": 6,
+        "Impact": 7,
+        "Duration": 3,
+        "Virality": 2,
+        "Source_Score": 8,
+        "Specificity": 10,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 9
+    },
+    "Each_item": [
+        {
+            "News_content": "Algo trading CLOSING signals: Nov/17 $EXR(1.4%) $ACC(0.0%) $STZ(1.0%) $DUK(-10.8%) $JBHT(-1.0%) $COST(1.6%) $HRS(1.9%) $MSCI(2.3%)",
+            "Correlation": 9,
+            "Sentiment": 5,
+            "Importance": 6,
+            "Impact": 7,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 8,
+            "Specificity": 10,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 9
+        }
+    ]
+}

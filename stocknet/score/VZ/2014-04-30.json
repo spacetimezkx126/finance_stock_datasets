@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 3,
+        "Duration": 2,
+        "Virality": 6,
+        "Source_Score": 8,
+        "Specificity": 7,
+        "Sector_Spread": 5,
+        "Tech_Mentions": 9
+    },
+    "Each_item": [
+        {
+            "News_content": "US Stocks & Market Review Ichimoku and Candlestick video Apr29 http://t.co/BRfytkzxZL $VZ $PG $XOM $SO #stocks #futures",
+            "Correlation": 7,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 6,
+            "Source_Score": 8,
+            "Specificity": 7,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 9
+        },
+        {
+            "News_content": "US Stocks & Market Review Ichimoku and Candlestick video 29Apr2014 http://t.co/8UUgNPpyb3 $VZ $PG $XOM $SO #futures #stocks",
+            "Correlation": 7,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 6,
+            "Source_Score": 8,
+            "Specificity": 7,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 9
+        }
+    ]
+}

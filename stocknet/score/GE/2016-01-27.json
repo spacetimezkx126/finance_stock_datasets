@@ -1,0 +1,68 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 6,
+        "Importance": 5,
+        "Impact": 6,
+        "Duration": 4,
+        "Virality": 5,
+        "Source_Score": 3,
+        "Specificity": 6,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "$EMBR READY TO #EXPLODE #Bullish #DayTrade #NASDAQ #DOWJONES #SPX #EMBR $GE #MoneyWatch",
+            "Correlation": 9,
+            "Sentiment": 10,
+            "Importance": 4,
+            "Impact": 8,
+            "Duration": 3,
+            "Virality": 7,
+            "Source_Score": 2,
+            "Specificity": 8,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "$TLT Financials Updated Wednesday, January 27, 2016 04:59:22 AM $DDD $GE $HYG $HD",
+            "Correlation": 6,
+            "Sentiment": 5,
+            "Importance": 5,
+            "Impact": 5,
+            "Duration": 5,
+            "Virality": 3,
+            "Source_Score": 4,
+            "Specificity": 7,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "The New Dogs Of The Dow - 2016 $AAPL #APPLE $AXP $BA $CAT $CSCO $CVX $GE $IBM $INTC $KO $MCD $MMM $MRK $PFE $PG $T",
+            "Correlation": 8,
+            "Sentiment": 7,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 6,
+            "Virality": 6,
+            "Source_Score": 5,
+            "Specificity": 9,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "$EMBR READY TO #EXPLODE #Bullish #DayTrade #NASDAQ #DOWJONES #SPX #EMBR $GE #MoneyWatch",
+            "Correlation": 9,
+            "Sentiment": 10,
+            "Importance": 4,
+            "Impact": 8,
+            "Duration": 3,
+            "Virality": 7,
+            "Source_Score": 2,
+            "Specificity": 8,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        }
+    ]
+}

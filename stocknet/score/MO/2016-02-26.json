@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 6,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 5,
+        "Duration": 3,
+        "Virality": 7,
+        "Source_Score": 5,
+        "Specificity": 6,
+        "Sector_Spread": 4,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "Capstone Asset Management Company Sells 40,538 Shares of Altria Group Inc $MO",
+            "Correlation": 10,
+            "Sentiment": 3,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 2,
+            "Source_Score": 8,
+            "Specificity": 9,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Start #Trading #Pennystocks With $500 Turn it UP To $5,000💰 @BIGMONEYMIKE6 #TEAMBILLIONAIRE $BIIB $MO $GOLD",
+            "Correlation": 3,
+            "Sentiment": 8,
+            "Importance": 2,
+            "Impact": 4,
+            "Duration": 2,
+            "Virality": 9,
+            "Source_Score": 4,
+            "Specificity": 4,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 3
+        }
+    ]
+}

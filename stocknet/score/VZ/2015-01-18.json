@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 6,
+        "Importance": 5,
+        "Impact": 6,
+        "Duration": 4,
+        "Virality": 8,
+        "Source_Score": 7,
+        "Specificity": 6,
+        "Sector_Spread": 9,
+        "Tech_Mentions": 3
+    },
+    "Each_item": [
+        {
+            "News_content": "Platinum Penny Stoc Picks gained Over 700% In One Month! Subscribe today: http://t.co/Bu0zxQYdzN $GM $KSS $VZ",
+            "Correlation": 8,
+            "Sentiment": 9,
+            "Importance": 4,
+            "Impact": 7,
+            "Duration": 3,
+            "Virality": 7,
+            "Source_Score": 5,
+            "Specificity": 8,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "RT @SeekingAlpha: Cramer's Mad Money: Cramer's Game Plan (1/16/15) http://t.co/M7bSiEnYbX $HAL $SLB $NFLX $IBM $UNH $URI $GD $UNP $SBUX $VZ",
+            "Correlation": 6,
+            "Sentiment": 4,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 5,
+            "Virality": 9,
+            "Source_Score": 9,
+            "Specificity": 4,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 4
+        }
+    ]
+}

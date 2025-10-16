@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 6,
+        "Sentiment": 8,
+        "Importance": 7,
+        "Impact": 5,
+        "Duration": 3,
+        "Virality": 7,
+        "Source_Score": 6,
+        "Specificity": 4,
+        "Sector_Spread": 5,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "Our Picks Have Been Killing The Markets Lately And We Have A New One Coming Tomorrow",
+            "Correlation": 5,
+            "Sentiment": 7,
+            "Importance": 6,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 6,
+            "Source_Score": 5,
+            "Specificity": 3,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "After Members Saw 400% Gains In 3 Weeks, We Are Releasing a MASSIVE new pick tomorrow",
+            "Correlation": 7,
+            "Sentiment": 9,
+            "Importance": 8,
+            "Impact": 6,
+            "Duration": 3,
+            "Virality": 8,
+            "Source_Score": 7,
+            "Specificity": 5,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 3
+        }
+    ]
+}

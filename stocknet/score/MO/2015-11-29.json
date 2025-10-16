@@ -1,0 +1,81 @@
+{
+    "Overall_score": {
+        "Correlation": 3,
+        "Sentiment": 4,
+        "Importance": 5,
+        "Impact": 2,
+        "Duration": 1,
+        "Virality": 7,
+        "Source_Score": 6,
+        "Specificity": 4,
+        "Sector_Spread": 2,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @DolarToday: ¡$OCIALI$MO DE LO$ ENCHUFADO$! IPhones y otros caprichos del Tenientico Escalona",
+            "Correlation": 3,
+            "Sentiment": 4,
+            "Importance": 5,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 8,
+            "Source_Score": 7,
+            "Specificity": 4,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT @SomosRebelion: ¡$OCIALI$MO DE LO$ ENCHUFADO$! IPhones y otros caprichos del Tenientico Escalona",
+            "Correlation": 3,
+            "Sentiment": 4,
+            "Importance": 5,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 7,
+            "Source_Score": 6,
+            "Specificity": 4,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "SomosRebelion: ¡$OCIALI$MO DE LO$ ENCHUFADO$! IPhones y otros caprichos del Tenientico Escalona",
+            "Correlation": 3,
+            "Sentiment": 4,
+            "Importance": 5,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 6,
+            "Source_Score": 5,
+            "Specificity": 4,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "¡$OCIALI$MO DE LO$ ENCHUFADO$! IPhones y otros caprichos del Tenientico Escalona -► vía @DolarToday",
+            "Correlation": 3,
+            "Sentiment": 4,
+            "Importance": 5,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 7,
+            "Source_Score": 6,
+            "Specificity": 4,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "¡$OCIALI$MO DE LO$ ENCHUFADO$! IPhones y otros caprichos del Tenientico Escalona",
+            "Correlation": 3,
+            "Sentiment": 4,
+            "Importance": 5,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 5,
+            "Source_Score": 4,
+            "Specificity": 4,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        }
+    ]
+}

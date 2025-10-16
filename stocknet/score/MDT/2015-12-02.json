@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 6,
+        "Sentiment": 7,
+        "Importance": 5,
+        "Impact": 6,
+        "Duration": 4,
+        "Virality": 8,
+        "Source_Score": 3,
+        "Specificity": 5,
+        "Sector_Spread": 7,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "I tripled my income with These 7 Amazing Video Lessons!!!!! $MHK $MDT $CTAS",
+            "Correlation": 4,
+            "Sentiment": 9,
+            "Importance": 3,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 10,
+            "Source_Score": 2,
+            "Specificity": 4,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Notable earnings before Thursday’s open $BKS $CM $DEST $DG $DSGX $EXPR $FRM $GWPH $KR $LE $MDT $MIK",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 7,
+            "Impact": 7,
+            "Duration": 5,
+            "Virality": 6,
+            "Source_Score": 4,
+            "Specificity": 6,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 3
+        }
+    ]
+}

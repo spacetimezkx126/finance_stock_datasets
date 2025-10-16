@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 9,
+        "Sentiment": 8,
+        "Importance": 7,
+        "Impact": 6,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 5,
+        "Specificity": 10,
+        "Sector_Spread": 2,
+        "Tech_Mentions": 9
+    },
+    "Each_item": [
+        {
+            "News_content": "A bullish Big MAC has occurred at 3:30 PM Apr 28 at $51.61 on Altria Group Inc (MO)",
+            "Correlation": 9,
+            "Sentiment": 8,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 5,
+            "Specificity": 10,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 9
+        }
+    ]
+}

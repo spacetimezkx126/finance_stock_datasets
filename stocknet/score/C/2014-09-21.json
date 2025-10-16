@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 1,
+        "Sentiment": 3,
+        "Importance": 2,
+        "Impact": 1,
+        "Duration": 1,
+        "Virality": 4,
+        "Source_Score": 3,
+        "Specificity": 2,
+        "Sector_Spread": 1,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "I hereby declare myself unfit to be at this concert anymore due to time issues, got church in the morning. Home im coming.",
+            "Correlation": 1,
+            "Sentiment": 3,
+            "Importance": 2,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 4,
+            "Source_Score": 3,
+            "Specificity": 2,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        }
+    ]
+}

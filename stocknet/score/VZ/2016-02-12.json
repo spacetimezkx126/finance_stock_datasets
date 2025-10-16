@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 6,
+        "Impact": 6,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 5,
+        "Specificity": 8,
+        "Sector_Spread": 3,
+        "Tech_Mentions": 7
+    },
+    "Each_item": [
+        {
+            "News_content": "members alerted to 10-1800% potential. Subscribe $PFE $BUD $VZ $KO $BABA $V",
+            "Correlation": 8,
+            "Sentiment": 9,
+            "Importance": 5,
+            "Impact": 7,
+            "Duration": 3,
+            "Virality": 4,
+            "Source_Score": 6,
+            "Specificity": 7,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "Looks like $VZ is headed back into the middle of its multi-year range as this bull flag threatens to resolve lower and momentum diverges.",
+            "Correlation": 6,
+            "Sentiment": 2,
+            "Importance": 7,
+            "Impact": 5,
+            "Duration": 5,
+            "Virality": 2,
+            "Source_Score": 4,
+            "Specificity": 9,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 9
+        }
+    ]
+}

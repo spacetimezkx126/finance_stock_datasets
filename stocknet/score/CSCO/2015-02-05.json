@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 3,
+        "Importance": 4,
+        "Impact": 5,
+        "Duration": 6,
+        "Virality": 2,
+        "Source_Score": 1,
+        "Specificity": 3,
+        "Sector_Spread": 9,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "True balls. AAPL GOOG INTC MTW CAT X C CSCO T SE WU MU WBA",
+            "Correlation": 7,
+            "Sentiment": 3,
+            "Importance": 4,
+            "Impact": 5,
+            "Duration": 6,
+            "Virality": 2,
+            "Source_Score": 1,
+            "Specificity": 3,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 1
+        }
+    ]
+}

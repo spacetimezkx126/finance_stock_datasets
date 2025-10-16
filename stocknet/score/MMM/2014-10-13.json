@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 3,
+        "Sentiment": 7,
+        "Importance": 4,
+        "Impact": 5,
+        "Duration": 6,
+        "Virality": 8,
+        "Source_Score": 5,
+        "Specificity": 2,
+        "Sector_Spread": 1,
+        "Tech_Mentions": 3
+    },
+    "Each_item": [
+        {
+            "News_content": "5-Steps to His First Million Trading",
+            "Correlation": 3,
+            "Sentiment": 7,
+            "Importance": 4,
+            "Impact": 5,
+            "Duration": 6,
+            "Virality": 8,
+            "Source_Score": 5,
+            "Specificity": 2,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "5-Steps to His First Million Trading",
+            "Correlation": 3,
+            "Sentiment": 7,
+            "Importance": 4,
+            "Impact": 5,
+            "Duration": 6,
+            "Virality": 8,
+            "Source_Score": 5,
+            "Specificity": 2,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 3
+        }
+    ]
+}

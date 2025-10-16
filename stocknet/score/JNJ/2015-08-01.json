@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 9,
+        "Importance": 6,
+        "Impact": 8,
+        "Duration": 5,
+        "Virality": 7,
+        "Source_Score": 6,
+        "Specificity": 4,
+        "Sector_Spread": 3,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "Our Penny Stock Picks Have Gained 3,600% In 10 Months! Get Early Access To Our Next Pick $GD $JNJ $MOR.DE",
+            "Correlation": 7,
+            "Sentiment": 9,
+            "Importance": 6,
+            "Impact": 8,
+            "Duration": 5,
+            "Virality": 7,
+            "Source_Score": 6,
+            "Specificity": 4,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 2
+        }
+    ]
+}

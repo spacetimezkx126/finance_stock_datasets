@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 9,
+        "Sentiment": 8,
+        "Importance": 6,
+        "Impact": 7,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 5,
+        "Specificity": 10,
+        "Sector_Spread": 2,
+        "Tech_Mentions": 10
+    },
+    "Each_item": [
+        {
+            "News_content": "Technical indicator (Super Relative Strength Index) signaled a Buy for $BAC at $15.40 #stockmarket",
+            "Correlation": 9,
+            "Sentiment": 8,
+            "Importance": 6,
+            "Impact": 7,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 5,
+            "Specificity": 10,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 10
+        }
+    ]
+}

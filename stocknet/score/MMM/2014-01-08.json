@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 6,
+        "Importance": 7,
+        "Impact": 5,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 5,
+        "Specificity": 9,
+        "Sector_Spread": 6,
+        "Tech_Mentions": 7
+    },
+    "Each_item": [
+        {
+            "News_content": "3M's #CES Showcase Enabled by Lux-backed NanosysInc & Cambrios http://t.co/Xm71T5mtP2 $MMM",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 7,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 5,
+            "Specificity": 9,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 7
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 6,
+        "Impact": 6,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 8,
+        "Specificity": 7,
+        "Sector_Spread": 9,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "Dow stocks are showing a mixed trend today, with some gaining and others losing ground. GE is up slightly due to positive earnings reports, while MMM is down following a downgrade by analysts. UNH continues its upward trajectory as healthcare reforms remain favorable.",
+            "Correlation": 10,
+            "Sentiment": 6,
+            "Importance": 7,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 9,
+            "Specificity": 8,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "TRV announced a new insurance product that could boost revenue in the next quarter. WMT reported strong holiday sales figures, driving their stock price higher. JNJ's stock remains stable despite regulatory scrutiny on one of its products.",
+            "Correlation": 9,
+            "Sentiment": 7,
+            "Importance": 6,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 8,
+            "Specificity": 7,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "KO has seen increased investor interest after announcing a partnership with a major beverage distributor. IBM's quarterly report exceeded expectations, leading to a rise in its stock price. MCD is exploring menu changes which could impact future earnings positively.",
+            "Correlation": 9,
+            "Sentiment": 8,
+            "Importance": 7,
+            "Impact": 7,
+            "Duration": 5,
+            "Virality": 4,
+            "Source_Score": 8,
+            "Specificity": 8,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "CAT's stock is under pressure due to concerns over global trade tensions. UTX released a statement affirming its commitment to sustainability initiatives, which may appeal to ESG investors. XOM's stock is reacting to fluctuating oil prices.",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 6,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 2,
+            "Source_Score": 7,
+            "Specificity": 7,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "PG is focusing on cost-cutting measures to improve profitability. VZ's stock is moving higher after a successful network upgrade rollout. MRK's pipeline developments have been well-received by analysts, boosting confidence in the stock.",
+            "Correlation": 8,
+            "Sentiment": 7,
+            "Importance": 6,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 8,
+            "Specificity": 7,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "HD's stock is benefiting from robust housing market data. CVX's performance is tied closely to crude oil futures. V's payment solutions continue to gain traction globally, supporting its stock price.",
+            "Correlation": 9,
+            "Sentiment": 7,
+            "Importance": 6,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 8,
+            "Specificity": 8,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "CSCO's earnings call highlighted strategic growth areas, reassuring investors. AAPL's stock is experiencing volatility amid supply chain concerns but remains resilient overall.",
+            "Correlation": 9,
+            "Sentiment": 6,
+            "Importance": 7,
+            "Impact": 7,
+            "Duration": 5,
+            "Virality": 4,
+            "Source_Score": 9,
+            "Specificity": 8,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 3
+        }
+    ]
+}

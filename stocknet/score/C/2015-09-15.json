@@ -1,0 +1,55 @@
+{
+    "Overall_score": {
+        "Correlation": 6,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 5,
+        "Duration": 3,
+        "Virality": 7,
+        "Source_Score": 4,
+        "Specificity": 5,
+        "Sector_Spread": 6,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "Our Stock Picks Gained Over 3,500% In The Past Year! See Our New Pick: http://t.co/pdMgm3hs5I $BMSN $C $GE",
+            "Correlation": 8,
+            "Sentiment": 9,
+            "Importance": 3,
+            "Impact": 7,
+            "Duration": 2,
+            "Virality": 8,
+            "Source_Score": 3,
+            "Specificity": 7,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "$GS $C:\n\nOil Traders Hire Tanks on Tiny Island to Profit From Global Glut:\n\nhttp://t.co/d8kXE7p8Rh",
+            "Correlation": 7,
+            "Sentiment": 6,
+            "Importance": 8,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 6,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT @StockCats: show me a guy that doesn't use a stop and I'll show you a guy still holding $C from 2007",
+            "Correlation": 5,
+            "Sentiment": 3,
+            "Importance": 2,
+            "Impact": 4,
+            "Duration": 4,
+            "Virality": 7,
+            "Source_Score": 5,
+            "Specificity": 4,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 8
+        }
+    ]
+}

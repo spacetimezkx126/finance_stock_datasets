@@ -1,0 +1,55 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 6,
+        "Importance": 5,
+        "Impact": 6,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 5,
+        "Specificity": 7,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "Our Pick On $GEQU Multiplied More Than 35 Times It's Value Since The Initial Alert! Big News: https://t.co/YzphAts7wM $GD $JNJ $MOR.DE",
+            "Correlation": 9,
+            "Sentiment": 10,
+            "Importance": 8,
+            "Impact": 9,
+            "Duration": 5,
+            "Virality": 4,
+            "Source_Score": 6,
+            "Specificity": 9,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "JNJ Johnson & Johnson EOD Data https://t.co/V7TrGsht1C $JNJ $TLT $NUS $PFE #JNJ #stock #tradeideas",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 5,
+            "Specificity": 7,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "JNJ Johnson & Johnson Day Low https://t.co/m4qdmmFu4F $JNJ $M $EOG $XOM #JNJ #invest #stocksJNPR Juniper Networks Bid…",
+            "Correlation": 7,
+            "Sentiment": 4,
+            "Importance": 3,
+            "Impact": 4,
+            "Duration": 2,
+            "Virality": 3,
+            "Source_Score": 4,
+            "Specificity": 6,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        }
+    ]
+}

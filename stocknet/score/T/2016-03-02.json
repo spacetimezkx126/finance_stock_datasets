@@ -1,0 +1,107 @@
+{
+    "Overall_score": {
+        "Correlation": 4,
+        "Sentiment": 3,
+        "Importance": 2,
+        "Impact": 3,
+        "Duration": 2,
+        "Virality": 5,
+        "Source_Score": 3,
+        "Specificity": 4,
+        "Sector_Spread": 6,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @TripleDTrader: Notable opening imbalances: $BAC +279K, $T -133K, $PFE +85K, $PG +75K, $DD -80K, $MOS -35K, $IBM -31K, $BABA +51K, $TWTR…",
+            "Correlation": 9,
+            "Sentiment": 5,
+            "Importance": 6,
+            "Impact": 7,
+            "Duration": 3,
+            "Virality": 7,
+            "Source_Score": 8,
+            "Specificity": 9,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "T TELUS Corp. Last Trade\nhttps://t.co/w4BqcJaCSz\n\n$T $BMS $UUP $RH  #stockmarket #tradeideas",
+            "Correlation": 7,
+            "Sentiment": 4,
+            "Importance": 3,
+            "Impact": 4,
+            "Duration": 2,
+            "Virality": 4,
+            "Source_Score": 5,
+            "Specificity": 6,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "ShoutOut @onlynel_ For The Follow You're Roçkįng Wįth Thę \"BĘ$T\" \nCome Checkout My Wębsįtę https://t.co/BCSoSUQJA2\n#įYĘæH!!!!!®",
+            "Correlation": 1,
+            "Sentiment": 7,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 3,
+            "Source_Score": 2,
+            "Specificity": 1,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "SARCA$T - The World We Live In https://t.co/4ayNQglbEP #nowplaying #listenlive",
+            "Correlation": 1,
+            "Sentiment": 4,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 2,
+            "Source_Score": 1,
+            "Specificity": 1,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT @LottaBandGlobal: @fastbucks974  #newchicagowave  FA$T BUCK$\nhttps://t.co/z2a7UQ0UcB \n#KOKANE #PLASTICSURGERY #DJKINGASSASSIN",
+            "Correlation": 1,
+            "Sentiment": 5,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 3,
+            "Source_Score": 2,
+            "Specificity": 1,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "More Heat CARBON by MIDWE$T MILLZ TIMG https://t.co/qBMo92DzdH on #SoundCloud",
+            "Correlation": 1,
+            "Sentiment": 3,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 2,
+            "Source_Score": 1,
+            "Specificity": 1,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT @nelle319: @fastbucks974 check out  FA$T BUCK$\nhttps://t.co/kGRwlhYDX5 \n#KOKANE #PLASTICSURGERY #DJKINGASSASSIN",
+            "Correlation": 1,
+            "Sentiment": 5,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 3,
+            "Source_Score": 2,
+            "Specificity": 1,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        }
+    ]
+}

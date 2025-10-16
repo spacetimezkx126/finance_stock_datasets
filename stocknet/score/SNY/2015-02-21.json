@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 3,
+        "Sentiment": 4,
+        "Importance": 2,
+        "Impact": 3,
+        "Duration": 5,
+        "Virality": 6,
+        "Source_Score": 7,
+        "Specificity": 4,
+        "Sector_Spread": 1,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "Don't be arrogant, even \"Enigma\" was breakable by \"Ultra\"",
+            "Correlation": 3,
+            "Sentiment": 4,
+            "Importance": 2,
+            "Impact": 3,
+            "Duration": 5,
+            "Virality": 6,
+            "Source_Score": 7,
+            "Specificity": 4,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 2
+        }
+    ]
+}

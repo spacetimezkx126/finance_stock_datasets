@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 4,
+        "Sentiment": 5,
+        "Importance": 6,
+        "Impact": 5,
+        "Duration": 3,
+        "Virality": 7,
+        "Source_Score": 9,
+        "Specificity": 2,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "ORCL Stocks Invest SPY SPX China Japan Germany France CNBC FB JPM DonaldTrump",
+            "Correlation": 4,
+            "Sentiment": 5,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 7,
+            "Source_Score": 9,
+            "Specificity": 2,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        }
+    ]
+}

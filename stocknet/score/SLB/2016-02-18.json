@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 6,
+        "Impact": 5,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 6,
+        "Specificity": 7,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "Weekly S&P100 #Stocks Performance $PCLN $KMI $CSCO $QCOM $AMZN $FOXA $HPQ $APC $CAT $F $TWX $SLB $OXY $DIS more@ https://t.co/cKkr8cKsju",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 6,
+            "Specificity": 9,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Commented on Crude Oil Buyers Beware https://t.co/GbCVnOx0xq $BHI $CLR $COP $CVX $EIA $EOG $FLR $HAL $MRO $SLB $SWN $WFT $XOM $USO",
+            "Correlation": 6,
+            "Sentiment": 4,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 4,
+            "Source_Score": 6,
+            "Specificity": 5,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 3
+        }
+    ]
+}

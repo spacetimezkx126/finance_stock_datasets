@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 8,
+        "Importance": 9,
+        "Impact": 6,
+        "Duration": 10,
+        "Virality": 7,
+        "Source_Score": 9,
+        "Specificity": 5,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 4
+    },
+    "Each_item": [
+        {
+            "News_content": "Nuclear fusion: A big bet on small via TheEconomist",
+            "Correlation": 7,
+            "Sentiment": 8,
+            "Importance": 9,
+            "Impact": 6,
+            "Duration": 10,
+            "Virality": 7,
+            "Source_Score": 9,
+            "Specificity": 5,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 4
+        }
+    ]
+}

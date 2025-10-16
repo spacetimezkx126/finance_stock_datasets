@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 4,
+        "Importance": 7,
+        "Impact": 6,
+        "Duration": 5,
+        "Virality": 9,
+        "Source_Score": 10,
+        "Specificity": 8,
+        "Sector_Spread": 9,
+        "Tech_Mentions": 3
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @247WallSt: Dow Stocks Recover 90% of Opening Loss $AAPL $INTC $BA $UNH $JNJ",
+            "Correlation": 9,
+            "Sentiment": 6,
+            "Importance": 7,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 8,
+            "Source_Score": 8,
+            "Specificity": 7,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "RT @CNBC: 20 Dow components hit 52-week lows, including $AAPL, $BA, $MCD, $MSFT and $IBM",
+            "Correlation": 8,
+            "Sentiment": 2,
+            "Importance": 8,
+            "Impact": 7,
+            "Duration": 6,
+            "Virality": 10,
+            "Source_Score": 10,
+            "Specificity": 9,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 4
+        }
+    ]
+}

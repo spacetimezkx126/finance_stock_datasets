@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 9,
+        "Importance": 6,
+        "Impact": 8,
+        "Duration": 5,
+        "Virality": 8,
+        "Source_Score": 7,
+        "Specificity": 7,
+        "Sector_Spread": 9,
+        "Tech_Mentions": 3
+    },
+    "Each_item": [
+        {
+            "News_content": "http://t.co/wJwkVdk0pI Super Monster win by @super_trades ($157k) $CYBR $ON $ULTA $CDK $IEP $VLTC $GENE $LIVE",
+            "Correlation": 7,
+            "Sentiment": 9,
+            "Importance": 6,
+            "Impact": 8,
+            "Duration": 5,
+            "Virality": 8,
+            "Source_Score": 7,
+            "Specificity": 7,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 3
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "Overall_score": {
+        "Correlation": 4,
+        "Sentiment": 6,
+        "Importance": 3,
+        "Impact": 5,
+        "Duration": 2,
+        "Virality": 7,
+        "Source_Score": 4,
+        "Specificity": 5,
+        "Sector_Spread": 6,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @WillardPollica: Trades produce 100% same day Free trial sign up now $MA $V",
+            "Correlation": 8,
+            "Sentiment": 9,
+            "Importance": 2,
+            "Impact": 6,
+            "Duration": 1,
+            "Virality": 8,
+            "Source_Score": 3,
+            "Specificity": 7,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT @stuyside_sse: @KhadiNoGood @YoungFatNigga @tr3liv3 still up working #GottaGetIt #SSE #C$V Coming Sooner then u think #squaddddddddd #SS…",
+            "Correlation": 2,
+            "Sentiment": 7,
+            "Importance": 1,
+            "Impact": 3,
+            "Duration": 1,
+            "Virality": 6,
+            "Source_Score": 2,
+            "Specificity": 3,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT @TomSuccop: Account doubling system Sign up for Free 1 week Alerts $V $MA",
+            "Correlation": 7,
+            "Sentiment": 8,
+            "Importance": 2,
+            "Impact": 5,
+            "Duration": 2,
+            "Virality": 7,
+            "Source_Score": 4,
+            "Specificity": 6,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Account doubling system Try FREE for 1 week $MA $V",
+            "Correlation": 6,
+            "Sentiment": 8,
+            "Importance": 2,
+            "Impact": 4,
+            "Duration": 2,
+            "Virality": 5,
+            "Source_Score": 3,
+            "Specificity": 5,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "$V - Adding High Growth Core Holdings To Strengthen My Dividend Growth Port... - #stock #stocks #stockaction",
+            "Correlation": 9,
+            "Sentiment": 6,
+            "Importance": 4,
+            "Impact": 6,
+            "Duration": 3,
+            "Virality": 4,
+            "Source_Score": 5,
+            "Specificity": 8,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 2
+        }
+    ]
+}

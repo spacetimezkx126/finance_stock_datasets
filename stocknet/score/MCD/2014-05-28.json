@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 9,
+        "Importance": 8,
+        "Impact": 7,
+        "Duration": 6,
+        "Virality": 5,
+        "Source_Score": 9,
+        "Specificity": 8,
+        "Sector_Spread": 4,
+        "Tech_Mentions": 3
+    },
+    "Each_item": [
+        {
+            "News_content": "2370 $MCD JUN-14 97.5 CALL $4.1 LATE PHILX 5/28/2014 5:38:27 PM Trade Value $971700",
+            "Correlation": 7,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 5,
+            "Specificity": 8,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 7
+        },
+        {
+            "News_content": "@CNBC: McDonald's to return $18B to $20B to shareholders between 2014 and 2016: $MCD",
+            "Correlation": 9,
+            "Sentiment": 10,
+            "Importance": 10,
+            "Impact": 10,
+            "Duration": 9,
+            "Virality": 8,
+            "Source_Score": 10,
+            "Specificity": 9,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 2
+        }
+    ]
+}

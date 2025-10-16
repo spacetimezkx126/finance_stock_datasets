@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 3,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 4,
+        "Duration": 6,
+        "Virality": 2,
+        "Source_Score": 3,
+        "Specificity": 2,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "SUBSCRIBE NOW : $AAPL $BABA $FB $TWTR $UGAZ $SPY $SPX $INDU $NKE $HD $WMT $JOB $DRYS $MCP $FNMA $GPRO $AMBA",
+            "Correlation": 2,
+            "Sentiment": 6,
+            "Importance": 3,
+            "Impact": 3,
+            "Duration": 5,
+            "Virality": 2,
+            "Source_Score": 3,
+            "Specificity": 1,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "S&P500 #Stocks Trend $CI $STZ $BSX $MAS $URBN $AET $VMC $PHM $AVY $JNPR $SHW $LH $BCR $COH $LEN $DHI $PRGO $HD",
+            "Correlation": 4,
+            "Sentiment": 4,
+            "Importance": 5,
+            "Impact": 5,
+            "Duration": 7,
+            "Virality": 2,
+            "Source_Score": 3,
+            "Specificity": 3,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 1
+        }
+    ]
+}

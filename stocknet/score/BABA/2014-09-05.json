@@ -1,0 +1,107 @@
+{
+    "Overall_score": {
+        "Correlation": 9,
+        "Sentiment": 8,
+        "Importance": 10,
+        "Impact": 9,
+        "Duration": 7,
+        "Virality": 6,
+        "Source_Score": 7,
+        "Specificity": 8,
+        "Sector_Spread": 5,
+        "Tech_Mentions": 3
+    },
+    "Each_item": [
+        {
+            "News_content": "AliBaba $BABA - Shares to start trading on Sept 19 Price to be set between $60-$66 based on 2.5 billion shrs valuing the company at $165B",
+            "Correlation": 10,
+            "Sentiment": 8,
+            "Importance": 10,
+            "Impact": 9,
+            "Duration": 6,
+            "Virality": 5,
+            "Source_Score": 7,
+            "Specificity": 9,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "Ok then, weekend required viewing : The Alibaba Story - Crocodile in the Yangtze http://t.co/DbZGF1XSIh $BABA $YHOO $SFBTY",
+            "Correlation": 7,
+            "Sentiment": 7,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 6,
+            "Source_Score": 6,
+            "Specificity": 5,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "The Alibaba roadshow kicks off on Monday in NYC followed by 11 stops across the globe » http://t.co/WpzwrDfmoV $BABA http://t.co/",
+            "Correlation": 9,
+            "Sentiment": 7,
+            "Importance": 8,
+            "Impact": 7,
+            "Duration": 5,
+            "Virality": 4,
+            "Source_Score": 6,
+            "Specificity": 8,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Alibaba $BABA price range on IPO said to be $60 - $66 $$ $YHOO",
+            "Correlation": 10,
+            "Sentiment": 8,
+            "Importance": 9,
+            "Impact": 8,
+            "Duration": 6,
+            "Virality": 5,
+            "Source_Score": 7,
+            "Specificity": 9,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "And the sentiment in social media chatter on #Alibaba $BABA still bullish. http://t.co/P1d9x0bd9W #Alibabaipo http://t.co/zrf2GRz80i",
+            "Correlation": 8,
+            "Sentiment": 9,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 7,
+            "Source_Score": 6,
+            "Specificity": 6,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "BREAKING: Alibaba Group $BABA valued at $162.7 billion and likely to be the largest IPO in the U.S. ever!",
+            "Correlation": 10,
+            "Sentiment": 9,
+            "Importance": 10,
+            "Impact": 10,
+            "Duration": 8,
+            "Virality": 8,
+            "Source_Score": 8,
+            "Specificity": 9,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "Possible $200 billion valuation for $BABA http://t.co/PdVVvHyqsT",
+            "Correlation": 9,
+            "Sentiment": 8,
+            "Importance": 9,
+            "Impact": 8,
+            "Duration": 7,
+            "Virality": 6,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 2
+        }
+    ]
+}

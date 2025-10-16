@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 8,
+        "Importance": 6,
+        "Impact": 5,
+        "Duration": 4,
+        "Virality": 7,
+        "Source_Score": 6,
+        "Specificity": 5,
+        "Sector_Spread": 9,
+        "Tech_Mentions": 3
+    },
+    "Each_item": [
+        {
+            "News_content": "Our Stock Alerts Gained Over 1,900% In 2 And A Half Months! See Our Special New Pick: http://t.co/rdhi4T4cqG $IBM $GOOG $AAPL",
+            "Correlation": 8,
+            "Sentiment": 10,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 3,
+            "Virality": 9,
+            "Source_Score": 5,
+            "Specificity": 6,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "Stay ahead with Nasdaq 100 news, views & analysis $MSFT $AAPL $GOOG http://t.co/W1OB9ZtUgi http://t.co/WGh9I5TFv9",
+            "Correlation": 6,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 5,
+            "Virality": 5,
+            "Source_Score": 7,
+            "Specificity": 4,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 4
+        }
+    ]
+}

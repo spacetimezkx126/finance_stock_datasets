@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 3,
+        "Sentiment": 4,
+        "Importance": 2,
+        "Impact": 3,
+        "Duration": 2,
+        "Virality": 5,
+        "Source_Score": 3,
+        "Specificity": 4,
+        "Sector_Spread": 1,
+        "Tech_Mentions": 0
+    },
+    "Each_item": [
+        {
+            "News_content": "May have a bunch non shoppers pay for the card just because of the compelling rewards benefit?",
+            "Correlation": 6,
+            "Sentiment": 7,
+            "Importance": 3,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 4,
+            "Source_Score": 4,
+            "Specificity": 6,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "Entonces la conclusión con respecto a un profesor internacional: flotante: ~1/53 Cúcuta: ~1/218 #Venezuela ¿POTENCIA?",
+            "Correlation": 1,
+            "Sentiment": 2,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 6,
+            "Source_Score": 2,
+            "Specificity": 2,
+            "Sector_Spread": 0,
+            "Tech_Mentions": 0
+        }
+    ]
+}

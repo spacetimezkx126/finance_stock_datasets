@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 3,
+        "Sentiment": 6,
+        "Importance": 2,
+        "Impact": 2,
+        "Duration": 4,
+        "Virality": 5,
+        "Source_Score": 1,
+        "Specificity": 3,
+        "Sector_Spread": 2,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "i N$$D to find a studio so i can start this new wave nd get this #TIDALforALL... just how i AM feeling today",
+            "Correlation": 3,
+            "Sentiment": 6,
+            "Importance": 2,
+            "Impact": 2,
+            "Duration": 4,
+            "Virality": 5,
+            "Source_Score": 1,
+            "Specificity": 3,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        }
+    ]
+}

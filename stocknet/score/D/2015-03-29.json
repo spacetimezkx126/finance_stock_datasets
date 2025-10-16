@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 2,
+        "Sentiment": 3,
+        "Importance": 4,
+        "Impact": 3,
+        "Duration": 5,
+        "Virality": 6,
+        "Source_Score": 4,
+        "Specificity": 5,
+        "Sector_Spread": 3,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "$$$\n$\n#$44$HARD$CORE$2$D$WORLD$FAMILY$$$\n$\n$$$ @ $$$ @$IN$D$WIND$FAMILY$$$ $ $$$ https://t.co/yfBQRP05m3",
+            "Correlation": 1,
+            "Sentiment": 2,
+            "Importance": 2,
+            "Impact": 1,
+            "Duration": 3,
+            "Virality": 5,
+            "Source_Score": 3,
+            "Specificity": 2,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT @pregANDREINA: Cuerpo AntiCorrupción: Donde están los 1700 Millones U$D de la Línea 2 del Metro Valencia que estaría lista 2012 ? http:/…",
+            "Correlation": 3,
+            "Sentiment": 4,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 7,
+            "Virality": 7,
+            "Source_Score": 5,
+            "Specificity": 8,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 1
+        }
+    ]
+}

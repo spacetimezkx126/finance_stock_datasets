@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 3,
+        "Sentiment": 2,
+        "Importance": 8,
+        "Impact": 4,
+        "Duration": 7,
+        "Virality": 5,
+        "Source_Score": 6,
+        "Specificity": 4,
+        "Sector_Spread": 9,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "TOT 1 Child Dies Every 21 Seconds From A Water-Related Disease",
+            "Correlation": 3,
+            "Sentiment": 2,
+            "Importance": 8,
+            "Impact": 4,
+            "Duration": 7,
+            "Virality": 5,
+            "Source_Score": 6,
+            "Specificity": 4,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 1
+        }
+    ]
+}

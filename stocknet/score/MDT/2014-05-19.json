@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 6,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 5,
+        "Duration": 3,
+        "Virality": 2,
+        "Source_Score": 3,
+        "Specificity": 4,
+        "Sector_Spread": 7,
+        "Tech_Mentions": 6
+    },
+    "Each_item": [
+        {
+            "News_content": "Small-cap stocks breaking 52-wk high prices",
+            "Correlation": 8,
+            "Sentiment": 7,
+            "Importance": 6,
+            "Impact": 7,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 4,
+            "Specificity": 7,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 9
+        },
+        {
+            "News_content": "Find the next hot #pennystock",
+            "Correlation": 4,
+            "Sentiment": 3,
+            "Importance": 2,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 1,
+            "Source_Score": 2,
+            "Specificity": 1,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 3
+        }
+    ]
+}

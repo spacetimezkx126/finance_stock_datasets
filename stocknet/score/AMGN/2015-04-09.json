@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 4,
+        "Importance": 3,
+        "Impact": 2,
+        "Duration": 1,
+        "Virality": 2,
+        "Source_Score": 6,
+        "Specificity": 9,
+        "Sector_Spread": 2,
+        "Tech_Mentions": 5
+    },
+    "Each_item": [
+        {
+            "News_content": "AMGN up -0.03% percent Today. AMGN Stock High is at 161.80 and the Low 159.50 with current volume of 522,224.",
+            "Correlation": 8,
+            "Sentiment": 4,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 2,
+            "Source_Score": 6,
+            "Specificity": 9,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 5
+        }
+    ]
+}

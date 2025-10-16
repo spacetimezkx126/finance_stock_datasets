@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 3,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 6,
+        "Duration": 2,
+        "Virality": 3,
+        "Source_Score": 2,
+        "Specificity": 3,
+        "Sector_Spread": 1,
+        "Tech_Mentions": 4
+    },
+    "Each_item": [
+        {
+            "News_content": "some people are on this stream just waiting for a parabolic short, but guess what it happened already",
+            "Correlation": 3,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 6,
+            "Duration": 2,
+            "Virality": 3,
+            "Source_Score": 2,
+            "Specificity": 3,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 4
+        }
+    ]
+}

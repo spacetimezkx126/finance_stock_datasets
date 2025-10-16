@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 1,
+        "Sentiment": 1,
+        "Importance": 1,
+        "Impact": 1,
+        "Duration": 1,
+        "Virality": 1,
+        "Source_Score": 1,
+        "Specificity": 1,
+        "Sector_Spread": 1,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "$TOT (Live Chart)",
+            "Correlation": 5,
+            "Sentiment": 3,
+            "Importance": 2,
+            "Impact": 3,
+            "Duration": 4,
+            "Virality": 2,
+            "Source_Score": 5,
+            "Specificity": 6,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 7
+        }
+    ]
+}

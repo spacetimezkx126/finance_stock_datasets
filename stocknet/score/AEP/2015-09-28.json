@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 5,
+        "Importance": 7,
+        "Impact": 6,
+        "Duration": 9,
+        "Virality": 3,
+        "Source_Score": 7,
+        "Specificity": 6,
+        "Sector_Spread": 10,
+        "Tech_Mentions": 4
+    },
+    "Each_item": [
+        {
+            "News_content": "Weekly S&P500 Stocks Trend TSO NKE NDAQ AZO XEL WEC MSI PNW AEE CLX SO NVDA AEP ORLY ED EIX",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 9,
+            "Virality": 3,
+            "Source_Score": 7,
+            "Specificity": 6,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 4
+        }
+    ]
+}

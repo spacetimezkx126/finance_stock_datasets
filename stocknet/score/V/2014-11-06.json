@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 4,
+        "Sentiment": 3,
+        "Importance": 2,
+        "Impact": 3,
+        "Duration": 2,
+        "Virality": 1,
+        "Source_Score": 5,
+        "Specificity": 6,
+        "Sector_Spread": 1,
+        "Tech_Mentions": 4
+    },
+    "Each_item": [
+        {
+            "News_content": "lookn4wins: Stock Chart Most recent stock chart and",
+            "Correlation": 5,
+            "Sentiment": 2,
+            "Importance": 1,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 1,
+            "Source_Score": 5,
+            "Specificity": 7,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 5
+        },
+        {
+            "News_content": "Bought $V @87.90 should I sell ?",
+            "Correlation": 3,
+            "Sentiment": 4,
+            "Importance": 3,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 1,
+            "Source_Score": 5,
+            "Specificity": 5,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 3
+        }
+    ]
+}

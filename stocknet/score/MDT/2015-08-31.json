@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 3,
+        "Duration": 2,
+        "Virality": 6,
+        "Source_Score": 5,
+        "Specificity": 6,
+        "Sector_Spread": 9,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "S&P100 #Stocks Performance $GM $MS $LOW $GOOGL $GS $MDT $LLY $INTC $ABT $HON $WMT $ALL $JPM $NKE $JNJ $AGN more@ http://t.co/cKkr8csQUU",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 5,
+            "Source_Score": 5,
+            "Specificity": 7,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT @WrigleyTom: $DANG $DLTR $QIWI $SAIC $AMBA $AVAV $HRB $BOBE $GWRE $QIHU $SCVL $GIII $VRA $FIVE $PLNT $CIEN $JOY $MDT $BLOX $PAY http://t.co/cKkr8csQUU",
+            "Correlation": 6,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 7,
+            "Source_Score": 5,
+            "Specificity": 5,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        }
+    ]
+}

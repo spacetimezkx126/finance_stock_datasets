@@ -1,0 +1,68 @@
+{
+    "Overall_score": {
+        "Correlation": 4,
+        "Sentiment": 8,
+        "Importance": 5,
+        "Impact": 3,
+        "Duration": 2,
+        "Virality": 6,
+        "Source_Score": 3,
+        "Specificity": 4,
+        "Sector_Spread": 7,
+        "Tech_Mentions": 5
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @YongLimbaugh: Strategies for Options traders Webinar on wednesday",
+            "Correlation": 5,
+            "Sentiment": 7,
+            "Importance": 4,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 5,
+            "Source_Score": 3,
+            "Specificity": 5,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 6
+        },
+        {
+            "News_content": "Extreme daytrades 100% in a day Webinar on wednesday",
+            "Correlation": 4,
+            "Sentiment": 9,
+            "Importance": 5,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 7,
+            "Source_Score": 2,
+            "Specificity": 4,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 4
+        },
+        {
+            "News_content": "Bigtime profits everyday Free webinar",
+            "Correlation": 3,
+            "Sentiment": 8,
+            "Importance": 4,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 6,
+            "Source_Score": 2,
+            "Specificity": 3,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "Big bang profits with Options Must attend webinar",
+            "Correlation": 5,
+            "Sentiment": 8,
+            "Importance": 5,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 6,
+            "Source_Score": 3,
+            "Specificity": 5,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 5
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 3,
+        "Duration": 6,
+        "Virality": 3,
+        "Source_Score": 2,
+        "Specificity": 5,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 9
+    },
+    "Each_item": [
+        {
+            "News_content": "Learn stock technical analysis and charting. $AAPL $GOOG $JRJC $LIVE $INTC $TWTR",
+            "Correlation": 7,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 6,
+            "Virality": 3,
+            "Source_Score": 2,
+            "Specificity": 5,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 9
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 9,
+        "Sentiment": 7,
+        "Importance": 6,
+        "Impact": 5,
+        "Duration": 8,
+        "Virality": 3,
+        "Source_Score": 5,
+        "Specificity": 9,
+        "Sector_Spread": 4,
+        "Tech_Mentions": 8
+    },
+    "Each_item": [
+        {
+            "News_content": "Danaher has been on relative strength buy signal vs equal weighted S&P 500 since May 1993 $DHR",
+            "Correlation": 9,
+            "Sentiment": 7,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 8,
+            "Virality": 3,
+            "Source_Score": 5,
+            "Specificity": 9,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 8
+        }
+    ]
+}

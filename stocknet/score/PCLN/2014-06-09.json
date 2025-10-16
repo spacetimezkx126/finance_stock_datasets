@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 6,
+        "Impact": 6,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 5,
+        "Specificity": 7,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "SEAS Stocks MTB HCN PCLN PAYX WLL COST PCLN BA FDX CR PCLN WRB KSS VSH PCLN CNX BAH DOW PCLN AAPL fb SPY GOOG NFLX FB VXX PCLN F GM TSLA QQQ SPY AMZN YY RIO PCLN SNA ABT APD PCLN HSY AMAT ALL PCLN AMCX PCLN ROVI QLYS PCLN WDC NUS BWP",
+            "Correlation": 7,
+            "Sentiment": 5,
+            "Importance": 6,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 5,
+            "Specificity": 7,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 2
+        }
+    ]
+}

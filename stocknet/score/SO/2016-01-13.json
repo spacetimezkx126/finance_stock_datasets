@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 9,
+        "Sentiment": 5,
+        "Importance": 7,
+        "Impact": 6,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 6,
+        "Specificity": 10,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 9
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @JBoorman: Only 8 names in S&P 100 above their 50-day MA: $EXC $MCD $MO $PM $RTN $SO $T $TWX",
+            "Correlation": 9,
+            "Sentiment": 5,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 6,
+            "Specificity": 10,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 9
+        }
+    ]
+}

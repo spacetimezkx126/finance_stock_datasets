@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 6,
+        "Sentiment": 3,
+        "Importance": 7,
+        "Impact": 5,
+        "Duration": 8,
+        "Virality": 9,
+        "Source_Score": 4,
+        "Specificity": 5,
+        "Sector_Spread": 2,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "SB101 & SB568 from CMCSA, T, ONB & LLY funded Reps allow businesses to refuse services to LGBT Americans because Mike Pence hates LGBT Americans",
+            "Correlation": 6,
+            "Sentiment": 3,
+            "Importance": 7,
+            "Impact": 5,
+            "Duration": 8,
+            "Virality": 9,
+            "Source_Score": 4,
+            "Specificity": 5,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        }
+    ]
+}

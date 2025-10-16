@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 4,
+        "Importance": 5,
+        "Impact": 3,
+        "Duration": 7,
+        "Virality": 2,
+        "Source_Score": 6,
+        "Specificity": 9,
+        "Sector_Spread": 4,
+        "Tech_Mentions": 5
+    },
+    "Each_item": [
+        {
+            "News_content": "Dow stocks CAT Caterpillar Daily:-0.74% Weekly:0.03% YTD:14.74% Trend:28/100",
+            "Correlation": 8,
+            "Sentiment": 4,
+            "Importance": 5,
+            "Impact": 3,
+            "Duration": 7,
+            "Virality": 2,
+            "Source_Score": 6,
+            "Specificity": 9,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 5
+        }
+    ]
+}

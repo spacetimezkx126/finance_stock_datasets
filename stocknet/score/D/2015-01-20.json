@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 2,
+        "Sentiment": 4,
+        "Importance": 3,
+        "Impact": 2,
+        "Duration": 1,
+        "Virality": 5,
+        "Source_Score": 3,
+        "Specificity": 2,
+        "Sector_Spread": 1,
+        "Tech_Mentions": 0
+    },
+    "Each_item": [
+        {
+            "News_content": "Yong-Geun Oh : Continuous Hamiltonian dynamics and area-preserving homeomorphism group of $D^2$",
+            "Correlation": 1,
+            "Sentiment": 5,
+            "Importance": 6,
+            "Impact": 1,
+            "Duration": 7,
+            "Virality": 2,
+            "Source_Score": 8,
+            "Specificity": 9,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "FUCK WHOEVER GOT NEXT M$D WE GOT NOW 💸💨✈️",
+            "Correlation": 3,
+            "Sentiment": 3,
+            "Importance": 1,
+            "Impact": 3,
+            "Duration": 1,
+            "Virality": 8,
+            "Source_Score": 1,
+            "Specificity": 1,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        }
+    ]
+}

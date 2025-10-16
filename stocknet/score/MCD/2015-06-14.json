@@ -1,0 +1,68 @@
+{
+    "Overall_score": {
+        "Correlation": 6,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 3,
+        "Duration": 2,
+        "Virality": 7,
+        "Source_Score": 5,
+        "Specificity": 6,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "TASR TASER Intl Inc. Exchange http://t.co/LeELlczDqw $TASR $AMRN $MCD $NBRI #TASR #pennystocks #tradeideas",
+            "Correlation": 7,
+            "Sentiment": 6,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 8,
+            "Source_Score": 4,
+            "Specificity": 7,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "$TWTR Twitter Inc $35.90 http://t.co/RSH5Aynd8h $MS $IWM $TZA $ICPT #MS #invest #nasdaq $MCD $PLKI $PFE $USO http://t.co/RBfA8LcTJ0",
+            "Correlation": 6,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 9,
+            "Source_Score": 5,
+            "Specificity": 6,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RGLD Royal Gold, Inc. Company Info http://t.co/JmCe3MGm45 $RGLD $MCD $BIDU $FDX #RGLD #stockmarket #shareRHT Red Hat, Inc. P/E Ratio",
+            "Correlation": 7,
+            "Sentiment": 4,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 6,
+            "Source_Score": 4,
+            "Specificity": 7,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "$MCD News: \"3% To Near-5% Yields For Top 10 Dow Dividend June Dogs $CAT $CVX $GE http://t.co/9QQcoDuSd7 https://t.co/mXKfSSHyeD",
+            "Correlation": 8,
+            "Sentiment": 7,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 5,
+            "Source_Score": 6,
+            "Specificity": 8,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 1
+        }
+    ]
+}

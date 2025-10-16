@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 3,
+        "Sentiment": 2,
+        "Importance": 6,
+        "Impact": 4,
+        "Duration": 5,
+        "Virality": 7,
+        "Source_Score": 4,
+        "Specificity": 8,
+        "Sector_Spread": 2,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "@LucioQuincioC: #Venezuela compro a #Cuba U$D 180 millones en medicamentos defectuosos y de mala calidad",
+            "Correlation": 3,
+            "Sentiment": 2,
+            "Importance": 6,
+            "Impact": 4,
+            "Duration": 5,
+            "Virality": 7,
+            "Source_Score": 4,
+            "Specificity": 8,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "@LucioQuincioC: #Venezuela compro a #Cuba U$D 180 millones en medicamentos defectuosos y de mala calidad",
+            "Correlation": 3,
+            "Sentiment": 2,
+            "Importance": 6,
+            "Impact": 4,
+            "Duration": 5,
+            "Virality": 7,
+            "Source_Score": 4,
+            "Specificity": 8,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        }
+    ]
+}

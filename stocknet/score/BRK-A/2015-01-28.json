@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 5,
+        "Importance": 9,
+        "Impact": 7,
+        "Duration": 6,
+        "Virality": 8,
+        "Source_Score": 10,
+        "Specificity": 7,
+        "Sector_Spread": 4,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "Has Warren Buffett Lost His Touch? Not Even Close",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 9,
+            "Impact": 7,
+            "Duration": 6,
+            "Virality": 8,
+            "Source_Score": 10,
+            "Specificity": 7,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 2
+        }
+    ]
+}

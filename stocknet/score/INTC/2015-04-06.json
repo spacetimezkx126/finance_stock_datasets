@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 6,
+        "Duration": 3,
+        "Virality": 2,
+        "Source_Score": 8,
+        "Specificity": 9,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 7
+    },
+    "Each_item": [
+        {
+            "News_content": "INTC NR7 Inside Day. Contraction leads to expansion.",
+            "Correlation": 10,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 7,
+            "Duration": 2,
+            "Virality": 1,
+            "Source_Score": 8,
+            "Specificity": 10,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 9
+        },
+        {
+            "News_content": "Weekly S&P100 Stocks Performance MDLZ NOV DVN CMCSA MON SPG USD DOW TGT APA LOW EXC INTC MO",
+            "Correlation": 4,
+            "Sentiment": 4,
+            "Importance": 3,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 8,
+            "Specificity": 8,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 5
+        }
+    ]
+}

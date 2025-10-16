@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 2,
+        "Sentiment": 3,
+        "Importance": 1,
+        "Impact": 1,
+        "Duration": 1,
+        "Virality": 4,
+        "Source_Score": 1,
+        "Specificity": 1,
+        "Sector_Spread": 2,
+        "Tech_Mentions": 0
+    },
+    "Each_item": [
+        {
+            "News_content": "ur a retard lol n now ur telling me u love me more than a bestie on kik LMFAO",
+            "Correlation": 1,
+            "Sentiment": 2,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 5,
+            "Source_Score": 1,
+            "Specificity": 1,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "More Americans Are Putting Vacations on Credit Cards",
+            "Correlation": 3,
+            "Sentiment": 4,
+            "Importance": 2,
+            "Impact": 1,
+            "Duration": 2,
+            "Virality": 3,
+            "Source_Score": 1,
+            "Specificity": 2,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 0
+        }
+    ]
+}

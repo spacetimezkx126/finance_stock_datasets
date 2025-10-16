@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 3,
+        "Importance": 9,
+        "Impact": 7,
+        "Duration": 6,
+        "Virality": 4,
+        "Source_Score": 5,
+        "Specificity": 8,
+        "Sector_Spread": 7,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "Lo ultimo : Inician solicitud de Default contra #Venezuela por caso Gold Reserve por falta de pago U$D 740 millones mas …",
+            "Correlation": 8,
+            "Sentiment": 3,
+            "Importance": 8,
+            "Impact": 7,
+            "Duration": 5,
+            "Virality": 4,
+            "Source_Score": 5,
+            "Specificity": 8,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "En desarrollo demandas de CIADI obligan al régimen a pagar de inmediato U$D 2,2 bajo amenaza de embargo internacional",
+            "Correlation": 8,
+            "Sentiment": 3,
+            "Importance": 10,
+            "Impact": 8,
+            "Duration": 7,
+            "Virality": 4,
+            "Source_Score": 5,
+            "Specificity": 8,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 2
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 1,
+        "Sentiment": 5,
+        "Importance": 2,
+        "Impact": 3,
+        "Duration": 4,
+        "Virality": 6,
+        "Source_Score": 3,
+        "Specificity": 2,
+        "Sector_Spread": 1,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "44 HARD CORE 2 D WORLD FAMILY",
+            "Correlation": 1,
+            "Sentiment": 5,
+            "Importance": 2,
+            "Impact": 3,
+            "Duration": 4,
+            "Virality": 6,
+            "Source_Score": 3,
+            "Specificity": 2,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        }
+    ]
+}

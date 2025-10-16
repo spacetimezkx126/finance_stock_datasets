@@ -1,0 +1,55 @@
+{
+    "Overall_score": {
+        "Correlation": 4,
+        "Sentiment": 3,
+        "Importance": 2,
+        "Impact": 3,
+        "Duration": 2,
+        "Virality": 1,
+        "Source_Score": 1,
+        "Specificity": 5,
+        "Sector_Spread": 6,
+        "Tech_Mentions": 0
+    },
+    "Each_item": [
+        {
+            "News_content": "Did you lose money on XLNX DUK HCP CI NASDAQ",
+            "Correlation": 7,
+            "Sentiment": 2,
+            "Importance": 2,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 1,
+            "Source_Score": 1,
+            "Specificity": 8,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "DUK Are you looking for winners like EXPE TK AAPL financial",
+            "Correlation": 5,
+            "Sentiment": 4,
+            "Importance": 2,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 1,
+            "Source_Score": 1,
+            "Specificity": 6,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "GDI Are you hanging on to CIE DUK GRPN Visit",
+            "Correlation": 6,
+            "Sentiment": 3,
+            "Importance": 2,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 1,
+            "Source_Score": 1,
+            "Specificity": 7,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 0
+        }
+    ]
+}

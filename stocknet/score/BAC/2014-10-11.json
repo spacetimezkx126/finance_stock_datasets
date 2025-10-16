@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 9,
+        "Sentiment": 10,
+        "Importance": 6,
+        "Impact": 8,
+        "Duration": 3,
+        "Virality": 5,
+        "Source_Score": 7,
+        "Specificity": 10,
+        "Sector_Spread": 2,
+        "Tech_Mentions": 4
+    },
+    "Each_item": [
+        {
+            "News_content": "Our BAC Jan. 2012 Calls Strike $6 are up over 100% from $0.25-$0.26 to now $0.50-$0.51 this morning! Balling BAC what a wonderful double up!",
+            "Correlation": 9,
+            "Sentiment": 10,
+            "Importance": 6,
+            "Impact": 8,
+            "Duration": 3,
+            "Virality": 5,
+            "Source_Score": 7,
+            "Specificity": 10,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 4
+        }
+    ]
+}

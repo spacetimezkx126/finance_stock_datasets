@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 9,
+        "Importance": 5,
+        "Impact": 8,
+        "Duration": 4,
+        "Virality": 8,
+        "Source_Score": 3,
+        "Specificity": 6,
+        "Sector_Spread": 7,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "This Guy Turned $100 into over $10,000 In Just 30 Days! $PCLN $DAL $YELP",
+            "Correlation": 7,
+            "Sentiment": 9,
+            "Importance": 5,
+            "Impact": 8,
+            "Duration": 4,
+            "Virality": 8,
+            "Source_Score": 3,
+            "Specificity": 6,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 2
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "Overall_score": {
+        "Correlation": 3,
+        "Sentiment": 2,
+        "Importance": 7,
+        "Impact": 4,
+        "Duration": 5,
+        "Virality": 6,
+        "Source_Score": 5,
+        "Specificity": 6,
+        "Sector_Spread": 2,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "Venezolano Stalin León Azuaje detenido en EEUU con U$D 87 mil , es un “Enchufado del régimen.”",
+            "Correlation": 3,
+            "Sentiment": 2,
+            "Importance": 7,
+            "Impact": 4,
+            "Duration": 5,
+            "Virality": 6,
+            "Source_Score": 5,
+            "Specificity": 8,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Venezolano detenido en EEUU con U$D 87 mil , es un “Enchufado del régimen.”",
+            "Correlation": 2,
+            "Sentiment": 2,
+            "Importance": 6,
+            "Impact": 3,
+            "Duration": 4,
+            "Virality": 5,
+            "Source_Score": 4,
+            "Specificity": 5,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Venezolano Stalin León Azuaje detenido en EEUU con U$D 87 mil , es un “Enchufado del régimen.”",
+            "Correlation": 3,
+            "Sentiment": 2,
+            "Importance": 7,
+            "Impact": 4,
+            "Duration": 5,
+            "Virality": 6,
+            "Source_Score": 5,
+            "Specificity": 8,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Venezuela sin medicamentos para el cáncer en su mayoría niños y Maduro se compra nuevo avión Embraer 190 #Cecaf U$D 80.",
+            "Correlation": 4,
+            "Sentiment": 1,
+            "Importance": 8,
+            "Impact": 5,
+            "Duration": 6,
+            "Virality": 7,
+            "Source_Score": 6,
+            "Specificity": 7,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        }
+    ]
+}

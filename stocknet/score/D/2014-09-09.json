@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 4,
+        "Importance": 8,
+        "Impact": 6,
+        "Duration": 5,
+        "Virality": 3,
+        "Source_Score": 5,
+        "Specificity": 7,
+        "Sector_Spread": 9,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "Lo malo es que cuando traen un smartphone nuevo a Chile no hacen la conversion monetaria, por ejemplo U$D 500 deberia ser $500.000",
+            "Correlation": 5,
+            "Sentiment": 3,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 1,
+            "Source_Score": 4,
+            "Specificity": 6,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 8
+        },
+        {
+            "News_content": "21 dias para que llegue Octubre Rojo, se vence U$D 7,144 millones en deuda publica, y no hay dolares con que pagar",
+            "Correlation": 9,
+            "Sentiment": 5,
+            "Importance": 10,
+            "Impact": 9,
+            "Duration": 8,
+            "Virality": 5,
+            "Source_Score": 6,
+            "Specificity": 8,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 1
+        }
+    ]
+}

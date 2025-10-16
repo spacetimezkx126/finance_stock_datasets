@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 8,
+        "Importance": 6,
+        "Impact": 5,
+        "Duration": 4,
+        "Virality": 7,
+        "Source_Score": 6,
+        "Specificity": 8,
+        "Sector_Spread": 9,
+        "Tech_Mentions": 6
+    },
+    "Each_item": [
+        {
+            "News_content": "After 1,466% Gains On 3 Stock Picks, Our New Alert Is Already Seeing Fast Gains! Big News: https://t.co/hUUm2ldTYF $SBUX $TXN $PCLN",
+            "Correlation": 8,
+            "Sentiment": 9,
+            "Importance": 5,
+            "Impact": 6,
+            "Duration": 3,
+            "Virality": 8,
+            "Source_Score": 5,
+            "Specificity": 9,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "RT Trade of the Day: $NFLX TWAP HFT Algo for 03-23-16, T/S SELL #Quant $MSFT $GOOG $PCLN $FB $AAPL $AMZN $TSLA $QQQ https://t.co/hfCEhOUNst",
+            "Correlation": 6,
+            "Sentiment": 7,
+            "Importance": 7,
+            "Impact": 4,
+            "Duration": 5,
+            "Virality": 6,
+            "Source_Score": 7,
+            "Specificity": 7,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 10
+        }
+    ]
+}

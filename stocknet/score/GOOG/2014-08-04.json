@@ -1,0 +1,107 @@
+{
+    "Overall_score": {
+        "Correlation": 6,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 3,
+        "Duration": 2,
+        "Virality": 7,
+        "Source_Score": 5,
+        "Specificity": 6,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 4
+    },
+    "Each_item": [
+        {
+            "News_content": "BENZINGA PRO....we've got your back ---&gt; Analyst Bullish On Michael Kors $COH $GOOG $GS",
+            "Correlation": 7,
+            "Sentiment": 8,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 6,
+            "Source_Score": 9,
+            "Specificity": 8,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "$GOOG - TECH STOCKS: Groupon Is Big Tech Gainer Ahead Of Earnings",
+            "Correlation": 9,
+            "Sentiment": 7,
+            "Importance": 8,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 5,
+            "Source_Score": 7,
+            "Specificity": 9,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 8
+        },
+        {
+            "News_content": "U.S. #tech companies founded by 1st/2nd generation immigrants:\n\n1 $AAPL\n2 $GOOG\n3 $IBM\n4 $ORCL\n5 $FB\n6 $AMZN\n7 $QCOM\n8 $EMC",
+            "Correlation": 6,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 7,
+            "Source_Score": 6,
+            "Specificity": 7,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "#Buy $DNAX #DNA #Energy #Drinks #New #CEO #Real #Experience &gt; $FNMA  $HEMP $PMCM $PHOT $PLPL $CBIS $JPM $GS $MS $TSLA $FB $TWTR $GOOG $MSFT",
+            "Correlation": 5,
+            "Sentiment": 6,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 8,
+            "Source_Score": 4,
+            "Specificity": 5,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 4
+        },
+        {
+            "News_content": "Are you Investing in $QEP $FHN $CMG $GOOG #economy",
+            "Correlation": 4,
+            "Sentiment": 4,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 5,
+            "Source_Score": 3,
+            "Specificity": 4,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "U.S. #tech companies founded by 1st/2nd generation immigrants:\n\n1 $AAPL\n2 $GOOG\n3 $IBM\n4 $ORCL\n5 $FB\n6 $AMZN\n7 $QCOM\n8...",
+            "Correlation": 6,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 7,
+            "Source_Score": 6,
+            "Specificity": 7,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "$UNG Chart\n\nAlso See: $EPI $C $SH $GOOG ~",
+            "Correlation": 5,
+            "Sentiment": 4,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 6,
+            "Source_Score": 5,
+            "Specificity": 5,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 2
+        }
+    ]
+}

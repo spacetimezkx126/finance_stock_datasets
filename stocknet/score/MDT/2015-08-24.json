@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 3,
+        "Importance": 7,
+        "Impact": 6,
+        "Duration": 5,
+        "Virality": 2,
+        "Source_Score": 6,
+        "Specificity": 9,
+        "Sector_Spread": 10,
+        "Tech_Mentions": 4
+    },
+    "Each_item": [
+        {
+            "News_content": "176 intermediate-term bearish trend changes today including: MDT, MCK, ACN, DRAD, PATK, WNR, HLS, CAKE, ECHO",
+            "Correlation": 8,
+            "Sentiment": 3,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 2,
+            "Source_Score": 6,
+            "Specificity": 9,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 4
+        }
+    ]
+}

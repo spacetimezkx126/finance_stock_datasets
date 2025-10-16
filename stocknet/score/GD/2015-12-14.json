@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 6,
+        "Sentiment": 4,
+        "Importance": 5,
+        "Impact": 5,
+        "Duration": 3,
+        "Virality": 2,
+        "Source_Score": 3,
+        "Specificity": 4,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 7
+    },
+    "Each_item": [
+        {
+            "News_content": "SKX Skechers Usa, Inc. EOD Data $SKX $GD $AET $OPK #SKX #tradeideas #stock",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 4,
+            "Duration": 2,
+            "Virality": 2,
+            "Source_Score": 4,
+            "Specificity": 7,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "ADX Downtrend $ICE $IVV $SPY $VOO $AVB $IWR $XLG $IYC $GD $APD $IUSV $IHI $IVW $IHS $TQQQ $IWB $IWM $IJR",
+            "Correlation": 5,
+            "Sentiment": 3,
+            "Importance": 6,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 2,
+            "Source_Score": 2,
+            "Specificity": 2,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 10
+        }
+    ]
+}

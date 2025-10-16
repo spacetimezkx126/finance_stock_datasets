@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 3,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 2,
+        "Duration": 6,
+        "Virality": 1,
+        "Source_Score": 2,
+        "Specificity": 3,
+        "Sector_Spread": 7,
+        "Tech_Mentions": 0
+    },
+    "Each_item": [
+        {
+            "News_content": "Looking for research on HCBK GMT UPS AMZN Stock",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 5,
+            "Virality": 1,
+            "Source_Score": 2,
+            "Specificity": 7,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "Stocks I'm keeping my Eye on...should you? MAT UPS DVA AAPL investing",
+            "Correlation": 5,
+            "Sentiment": 5,
+            "Importance": 5,
+            "Impact": 2,
+            "Duration": 7,
+            "Virality": 1,
+            "Source_Score": 2,
+            "Specificity": 5,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 0
+        }
+    ]
+}

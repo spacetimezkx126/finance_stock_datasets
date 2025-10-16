@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 6,
+        "Duration": 3,
+        "Virality": 2,
+        "Source_Score": 8,
+        "Specificity": 9,
+        "Sector_Spread": 10,
+        "Tech_Mentions": 8
+    },
+    "Each_item": [
+        {
+            "News_content": "Parabolic Sar Sell Signals AMAT ARO BLL CCK CDNS COL GGAL HA KGC KMB KO KRG LAMR LPT PG POL TEP WMT",
+            "Correlation": 10,
+            "Sentiment": 3,
+            "Importance": 5,
+            "Impact": 7,
+            "Duration": 2,
+            "Virality": 1,
+            "Source_Score": 8,
+            "Specificity": 9,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 10
+        },
+        {
+            "News_content": "I wanna cop some CPGL merch",
+            "Correlation": 2,
+            "Sentiment": 7,
+            "Importance": 2,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 3,
+            "Source_Score": 5,
+            "Specificity": 4,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        }
+    ]
+}

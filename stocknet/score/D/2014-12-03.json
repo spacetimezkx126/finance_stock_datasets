@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 2,
+        "Sentiment": 8,
+        "Importance": 3,
+        "Impact": 4,
+        "Duration": 5,
+        "Virality": 7,
+        "Source_Score": 6,
+        "Specificity": 4,
+        "Sector_Spread": 1,
+        "Tech_Mentions": 0
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @guillecoria: Federer donó a sus compañeros los U$D 3 millones que recibía de la Federación Suiza 👏 👏 👏 Pocos, muy pocos lo hacen x más…",
+            "Correlation": 2,
+            "Sentiment": 9,
+            "Importance": 3,
+            "Impact": 4,
+            "Duration": 5,
+            "Virality": 8,
+            "Source_Score": 6,
+            "Specificity": 4,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "$$$ $ #44HARDCORE2DWORLD FAMILY$$$ $ $$$ @ $$$ $ DEATH VALLEY POSSIE$$$ $",
+            "Correlation": 1,
+            "Sentiment": 7,
+            "Importance": 2,
+            "Impact": 3,
+            "Duration": 4,
+            "Virality": 6,
+            "Source_Score": 5,
+            "Specificity": 3,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        }
+    ]
+}

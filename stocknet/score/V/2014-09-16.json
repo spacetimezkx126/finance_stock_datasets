@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 3,
+        "Sentiment": 4,
+        "Importance": 5,
+        "Impact": 6,
+        "Duration": 7,
+        "Virality": 2,
+        "Source_Score": 8,
+        "Specificity": 7,
+        "Sector_Spread": 6,
+        "Tech_Mentions": 3
+    },
+    "Each_item": [
+        {
+            "News_content": "#fact: Basis on vector space $V$ - ANSWER: Let's consider $S_1 = S_i cup w |w in...",
+            "Correlation": 1,
+            "Sentiment": 2,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 4,
+            "Virality": 1,
+            "Source_Score": 5,
+            "Specificity": 3,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 4
+        },
+        {
+            "News_content": "Analyst notes:  $MA, $V, $CTSH started with outperform, $WBAI raised to buy from hold by $DB...",
+            "Correlation": 5,
+            "Sentiment": 6,
+            "Importance": 7,
+            "Impact": 10,
+            "Duration": 10,
+            "Virality": 3,
+            "Source_Score": 10,
+            "Specificity": 10,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 2
+        }
+    ]
+}

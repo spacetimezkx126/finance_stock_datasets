@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 6,
+        "Importance": 5,
+        "Impact": 4,
+        "Duration": 3,
+        "Virality": 2,
+        "Source_Score": 8,
+        "Specificity": 9,
+        "Sector_Spread": 10,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "$B$*$O$h$&amp;!\"$8$e$s$G$9:#F|$O!\"5$;}$A$$$$$[$I@2$l$F$^$9$M!A@hF|!\"%l%$%H%7%g!<4Q$K9T$C$?;~$K%7%s%G%l%",
+            "Correlation": 3,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 1,
+            "Source_Score": 7,
+            "Specificity": 6,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "30% of billionaire investors love these 10 large cap value stocks: $GM $MDLZ $C $HCA $AIG $ALLY $DAL $UAL $WBA $MSFT",
+            "Correlation": 9,
+            "Sentiment": 7,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 9,
+            "Specificity": 10,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 1
+        }
+    ]
+}

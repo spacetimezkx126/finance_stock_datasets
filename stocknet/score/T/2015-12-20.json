@@ -1,0 +1,55 @@
+{
+    "Overall_score": {
+        "Correlation": 4,
+        "Sentiment": 5,
+        "Importance": 3,
+        "Impact": 2,
+        "Duration": 1,
+        "Virality": 6,
+        "Source_Score": 5,
+        "Specificity": 4,
+        "Sector_Spread": 3,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @KOIWA_BUSHBASH: 12/28小岩bushbash koiwa sauna aproach YGK POSTER 大沢 綾 サラダマイカル富岡製糸場グループ ねろfrom赤い疑惑 鈴木伸明 DJ: black FORE$T 8.25 野沢のフード ht…",
+            "Correlation": 2,
+            "Sentiment": 7,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 8,
+            "Source_Score": 3,
+            "Specificity": 5,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "T.TO TELUS Corp. Financials https://t.co/uWAkLz7xWm $T.TO $QLD $HZNP $SCO #T.TO #pennystocks #stockmarket",
+            "Correlation": 9,
+            "Sentiment": 5,
+            "Importance": 6,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 4,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "RT @RentSeeker: COA$T TO COA$T - This Is How Much Rent Costs Across @Canada: https://t.co/EMRaAMyfd5 via @HuffPostCanada @RentSeeker https:…",
+            "Correlation": 3,
+            "Sentiment": 4,
+            "Importance": 5,
+            "Impact": 2,
+            "Duration": 2,
+            "Virality": 5,
+            "Source_Score": 6,
+            "Specificity": 4,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 0
+        }
+    ]
+}

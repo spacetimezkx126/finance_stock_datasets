@@ -1,0 +1,94 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 6,
+        "Importance": 5,
+        "Impact": 4,
+        "Duration": 3,
+        "Virality": 5,
+        "Source_Score": 6,
+        "Specificity": 7,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 9
+    },
+    "Each_item": [
+        {
+            "News_content": "RT $FB Algos triggered BUY in SIGMA-X, CROSSFINDER, ATS, LX @ 09:35, P/T 86.50 $GOOG $BABA $BIDU $GPRO $NFLX $TSLA $AAPL $QQQ #HFT #Quant",
+            "Correlation": 8,
+            "Sentiment": 7,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 6,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 10
+        },
+        {
+            "News_content": "RT $FB Algos triggered BUY in SIGMA-X, CROSSFINDER, ATS, LX @ 09:40, P/T 86.50 $GOOG $BABA $BIDU $GPRO $NFLX $TSLA $AAPL $QQQ #HFT #Quant",
+            "Correlation": 8,
+            "Sentiment": 7,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 6,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 10
+        },
+        {
+            "News_content": "Cotizando en en $83.90 (niveles de entrada a bolsa) Call Largo en $BABA con tsk en $85 esperando llegar a techo de $87.",
+            "Correlation": 9,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 4,
+            "Source_Score": 6,
+            "Specificity": 9,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 7
+        },
+        {
+            "News_content": "Primer operación del dia short en $BABA, vamos por mas , mucho mas!\n\nHome Day Trading\n\nWEB:",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 3,
+            "Source_Score": 5,
+            "Specificity": 7,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 5
+        },
+        {
+            "News_content": "RT $FB Algos triggered BUY in SIGMA-X, CROSSFINDER, ATS, LX @ 09:57, P/T 86.50 $GOOG $BABA $BIDU $GPRO $NFLX $TSLA $AAPL…",
+            "Correlation": 8,
+            "Sentiment": 7,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 6,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 10
+        },
+        {
+            "News_content": "Investment Analysts’ Weekly Ratings Changes for Alibaba Group Holding (BABA) $BABA",
+            "Correlation": 7,
+            "Sentiment": 6,
+            "Importance": 6,
+            "Impact": 4,
+            "Duration": 4,
+            "Virality": 5,
+            "Source_Score": 8,
+            "Specificity": 7,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 3
+        }
+    ]
+}

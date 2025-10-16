@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 8,
+        "Importance": 9,
+        "Impact": 6,
+        "Duration": 8,
+        "Virality": 7,
+        "Source_Score": 9,
+        "Specificity": 6,
+        "Sector_Spread": 10,
+        "Tech_Mentions": 5
+    },
+    "Each_item": [
+        {
+            "News_content": "Ex-Googler Reveals How A.I. Will Transform Robots - Tech Trader Daily - Barron's",
+            "Correlation": 7,
+            "Sentiment": 8,
+            "Importance": 9,
+            "Impact": 6,
+            "Duration": 8,
+            "Virality": 7,
+            "Source_Score": 9,
+            "Specificity": 6,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 5
+        }
+    ]
+}

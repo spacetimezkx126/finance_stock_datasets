@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 9,
+        "Sentiment": 4,
+        "Importance": 8,
+        "Impact": 7,
+        "Duration": 6,
+        "Virality": 3,
+        "Source_Score": 5,
+        "Specificity": 10,
+        "Sector_Spread": 7,
+        "Tech_Mentions": 8
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @jq1234t: $SNY discontinued further development of SAR3419 (CD19 ADC) in ALL, SAR339658 (anti-VLA 2 mAb) in UC - initiate ph2 in MS inst",
+            "Correlation": 9,
+            "Sentiment": 4,
+            "Importance": 8,
+            "Impact": 7,
+            "Duration": 6,
+            "Virality": 3,
+            "Source_Score": 5,
+            "Specificity": 10,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 8
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "Overall_score": {
+        "Correlation": 3,
+        "Sentiment": 4,
+        "Importance": 5,
+        "Impact": 3,
+        "Duration": 2,
+        "Virality": 7,
+        "Source_Score": 6,
+        "Specificity": 4,
+        "Sector_Spread": 5,
+        "Tech_Mentions": 3
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @buterastralia: FOLLOW TRICK TWEET RT IF YOU WANT TO GAIN FOLLOW ME AND @drunk_horan & @frappenourry FOLLOW ALL WHO RT FB GA",
+            "Correlation": 1,
+            "Sentiment": 2,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 8,
+            "Source_Score": 2,
+            "Specificity": 1,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "RT @iSecuteAmeezy: FOLLOWTRICK RT FOLLOW ME @xCutieMahonex @MahomieWarrior @SupportinBiebuh @bieebsspace FOLLOW EVERYONE WHO RTs FB",
+            "Correlation": 1,
+            "Sentiment": 2,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 7,
+            "Source_Score": 2,
+            "Specificity": 1,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "RT @iSecuteAmeezy: FOLLOWTRICK RT FOLLOW ME @BeckyNiallHoran @LovelyTBella @MahomieWarrior @KxdrauhlMyLove FOLLOW EVERYONE WHO RTs FB",
+            "Correlation": 1,
+            "Sentiment": 2,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 7,
+            "Source_Score": 2,
+            "Specificity": 1,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "RT @iSecuteAmeezy: FOLLOWTRICK RT FOLLOW ME @AlwaysAmeezy @BiebersWife1994 @mahomie_land @MyGodBieber_ FOLLOW EVERYONE WHO RTs FB GA",
+            "Correlation": 1,
+            "Sentiment": 2,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 7,
+            "Source_Score": 2,
+            "Specificity": 1,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "RT @WSJ: \"Facebook wants to be the global hub of human communication.\" The strategy behind unveiling Paper: http://t.co/GvMe9ahh2P FB",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 7,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 6,
+            "Source_Score": 9,
+            "Specificity": 7,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "Will likely add FB back to the long term portfolio this week.",
+            "Correlation": 7,
+            "Sentiment": 5,
+            "Importance": 6,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 3,
+            "Source_Score": 5,
+            "Specificity": 6,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "WHY GOOGLE IS THE TOP TECH PLAY OF OUR GENERATION http://t.co/vCKIRgDeIw GOOG AAPL TWTR Google google TSLA DDD technology tech FB",
+            "Correlation": 9,
+            "Sentiment": 8,
+            "Importance": 9,
+            "Impact": 7,
+            "Duration": 6,
+            "Virality": 5,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 5
+        }
+    ]
+}

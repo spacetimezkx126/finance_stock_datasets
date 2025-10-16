@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 6,
+        "Impact": 4,
+        "Duration": 3,
+        "Virality": 8,
+        "Source_Score": 5,
+        "Specificity": 4,
+        "Sector_Spread": 9,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "#sentishiftup $TASR $KO $PEP $FIZZ $DPS $QUAD $COT $INVT $MNST $YHOO #sentiquant 20150324 18:00:03:683",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 7,
+            "Source_Score": 4,
+            "Specificity": 5,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT @AltitradePartne: $KO $PEP $DPS $MNST $COT $FIZZ Beverage investor? Our insights into changing industry trends are available here: http",
+            "Correlation": 6,
+            "Sentiment": 4,
+            "Importance": 7,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 9,
+            "Source_Score": 6,
+            "Specificity": 3,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 3
+        }
+    ]
+}

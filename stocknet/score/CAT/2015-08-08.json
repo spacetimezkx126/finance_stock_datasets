@@ -1,0 +1,55 @@
+{
+    "Overall_score": {
+        "Correlation": 4,
+        "Sentiment": 3,
+        "Importance": 3,
+        "Impact": 3,
+        "Duration": 2,
+        "Virality": 2,
+        "Source_Score": 5,
+        "Specificity": 4,
+        "Sector_Spread": 6,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "Interactive Chart -> http://t.co/ZpgKqjT3xv $CAT Cash from Operations is Fading. http://t.co/LxuAuc15x7",
+            "Correlation": 8,
+            "Sentiment": 2,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 1,
+            "Source_Score": 6,
+            "Specificity": 7,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "COH Coach, Inc. Stock Message Board http://t.co/qBeNpMvITz $COH $ADBE $CAT $_WWE #COH #finance #nasdaq",
+            "Correlation": 5,
+            "Sentiment": 4,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 2,
+            "Virality": 3,
+            "Source_Score": 5,
+            "Specificity": 5,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "$NVDA Stock Forum Updated Saturday, August 8, 2015 06:59:21 AM $TQQQ $JNJ $CAT $NVAX http://t.co/Afe5KqbEKr",
+            "Correlation": 4,
+            "Sentiment": 3,
+            "Importance": 2,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 2,
+            "Source_Score": 4,
+            "Specificity": 3,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 0
+        }
+    ]
+}

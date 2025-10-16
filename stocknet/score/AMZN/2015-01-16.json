@@ -1,0 +1,120 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 4,
+        "Importance": 5,
+        "Impact": 6,
+        "Duration": 3,
+        "Virality": 8,
+        "Source_Score": 6,
+        "Specificity": 7,
+        "Sector_Spread": 9,
+        "Tech_Mentions": 5
+    },
+    "Each_item": [
+        {
+            "News_content": "#Amazon : First Pilot Season of 2015, Featuring Slate of 13 Original Comedy, D... $AMZN",
+            "Correlation": 9,
+            "Sentiment": 7,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 6,
+            "Source_Score": 5,
+            "Specificity": 8,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT $QQQ trading at 100.49, 149 bpts above F/V, P/T 98.00 $GOOG $FB $AMZN $TSLA $NFLX $BIDU $GPRO $AAPL $BABA #HFT",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 3,
+            "Virality": 7,
+            "Source_Score": 6,
+            "Specificity": 7,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 8
+        },
+        {
+            "News_content": "SELL ALERTS (NASDAQ Strategy) ... $ALXN $AMZN $ASB $FEIC $FOX $MFRM $MU $MYL ... Prices for recent alerts:",
+            "Correlation": 7,
+            "Sentiment": 3,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 2,
+            "Virality": 5,
+            "Source_Score": 4,
+            "Specificity": 6,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "$AAPL $AMZN $BABA $BIDU $CELG $CMG $FB $FEYE $FSLR $GILD $GLD $GMCR $GOOG $GOOGL $GS $IWM $JPM $KO $LNKD $LVS $MA",
+            "Correlation": 6,
+            "Sentiment": 4,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 4,
+            "Source_Score": 3,
+            "Specificity": 5,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT $QQQ trading at 100.23, 123 bpts above F/V, P/T 98.00 $GOOG $FB $AMZN $TSLA $NFLX $BIDU $GPRO $AAPL $BABA #HFT",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 3,
+            "Virality": 7,
+            "Source_Score": 6,
+            "Specificity": 7,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 8
+        },
+        {
+            "News_content": "$RUSS Russia Bear 3X Direxion (RUSS) 23.85 -2.33 (-8.90%) $AMZN $CURE $AMZN",
+            "Correlation": 7,
+            "Sentiment": 2,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 5,
+            "Source_Score": 5,
+            "Specificity": 6,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT $QQQ Algos triggered SELL in SIGMA-X, CROSSFINDER, ATS, LX @ 10:35, P/T 98.00 $GOOG $FB $AMZN $TSLA $NFLX $BIDU $GPRO $AAPL $BABA #HFT",
+            "Correlation": 8,
+            "Sentiment": 3,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 2,
+            "Virality": 6,
+            "Source_Score": 6,
+            "Specificity": 7,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 8
+        },
+        {
+            "News_content": "RT $BABA Algos triggered SELL in SIGMA-X, CROSSFINDER, ATS, LX @ 08:02 P/T 93.00 $GOOG $FB $AMZN $TSLA $NFLX $BIDU $GPRO $AAPL $QQQ #HFT",
+            "Correlation": 8,
+            "Sentiment": 3,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 2,
+            "Virality": 6,
+            "Source_Score": 6,
+            "Specificity": 7,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 8
+        }
+    ]
+}

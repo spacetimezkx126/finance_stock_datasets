@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 6,
+        "Duration": 3,
+        "Virality": 2,
+        "Source_Score": 6,
+        "Specificity": 8,
+        "Sector_Spread": 9,
+        "Tech_Mentions": 7
+    },
+    "Each_item": [
+        {
+            "News_content": "Some way oversold #Stocks on 9D #RSI: $LGF 9 $LNKD 12 $TSLA 19 $NFLX 21 $BIDU 22 $RH 17 $RL ...EVEN DARLINGS $HD 30 $NKE 31",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 4,
+            "Impact": 7,
+            "Duration": 2,
+            "Virality": 3,
+            "Source_Score": 5,
+            "Specificity": 9,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 9
+        },
+        {
+            "News_content": "$GLD Financials Updated Monday, February 8, 2016 4:59:25 PM $T $TSN $PPP $HD",
+            "Correlation": 6,
+            "Sentiment": 4,
+            "Importance": 3,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 1,
+            "Source_Score": 7,
+            "Specificity": 7,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 5
+        }
+    ]
+}

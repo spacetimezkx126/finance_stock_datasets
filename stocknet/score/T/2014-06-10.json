@@ -1,0 +1,81 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 7,
+        "Importance": 4,
+        "Impact": 3,
+        "Duration": 2,
+        "Virality": 9,
+        "Source_Score": 6,
+        "Specificity": 8,
+        "Sector_Spread": 1,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "Pick me @NokiaPilipinas :) I really want that #NokiaX. HIGHWAY HEI$T #SpotTheXPH #SpotTheXPH",
+            "Correlation": 8,
+            "Sentiment": 7,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 2,
+            "Virality": 8,
+            "Source_Score": 6,
+            "Specificity": 8,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "@NokiaPilipinas SPOTTED TWICE --> \"HIGHWAY HEI$T\" #SpotTheXPH please pick me, I need a new Nokia phone :(",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 2,
+            "Virality": 8,
+            "Source_Score": 6,
+            "Specificity": 8,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "@NokiaPilipinas My answer is HIGHWAY HEI$T. #SpotTheXPH Pick me pls! For father's day :)",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 2,
+            "Virality": 8,
+            "Source_Score": 6,
+            "Specificity": 8,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "@NokiaPilipinas The answer is HIGHWAY HEI$T! #SpotTheXPH #SpotTheXPH #SpotTheXPH Pick me 🏆🏆🏆 📱😎",
+            "Correlation": 8,
+            "Sentiment": 7,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 2,
+            "Virality": 9,
+            "Source_Score": 6,
+            "Specificity": 8,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "@NokiaPilipinas That's a cool video :D I've spotted HIGHWAY HEI$T! It appeared twice in the video. Lemme win! &lt;3 &lt;3 &lt;3",
+            "Correlation": 8,
+            "Sentiment": 7,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 2,
+            "Virality": 8,
+            "Source_Score": 6,
+            "Specificity": 8,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        }
+    ]
+}

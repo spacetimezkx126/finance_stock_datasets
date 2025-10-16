@@ -1,0 +1,8 @@
+{
+    "2016-01-21": [
+        "IF($B$44=\"\",\"\",IF(ISERROR(HLOOKUP(I$23,$C$12:G$19,5,FALSE)),\"\",HLOOKUP(I$23,$C$12:G$19,5,FALSE))) みたいな条件式書いててやっとできたぜーと思った矢先に仕様変更 归っていいすか？？？",
+        "$C just posted a new conference call. Listen now:",
+        "RT @ivanhoff: The big banks are underperforming the market today: $DB $GS $MS $BAC $C $JPM",
+        "Citigroup Inc. $C Rating Lowered to Strong Sell at Zacks Investment Research #acn"
+    ]
+}

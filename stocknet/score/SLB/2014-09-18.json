@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 9,
+        "Sentiment": 7,
+        "Importance": 5,
+        "Impact": 6,
+        "Duration": 3,
+        "Virality": 4,
+        "Source_Score": 6,
+        "Specificity": 8,
+        "Sector_Spread": 2,
+        "Tech_Mentions": 7
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @WallStJesus: $SLB sweep -- 1258 SLB Feb15 105 Calls $5.40 ASK MULTI 14:25:16 IV=21.1% +0.3",
+            "Correlation": 9,
+            "Sentiment": 7,
+            "Importance": 5,
+            "Impact": 6,
+            "Duration": 3,
+            "Virality": 4,
+            "Source_Score": 6,
+            "Specificity": 8,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 7
+        }
+    ]
+}

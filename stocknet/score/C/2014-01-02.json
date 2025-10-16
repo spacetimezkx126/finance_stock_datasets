@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 5,
+        "Sentiment": 7,
+        "Importance": 4,
+        "Impact": 6,
+        "Duration": 3,
+        "Virality": 4,
+        "Source_Score": 8,
+        "Specificity": 6,
+        "Sector_Spread": 7,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "Happy birthday P$C!! May a billion dime groupies come your way. Looking forward to the mixtape!",
+            "Correlation": 3,
+            "Sentiment": 9,
+            "Importance": 2,
+            "Impact": 3,
+            "Duration": 1,
+            "Virality": 6,
+            "Source_Score": 5,
+            "Specificity": 2,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "$C upgrades $BAC to $19 from $16. JPM P/T raised to $72 from $66",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 6,
+            "Impact": 9,
+            "Duration": 5,
+            "Virality": 2,
+            "Source_Score": 10,
+            "Specificity": 10,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 4
+        }
+    ]
+}

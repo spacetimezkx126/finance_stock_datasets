@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 9,
+        "Sentiment": 4,
+        "Importance": 7,
+        "Impact": 6,
+        "Duration": 8,
+        "Virality": 3,
+        "Source_Score": 7,
+        "Specificity": 10,
+        "Sector_Spread": 5,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "EARNINGS YIELD - '07 vs '14 S&P 2007: 5.5% 2014: 5.8% $NKE 2007: 6.6% 2014: 3.6% $PG 2007: 6.1% 2014: 4.6% $MMM 2007: 8.0% 2014: 4.6%",
+            "Correlation": 9,
+            "Sentiment": 4,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 8,
+            "Virality": 3,
+            "Source_Score": 7,
+            "Specificity": 10,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 2
+        }
+    ]
+}

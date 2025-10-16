@@ -1,0 +1,68 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 6,
+        "Importance": 5,
+        "Impact": 6,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 5,
+        "Specificity": 6,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 4
+    },
+    "Each_item": [
+        {
+            "News_content": "Edge Can Give Microsoft The Edge On Phones $MSFT",
+            "Correlation": 10,
+            "Sentiment": 8,
+            "Importance": 7,
+            "Impact": 7,
+            "Duration": 5,
+            "Virality": 4,
+            "Source_Score": 6,
+            "Specificity": 9,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "RT $NFLX HFT Algos triggered SELL in SIGMA-X, CROSSFINDER, ATS, LX @ 07:20 P/T 98.00 #Quant $MSFT $FB $GPRO $AMZN $FB $GOOG $TSLA $AAPL $QQQ",
+            "Correlation": 8,
+            "Sentiment": 3,
+            "Importance": 8,
+            "Impact": 8,
+            "Duration": 3,
+            "Virality": 7,
+            "Source_Score": 7,
+            "Specificity": 10,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 9
+        },
+        {
+            "News_content": "$GEQU Is Up 1,128.57% For Our Subscribers! Become A Platinum Member, To Get New Picks Early: $NTEK $MSFT $MWIP",
+            "Correlation": 6,
+            "Sentiment": 9,
+            "Importance": 4,
+            "Impact": 5,
+            "Duration": 2,
+            "Virality": 3,
+            "Source_Score": 4,
+            "Specificity": 7,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Our Penny Stock Picks Have Been Seeing INCREDIBLE Gains! See Our New Pick Early: $XLF $F $FN $MSFT",
+            "Correlation": 5,
+            "Sentiment": 8,
+            "Importance": 3,
+            "Impact": 4,
+            "Duration": 2,
+            "Virality": 2,
+            "Source_Score": 3,
+            "Specificity": 5,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 1
+        }
+    ]
+}

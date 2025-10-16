@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 5,
+        "Sentiment": 4,
+        "Importance": 3,
+        "Impact": 3,
+        "Duration": 2,
+        "Virality": 3,
+        "Source_Score": 4,
+        "Specificity": 5,
+        "Sector_Spread": 6,
+        "Tech_Mentions": 7
+    },
+    "Each_item": [
+        {
+            "News_content": "Learn to trade advanced options strats. #spreads #condors $TWTR $ARNA $XOM $INTC $LIVE",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 4,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 5,
+            "Source_Score": 5,
+            "Specificity": 7,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 10
+        },
+        {
+            "News_content": "$INTC Stock Price Updated Saturday, January 31, 2015 12:07:36 PM $GENE $SLV $RGDO $AGG",
+            "Correlation": 6,
+            "Sentiment": 2,
+            "Importance": 2,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 1,
+            "Source_Score": 3,
+            "Specificity": 3,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 4
+        }
+    ]
+}

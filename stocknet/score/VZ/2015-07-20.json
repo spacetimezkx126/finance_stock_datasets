@@ -1,0 +1,68 @@
+{
+    "Overall_score": {
+        "Correlation": 6,
+        "Sentiment": 8,
+        "Importance": 5,
+        "Impact": 7,
+        "Duration": 4,
+        "Virality": 6,
+        "Source_Score": 5,
+        "Specificity": 7,
+        "Sector_Spread": 3,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "Our Penny Stock Newsletter Alerts Gained 350% In Just 8 Trading Days! Get Our Next Pick Early: http://t.co/dMzaGkUY43",
+            "Correlation": 9,
+            "Sentiment": 10,
+            "Importance": 6,
+            "Impact": 8,
+            "Duration": 3,
+            "Virality": 7,
+            "Source_Score": 4,
+            "Specificity": 8,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Verizon Introduces 100/100 Mbps FiOS Internet Speed In New York Metro Area http://t.co/UhiNcTFZJi",
+            "Correlation": 8,
+            "Sentiment": 8,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 5,
+            "Source_Score": 7,
+            "Specificity": 9,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "Local Minority Male Students Complete Coding, 3D Design Program at Jackson State University http://t.co/Bm9EOJpEmz",
+            "Correlation": 4,
+            "Sentiment": 7,
+            "Importance": 5,
+            "Impact": 3,
+            "Duration": 6,
+            "Virality": 4,
+            "Source_Score": 6,
+            "Specificity": 7,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 5
+        },
+        {
+            "News_content": "Our Stock Pick On GEQU Nearly QUADRUPLED In Value In Less Than 2 Weeks! Major News: http://t.co/Ar3yILXeKR",
+            "Correlation": 10,
+            "Sentiment": 10,
+            "Importance": 8,
+            "Impact": 9,
+            "Duration": 4,
+            "Virality": 6,
+            "Source_Score": 5,
+            "Specificity": 9,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 5,
+        "Importance": 3,
+        "Impact": 4,
+        "Duration": 2,
+        "Virality": 7,
+        "Source_Score": 6,
+        "Specificity": 8,
+        "Sector_Spread": 9,
+        "Tech_Mentions": 10
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @DailyStockPlays: Ichimoku Red $LLY $NTAP $KIM $UPS $MTDR $KLAC $OCLR $ECL $SDOW $SCMP $CRK $PBI $OII $BNDX $KNX",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 3,
+            "Impact": 4,
+            "Duration": 2,
+            "Virality": 7,
+            "Source_Score": 6,
+            "Specificity": 8,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 10
+        }
+    ]
+}

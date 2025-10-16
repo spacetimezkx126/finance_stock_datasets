@@ -1,0 +1,55 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 6,
+        "Importance": 8,
+        "Impact": 7,
+        "Duration": 5,
+        "Virality": 4,
+        "Source_Score": 6,
+        "Specificity": 7,
+        "Sector_Spread": 9,
+        "Tech_Mentions": 3
+    },
+    "Each_item": [
+        {
+            "News_content": "Brazil, Italy, Spain, CDS And The European Commission Short Sale Ban, 2010-2014",
+            "Correlation": 8,
+            "Sentiment": 5,
+            "Importance": 9,
+            "Impact": 8,
+            "Duration": 7,
+            "Virality": 3,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "EL PELOTUDO QUE COMPRÓ BONOS DE YPF HACE UN AÑO GANÓ EL 133% EN U$D PERO MIS CACEROLOS COMPRAN BLUE! BOLUDOPELOTUDO",
+            "Correlation": 6,
+            "Sentiment": 8,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 5,
+            "Source_Score": 4,
+            "Specificity": 6,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "U$D 623.18 Bid:623.17 | Ask:623.19 Avg:620.54",
+            "Correlation": 5,
+            "Sentiment": 3,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 5,
+            "Specificity": 7,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 4
+        }
+    ]
+}

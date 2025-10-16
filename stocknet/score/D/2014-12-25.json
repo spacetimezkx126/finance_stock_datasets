@@ -1,0 +1,55 @@
+{
+    "Overall_score": {
+        "Correlation": 3,
+        "Sentiment": 4,
+        "Importance": 6,
+        "Impact": 5,
+        "Duration": 7,
+        "Virality": 8,
+        "Source_Score": 5,
+        "Specificity": 6,
+        "Sector_Spread": 4,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @pregANDREINA: #PreguntasRevolucionarias Si Maduro Firmo 56 Acuerdos con Cuba por 1.259 Millones de U$D que Abarcan Agricultura, Salud,p…",
+            "Correlation": 4,
+            "Sentiment": 5,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 8,
+            "Virality": 9,
+            "Source_Score": 6,
+            "Specificity": 7,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT @pregANDREINA: Cuerpo AntiCorrupción: Donde están los 1700 Millones U$D de la Línea 2 del Metro Valencia que estaría lista 2012 ? http:/…",
+            "Correlation": 3,
+            "Sentiment": 3,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 7,
+            "Virality": 8,
+            "Source_Score": 5,
+            "Specificity": 6,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT @anabella0907: \"@pregANDREINA: Solo quedan U$D 800 millones en efectivo en el BCV , no hay mas, se acabo... http://t.co/dWs5tTUqEv\"",
+            "Correlation": 3,
+            "Sentiment": 4,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 6,
+            "Virality": 7,
+            "Source_Score": 4,
+            "Specificity": 5,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        }
+    ]
+}

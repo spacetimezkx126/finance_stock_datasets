@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 3,
+        "Sentiment": 2,
+        "Importance": 7,
+        "Impact": 4,
+        "Duration": 8,
+        "Virality": 6,
+        "Source_Score": 5,
+        "Specificity": 7,
+        "Sector_Spread": 2,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "TOT Cut off from the world, poverty consumes Gazans",
+            "Correlation": 3,
+            "Sentiment": 2,
+            "Importance": 7,
+            "Impact": 4,
+            "Duration": 8,
+            "Virality": 6,
+            "Source_Score": 5,
+            "Specificity": 7,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        }
+    ]
+}

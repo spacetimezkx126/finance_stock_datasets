@@ -1,0 +1,68 @@
+{
+    "Overall_score": {
+        "Correlation": 6,
+        "Sentiment": 3,
+        "Importance": 7,
+        "Impact": 5,
+        "Duration": 4,
+        "Virality": 8,
+        "Source_Score": 5,
+        "Specificity": 9,
+        "Sector_Spread": 2,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @MoralesLeo23: Se invirtieron 1700 Millones U$D para Línea 2 del Metro Valencia y no esta listo.",
+            "Correlation": 8,
+            "Sentiment": 2,
+            "Importance": 7,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 7,
+            "Source_Score": 4,
+            "Specificity": 9,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "#MundoMCBO - Vía: CANDIDATO2012VE: #Corrupción 2000 Millardos U$D se Invirtieron en el 2do Puente del Lago de Mar…",
+            "Correlation": 7,
+            "Sentiment": 1,
+            "Importance": 8,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 8,
+            "Source_Score": 5,
+            "Specificity": 8,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "@IMNINOMAN fr yo you b killin shit n ik it really dont seem like sgit to u cuz u lived it but yo this shit is 🔥🔥🔥🔥🔥🔥🔥💯💯💯💯💯💯✊✊✊#SoRaspy #B$D",
+            "Correlation": 2,
+            "Sentiment": 9,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 6,
+            "Source_Score": 3,
+            "Specificity": 1,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT @MaihenH: #Desmiéntame @NicolasMaduro Que inviertieron 1700 Millones U$D para Línea 2 del Metro Valencia y no esta listo.",
+            "Correlation": 8,
+            "Sentiment": 2,
+            "Importance": 7,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 9,
+            "Source_Score": 5,
+            "Specificity": 9,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 6,
+        "Sentiment": 4,
+        "Importance": 3,
+        "Impact": 5,
+        "Duration": 2,
+        "Virality": 1,
+        "Source_Score": 2,
+        "Specificity": 7,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 0
+    },
+    "Each_item": [
+        {
+            "News_content": "Dont want to lose like you did with IPG ACN ABBV FEYE",
+            "Correlation": 7,
+            "Sentiment": 3,
+            "Importance": 2,
+            "Impact": 4,
+            "Duration": 1,
+            "Virality": 1,
+            "Source_Score": 2,
+            "Specificity": 8,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "Buy or sell? ABBV LEG TGT FEYE",
+            "Correlation": 5,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 6,
+            "Duration": 3,
+            "Virality": 1,
+            "Source_Score": 2,
+            "Specificity": 6,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 0
+        }
+    ]
+}

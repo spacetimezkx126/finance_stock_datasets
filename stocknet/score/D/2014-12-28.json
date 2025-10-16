@@ -1,0 +1,68 @@
+{
+    "Overall_score": {
+        "Correlation": 3,
+        "Sentiment": 2,
+        "Importance": 4,
+        "Impact": 5,
+        "Duration": 6,
+        "Virality": 7,
+        "Source_Score": 2,
+        "Specificity": 3,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "HABLANDO D \"CURRO\" ESTE GLOBERO TRIPLICO LA DEUDA D LA CIUDAD EN U$D, ALGUIEN SABE DONDE PASA LA RUTA DEL DINERO P",
+            "Correlation": 4,
+            "Sentiment": 1,
+            "Importance": 5,
+            "Impact": 6,
+            "Duration": 7,
+            "Virality": 8,
+            "Source_Score": 2,
+            "Specificity": 3,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Solo quedan U$D 800 millones en efectivo en el BCV , no hay mas, se acabo...",
+            "Correlation": 3,
+            "Sentiment": 2,
+            "Importance": 4,
+            "Impact": 5,
+            "Duration": 6,
+            "Virality": 7,
+            "Source_Score": 2,
+            "Specificity": 3,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "#CorrupciónRoja  ¿Donde están ? 23.000 Millones de U$D para el Gran Gasoducto del Sur que Chávez  Anunció en el 2005.",
+            "Correlation": 5,
+            "Sentiment": 1,
+            "Importance": 6,
+            "Impact": 7,
+            "Duration": 8,
+            "Virality": 9,
+            "Source_Score": 3,
+            "Specificity": 4,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Dicen q los helados #CRUFI son una mierda? Esta es la inseguridad q estamos viviendo. Hay q traer helado de menos de 200 U$D de USA vía web",
+            "Correlation": 2,
+            "Sentiment": 3,
+            "Importance": 3,
+            "Impact": 4,
+            "Duration": 5,
+            "Virality": 6,
+            "Source_Score": 1,
+            "Specificity": 2,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 1
+        }
+    ]
+}

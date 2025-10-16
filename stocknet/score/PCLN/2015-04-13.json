@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 6,
+        "Duration": 3,
+        "Virality": 8,
+        "Source_Score": 6,
+        "Specificity": 5,
+        "Sector_Spread": 9,
+        "Tech_Mentions": 7
+    },
+    "Each_item": [
+        {
+            "News_content": "$PCLN 15min bull flag",
+            "Correlation": 10,
+            "Sentiment": 8,
+            "Importance": 5,
+            "Impact": 7,
+            "Duration": 2,
+            "Virality": 4,
+            "Source_Score": 7,
+            "Specificity": 9,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 10
+        },
+        {
+            "News_content": "RT @JustinPulitzer: Weekend Review VIDEO: $SPY $IWM $QQQ $TLT $IBB $AAPL $AMZN $BABA $BIDU $FB $TWTR $FEYE $GILD $GOOGL $NFLX $PCLN $TSLA",
+            "Correlation": 4,
+            "Sentiment": 3,
+            "Importance": 3,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 10,
+            "Source_Score": 5,
+            "Specificity": 2,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 4
+        }
+    ]
+}

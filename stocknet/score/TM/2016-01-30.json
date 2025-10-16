@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 2,
+        "Sentiment": 7,
+        "Importance": 3,
+        "Impact": 4,
+        "Duration": 5,
+        "Virality": 8,
+        "Source_Score": 1,
+        "Specificity": 2,
+        "Sector_Spread": 3,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "Wait is over 🏴🏴 hit that link @DOESKIFRMDAPACK YN$TM #iPM",
+            "Correlation": 2,
+            "Sentiment": 7,
+            "Importance": 3,
+            "Impact": 4,
+            "Duration": 5,
+            "Virality": 8,
+            "Source_Score": 1,
+            "Specificity": 2,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "YN$TM x @DOESKIFRMDAPACK 🙌🏿🙌🏿🙌🏿🙌🏿🙌🏿💂🏿🔫",
+            "Correlation": 2,
+            "Sentiment": 7,
+            "Importance": 3,
+            "Impact": 4,
+            "Duration": 5,
+            "Virality": 8,
+            "Source_Score": 1,
+            "Specificity": 2,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 1
+        }
+    ]
+}

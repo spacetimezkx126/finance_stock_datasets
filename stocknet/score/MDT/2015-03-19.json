@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 6,
+        "Importance": 7,
+        "Impact": 5,
+        "Duration": 9,
+        "Virality": 3,
+        "Source_Score": 8,
+        "Specificity": 9,
+        "Sector_Spread": 4,
+        "Tech_Mentions": 7
+    },
+    "Each_item": [
+        {
+            "News_content": "Medtronic MDT APPARATUS FOR OPTIMIZATION OF CARDIAC RESYNCHRONIZATION THERAPY USING VECTORCARDIOGRAMS DERIVED FROM IMPLANTED ELECTRODES",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 7,
+            "Impact": 5,
+            "Duration": 9,
+            "Virality": 3,
+            "Source_Score": 8,
+            "Specificity": 9,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 7
+        }
+    ]
+}

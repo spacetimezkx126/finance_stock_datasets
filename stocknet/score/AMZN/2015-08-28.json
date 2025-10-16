@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 8,
+        "Sentiment": 7,
+        "Importance": 6,
+        "Impact": 5,
+        "Duration": 4,
+        "Virality": 9,
+        "Source_Score": 5,
+        "Specificity": 7,
+        "Sector_Spread": 10,
+        "Tech_Mentions": 8
+    },
+    "Each_item": [
+        {
+            "News_content": "RT aidotech: #AI #DeepLearning #MachineLearning 6 Machine Learning Giants to Watch $AMZN $FB $GOOG $IBM $MSF",
+            "Correlation": 8,
+            "Sentiment": 7,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 9,
+            "Source_Score": 5,
+            "Specificity": 7,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 8
+        }
+    ]
+}

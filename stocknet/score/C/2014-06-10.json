@@ -1,0 +1,55 @@
+{
+    "Overall_score": {
+        "Correlation": 6,
+        "Sentiment": 5,
+        "Importance": 7,
+        "Impact": 6,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 5,
+        "Specificity": 6,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "GET YOURS!!! #C$C by cheezeda1 http://t.co/DEPlw8fRAe... http://t.co/HIgoyITwPU",
+            "Correlation": 3,
+            "Sentiment": 7,
+            "Importance": 2,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 5,
+            "Source_Score": 3,
+            "Specificity": 2,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "$C Mailing Errors Cause Problems for $347M Pool of Home Loans http://t.co/jYQQ3jwfjD",
+            "Correlation": 9,
+            "Sentiment": 3,
+            "Importance": 8,
+            "Impact": 7,
+            "Duration": 6,
+            "Virality": 2,
+            "Source_Score": 7,
+            "Specificity": 9,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "GoDaddy to Tap Public Markets With IPO via $MS $JPM $C ~ http://t.co/BaOf4ismkf #IPO @dealbook",
+            "Correlation": 10,
+            "Sentiment": 8,
+            "Importance": 10,
+            "Impact": 9,
+            "Duration": 8,
+            "Virality": 4,
+            "Source_Score": 9,
+            "Specificity": 10,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 3
+        }
+    ]
+}

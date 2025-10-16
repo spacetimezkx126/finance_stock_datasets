@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 6,
+        "Importance": 5,
+        "Impact": 6,
+        "Duration": 4,
+        "Virality": 8,
+        "Source_Score": 5,
+        "Specificity": 6,
+        "Sector_Spread": 9,
+        "Tech_Mentions": 3
+    },
+    "Each_item": [
+        {
+            "News_content": "$HFC, $BSX, $DHR, $FB, $EWBC, $BLL, $TMK, $FB, #equity, $INCY, $TUP, $SEIC, $FB, #wealthmanagement, $HTA, $UAL, $FII, $FB, $WAB, $URI, $MHK, $FB, $OC, $GME, $FSLR, $FB, G$FB, #Pennystock, #research, $BIO, $WLP, $NUS, $FB, $PFE, $ARE, $AFL, $FB, #economy, $EQR, $MPC, $XLS, $FB, $SEAS, $FB, $MS, $DAL, $ALSN, $FB, $AMP, $HP, $PF, $FB, $FDO, $WAFD, $CYN, $FB, #Research, $PLUG, $FCEL, $BLDP, $TWTR, $FB, $YHOO, strong internet stocks, $FB, $NFLX, $BABA, $LNKD, $BABA, $FB, $ADBE, $LULU, $AAPL, $GOOGL, $FB, $TWTR, $YHOO, $BBRY, #option, #اوبشن, $PSX, $FB",
+            "Correlation": 7,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 8,
+            "Source_Score": 5,
+            "Specificity": 6,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 3
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 6,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 3,
+        "Duration": 2,
+        "Virality": 7,
+        "Source_Score": 5,
+        "Specificity": 4,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "We Have An Absolutely MASSIVE New Stock Pick Out! Get Early Access: #Breakout $INSY $MRK",
+            "Correlation": 7,
+            "Sentiment": 8,
+            "Importance": 3,
+            "Impact": 4,
+            "Duration": 2,
+            "Virality": 9,
+            "Source_Score": 4,
+            "Specificity": 5,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "RT @dougheuringaria: Gilead P/E and EV/Sales Multiples Compared to Biotech / Pharma Peers $CELG $MRK $GILD $IBB",
+            "Correlation": 5,
+            "Sentiment": 3,
+            "Importance": 5,
+            "Impact": 2,
+            "Duration": 3,
+            "Virality": 5,
+            "Source_Score": 6,
+            "Specificity": 3,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 2
+        }
+    ]
+}

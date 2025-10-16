@@ -1,0 +1,68 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 6,
+        "Impact": 6,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 8,
+        "Specificity": 7,
+        "Sector_Spread": 9,
+        "Tech_Mentions": 2
+    },
+    "Each_item": [
+        {
+            "News_content": "Dow stocks are showing a mixed trend today with some key players experiencing notable shifts. Intel (INTC) reported better-than-expected earnings, while Travelers Companies Inc. (TRV) is under pressure due to rising claims costs. Visa (V) announced a new partnership that could boost its global presence. American Express (AXP) and UnitedHealth Group (UNH) remain stable despite market volatility. Boeing (BA) continues to face challenges related to production delays.",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 7,
+            "Impact": 7,
+            "Duration": 5,
+            "Virality": 4,
+            "Source_Score": 9,
+            "Specificity": 8,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "McDonald's (MCD) released a statement confirming strong Q3 sales growth driven by digital initiatives. United Technologies (UTX) is exploring strategic options for its aerospace segment. Nike (NKE) stock surged after announcing a new sustainable product line. Goldman Sachs (GS) reported higher-than-expected revenue, driven by trading activity.",
+            "Correlation": 7,
+            "Sentiment": 7,
+            "Importance": 6,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 8,
+            "Specificity": 7,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "Verizon (VZ) announced plans to expand its 5G network coverage significantly over the next two years. Cisco Systems (CSCO) faces potential regulatory scrutiny over a recent acquisition. General Electric (GE) continues restructuring efforts but remains in focus due to ongoing financial challenges. Pfizer (PFE) and 3M (MMM) both reported solid quarterly results, bolstering investor confidence.",
+            "Correlation": 7,
+            "Sentiment": 5,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 8,
+            "Specificity": 6,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "Home Depot (HD) saw robust sales growth attributed to increased home improvement projects during the pandemic. Walmart (WMT) announced an expansion of its e-commerce capabilities. Apple (AAPL) stock gained momentum following positive analyst coverage on iPhone demand. Disney (DIS) reported mixed results as streaming service growth offsets theme park losses.",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 9,
+            "Specificity": 8,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 2
+        }
+    ]
+}

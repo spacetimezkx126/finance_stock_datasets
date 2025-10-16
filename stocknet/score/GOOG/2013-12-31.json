@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 6,
+        "Impact": 4,
+        "Duration": 3,
+        "Virality": 8,
+        "Source_Score": 9,
+        "Specificity": 5,
+        "Sector_Spread": 7,
+        "Tech_Mentions": 6
+    },
+    "Each_item": [
+        {
+            "News_content": "Summary of Yesterday's Webcast Featuring AAPL WYNN GOOG LGF TraderEducation Options HedgingStrategies",
+            "Correlation": 7,
+            "Sentiment": 5,
+            "Importance": 6,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 8,
+            "Source_Score": 9,
+            "Specificity": 5,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 6
+        }
+    ]
+}

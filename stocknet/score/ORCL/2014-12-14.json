@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 4,
+        "Importance": 8,
+        "Impact": 6,
+        "Duration": 9,
+        "Virality": 5,
+        "Source_Score": 7,
+        "Specificity": 6,
+        "Sector_Spread": 9,
+        "Tech_Mentions": 3
+    },
+    "Each_item": [
+        {
+            "News_content": "Stock Picks: Sector Leaders: TK, AA, CENX, AMAG, FDX, BBBY, CF, F, NKE, BRCD, NI, BHE, HOS, ORCL, SHPG, FINL, INTC, NLY, AAPL, SYMC, LM",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 7,
+            "Virality": 4,
+            "Source_Score": 6,
+            "Specificity": 8,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "ORCL - MARKET SNAPSHOT: Crashing Crude May Blow A $1.6 Trillion Hole In The Global Oil Sector, Annually",
+            "Correlation": 6,
+            "Sentiment": 2,
+            "Importance": 10,
+            "Impact": 8,
+            "Duration": 10,
+            "Virality": 6,
+            "Source_Score": 8,
+            "Specificity": 4,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 4
+        }
+    ]
+}

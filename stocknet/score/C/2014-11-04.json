@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 4,
+        "Sentiment": 3,
+        "Importance": 5,
+        "Impact": 4,
+        "Duration": 3,
+        "Virality": 2,
+        "Source_Score": 1,
+        "Specificity": 3,
+        "Sector_Spread": 7,
+        "Tech_Mentions": 0
+    },
+    "Each_item": [
+        {
+            "News_content": "MI$C (MISCELLANEOUS) #MEIGO @Miscdaboss #Broke&amp;Famous",
+            "Correlation": 2,
+            "Sentiment": 5,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 3,
+            "Source_Score": 1,
+            "Specificity": 1,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "$XLF $JPM $C $BAC $WFC Too bad every time there is a party some party popper events happens",
+            "Correlation": 6,
+            "Sentiment": 2,
+            "Importance": 9,
+            "Impact": 7,
+            "Duration": 5,
+            "Virality": 1,
+            "Source_Score": 1,
+            "Specificity": 5,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 0
+        }
+    ]
+}

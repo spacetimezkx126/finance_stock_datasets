@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 6,
+        "Sentiment": 7,
+        "Importance": 5,
+        "Impact": 4,
+        "Duration": 3,
+        "Virality": 8,
+        "Source_Score": 9,
+        "Specificity": 6,
+        "Sector_Spread": 7,
+        "Tech_Mentions": 5
+    },
+    "Each_item": [
+        {
+            "News_content": "Drink beer? Check out this tech by Budweiser: via CNBC #investing #blkcreatives #sayyestosuccess",
+            "Correlation": 6,
+            "Sentiment": 7,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 8,
+            "Source_Score": 9,
+            "Specificity": 6,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 5
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 6,
+        "Importance": 5,
+        "Impact": 4,
+        "Duration": 3,
+        "Virality": 8,
+        "Source_Score": 9,
+        "Specificity": 7,
+        "Sector_Spread": 2,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "Dow stocks Intel Daily:-0.38% Weekly:-0.31% YTD:-6.65% Trend:42 / 100",
+            "Correlation": 10,
+            "Sentiment": 3,
+            "Importance": 4,
+            "Impact": 5,
+            "Duration": 2,
+            "Virality": 4,
+            "Source_Score": 8,
+            "Specificity": 9,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "Intel's Andrew Grove: 10 Top Pieces of Managerial Wisdom.",
+            "Correlation": 6,
+            "Sentiment": 8,
+            "Importance": 6,
+            "Impact": 3,
+            "Duration": 4,
+            "Virality": 9,
+            "Source_Score": 9,
+            "Specificity": 7,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Intel's Andrew Grove: 10 Top Pieces of Managerial Wisdom.",
+            "Correlation": 6,
+            "Sentiment": 8,
+            "Importance": 6,
+            "Impact": 3,
+            "Duration": 4,
+            "Virality": 9,
+            "Source_Score": 9,
+            "Specificity": 7,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Intel's Andrew Grove: 10 Top Pieces of Managerial Wisdom.",
+            "Correlation": 6,
+            "Sentiment": 8,
+            "Importance": 6,
+            "Impact": 3,
+            "Duration": 4,
+            "Virality": 9,
+            "Source_Score": 9,
+            "Specificity": 7,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Intel's Andrew Grove: 10 Top Pieces of Managerial Wisdom.",
+            "Correlation": 6,
+            "Sentiment": 8,
+            "Importance": 6,
+            "Impact": 3,
+            "Duration": 4,
+            "Virality": 9,
+            "Source_Score": 9,
+            "Specificity": 7,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Intel's Andrew Grove: 10 Top Pieces of Managerial Wisdom.",
+            "Correlation": 6,
+            "Sentiment": 8,
+            "Importance": 6,
+            "Impact": 3,
+            "Duration": 4,
+            "Virality": 9,
+            "Source_Score": 9,
+            "Specificity": 7,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        }
+    ]
+}

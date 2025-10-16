@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 4,
+        "Importance": 3,
+        "Impact": 2,
+        "Duration": 1,
+        "Virality": 5,
+        "Source_Score": 8,
+        "Specificity": 2,
+        "Sector_Spread": 6,
+        "Tech_Mentions": 0
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @pharmalot: Pharmalot.. Pharmalittle.. As the Weekend Nears.. headlines & weekend daydreams.. #pharma $SNY $REGN",
+            "Correlation": 7,
+            "Sentiment": 4,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 5,
+            "Source_Score": 8,
+            "Specificity": 2,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 0
+        }
+    ]
+}

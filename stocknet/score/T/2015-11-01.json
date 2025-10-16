@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 3,
+        "Sentiment": 4,
+        "Importance": 5,
+        "Impact": 4,
+        "Duration": 3,
+        "Virality": 6,
+        "Source_Score": 7,
+        "Specificity": 4,
+        "Sector_Spread": 2,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "I SAW THE STORY SO FAR, ANGEL DU$T AND A SURPRISE SET FROM TURNSTILE A YEAR AGO OMG",
+            "Correlation": 2,
+            "Sentiment": 8,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 9,
+            "Source_Score": 4,
+            "Specificity": 5,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "@pmarca good piece. He'd have stronger case against negative rates (#7) if that positive growth were \"natural\" (w/o $T QE & deficits)",
+            "Correlation": 4,
+            "Sentiment": 3,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 3,
+            "Source_Score": 10,
+            "Specificity": 3,
+            "Sector_Spread": 3,
+            "Tech_Mentions": 2
+        }
+    ]
+}

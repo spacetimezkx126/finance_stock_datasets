@@ -1,0 +1,29 @@
+{
+    "Overall_score": {
+        "Correlation": 2,
+        "Sentiment": 7,
+        "Importance": 5,
+        "Impact": 3,
+        "Duration": 6,
+        "Virality": 4,
+        "Source_Score": 3,
+        "Specificity": 8,
+        "Sector_Spread": 2,
+        "Tech_Mentions": 1
+    },
+    "Each_item": [
+        {
+            "News_content": "RT @MaihenH: Esta es la Misión Villanueva es para sustituir los Ranchos por Casas estaria listo 2012 Inversión 3.000 Millones U$D",
+            "Correlation": 2,
+            "Sentiment": 7,
+            "Importance": 5,
+            "Impact": 3,
+            "Duration": 6,
+            "Virality": 4,
+            "Source_Score": 3,
+            "Specificity": 8,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 1
+        }
+    ]
+}

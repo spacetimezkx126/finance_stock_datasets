@@ -1,0 +1,94 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 6,
+        "Importance": 8,
+        "Impact": 7,
+        "Duration": 5,
+        "Virality": 4,
+        "Source_Score": 9,
+        "Specificity": 7,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 3
+    },
+    "Each_item": [
+        {
+            "News_content": "Dow stocks are showing a mixed trend today as investors weigh economic data and corporate earnings. CVX reported better-than-expected quarterly results, boosting its stock price. IBM announced a new AI partnership that could drive future growth. Meanwhile, MMM's earnings missed estimates, causing a slight dip in its shares.",
+            "Correlation": 10,
+            "Sentiment": 6,
+            "Importance": 8,
+            "Impact": 7,
+            "Duration": 4,
+            "Virality": 5,
+            "Source_Score": 9,
+            "Specificity": 9,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "GS and JPM both released strong financial reports this quarter, leading to an uptick in their stock prices. Analysts suggest the banking sector is stabilizing after recent volatility. KO announced a new product line expansion into health beverages, which has been positively received by the market.",
+            "Correlation": 9,
+            "Sentiment": 8,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 4,
+            "Source_Score": 8,
+            "Specificity": 8,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "PFE's latest drug trial results were inconclusive, leading to a drop in its share price. BA faces continued scrutiny over supply chain issues, affecting investor confidence. MSFT continues to lead with robust cloud revenue growth, driving its stock higher.",
+            "Correlation": 9,
+            "Sentiment": 5,
+            "Importance": 8,
+            "Impact": 7,
+            "Duration": 6,
+            "Virality": 3,
+            "Source_Score": 9,
+            "Specificity": 8,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 4
+        },
+        {
+            "News_content": "XOM benefits from rising oil prices, pushing its stock upward. AAPL's new product launch was well-received, contributing to a surge in its stock value. MCD sees steady sales growth, maintaining its position as a consumer favorite.",
+            "Correlation": 9,
+            "Sentiment": 7,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 4,
+            "Source_Score": 8,
+            "Specificity": 7,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "GE's restructuring efforts continue to show progress, improving investor sentiment. HD reported solid same-store sales growth, bolstering its stock performance. V's digital payment solutions see increased adoption, driving its stock higher.",
+            "Correlation": 8,
+            "Sentiment": 7,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 8,
+            "Specificity": 7,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "UTX's aerospace division shows signs of recovery, lifting its stock price. DD's agricultural products gain market traction, supporting its share value. VZ invests heavily in 5G infrastructure, positioning itself for long-term growth. JNJ's diversified portfolio helps it maintain stable stock performance despite market fluctuations. CAT's equipment sales rise due to increased infrastructure spending.",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 3,
+            "Source_Score": 8,
+            "Specificity": 7,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 3
+        }
+    ]
+}

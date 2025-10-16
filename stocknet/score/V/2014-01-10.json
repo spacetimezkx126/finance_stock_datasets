@@ -1,0 +1,55 @@
+{
+    "Overall_score": {
+        "Correlation": 6,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 3,
+        "Duration": 2,
+        "Virality": 7,
+        "Source_Score": 5,
+        "Specificity": 6,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 9
+    },
+    "Each_item": [
+        {
+            "News_content": "#VIDEO #AccumulationDistribution in #EXCEL http://t.co/PTaLNIZK7V #DoubleTop $V $VZ $WMT $XOM $SCO $SQQQ $AGQ $QID $FAS $TNA $IAU $GLD $EWA",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 3,
+            "Impact": 2,
+            "Duration": 1,
+            "Virality": 9,
+            "Source_Score": 4,
+            "Specificity": 7,
+            "Sector_Spread": 10,
+            "Tech_Mentions": 10
+        },
+        {
+            "News_content": "VI$IT OUR WEB$TORE OR HIT UP @ZacharyWardzone @LowkeyLord OR @MrPorterLR PICK UP YOUR COPY OF \"DP$V\" THE L/P. LEAN TEE REPRE$$ SOON!",
+            "Correlation": 2,
+            "Sentiment": 4,
+            "Importance": 1,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 5,
+            "Source_Score": 3,
+            "Specificity": 2,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 1
+        },
+        {
+            "News_content": "Rosner: $NVDA Overall Average: 32% Buy. $FSLR $FFIV $V Nv http://t.co/U9VTcWftX2",
+            "Correlation": 7,
+            "Sentiment": 7,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 3,
+            "Virality": 6,
+            "Source_Score": 7,
+            "Specificity": 8,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 8
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "Overall_score": {
+        "Correlation": 3,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 2,
+        "Duration": 6,
+        "Virality": 7,
+        "Source_Score": 5,
+        "Specificity": 4,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 3
+    },
+    "Each_item": [
+        {
+            "News_content": "how secure are your earnings data? get the CryptoPhone&gt;&gt; http://t.co/bKbCued2wt",
+            "Correlation": 2,
+            "Sentiment": 6,
+            "Importance": 3,
+            "Impact": 1,
+            "Duration": 5,
+            "Virality": 6,
+            "Source_Score": 4,
+            "Specificity": 5,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 4
+        },
+        {
+            "News_content": "RT @craigbuj: over 75% of Android smartphone sales in China now have 5\"+ screens (via @CounterPointTR)",
+            "Correlation": 4,
+            "Sentiment": 4,
+            "Importance": 5,
+            "Impact": 3,
+            "Duration": 7,
+            "Virality": 8,
+            "Source_Score": 6,
+            "Specificity": 3,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 2
+        }
+    ]
+}

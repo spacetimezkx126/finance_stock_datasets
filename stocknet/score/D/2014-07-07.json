@@ -1,0 +1,55 @@
+{
+    "Overall_score": {
+        "Correlation": 4,
+        "Sentiment": 3,
+        "Importance": 5,
+        "Impact": 3,
+        "Duration": 2,
+        "Virality": 1,
+        "Source_Score": 6,
+        "Specificity": 7,
+        "Sector_Spread": 3,
+        "Tech_Mentions": 0
+    },
+    "Each_item": [
+        {
+            "News_content": "A OMZ ARRENDA OS SEGUINTES IMÓVEIS:\n\n1. Armazém novo na Matola, 800m2, 2 WC´s, 1 Escritório - U$D 6.000/ mensal;",
+            "Correlation": 8,
+            "Sentiment": 7,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 1,
+            "Source_Score": 6,
+            "Specificity": 9,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "RT @JETG1: @linda0863 @partidoUNT SEGÚN Ramírez ENTRARON EN 2013 + DE 100.000.000.000 SE REBORAN 25.000.000.000 U$D D CADIVI…Y EL RESTO!? A…",
+            "Correlation": 3,
+            "Sentiment": 2,
+            "Importance": 6,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 5,
+            "Specificity": 6,
+            "Sector_Spread": 4,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "RT @sckud1: AJ/JH E$+1 ,/'K #-/ 'DE,'G/JF JF4/ 5(1'K J'FA3J 1:E '5'(*G 'D(DJ:) ! . 'JF F-F EF G$D'! 'D'(7'D ! . *-0J1  18",
+            "Correlation": 1,
+            "Sentiment": 1,
+            "Importance": 2,
+            "Impact": 1,
+            "Duration": 1,
+            "Virality": 1,
+            "Source_Score": 4,
+            "Specificity": 2,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        }
+    ]
+}

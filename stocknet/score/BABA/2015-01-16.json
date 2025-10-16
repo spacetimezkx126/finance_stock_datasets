@@ -1,0 +1,133 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 6,
+        "Impact": 5,
+        "Duration": 4,
+        "Virality": 3,
+        "Source_Score": 6,
+        "Specificity": 8,
+        "Sector_Spread": 9,
+        "Tech_Mentions": 7
+    },
+    "Each_item": [
+        {
+            "News_content": "RT $QQQ trading at 100.49, 149 bpts above F/V, P/T 98.00 $GOOG $FB $AMZN $TSLA $NFLX $BIDU $GPRO $AAPL $BABA #HFT",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 7,
+            "Specificity": 9,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 6
+        },
+        {
+            "News_content": "$AAPL $AMZN $BABA $BIDU $CELG $CMG $FB $FEYE $FSLR $GILD $GLD $GMCR $GOOG $GOOGL $GS $IWM $JPM $KO $LNKD $LVS $MA",
+            "Correlation": 7,
+            "Sentiment": 5,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 1,
+            "Source_Score": 6,
+            "Specificity": 7,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 5
+        },
+        {
+            "News_content": "RT $QQQ trading at 100.23, 123 bpts above F/V, P/T 98.00 $GOOG $FB $AMZN $TSLA $NFLX $BIDU $GPRO $AAPL $BABA #HFT",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 5,
+            "Impact": 4,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 7,
+            "Specificity": 9,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 6
+        },
+        {
+            "News_content": "PHENOMENAL stock trade alerts $CDTI +40% $GILD $KMI $JNJ $ORCL $GOOG $BAC $CVX $CSCO $BABA $T",
+            "Correlation": 6,
+            "Sentiment": 7,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 5,
+            "Specificity": 8,
+            "Sector_Spread": 7,
+            "Tech_Mentions": 4
+        },
+        {
+            "News_content": "$AAPL $FB $BABA Futures dropping but China ripping higher on the open, strange no???",
+            "Correlation": 7,
+            "Sentiment": 4,
+            "Importance": 6,
+            "Impact": 5,
+            "Duration": 4,
+            "Virality": 3,
+            "Source_Score": 6,
+            "Specificity": 7,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "RT $QQQ Algos triggered SELL in SIGMA-X, CROSSFINDER, ATS, LX @ 10:35, P/T 98.00 $GOOG $FB $AMZN $TSLA $NFLX $BIDU $GPRO $AAPL $BABA #HFT",
+            "Correlation": 8,
+            "Sentiment": 3,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 7,
+            "Specificity": 9,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 8
+        },
+        {
+            "News_content": "$BABA Friday made quick double small trade bored 96 call nothing really going on",
+            "Correlation": 6,
+            "Sentiment": 4,
+            "Importance": 4,
+            "Impact": 3,
+            "Duration": 2,
+            "Virality": 1,
+            "Source_Score": 5,
+            "Specificity": 7,
+            "Sector_Spread": 5,
+            "Tech_Mentions": 2
+        },
+        {
+            "News_content": "Alibaba Below $100 - What's Driving It Down? $BABA",
+            "Correlation": 8,
+            "Sentiment": 3,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 5,
+            "Virality": 4,
+            "Source_Score": 7,
+            "Specificity": 9,
+            "Sector_Spread": 6,
+            "Tech_Mentions": 3
+        },
+        {
+            "News_content": "RT $BABA Algos triggered SELL in SIGMA-X, CROSSFINDER, ATS, LX @ 08:02 P/T 93.00 $GOOG $FB $AMZN $TSLA $NFLX $BIDU $GPRO $AAPL $QQQ #HFT",
+            "Correlation": 8,
+            "Sentiment": 3,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 3,
+            "Virality": 2,
+            "Source_Score": 7,
+            "Specificity": 9,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 8
+        }
+    ]
+}

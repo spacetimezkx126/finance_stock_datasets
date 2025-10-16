@@ -1,0 +1,133 @@
+{
+    "Overall_score": {
+        "Correlation": 7,
+        "Sentiment": 5,
+        "Importance": 4,
+        "Impact": 6,
+        "Duration": 3,
+        "Virality": 6,
+        "Source_Score": 5,
+        "Specificity": 6,
+        "Sector_Spread": 8,
+        "Tech_Mentions": 7
+    },
+    "Each_item": [
+        {
+            "News_content": "$GOOG could snatch $TWTR up in a second and that thing will go bonkers.. holding on to some calls as a lotto ticket",
+            "Correlation": 8,
+            "Sentiment": 9,
+            "Importance": 5,
+            "Impact": 7,
+            "Duration": 2,
+            "Virality": 4,
+            "Source_Score": 3,
+            "Specificity": 7,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "3 Biggest Takeaways from eBay's Fourth-Quarter Earnings Report - http://t.co/baE4Tpq9w5 $GOOGL $GOOG #finance #investing #headlines",
+            "Correlation": 6,
+            "Sentiment": 5,
+            "Importance": 7,
+            "Impact": 6,
+            "Duration": 4,
+            "Virality": 5,
+            "Source_Score": 7,
+            "Specificity": 6,
+            "Sector_Spread": 2,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "RT $AAPL Algos CROSSED 111 LEVEL in SIGMA-X, CROSSFINDER, ATS, LX, P/T 107.50 $GOOG $FB $AMZN $TSLA $NFLX $BIDU $GPRO $BABA $QQQ #HFT",
+            "Correlation": 7,
+            "Sentiment": 4,
+            "Importance": 5,
+            "Impact": 6,
+            "Duration": 3,
+            "Virality": 6,
+            "Source_Score": 6,
+            "Specificity": 8,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 9
+        },
+        {
+            "News_content": "RT $AAPL Algos triggered SELL in SIGMA-X, CROSSFINDER, ATS, LX @ 13:04 P/T 107.50 $GOOG $FB $AMZN $TSLA $NFLX $BIDU $GPRO $BABA $QQQ #HFT",
+            "Correlation": 7,
+            "Sentiment": 3,
+            "Importance": 5,
+            "Impact": 6,
+            "Duration": 3,
+            "Virality": 6,
+            "Source_Score": 6,
+            "Specificity": 8,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 9
+        },
+        {
+            "News_content": "#SENTISHIFTDOWN $GPRO $BIDU $TSLA $FB $XOM $TKMR $GOOG $IBB $NQ $QQQ #sentiquant 20150122 14:00:11:955",
+            "Correlation": 6,
+            "Sentiment": 2,
+            "Importance": 4,
+            "Impact": 5,
+            "Duration": 2,
+            "Virality": 5,
+            "Source_Score": 5,
+            "Specificity": 6,
+            "Sector_Spread": 8,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "RT $AAPL Algos triggered SELL in SIGMA-X, CROSSFINDER, ATS, LX @ 10:06, P/T 107.50 $GOOG $FB $AMZN $TSLA $NFLX $BIDU $GPRO $BABA $QQQ #HFT",
+            "Correlation": 7,
+            "Sentiment": 3,
+            "Importance": 5,
+            "Impact": 6,
+            "Duration": 3,
+            "Virality": 6,
+            "Source_Score": 6,
+            "Specificity": 8,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 9
+        },
+        {
+            "News_content": "Can Google Really Rise Over 20% in 2015? $GOOG, $GOOGL: http://t.co/CJieIWok1N",
+            "Correlation": 8,
+            "Sentiment": 6,
+            "Importance": 6,
+            "Impact": 7,
+            "Duration": 5,
+            "Virality": 4,
+            "Source_Score": 7,
+            "Specificity": 7,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "$BBRY - y u no gap up on these $AAPL I mean $GOOG I mean...buyout rumors? ROFL.",
+            "Correlation": 5,
+            "Sentiment": 8,
+            "Importance": 4,
+            "Impact": 5,
+            "Duration": 2,
+            "Virality": 3,
+            "Source_Score": 2,
+            "Specificity": 5,
+            "Sector_Spread": 1,
+            "Tech_Mentions": 0
+        },
+        {
+            "News_content": "RT $AAPL Algos triggered SELL in SIGMA-X, CROSSFINDER, ATS, LX @ 09:32, P/T 107.50 $GOOG $FB $AMZN $TSLA $NFLX $BIDU $GPRO $BABA $QQQ #HFT",
+            "Correlation": 7,
+            "Sentiment": 3,
+            "Importance": 5,
+            "Impact": 6,
+            "Duration": 3,
+            "Virality": 6,
+            "Source_Score": 6,
+            "Specificity": 8,
+            "Sector_Spread": 9,
+            "Tech_Mentions": 9
+        }
+    ]
+}
